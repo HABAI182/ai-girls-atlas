@@ -36,12 +36,20 @@ videos = read('videos.json')['videos']
 refs = read('references.json')['references']
 memes = read('memes.json')['memes']
 coverage = read('coverage.json')
+variants = read('variants.json')['variants']
+projects = read('projects.json')['projects']
+audio = read('audio.json')['audio']
+expressions = read('expressions.json')['expressions']
 char_ids = unique(chars, 'character')
 asset_ids = unique(assets, 'asset')
 source_ids = unique(sources, 'source')
 unique(videos, 'video')
 unique(refs, 'reference')
 unique(memes, 'meme')
+variant_ids = unique(variants, 'variant')
+unique(projects, 'project')
+audio_ids = unique(audio, 'audio')
+unique(expressions, 'expression')
 expected_files = set()
 for a in assets:
     require(a['character_id'] in char_ids, f'Unknown asset character: {a["id"]}')
@@ -65,6 +73,21 @@ for c in chars:
         require(any(a['id'] == aid and a['character_id'] == c['id'] for a in assets), f'Asset assigned to wrong character: {aid}')
 for v in videos:
     require(v['source_id'] in source_ids, f'Dangling video source: {v["id"]}')
+for v in variants:
+    require(v['character_id'] in char_ids, f'Unknown variant character: {v["id"]}')
+    require(set(v['source_ids']).issubset(source_ids), f'Dangling variant source: {v["id"]}')
+    require(set(v['asset_ids']).issubset(asset_ids), f'Dangling variant asset: {v["id"]}')
+for c in chars:
+    require(set(c.get('variant_ids', [])).issubset(variant_ids), f'Dangling character variant: {c["id"]}')
+for p in projects:
+    require(set(p['source_ids']).issubset(source_ids), f'Dangling project source: {p["id"]}')
+    require(set(p['local_asset_ids']).issubset(asset_ids), f'Dangling project asset: {p["id"]}')
+for a in audio:
+    require(a['source_id'] in source_ids, f'Dangling audio source: {a["id"]}')
+    require(any(v['id'] == a['video_id'] for v in videos), f'Dangling audio video: {a["id"]}')
+    require(set(a['source_chain_ids']).issubset(audio_ids), f'Dangling audio parent: {a["id"]}')
+for e in expressions:
+    require(e['asset_id'] in asset_ids, f'Dangling expression asset: {e["id"]}')
 for fix in read('corrections.json')['corrections']:
     require(fix['asset_id'] in asset_ids, f'Correction references absent asset: {fix["asset_id"]}')
     require(any(a['id'] == fix['asset_id'] and a['character_id'] == fix['corrected_character_id'] for a in assets), f'Correction not applied: {fix["asset_id"]}')
@@ -106,6 +129,10 @@ checks = {
     'video_records': len(videos),
     'meme_navigation_records': len(memes),
     'source_records': len(sources),
+    'expanded_design_variants': len(variants),
+    'reviewed_reference_projects': len(projects),
+    'audio_source_records': len(audio),
+    'expression_index_records': len(expressions),
 }
 for key, value in checks.items():
     require(coverage[key] == value, f'Coverage mismatch: {key}')

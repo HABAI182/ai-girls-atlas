@@ -1,0 +1,12 @@
+﻿id,asset_id,label,emotion_tags_editorial,suggested_context_editorial
+expression-jadpp-whale-angry,jadpp-whale-angry,生气,生气 | 拒绝,轻量抱怨或不同意
+expression-jadpp-whale-cheerful,jadpp-whale-cheerful,开心,开心 | 庆祝,收到好消息或完成任务
+expression-jadpp-whale-confused,jadpp-whale-confused,困惑,疑惑 | 求解释,需要澄清与查看结果
+expression-jadpp-whale-exasperated,jadpp-whale-exasperated,无奈,无奈 | 吐槽,重复出错或返工
+expression-jadpp-whale-frightened,jadpp-whale-frightened,害怕,惊讶 | 害怕,意外情况的夸张反应
+expression-jadpp-whale-serious,jadpp-whale-serious,认真,认真 | 思考,进入工作或说明状态
+expression-jadpp-whale-shy,jadpp-whale-shy,害羞,害羞 | 感谢,温和回应与感谢
+expression-jadpp-whale-starry,jadpp-whale-starry,星星眼,期待 | 兴奋,发现喜欢的内容
+expression-maid-delighted,maid-atelier-delighted,开心,开心 | 期待,收到回复或小头像反馈
+expression-maid-determined,maid-atelier-determined,认真,认真 | 思考,需要专注的提示
+expression-maid-sleepy,maid-atelier-sleepy,困倦,困倦 | 待机,休息、等待或深夜语境

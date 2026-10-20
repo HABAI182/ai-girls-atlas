@@ -1,6 +1,6 @@
 {
-  "schema_version": 1,
-  "checked_on": "2026-10-20",
+  "schema_version": 2,
+  "checked_on": "2026-10-21",
   "characters": [
     {
       "id": "deepseek",
@@ -29,7 +29,41 @@
         "src-7c9b4010e9",
         "src-2987d047a2",
         "src-feae71144c",
-        "src-c8ae4f454d"
+        "src-c8ae4f454d",
+        "src-7d6d1d5015",
+        "src-863473febf",
+        "src-aecfc4fecb",
+        "src-22fa810a0e",
+        "src-57ada90d6d",
+        "src-29d06f544b",
+        "src-45e43a9f10",
+        "src-64550de9e4",
+        "src-b9006a9bef",
+        "src-2f1b5b7594",
+        "src-9b9a6a8a5d",
+        "src-507e461309",
+        "src-8b2c1a1e58",
+        "src-004eaab78f",
+        "src-21b5b6616a",
+        "src-3a5e9bcd07",
+        "src-6db5e21550",
+        "src-c0f4e78bb7",
+        "src-f26a41e9e9",
+        "src-f7d330c3ae",
+        "src-5746a29c51",
+        "src-5cf24a4fd0",
+        "src-f94d9d5e76",
+        "src-132f96a0f8",
+        "src-829a8497f5",
+        "src-57565e8781",
+        "src-aeb2911376",
+        "src-1ed251ec1e",
+        "src-ae2e90a404",
+        "src-fb641b9af1",
+        "src-990da42259",
+        "src-06312131fe",
+        "src-991f9bd632",
+        "src-92e69aeb51"
       ],
       "local_asset_ids": [
         "zipzippipe-pixiv-148186519-p00",
@@ -43,12 +77,29 @@
         "jadpp-whale-frightened",
         "jadpp-whale-serious",
         "jadpp-whale-shy",
-        "jadpp-whale-starry"
+        "jadpp-whale-starry",
+        "school-op-deepseek",
+        "apprentice-deepseek-chibi",
+        "apprentice-deepseek-girl",
+        "maid-atelier-delighted",
+        "maid-atelier-determined",
+        "maid-atelier-sleepy",
+        "zipzippipe-bilibili-1236803362705375305-p07"
       ],
       "not_claimed": [
         "官方统一形象",
         "当前能力排名",
         "所有版本均开放商用"
+      ],
+      "variant_ids": [
+        "school-op-deepseek",
+        "apprentice-deepseek",
+        "maid-atelier-delighted",
+        "maid-atelier-determined",
+        "maid-atelier-sleepy",
+        "priority-zipzippipe-bilibili-1236803362705375305-p07",
+        "pet-deepseek-girl--legeling",
+        "pet-deepseek-whalechan--qimi"
       ]
     },
     {
@@ -77,17 +128,40 @@
         "src-f54f4048e7",
         "src-cae0d1341e",
         "src-939955d01d",
-        "src-b02db0226e"
+        "src-b02db0226e",
+        "src-7d6d1d5015",
+        "src-863473febf",
+        "src-7bc7471853",
+        "src-22fa810a0e",
+        "src-57ada90d6d",
+        "src-2f1b5b7594",
+        "src-9b9a6a8a5d",
+        "src-6db5e21550",
+        "src-c0f4e78bb7",
+        "src-f26a41e9e9",
+        "src-f7d330c3ae",
+        "src-5746a29c51",
+        "src-ddf6cc3468",
+        "src-e1e27a18a5"
       ],
       "local_asset_ids": [
         "zipzippipe-pixiv-148186519-p03",
         "zipzippipe-BV1tE9XBbErS-23s",
-        "jadpp-gpt-recursive-weaver-v7"
+        "jadpp-gpt-recursive-weaver-v7",
+        "school-op-gpt",
+        "apprentice-chatgpt-chibi",
+        "apprentice-chatgpt-girl"
       ],
       "not_claimed": [
         "官方统一形象",
         "当前能力排名",
         "所有版本均开放商用"
+      ],
+      "variant_ids": [
+        "school-op-gpt",
+        "apprentice-chatgpt",
+        "pet-gpt-dragon-girl--legeling",
+        "pet-gpt-dragon-girl--tenghuan123"
       ]
     },
     {
@@ -111,17 +185,37 @@
       "sources": [
         "src-9b6972393a",
         "src-de02e6b9d9",
-        "src-3ebeb4cb2d"
+        "src-3ebeb4cb2d",
+        "src-7d6d1d5015",
+        "src-863473febf",
+        "src-16534796c6",
+        "src-22fa810a0e",
+        "src-57ada90d6d",
+        "src-64550de9e4",
+        "src-b9006a9bef",
+        "src-2f1b5b7594",
+        "src-9b9a6a8a5d",
+        "src-f7d330c3ae",
+        "src-5746a29c51"
       ],
       "local_asset_ids": [
         "zipzippipe-pixiv-148186519-p02",
         "zipzippipe-BV1tE9XBbErS-17s",
-        "jadpp-claude-amber-manuscript-mediator-v5"
+        "jadpp-claude-amber-manuscript-mediator-v5",
+        "school-op-claude",
+        "apprentice-claude-chibi",
+        "apprentice-claude-girl",
+        "zipzippipe-pixiv-150718881-p04-variant"
       ],
       "not_claimed": [
         "官方统一形象",
         "当前能力排名",
         "所有版本均开放商用"
+      ],
+      "variant_ids": [
+        "school-op-claude",
+        "apprentice-claude",
+        "priority-zipzippipe-pixiv-150718881-p04-variant"
       ]
     },
     {
@@ -145,17 +239,33 @@
       "creative_options_original": "可以让一个角色在两个方案之间比较；双子概念不要求画成两个人。",
       "sources": [
         "src-39699a7d83",
-        "src-de02e6b9d9"
+        "src-de02e6b9d9",
+        "src-7d6d1d5015",
+        "src-863473febf",
+        "src-614c501560",
+        "src-22fa810a0e",
+        "src-57ada90d6d",
+        "src-2f1b5b7594",
+        "src-9b9a6a8a5d",
+        "src-f7d330c3ae",
+        "src-5746a29c51"
       ],
       "local_asset_ids": [
         "zipzippipe-pixiv-148186519-p04",
         "zipzippipe-BV1tE9XBbErS-11s",
-        "jadpp-gemini-dual-prism-translator-v4"
+        "jadpp-gemini-dual-prism-translator-v4",
+        "school-op-gemini",
+        "apprentice-gemini-chibi",
+        "apprentice-gemini-girl"
       ],
       "not_claimed": [
         "官方统一形象",
         "当前能力排名",
         "所有版本均开放商用"
+      ],
+      "variant_ids": [
+        "school-op-gemini",
+        "apprentice-gemini"
       ]
     },
     {
@@ -178,17 +288,30 @@
       "sources": [
         "src-041a2628d6",
         "src-de02e6b9d9",
-        "src-88526bcba4"
+        "src-88526bcba4",
+        "src-7d6d1d5015",
+        "src-863473febf",
+        "src-ce62ff9f96",
+        "src-22fa810a0e",
+        "src-57ada90d6d",
+        "src-9b9a6a8a5d"
       ],
       "local_asset_ids": [
         "zipzippipe-pixiv-148186519-p07",
         "zipzippipe-BV1tE9XBbErS-29s",
-        "jadpp-grok-cosmic-signal-ranger-v5"
+        "jadpp-grok-cosmic-signal-ranger-v5",
+        "school-op-grok",
+        "apprentice-grok-chibi",
+        "apprentice-grok-girl"
       ],
       "not_claimed": [
         "官方统一形象",
         "当前能力排名",
         "所有版本均开放商用"
+      ],
+      "variant_ids": [
+        "school-op-grok",
+        "apprentice-grok"
       ]
     },
     {
@@ -213,17 +336,31 @@
         "src-6de0c0f52f",
         "src-de02e6b9d9",
         "src-7c9b4010e9",
-        "src-25935b1cdf"
+        "src-25935b1cdf",
+        "src-7d6d1d5015",
+        "src-863473febf",
+        "src-b4846a8be8",
+        "src-22fa810a0e",
+        "src-57ada90d6d",
+        "src-2f1b5b7594",
+        "src-9b9a6a8a5d"
       ],
       "local_asset_ids": [
         "zipzippipe-pixiv-148186519-p05",
         "zipzippipe-BV1tE9XBbErS-41s",
-        "jadpp-kimi-lunar-scroll-navigator-v5"
+        "jadpp-kimi-lunar-scroll-navigator-v5",
+        "school-op-kimi",
+        "apprentice-kimi-chibi",
+        "apprentice-kimi-girl"
       ],
       "not_claimed": [
         "官方统一形象",
         "当前能力排名",
         "所有版本均开放商用"
+      ],
+      "variant_ids": [
+        "school-op-kimi",
+        "apprentice-kimi"
       ]
     },
     {
@@ -248,16 +385,33 @@
         "src-d600068679",
         "src-de02e6b9d9",
         "src-7c9b4010e9",
-        "src-9e170d4379"
+        "src-9e170d4379",
+        "src-7d6d1d5015",
+        "src-863473febf",
+        "src-3cb18a4850",
+        "src-22fa810a0e",
+        "src-57ada90d6d",
+        "src-9b9a6a8a5d",
+        "src-5746a29c51"
       ],
       "local_asset_ids": [
         "zipzippipe-pixiv-148186519-p06",
-        "zipzippipe-BV1tE9XBbErS-35s"
+        "zipzippipe-BV1tE9XBbErS-35s",
+        "school-op-glm",
+        "apprentice-glm-chibi",
+        "apprentice-glm-fox-chibi",
+        "apprentice-glm-fox-girl",
+        "apprentice-glm-girl"
       ],
       "not_claimed": [
         "官方统一形象",
         "当前能力排名",
         "所有版本均开放商用"
+      ],
+      "variant_ids": [
+        "school-op-glm",
+        "apprentice-glm",
+        "apprentice-glm-fox"
       ]
     },
     {
@@ -283,16 +437,31 @@
         "src-35b73b4885",
         "src-de02e6b9d9",
         "src-7c9b4010e9",
-        "src-74e50f202c"
+        "src-74e50f202c",
+        "src-7d6d1d5015",
+        "src-863473febf",
+        "src-b54b97c19d",
+        "src-22fa810a0e",
+        "src-57ada90d6d",
+        "src-2f1b5b7594",
+        "src-9b9a6a8a5d",
+        "src-5746a29c51"
       ],
       "local_asset_ids": [
         "zipzippipe-pixiv-148186519-p12",
-        "zipzippipe-BV1tE9XBbErS-53s"
+        "zipzippipe-BV1tE9XBbErS-53s",
+        "school-op-qwen",
+        "apprentice-qwen-chibi",
+        "apprentice-qwen-girl"
       ],
       "not_claimed": [
         "官方统一形象",
         "当前能力排名",
         "所有版本均开放商用"
+      ],
+      "variant_ids": [
+        "school-op-qwen",
+        "apprentice-qwen"
       ]
     },
     {
@@ -325,13 +494,14 @@
         "官方统一形象",
         "当前能力排名",
         "所有版本均开放商用"
-      ]
+      ],
+      "variant_ids": []
     },
     {
       "id": "minimax",
       "name": "MiniMax",
       "entity_kind": "model-family",
-      "status": "profile_and_references",
+      "status": "local_assets",
       "design_family": "zipzippipe",
       "creators": "ZipZipPipe",
       "aliases": [
@@ -349,20 +519,37 @@
         "src-ea6da7096a",
         "src-f54f4048e7",
         "src-e7a83efe44",
-        "src-461b32e833"
+        "src-461b32e833",
+        "src-7d6d1d5015",
+        "src-863473febf",
+        "src-9df664fe98",
+        "src-22fa810a0e",
+        "src-57ada90d6d",
+        "src-e3b48382d0",
+        "src-2f1b5b7594",
+        "src-9b9a6a8a5d"
       ],
-      "local_asset_ids": [],
+      "local_asset_ids": [
+        "school-op-minimax",
+        "apprentice-minimax-chibi",
+        "apprentice-minimax-girl",
+        "zipzippipe-pixiv-148186519-p15"
+      ],
       "not_claimed": [
         "官方统一形象",
         "当前能力排名",
         "所有版本均开放商用"
+      ],
+      "variant_ids": [
+        "school-op-minimax",
+        "apprentice-minimax"
       ]
     },
     {
       "id": "llama",
       "name": "Llama",
       "entity_kind": "model-family",
-      "status": "profile_and_references",
+      "status": "local_assets",
       "design_family": "zipzippipe",
       "creators": "ZipZipPipe",
       "aliases": [
@@ -374,24 +561,39 @@
         "白色猫耳",
         "宽松白色外套"
       ],
-      "identity_rules": "名字可译羊驼，但这套资料的外形描述是猫耳；不要仅凭产品名擅自改掉耳朵。",
+      "identity_rules": "名字可译羊驼，但这套资料的外形描述是猫耳；不要仅凭产品名擅自改掉耳朵。 本轮作者来源将耳部与拖鞋归为羊驼意象；聚合页的猫耳描述保留为旧来源差异，不能据动物耳形单独判角色。",
       "creative_options_original": "以外套轮廓和浅色发型帮助认人；新加羊驼元素时应登记为改版。",
       "sources": [
         "src-6a3f997630",
-        "src-f54f4048e7"
+        "src-f54f4048e7",
+        "src-7d6d1d5015",
+        "src-863473febf",
+        "src-f935f5749c",
+        "src-ce1ce0a429",
+        "src-64550de9e4",
+        "src-b9006a9bef",
+        "src-2f1b5b7594"
       ],
-      "local_asset_ids": [],
+      "local_asset_ids": [
+        "school-op-llama",
+        "zipzippipe-pixiv-148186519-p13",
+        "zipzippipe-pixiv-148186519-p14-variant"
+      ],
       "not_claimed": [
         "官方统一形象",
         "当前能力排名",
         "所有版本均开放商用"
+      ],
+      "variant_ids": [
+        "school-op-llama",
+        "priority-zipzippipe-pixiv-148186519-p14-variant"
       ]
     },
     {
       "id": "mistral",
       "name": "Mistral",
       "entity_kind": "model-family",
-      "status": "profile_and_references",
+      "status": "local_assets",
       "design_family": "zipzippipe",
       "creators": "ZipZipPipe",
       "aliases": [
@@ -408,20 +610,32 @@
       "sources": [
         "src-1320f85976",
         "src-f54f4048e7",
-        "src-e7a83efe44"
+        "src-e7a83efe44",
+        "src-7d6d1d5015",
+        "src-863473febf",
+        "src-7519e41294",
+        "src-64550de9e4",
+        "src-b9006a9bef"
       ],
-      "local_asset_ids": [],
+      "local_asset_ids": [
+        "school-op-mistral",
+        "zipzippipe-pixiv-148186519-p09"
+      ],
       "not_claimed": [
         "官方统一形象",
         "当前能力排名",
         "所有版本均开放商用"
+      ],
+      "variant_ids": [
+        "school-op-mistral",
+        "priority-zipzippipe-pixiv-148186519-p09"
       ]
     },
     {
       "id": "perplexity",
       "name": "Perplexity",
       "entity_kind": "product",
-      "status": "profile_and_references",
+      "status": "local_assets",
       "design_family": "zipzippipe",
       "creators": "ZipZipPipe",
       "aliases": [
@@ -438,20 +652,28 @@
       "sources": [
         "src-3aac360902",
         "src-f54f4048e7",
-        "src-e7a83efe44"
+        "src-e7a83efe44",
+        "src-7d6d1d5015",
+        "src-863473febf",
+        "src-df5958ee04"
       ],
-      "local_asset_ids": [],
+      "local_asset_ids": [
+        "school-op-perplexity"
+      ],
       "not_claimed": [
         "官方统一形象",
         "当前能力排名",
         "所有版本均开放商用"
+      ],
+      "variant_ids": [
+        "school-op-perplexity"
       ]
     },
     {
       "id": "wenxin",
       "name": "文心 / ERNIE",
       "entity_kind": "model-family",
-      "status": "profile_and_references",
+      "status": "local_assets",
       "design_family": "zipzippipe",
       "creators": "ZipZipPipe",
       "aliases": [
@@ -470,13 +692,21 @@
         "src-a5510be70b",
         "src-f54f4048e7",
         "src-bd4738ad80",
-        "src-3a08dd5da9"
+        "src-3a08dd5da9",
+        "src-7d6d1d5015",
+        "src-863473febf",
+        "src-8fafda5907"
       ],
-      "local_asset_ids": [],
+      "local_asset_ids": [
+        "school-op-ernie"
+      ],
       "not_claimed": [
         "官方统一形象",
         "当前能力排名",
         "所有版本均开放商用"
+      ],
+      "variant_ids": [
+        "school-op-wenxin"
       ]
     },
     {
@@ -509,13 +739,14 @@
         "官方统一形象",
         "当前能力排名",
         "所有版本均开放商用"
-      ]
+      ],
+      "variant_ids": []
     },
     {
       "id": "hunyuan",
       "name": "腾讯混元 / Hunyuan",
       "entity_kind": "model-family",
-      "status": "profile_and_references",
+      "status": "local_assets",
       "design_family": "zipzippipe",
       "creators": "ZipZipPipe",
       "aliases": [
@@ -531,13 +762,25 @@
       "creative_options_original": "算盘可帮助形成固定手势和轮廓；腾讯元宝作为产品另列，不直接复制这套衣服。",
       "sources": [
         "src-5800cf37af",
-        "src-37278a8e0b"
+        "src-37278a8e0b",
+        "src-7d6d1d5015",
+        "src-863473febf",
+        "src-246d5fe606",
+        "src-64550de9e4",
+        "src-b9006a9bef"
       ],
-      "local_asset_ids": [],
+      "local_asset_ids": [
+        "school-op-hunyuan",
+        "zipzippipe-pixiv-150718881-p03"
+      ],
       "not_claimed": [
         "官方统一形象",
         "当前能力排名",
         "所有版本均开放商用"
+      ],
+      "variant_ids": [
+        "school-op-hunyuan",
+        "priority-zipzippipe-pixiv-150718881-p03"
       ]
     },
     {
@@ -567,7 +810,8 @@
         "官方统一形象",
         "当前能力排名",
         "所有版本均开放商用"
-      ]
+      ],
+      "variant_ids": []
     },
     {
       "id": "opencode",
@@ -595,7 +839,8 @@
         "官方统一形象",
         "当前能力排名",
         "所有版本均开放商用"
-      ]
+      ],
+      "variant_ids": []
     },
     {
       "id": "zcode",
@@ -623,7 +868,8 @@
         "官方统一形象",
         "当前能力排名",
         "所有版本均开放商用"
-      ]
+      ],
+      "variant_ids": []
     },
     {
       "id": "codex",
@@ -642,13 +888,18 @@
       "identity_rules": "原帖明确提到设计来自群友。不能把发布者自动当作唯一设计者，也不能从GPT龙娘直接推定颜色。",
       "creative_options_original": "新画前先选定三视图对应版本；若无法确认，保留待核字段，不补想象颜色。",
       "sources": [
-        "src-cae0d1341e"
+        "src-cae0d1341e",
+        "src-f26a41e9e9",
+        "src-5ab74ca1ef"
       ],
       "local_asset_ids": [],
       "not_claimed": [
         "官方统一形象",
         "当前能力排名",
         "所有版本均开放商用"
+      ],
+      "variant_ids": [
+        "pet-codex-dragon-girl--orient37"
       ]
     },
     {
@@ -676,7 +927,8 @@
         "官方统一形象",
         "当前能力排名",
         "所有版本均开放商用"
-      ]
+      ],
+      "variant_ids": []
     },
     {
       "id": "novelai",
@@ -701,7 +953,8 @@
         "官方统一形象",
         "当前能力排名",
         "所有版本均开放商用"
-      ]
+      ],
+      "variant_ids": []
     },
     {
       "id": "midjourney",
@@ -727,7 +980,8 @@
         "官方统一形象",
         "当前能力排名",
         "所有版本均开放商用"
-      ]
+      ],
+      "variant_ids": []
     },
     {
       "id": "suno",
@@ -752,7 +1006,8 @@
         "官方统一形象",
         "当前能力排名",
         "所有版本均开放商用"
-      ]
+      ],
+      "variant_ids": []
     },
     {
       "id": "elevenlabs",
@@ -777,13 +1032,14 @@
         "官方统一形象",
         "当前能力排名",
         "所有版本均开放商用"
-      ]
+      ],
+      "variant_ids": []
     },
     {
       "id": "doubao",
       "name": "豆包官方头像及其他版本",
       "entity_kind": "product",
-      "status": "visual_lead",
+      "status": "local_assets",
       "design_family": "multiple_or_pending",
       "creators": "豆包/字节跳动（官方头像）；其他版本各自署名",
       "aliases": [
@@ -798,13 +1054,22 @@
       "identity_rules": "Seed娘不是所有豆包形象的同义词；官方头像、ZipZipPipe的Seed版、OpenPet版、网络夸张梗图应并列。",
       "creative_options_original": "选择某一分支后固定身份；不能把官方头像补全生成的全身图称作官方全身立绘。",
       "sources": [
-        "src-3f04c64f7e"
+        "src-3f04c64f7e",
+        "src-7d6d1d5015",
+        "src-863473febf",
+        "src-dafaefb17c",
+        "src-f7d330c3ae"
       ],
-      "local_asset_ids": [],
+      "local_asset_ids": [
+        "school-op-doubao"
+      ],
       "not_claimed": [
         "官方统一形象",
         "当前能力排名",
         "所有版本均开放商用"
+      ],
+      "variant_ids": [
+        "school-op-doubao"
       ]
     },
     {
@@ -832,34 +1097,46 @@
         "官方统一形象",
         "当前能力排名",
         "所有版本均开放商用"
-      ]
+      ],
+      "variant_ids": []
     },
     {
       "id": "mimo",
       "name": "MiMo / 小米",
       "entity_kind": "model-family",
-      "status": "visual_lead",
+      "status": "local_assets",
       "design_family": "multiple_or_pending",
-      "creators": "甶丶；另有署名Immyxxr的兔娘方案（均据站点字段）",
+      "creators": "甶丶（本轮已收立绘与三视图）；其他作者版本另列",
       "aliases": [
         "MiMo娘",
         "米莫",
         "小米MiMo"
       ],
       "observed_traits": [
-        "至少存在不同作者版本",
-        "站点有立绘和设定稿线索"
+        "银白双马尾",
+        "橙黑服装、mi/MiMo标识",
+        "兔子与黑白不对称袜"
       ],
-      "identity_rules": "不要把不同作者的立绘和兔娘三视图混成同一套设计。角色标题不是作者许可的替代。",
+      "identity_rules": "甶丶的正常比例立绘与三视图来自同一作者原帖。此版本不是ZipZipPipe设计；许可CC BY-NC未写版本号。",
       "creative_options_original": "以作者为分组，分别补全脸、配件和三视图；本次不从标题反推全部服装。",
       "sources": [
-        "src-a7f98fdde7"
+        "src-a7f98fdde7",
+        "src-64550de9e4",
+        "src-b9006a9bef",
+        "src-09cee6cfdb"
       ],
-      "local_asset_ids": [],
+      "local_asset_ids": [
+        "mimo-adult-01",
+        "mimo-turnaround-02"
+      ],
       "not_claimed": [
         "官方统一形象",
         "当前能力排名",
         "所有版本均开放商用"
+      ],
+      "variant_ids": [
+        "priority-mimo-adult-01",
+        "priority-mimo-turnaround-02"
       ]
     },
     {
@@ -886,7 +1163,8 @@
         "官方统一形象",
         "当前能力排名",
         "所有版本均开放商用"
-      ]
+      ],
+      "variant_ids": []
     },
     {
       "id": "copilot",
@@ -909,7 +1187,8 @@
         "已经找到成熟娘化",
         "已有图片可下载",
         "官方授权同人"
-      ]
+      ],
+      "variant_ids": []
     },
     {
       "id": "yuanbao",
@@ -932,52 +1211,77 @@
         "已经找到成熟娘化",
         "已有图片可下载",
         "官方授权同人"
-      ]
+      ],
+      "variant_ids": []
     },
     {
       "id": "spark",
       "name": "讯飞星火",
       "entity_kind": "model-family",
-      "status": "wanted",
-      "design_family": "unassigned",
-      "creators": null,
+      "status": "local_assets",
+      "design_family": "school-op",
+      "creators": "lshhhhhhh（AI辅助设计）",
       "aliases": [
         "讯飞星火"
       ],
-      "observed_traits": [],
-      "identity_rules": "找到产品入口；未取得可核验的成套角色设计。",
-      "creative_options_original": "先补作者、原帖、形象识别点和具体许可；自行设计时标记为新提案。",
-      "sources": [
-        "src-57f97f53ed"
+      "observed_traits": [
+        "酒红低侧马尾",
+        "眼镜与蓝眼",
+        "蓝色火焰发夹"
       ],
-      "local_asset_ids": [],
+      "identity_rules": "项目原创校园形象，补上此前的星火待补档位。不主张为通行设定或官方形象。",
+      "creative_options_original": "先使用校园系列本身的人设图和作者提示词，其他服装另建派生版本。",
+      "sources": [
+        "src-57f97f53ed",
+        "src-7d6d1d5015",
+        "src-863473febf",
+        "src-86a60f88ee"
+      ],
+      "local_asset_ids": [
+        "school-op-spark"
+      ],
       "not_claimed": [
         "已经找到成熟娘化",
         "已有图片可下载",
         "官方授权同人"
+      ],
+      "variant_ids": [
+        "school-op-spark"
       ]
     },
     {
       "id": "cohere",
       "name": "Cohere / Command",
       "entity_kind": "model-family",
-      "status": "wanted",
-      "design_family": "unassigned",
-      "creators": null,
+      "status": "local_assets",
+      "design_family": "school-op",
+      "creators": "lshhhhhhh（AI辅助设计）",
       "aliases": [
         "Cohere"
       ],
-      "observed_traits": [],
-      "identity_rules": "保留模型家族入口，未找到本次可核验的娘化资产。",
-      "creative_options_original": "先补作者、原帖、形象识别点和具体许可；自行设计时标记为新提案。",
-      "sources": [
-        "src-cd4822926e"
+      "observed_traits": [
+        "森林绿及肩卷发",
+        "浅色挑染",
+        "桃绿奶油色领结"
       ],
-      "local_asset_ids": [],
+      "identity_rules": "本项目原创方案，补上此前未确认形象的档位。不主张为通行设定或官方形象。",
+      "creative_options_original": "先使用校园系列本身的人设图和作者提示词，其他服装另建派生版本。",
+      "sources": [
+        "src-cd4822926e",
+        "src-7d6d1d5015",
+        "src-863473febf",
+        "src-dd821bddb8"
+      ],
+      "local_asset_ids": [
+        "school-op-cohere"
+      ],
       "not_claimed": [
         "已经找到成熟娘化",
         "已有图片可下载",
         "官方授权同人"
+      ],
+      "variant_ids": [
+        "school-op-cohere"
       ]
     },
     {
@@ -1001,7 +1305,8 @@
         "已经找到成熟娘化",
         "已有图片可下载",
         "官方授权同人"
-      ]
+      ],
+      "variant_ids": []
     },
     {
       "id": "runway",
@@ -1024,7 +1329,8 @@
         "已经找到成熟娘化",
         "已有图片可下载",
         "官方授权同人"
-      ]
+      ],
+      "variant_ids": []
     },
     {
       "id": "sora",
@@ -1047,7 +1353,8 @@
         "已经找到成熟娘化",
         "已有图片可下载",
         "官方授权同人"
-      ]
+      ],
+      "variant_ids": []
     },
     {
       "id": "stable-diffusion",
@@ -1070,7 +1377,8 @@
         "已经找到成熟娘化",
         "已有图片可下载",
         "官方授权同人"
-      ]
+      ],
+      "variant_ids": []
     },
     {
       "id": "flux",
@@ -1093,6 +1401,41 @@
         "已经找到成熟娘化",
         "已有图片可下载",
         "官方授权同人"
+      ],
+      "variant_ids": []
+    },
+    {
+      "id": "copilot-school",
+      "name": "Copilot（校园项目，具体产品待区分）",
+      "entity_kind": "ambiguous-product-reference",
+      "status": "local_assets",
+      "design_family": "school-op",
+      "creators": "lshhhhhhh（AI辅助设计）",
+      "aliases": [
+        "Copilot娘",
+        "校园Copilot"
+      ],
+      "observed_traits": [
+        "青绿色高马尾",
+        "多色缎带环徽章",
+        "灰蓝校服裙"
+      ],
+      "identity_rules": "作者只标注Copilot，未在该提示词中区分Microsoft Copilot与GitHub Copilot。本库保留项目命名，不据徽章猜定产品。",
+      "creative_options_original": "适合作为该校园系列的角色参考；产品归属确认后再与具体条目建立关系。",
+      "sources": [
+        "src-7d6d1d5015",
+        "src-863473febf",
+        "src-c133a02d4c"
+      ],
+      "local_asset_ids": [
+        "school-op-copilot"
+      ],
+      "not_claimed": [
+        "官方形象",
+        "Microsoft与GitHub Copilot共用形象"
+      ],
+      "variant_ids": [
+        "school-op-copilot-school"
       ]
     }
   ]

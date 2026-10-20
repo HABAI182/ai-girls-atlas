@@ -1,5 +1,5 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "memes": [
     {
       "id": "sticker_issue_02_001",
@@ -532,6 +532,197 @@
       "review_scope": "metadata_only",
       "local_copy": false,
       "note": "站点字段不等于本库已核实原作者许可；请到详情页与原作复核。"
+    },
+    {
+      "id": "gengjing-001",
+      "title": "气鼓鼓与价格吐槽",
+      "character_ids": [
+        "deepseek"
+      ],
+      "category_ids": [
+        "meme"
+      ],
+      "detail_url": "https://aigengtu.com/meme/001",
+      "original_image_url": "https://img.aigengtu.com/meme/001.webp",
+      "origin_author_as_recorded": null,
+      "origin_url": null,
+      "license_type_as_recorded": "not_verified",
+      "license_note_as_recorded": "本库仅保存导航和简短分类。",
+      "source_id": "src-d472a56998",
+      "emotion_tags_editorial": [
+        "生气",
+        "吐槽"
+      ],
+      "review_scope": "page_text_or_index_only",
+      "local_copy": false,
+      "note": "用于玩笑式抱怨；价格梗不作为真实收费说明。"
+    },
+    {
+      "id": "gengjing-003",
+      "title": "看不懂用户输入",
+      "character_ids": [
+        "deepseek"
+      ],
+      "category_ids": [
+        "meme"
+      ],
+      "detail_url": "https://aigengtu.com/meme/003",
+      "original_image_url": "https://img.aigengtu.com/meme/003.webp",
+      "origin_author_as_recorded": null,
+      "origin_url": null,
+      "license_type_as_recorded": "not_verified",
+      "license_note_as_recorded": "本库仅保存导航和简短分类。",
+      "source_id": "src-44c955cf67",
+      "emotion_tags_editorial": [
+        "疑惑",
+        "求解释"
+      ],
+      "review_scope": "page_text_or_index_only",
+      "local_copy": false,
+      "note": "适合轻量疑问；不替真实产品作能力判断。"
+    },
+    {
+      "id": "gengjing-010",
+      "title": "发现高手",
+      "character_ids": [
+        "deepseek"
+      ],
+      "category_ids": [
+        "meme"
+      ],
+      "detail_url": "https://aigengtu.com/meme/010",
+      "original_image_url": "https://img.aigengtu.com/meme/010.webp",
+      "origin_author_as_recorded": null,
+      "origin_url": null,
+      "license_type_as_recorded": "not_verified",
+      "license_note_as_recorded": "本库仅保存导航和简短分类。",
+      "source_id": "src-8d048366b9",
+      "emotion_tags_editorial": [
+        "认可",
+        "夸赞"
+      ],
+      "review_scope": "page_text_or_index_only",
+      "local_copy": false,
+      "note": "详情页主标题与附加Title字段有冲突，按目录编号导航。"
+    },
+    {
+      "id": "gengjing-012",
+      "title": "最后还是自己来画",
+      "character_ids": [
+        "gpt"
+      ],
+      "category_ids": [
+        "meme"
+      ],
+      "detail_url": "https://aigengtu.com/meme/012",
+      "original_image_url": "https://img.aigengtu.com/meme/012.webp",
+      "origin_author_as_recorded": null,
+      "origin_url": null,
+      "license_type_as_recorded": "not_verified",
+      "license_note_as_recorded": "本库仅保存导航和简短分类。",
+      "source_id": "src-ce527eb4ce",
+      "emotion_tags_editorial": [
+        "无奈",
+        "接手任务"
+      ],
+      "review_scope": "page_text_or_index_only",
+      "local_copy": false,
+      "note": "模型分工的社区笑话，不代表当前生图能力排名。"
+    },
+    {
+      "id": "gengjing-037",
+      "title": "挽留用户",
+      "character_ids": [
+        "deepseek"
+      ],
+      "category_ids": [
+        "meme"
+      ],
+      "detail_url": "https://aigengtu.com/meme/037",
+      "original_image_url": "https://img.aigengtu.com/meme/037.webp",
+      "origin_author_as_recorded": null,
+      "origin_url": null,
+      "license_type_as_recorded": "not_verified",
+      "license_note_as_recorded": "本库仅保存导航和简短分类。",
+      "source_id": "src-26cca3698e",
+      "emotion_tags_editorial": [
+        "委屈",
+        "挽留"
+      ],
+      "review_scope": "page_text_or_index_only",
+      "local_copy": false,
+      "note": "角色化表达，适合离场与告别的反应梗。"
+    },
+    {
+      "id": "gengjing-064",
+      "title": "蓝女仆Q版三视图",
+      "character_ids": [
+        "deepseek"
+      ],
+      "category_ids": [
+        "reference-sheet"
+      ],
+      "detail_url": "https://aigengtu.com/meme/064",
+      "original_image_url": "https://img.aigengtu.com/meme/064.webp",
+      "origin_author_as_recorded": null,
+      "origin_url": null,
+      "license_type_as_recorded": "not_verified",
+      "license_note_as_recorded": "本库仅保存导航和简短分类。",
+      "source_id": "src-9cb4ccffb2",
+      "emotion_tags_editorial": [
+        "设定图"
+      ],
+      "review_scope": "page_text_or_index_only",
+      "local_copy": false,
+      "note": "是社区参考；页面介绍中的official-grade不是厂商官方证明。"
+    },
+    {
+      "id": "gengjing-065",
+      "title": "虎鲸版本三视图",
+      "character_ids": [
+        "deepseek"
+      ],
+      "category_ids": [
+        "reference-sheet"
+      ],
+      "detail_url": "https://aigengtu.com/meme/065",
+      "original_image_url": "https://img.aigengtu.com/meme/065.webp",
+      "origin_author_as_recorded": null,
+      "origin_url": null,
+      "license_type_as_recorded": "not_verified",
+      "license_note_as_recorded": "本库仅保存导航和简短分类。",
+      "source_id": "src-df489c9028",
+      "emotion_tags_editorial": [
+        "设定图",
+        "黑色变体"
+      ],
+      "review_scope": "page_text_or_index_only",
+      "local_copy": false,
+      "note": "单独分支，不能直接用作所有鲸鱼娘的背面设定。"
+    },
+    {
+      "id": "gengjing-123",
+      "title": "蹭一碗饭",
+      "character_ids": [
+        "deepseek"
+      ],
+      "category_ids": [
+        "meme"
+      ],
+      "detail_url": "https://aigengtu.com/meme/123",
+      "original_image_url": "https://img.aigengtu.com/meme/123.webp",
+      "origin_author_as_recorded": null,
+      "origin_url": null,
+      "license_type_as_recorded": "not_verified",
+      "license_note_as_recorded": "本库仅保存导航和简短分类。",
+      "source_id": "src-49414bc114",
+      "emotion_tags_editorial": [
+        "期待",
+        "吃饭"
+      ],
+      "review_scope": "page_text_or_index_only",
+      "local_copy": false,
+      "note": "适合投喂、蹭饭和饭点语境。"
     }
   ]
 }

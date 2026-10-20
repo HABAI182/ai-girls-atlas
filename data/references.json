@@ -484,6 +484,76 @@
       "license_as_recorded": "not_labeled",
       "license_verification": "aggregator_claim_only",
       "local_copy": false
+    },
+    {
+      "id": "ref-pet-codex-dragon-girl--orient37",
+      "title": "Codex龙娘·居家版 · orient37",
+      "character_ids": [
+        "codex"
+      ],
+      "collection_url": "https://github.com/legeling/awesome-codex-pet",
+      "image_url": null,
+      "original_post_url": "https://github.com/legeling/awesome-codex-pet/blob/022aea52f75841d31f57b7596479ebb425480a50/pets/codex-dragon-girl--orient37/submission.json",
+      "credit_as_recorded": "orient37（AI 辅助制作）",
+      "license_as_recorded": "仅限非商业使用。角色创作署名按请求保留为 ZipZipPipe；不宣称拥有原角色或参考图的权利，也不为参考图授予额外许可。",
+      "license_verification": "submission_declaration",
+      "local_copy": false
+    },
+    {
+      "id": "ref-pet-deepseek-girl--legeling",
+      "title": "DeepSeek Girl · legeling",
+      "character_ids": [
+        "deepseek"
+      ],
+      "collection_url": "https://github.com/legeling/awesome-codex-pet",
+      "image_url": null,
+      "original_post_url": "https://github.com/legeling/awesome-codex-pet/blob/022aea52f75841d31f57b7596479ebb425480a50/pets/deepseek-girl--legeling/submission.json",
+      "credit_as_recorded": "legeling",
+      "license_as_recorded": "Independent AI-generated community interpretation; non-commercial use only. Commercial use is prohibited.",
+      "license_verification": "submission_declaration",
+      "local_copy": false
+    },
+    {
+      "id": "ref-pet-deepseek-whalechan--qimi",
+      "title": "DeepSeek Whalechan · qishichuan",
+      "character_ids": [
+        "deepseek"
+      ],
+      "collection_url": "https://github.com/legeling/awesome-codex-pet",
+      "image_url": null,
+      "original_post_url": "https://github.com/legeling/awesome-codex-pet/blob/022aea52f75841d31f57b7596479ebb425480a50/pets/deepseek-whalechan--qimi/submission.json",
+      "credit_as_recorded": "qimi",
+      "license_as_recorded": "Independent AI-generated community interpretation; non-commercial use only. Commercial use is prohibited.",
+      "license_verification": "submission_declaration",
+      "local_copy": false
+    },
+    {
+      "id": "ref-pet-gpt-dragon-girl--legeling",
+      "title": "GPT Dragon Girl · legeling",
+      "character_ids": [
+        "gpt"
+      ],
+      "collection_url": "https://github.com/legeling/awesome-codex-pet",
+      "image_url": null,
+      "original_post_url": "https://github.com/legeling/awesome-codex-pet/blob/022aea52f75841d31f57b7596479ebb425480a50/pets/gpt-dragon-girl--legeling/submission.json",
+      "credit_as_recorded": "legeling",
+      "license_as_recorded": "Non-commercial use only. Independently AI-generated unofficial fan art. Character design: ZipZipPipe. Unofficial fan interpretation; character and brand rights remain with their respective owners. No source pixels are copied; this statement does not grant rights to the original character or third-party reference artwork.",
+      "license_verification": "submission_declaration",
+      "local_copy": false
+    },
+    {
+      "id": "ref-pet-gpt-dragon-girl--tenghuan123",
+      "title": "GPT龙娘 · tenghuan123",
+      "character_ids": [
+        "gpt"
+      ],
+      "collection_url": "https://github.com/legeling/awesome-codex-pet",
+      "image_url": null,
+      "original_post_url": "https://github.com/legeling/awesome-codex-pet/blob/022aea52f75841d31f57b7596479ebb425480a50/pets/gpt-dragon-girl--tenghuan123/submission.json",
+      "credit_as_recorded": "tenghuan123",
+      "license_as_recorded": "仅限非商业使用。最终宠物图集为 AI 辅助制作的同人适配作品；角色原设定及参考图权利仍归原权利人。",
+      "license_verification": "submission_declaration",
+      "local_copy": false
     }
   ]
 }

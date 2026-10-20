@@ -1,34 +1,60 @@
 # MiMo / 小米
 
-核验日期：2026-10-20。条目类型：`model-family`；收录状态：`visual_lead`。
+资料日期：2026-10-21。类型：`model-family`；状态：`local_assets`。
 
-## 形象身份
+## 形象与版本
 
-设计或资料署名：甶丶；另有署名Immyxxr的兔娘方案（均据站点字段）。
+署名：甶丶（本轮已收立绘与三视图）；其他作者版本另列。
 
 检索别称：MiMo娘、米莫、小米MiMo。
 
-已见资料中的识别点：
+该页主要参考版本的识别点：
 
-- 至少存在不同作者版本
-- 站点有立绘和设定稿线索
+- 银白双马尾
+- 橙黑服装、mi/MiMo标识
+- 兔子与黑白不对称袜
 
-## 版本与易混点
+甶丶的正常比例立绘与三视图来自同一作者原帖。此版本不是ZipZipPipe设计；许可CC BY-NC未写版本号。
 
-不要把不同作者的立绘和兔娘三视图混成同一套设计。角色标题不是作者许可的替代。
+[![MiMo / 小米](../../assets/fuh-mimo/mimo/mimo-adult-01.png)](../../assets/fuh-mimo/mimo/mimo-adult-01.png)
 
-## 创作时可以怎样使用
+## 本地文件
+
+| 文件 | 类型/系列 | 使用说明 |
+| --- | --- | --- |
+| [初始设计正常比例立绘](../../assets/fuh-mimo/mimo/mimo-adult-01.png) | normal / fuh-mimo | CC-BY-NC |
+| [作者三视图](../../assets/fuh-mimo/mimo/mimo-turnaround-02.png) | turnaround / fuh-mimo | CC-BY-NC |
+
+文件保持原字节；完整作者、原帖、下载供应方和SHA-256见[assets.json](../../data/assets.json)。
+
+## 本轮新增与扩写的作者版本
+
+### 初始设计正常比例立绘 · fuh-mimo
+
+橘白配色，抱着印有 mi 的兔子。作者动态标题为《娘化mimo》。
+
+识别点：银白双马尾；橙黑服装与mi/MiMo标识；黑白不对称袜与兔子。
+
+### 作者三视图 · fuh-mimo
+
+同一作者、同一动态的正面 / 侧面 / 背面设定。
+
+识别点：银白双马尾；橙黑服装与mi/MiMo标识；黑白不对称袜与兔子。
+
+## 外部设定、三视图与作品
+
+
+## 创作参考
 
 以作者为分组，分别补全脸、配件和三视图；本次不从标题反推全部服装。
 
-以上为本库编者建议，不是画师原始设定、原始提示词或模型性能结论。
-
-## 本地图片
-
-本条目暂以外链资料或待补记录为主，不能从角色条目数量推断本地图片已经齐备。
+此段为本库编者建议。
 
 ## 来源
 
-- [站点作品结构化数据](https://github.com/lmy414/bluedafeiyu/blob/main/data/works.json)；证据层级：`pinned_repository_metadata`。
+- [站点作品结构化数据](https://github.com/lmy414/bluedafeiyu/blob/main/data/works.json) · `pinned_repository_metadata`
+- [shuaizenge/ai-girls更新后的目录说明](https://github.com/shuaizenge/ai-girls/blob/dcd69f5f4f2dff1a9c0031e82deb49e0fe949c76/README.md) · `pinned_repository_text`
+- [shuaizenge/ai-girls更新后的作者与声音说明](https://github.com/shuaizenge/ai-girls/blob/dcd69f5f4f2dff1a9c0031e82deb49e0fe949c76/NOTICE.md) · `pinned_repository_text`
+- [MiMo娘作者投稿与CC BY-NC声明](https://github.com/lmy414/ai-girl-stickers/issues/35) · `author_submission`
 
-返回[角色总览](../../README.md) · [六个重点来源](../../docs/01-focus-sources.md) · [来源与使用状态](../../docs/06-rights-and-provenance.md)。
+返回[角色总览](../../README.md) · [新增资料评述](../../docs/09-more-sources.md) · [版本比较](../../docs/10-variant-guide.md)。

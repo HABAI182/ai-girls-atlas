@@ -8,13 +8,13 @@ kimi,Kimi,product-and-model-family,local_assets,ZipZipPipe,白至银紫色长发
 glm,GLM / 智谱,model-family,local_assets,ZipZipPipe,黑色长发 | 狐耳和蓬松尾部 | 黑白服装及书本/Z元素,GLM狐娘与Zcode蒙眼工程少女分别登记；不能因为同属相关品牌便混作一人。
 qwen,Qwen / 通义千问,model-family,local_assets,ZipZipPipe,蓝紫长发 | 圆形发饰 | 中式衣裙与折扇,作者三视图采用新版配色与图标；旧图新图并存时不要按文件时间误判谁是错误版本。
 seed,Seed 娘（豆包相关同人）,model-family,local_assets,ZipZipPipe,紫蓝单马尾 | 蓝白服装 | 豆包挂件,这是Seed模型相关的同人设计，与豆包官方短发头像和OpenPet短发洛丽塔版本分别管理。
-minimax,MiniMax,model-family,profile_and_references,ZipZipPipe,橙色短发 | 粉色贝雷帽 | 场记板、照片与创作道具,海螺是相关产品称呼，不表示品牌旗下每项服务都有同一角色。帽子和场记板组合是本版强识别点。
-llama,Llama,model-family,profile_and_references,ZipZipPipe,白色长卷发 | 白色猫耳 | 宽松白色外套,名字可译羊驼，但这套资料的外形描述是猫耳；不要仅凭产品名擅自改掉耳朵。
-mistral,Mistral,model-family,profile_and_references,ZipZipPipe,金色长发 | 红色宽檐帽 | 红白法师裙,与Perplexity同属法师轮廓，但帽子形状和红白主色不同。小模型合照是作品主题，不是长期参数分类。
-perplexity,Perplexity,product,profile_and_references,ZipZipPipe,墨绿色长发 | 绿系长袍 | 星形法杖,产品/搜索服务与底层模型不是同一层级；不要把她硬塞进纯基础模型榜单。
-wenxin,文心 / ERNIE,model-family,profile_and_references,ZipZipPipe,蓝色方块发夹 | 蓝色系头发 | 中式衣裙,与Qwen的中式风格容易混淆，优先看发夹与配色。资历或旧时代笑话属于作者的表达。
+minimax,MiniMax,model-family,local_assets,ZipZipPipe,橙色短发 | 粉色贝雷帽 | 场记板、照片与创作道具,海螺是相关产品称呼，不表示品牌旗下每项服务都有同一角色。帽子和场记板组合是本版强识别点。
+llama,Llama,model-family,local_assets,ZipZipPipe,白色长卷发 | 白色猫耳 | 宽松白色外套,名字可译羊驼，但这套资料的外形描述是猫耳；不要仅凭产品名擅自改掉耳朵。 本轮作者来源将耳部与拖鞋归为羊驼意象；聚合页的猫耳描述保留为旧来源差异，不能据动物耳形单独判角色。
+mistral,Mistral,model-family,local_assets,ZipZipPipe,金色长发 | 红色宽檐帽 | 红白法师裙,与Perplexity同属法师轮廓，但帽子形状和红白主色不同。小模型合照是作品主题，不是长期参数分类。
+perplexity,Perplexity,product,local_assets,ZipZipPipe,墨绿色长发 | 绿系长袍 | 星形法杖,产品/搜索服务与底层模型不是同一层级；不要把她硬塞进纯基础模型榜单。
+wenxin,文心 / ERNIE,model-family,local_assets,ZipZipPipe,蓝色方块发夹 | 蓝色系头发 | 中式衣裙,与Qwen的中式风格容易混淆，优先看发夹与配色。资历或旧时代笑话属于作者的表达。
 rwkv,RWKV,model-family,profile_and_references,ZipZipPipe,深紫长发 | 放射状王冠 | 紫色羽翼与羽毛服饰,羽翼、王冠和深紫配色需要一起保留；不能把鸟翼和GPT龙翼只按“有翅膀”合并。
-hunyuan,腾讯混元 / Hunyuan,model-family,profile_and_references,ZipZipPipe,深色长发 | 中式长裙 | 算盘,作者原帖说明希望呈现富商之女与企鹅式整体印象，并坦言基于有限使用印象设计。不要升级成客观产品评语。
+hunyuan,腾讯混元 / Hunyuan,model-family,local_assets,ZipZipPipe,深色长发 | 中式长裙 | 算盘,作者原帖说明希望呈现富商之女与企鹅式整体印象，并坦言基于有限使用印象设计。不要升级成客观产品评语。
 jev,JEV 裁判者,community-model-reference,profile_and_references,ZipZipPipe,黑粉配色 | 天平 | 嘴部荆棘,“不能对话所以封口”为作者设定说明；本次没有独立核实其完整技术身份，不把它当大众聊天产品。
 opencode,OpenCode,coding-tool,visual_lead,ZipZipPipe（资料署名）,黑色长发 | 机械感尖角 | 灰黑服装,用户重点视频把她作为编程工具拟人展示；不是独立基础模型。设计细节需继续回原帖核查。
 zcode,Zcode,coding-tool,visual_lead,具体设计署名待进一步核对,浅色长发 | 蒙眼元素 | 浅蓝白工程少女轮廓,在重点视频与档案站均找到线索；名字、所属品牌和具体作者应分别核验，不凭GLM相似元素推断。
@@ -24,16 +24,17 @@ novelai,NovelAI,creative-product,visual_lead,ZipZipPipe（合照署名）,本次
 midjourney,Midjourney,image-product,visual_lead,ZipZipPipe（合照署名）,本次仅确认生成式模型合照中的形象线索,与NovelAI等同框不等于共享同一设计；未核实其独立提示词和文件许可。
 suno,Suno,music-product,visual_lead,ZipZipPipe（合照署名）,本次仅确认生成式模型合照中的形象线索,图像角色与歌曲、歌声、生成音乐的许可分别处理；形象链接不能授权音乐。
 elevenlabs,ElevenLabs,audio-product,visual_lead,ZipZipPipe（合照署名）,本次仅确认生成式模型合照中的形象线索,语音平台拟人与某位配音者的音色不能混为一谈；本库没有复制或授权声音。
-doubao,豆包官方头像及其他版本,product,visual_lead,豆包/字节跳动（官方头像）；其他版本各自署名,官方短发头像有来源 | 同人造型存在多个分支,Seed娘不是所有豆包形象的同义词；官方头像、ZipZipPipe的Seed版、OpenPet版、网络夸张梗图应并列。
+doubao,豆包官方头像及其他版本,product,local_assets,豆包/字节跳动（官方头像）；其他版本各自署名,官方短发头像有来源 | 同人造型存在多个分支,Seed娘不是所有豆包形象的同义词；官方头像、ZipZipPipe的Seed版、OpenPet版、网络夸张梗图应并列。
 stepfun,StepFun / 阶跃星辰,model-family,visual_lead,甶丶（站点投稿记录）,找到三项站点记录 | 精确外貌和原作许可待原帖逐图核对,站点字段写CC BY-NC，但没有由本库补全许可证版本；保留原作者发布入口。
-mimo,MiMo / 小米,model-family,visual_lead,甶丶；另有署名Immyxxr的兔娘方案（均据站点字段）,至少存在不同作者版本 | 站点有立绘和设定稿线索,不要把不同作者的立绘和兔娘三视图混成同一套设计。角色标题不是作者许可的替代。
+mimo,MiMo / 小米,model-family,local_assets,甶丶（本轮已收立绘与三视图）；其他作者版本另列,银白双马尾 | 橙黑服装、mi/MiMo标识 | 兔子与黑白不对称袜,甶丶的正常比例立绘与三视图来自同一作者原帖。此版本不是ZipZipPipe设计；许可CC BY-NC未写版本号。
 huggingface,Hugging Face,platform,visual_lead,ZipZipPipe（站点署名；原帖待进一步核对）,站点条目描述黄色笑脸玩偶与海军蓝外套,这是平台拟人，不是一个基础模型。条目授权未知，本库只保留作品详情入口。
 copilot,Microsoft Copilot,product,wanted,,,与GitHub Copilot分开；本次未确认采用哪一套社区形象。
 yuanbao,腾讯元宝,product,wanted,,,产品条目与混元模型角色分开，未指定同人作者。
-spark,讯飞星火,model-family,wanted,,,找到产品入口；未取得可核验的成套角色设计。
-cohere,Cohere / Command,model-family,wanted,,,保留模型家族入口，未找到本次可核验的娘化资产。
+spark,讯飞星火,model-family,local_assets,lshhhhhhh（AI辅助设计）,酒红低侧马尾 | 眼镜与蓝眼 | 蓝色火焰发夹,项目原创校园形象，补上此前的星火待补档位。不主张为通行设定或官方形象。
+cohere,Cohere / Command,model-family,local_assets,lshhhhhhh（AI辅助设计）,森林绿及肩卷发 | 浅色挑染 | 桃绿奶油色领结,本项目原创方案，补上此前未确认形象的档位。不主张为通行设定或官方形象。
 kling,可灵 / Kling,video-product,wanted,,,官方入口本次读取受限；没有补造角色图或厂商许可。
 runway,Runway,video-product,wanted,,,产品有官方入口，未指定成熟社区形象。
 sora,Sora（历史产品）,historical-video-product,wanted,,,原入口当前转到官方停用说明；作为历史产品待补档，不列为当前可用服务。
 stable-diffusion,Stable Diffusion,image-model-family,wanted,,,模型家族与各WebUI/服务不混同，拟人设计待补。
 flux,FLUX,image-model-family,wanted,,,模型家族与厂商分开登记；未找到本次可核验角色档案。
+copilot-school,Copilot（校园项目，具体产品待区分）,ambiguous-product-reference,local_assets,lshhhhhhh（AI辅助设计）,青绿色高马尾 | 多色缎带环徽章 | 灰蓝校服裙,作者只标注Copilot，未在该提示词中区分Microsoft Copilot与GitHub Copilot。本库保留项目命名，不据徽章猜定产品。

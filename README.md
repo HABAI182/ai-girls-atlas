@@ -1,33 +1,40 @@
 # AI Girls Atlas · AI 娘形象与二创资料库
 
-围绕主流AI产品、模型家族与创作工具，整理**角色长什么样、谁设计的、有哪些版本、去哪里找原图，以及能怎样继续创作**。
+整理AI拟人角色的立绘、Q版、三视图、表情、视频与声音：看形象、选作者版本、找原图与制作来源。资料更新至 **2026-10-21**。
 
-本库是非官方同人研究与素材参考档案。以用户指定的两条B站视频、知乎问题、GenderSwapAI专题及两个GitHub素材仓为重点，附原作者动态和社区项目。资料核验日期：**2026-10-20（北京时间）**。
+## 这次新增
 
-## 先看哪里
+- **50张本地图片**：18张校园人设、20张常规/Q版派生、7张重点仓库新增图、MiniMax/Llama两张早期立绘、三张透明表情。
+- **已有角色继续扩写**：Claude工程服、DeepSeek短裙与表情、Llama变体、混元/Mistral原图、MiMo作者立绘与三视图，以及多角色校园版本。
+- **声音与热视频**：12条声音来源，整理音色、歌曲、翻唱、MV和原曲；为本轮候选保存播放快照。
+- **按作者版本查找**：43条扩写版本、14个项目评述、11张本地表情语境索引。没有把不同作者的同名角色合并。
 
-- **[六个重点来源的详细研究与提炼](docs/01-focus-sources.md)**：逐项解释内容、价值、证据与落地。
-- **[角色体系与版本规则](docs/02-character-system.md)**：解决同名不同图、模型与产品混淆。
-- **[视频、表情包、网站与项目导航](docs/03-resource-library.md)**：按用途找作品。
-- **[来源比较](docs/04-source-comparison.md)** · **[原创创作模板](docs/05-creation-playbook.md)**。
-- **[来源与使用状态](docs/06-rights-and-provenance.md)** · **[缺口与后续清单](docs/07-gaps-and-roadmap.md)** · **[核验方法](docs/08-research-method.md)**。
+## 从这里看
 
-## 本次覆盖
+- **[新增网站与GitHub项目评述](docs/09-more-sources.md)** · **[已有角色的版本比较](docs/10-variant-guide.md)**
+- **[表情、动作与素材用途](docs/11-expression-and-materials.md)** · **[声音与较热视频](docs/12-audio-and-popular-videos.md)**
+- [六个重点来源的首轮详细提炼](docs/01-focus-sources.md) · [原有视频/作品导航](docs/03-resource-library.md)
+- [角色体系](docs/02-character-system.md) · [来源比较](docs/04-source-comparison.md) · [创作模板](docs/05-creation-playbook.md)
+- [素材使用说明](docs/06-rights-and-provenance.md) · [仍待补的内容](docs/07-gaps-and-roadmap.md) · [核验方法](docs/08-research-method.md)
 
-| 记录 | 数量 | 准确含义 |
+## 当前收录
+
+| 项目 | 数量 | 说明 |
 | --- | ---: | --- |
-| 产品/模型/工具/平台条目 | 38 | 按类型标注，包含历史产品；不等于独立模型数 |
-| 已有形象资料或作品线索 | 29 | 含17个较完整的文字角色档案与其他线索 |
-| 待补条目 | 9 | 未确认可靠形象，不冒充已完成 |
-| 有本地图片的角色 | 9 | 八位早期主角、Seed及部分独立作者版本 |
-| 本地原作/参考图片文件 | 32 | 18份作者立绘/变体/Q版截帧 + 14份独立项目立绘/表情 |
-| 轻量预览 | 9 | 上游生成，单独计数 |
-| 外部图库参考 | 44 | 作者原帖和图片入口；未打包镜像 |
-| 视频记录 | 29 | 两条重点视频抽帧，其余元数据与简介 |
-| 表情包/形象作品导航 | 28 | 来自站点元数据，未镜像整站图片 |
-| 来源入口 | 131 | 每项带证据层级，详见sources.json |
+| 条目 | 39 | 产品、模型、工具、平台及历史/待区分项目命名 |
+| 有形象资料或线索 | 32 | 本地图片、档案与外部作品线索分别标注 |
+| 有本地图片的角色条目 | 20 | 不同作者版本可共存 |
+| 本地原图/派生图/参考文件 | 82 | 保留供应方原字节，含首轮视频展示截帧 |
+| 轻量预览 | 11 | 单独计数，不当作新作品 |
+| 外部参考 | 49 | 图库原帖与独立宠物版本 |
+| 视频记录 | 47 | 含声音上游原曲；观察范围逐条注明 |
+| 声音来源 | 12 | 原作品与版本链，不是音频下载包 |
+| 表情/作品导航 | 36 | 外链导航与情绪用途 |
+| 本地表情语境 | 11 | 对应已有图片的索引 |
+| 来源入口 | 204 | 正文、目录、元数据和作者声明分层记录 |
+| 待补条目 | 7 | 未找到明确方案的档位继续保留 |
 
-**已有文字档案、已有作品线索、已有本地图片，是不同的完成状态。** 本次覆盖核心聊天模型及部分绘图、音频与编程工具；未做市场份额统计，不宣称“所有主流AI已齐全”。
+首轮重点来源保留，新增部分按原文件和作品版本去重。两个重点来源的本次变化见[source-updates.json](data/source-updates.json)。
 
 ## 八位主角的早期版本
 
@@ -43,96 +50,64 @@
 
 还有 JAdpp 的六张独立角色立绘和八种鲸鱼娘表情，放在各角色页中。它们有自己的设计、署名与文件许可，不冒充上图早期原版。
 
+
 ## 角色总览
 
-状态说明：**本地图片**有可核对的文件；**档案与外链**有外观资料与参考原帖；**作品线索**需要继续补细节；**待补**尚未确认可采用形象。
-
-| 条目 | 类型 | 状态 | 识别点或缺口 |
+| 角色 | 类型 | 当前状态 | 识别点/缺口 |
 | --- | --- | --- | --- |
-| [DeepSeek / 深度求索](characters/deepseek/README.md) | `model-family` | 本地图片 | 蓝色长发；鲸鱼鳍状耳饰与鲸尾；深蓝白女仆裙 |
-| [ChatGPT / GPT](characters/gpt/README.md) | `product-and-model-family` | 本地图片 | 白色长发；龙角、龙翼与长尾；浅色礼服 |
-| [Claude](characters/claude/README.md) | `model-family` | 本地图片 | 橙色长发；花形发饰；米白橙黑层叠长裙与书本 |
-| [Gemini](characters/gemini/README.md) | `model-family` | 本地图片 | 蓝紫渐变长发；猫耳猫尾；异色瞳与星形元素 |
-| [Grok](characters/grok/README.md) | `model-family` | 本地图片 | 金发；黑红或黑色裙装；蝙蝠翼、尖角与斧形道具 |
-| [Kimi](characters/kimi/README.md) | `product-and-model-family` | 本地图片 | 白至银紫色长发；月亮和K元素；黑白深蓝非对称服装 |
-| [GLM / 智谱](characters/glm/README.md) | `model-family` | 本地图片 | 黑色长发；狐耳和蓬松尾部；黑白服装及书本/Z元素 |
-| [Qwen / 通义千问](characters/qwen/README.md) | `model-family` | 本地图片 | 蓝紫长发；圆形发饰；中式衣裙与折扇 |
-| [Seed 娘（豆包相关同人）](characters/seed/README.md) | `model-family` | 本地图片 | 紫蓝单马尾；蓝白服装；豆包挂件 |
-| [MiniMax](characters/minimax/README.md) | `model-family` | 档案与外链 | 橙色短发；粉色贝雷帽；场记板、照片与创作道具 |
-| [Llama](characters/llama/README.md) | `model-family` | 档案与外链 | 白色长卷发；白色猫耳；宽松白色外套 |
-| [Mistral](characters/mistral/README.md) | `model-family` | 档案与外链 | 金色长发；红色宽檐帽；红白法师裙 |
-| [Perplexity](characters/perplexity/README.md) | `product` | 档案与外链 | 墨绿色长发；绿系长袍；星形法杖 |
-| [文心 / ERNIE](characters/wenxin/README.md) | `model-family` | 档案与外链 | 蓝色方块发夹；蓝色系头发；中式衣裙 |
-| [RWKV](characters/rwkv/README.md) | `model-family` | 档案与外链 | 深紫长发；放射状王冠；紫色羽翼与羽毛服饰 |
-| [腾讯混元 / Hunyuan](characters/hunyuan/README.md) | `model-family` | 档案与外链 | 深色长发；中式长裙；算盘 |
-| [JEV 裁判者](characters/jev/README.md) | `community-model-reference` | 档案与外链 | 黑粉配色；天平；嘴部荆棘 |
-| [OpenCode](characters/opencode/README.md) | `coding-tool` | 作品线索 | 黑色长发；机械感尖角；灰黑服装 |
-| [Zcode](characters/zcode/README.md) | `coding-tool` | 作品线索 | 浅色长发；蒙眼元素；浅蓝白工程少女轮廓 |
-| [Codex 龙娘分支](characters/codex/README.md) | `coding-tool` | 作品线索 | 龙娘分支；细节以作者发布的三视图为准 |
-| [Image 2 黑龙娘](characters/image2/README.md) | `image-model-reference` | 作品线索 | 黑龙娘分支；已有三视图入口 |
-| [NovelAI](characters/novelai/README.md) | `creative-product` | 作品线索 | 本次仅确认生成式模型合照中的形象线索 |
-| [Midjourney](characters/midjourney/README.md) | `image-product` | 作品线索 | 本次仅确认生成式模型合照中的形象线索 |
-| [Suno](characters/suno/README.md) | `music-product` | 作品线索 | 本次仅确认生成式模型合照中的形象线索 |
-| [ElevenLabs](characters/elevenlabs/README.md) | `audio-product` | 作品线索 | 本次仅确认生成式模型合照中的形象线索 |
-| [豆包官方头像及其他版本](characters/doubao/README.md) | `product` | 作品线索 | 官方短发头像有来源；同人造型存在多个分支 |
-| [StepFun / 阶跃星辰](characters/stepfun/README.md) | `model-family` | 作品线索 | 找到三项站点记录；精确外貌和原作许可待原帖逐图核对 |
-| [MiMo / 小米](characters/mimo/README.md) | `model-family` | 作品线索 | 至少存在不同作者版本；站点有立绘和设定稿线索 |
-| [Hugging Face](characters/huggingface/README.md) | `platform` | 作品线索 | 站点条目描述黄色笑脸玩偶与海军蓝外套 |
-| [Microsoft Copilot](characters/copilot/README.md) | `product` | 待补 | 与GitHub Copilot分开；本次未确认采用哪一套社区形象。 |
-| [腾讯元宝](characters/yuanbao/README.md) | `product` | 待补 | 产品条目与混元模型角色分开，未指定同人作者。 |
-| [讯飞星火](characters/spark/README.md) | `model-family` | 待补 | 找到产品入口；未取得可核验的成套角色设计。 |
-| [Cohere / Command](characters/cohere/README.md) | `model-family` | 待补 | 保留模型家族入口，未找到本次可核验的娘化资产。 |
-| [可灵 / Kling](characters/kling/README.md) | `video-product` | 待补 | 官方入口本次读取受限；没有补造角色图或厂商许可。 |
-| [Runway](characters/runway/README.md) | `video-product` | 待补 | 产品有官方入口，未指定成熟社区形象。 |
-| [Sora（历史产品）](characters/sora/README.md) | `historical-video-product` | 待补 | 原入口当前转到官方停用说明；作为历史产品待补档，不列为当前可用服务。 |
-| [Stable Diffusion](characters/stable-diffusion/README.md) | `image-model-family` | 待补 | 模型家族与各WebUI/服务不混同，拟人设计待补。 |
-| [FLUX](characters/flux/README.md) | `image-model-family` | 待补 | 模型家族与厂商分开登记；未找到本次可核验角色档案。 |
+| [DeepSeek / 深度求索](characters/deepseek/README.md) | model-family | 本地图片 | 蓝色长发；鲸鱼鳍状耳饰与鲸尾；深蓝白女仆裙 |
+| [ChatGPT / GPT](characters/gpt/README.md) | product-and-model-family | 本地图片 | 白色长发；龙角、龙翼与长尾；浅色礼服 |
+| [Claude](characters/claude/README.md) | model-family | 本地图片 | 橙色长发；花形发饰；米白橙黑层叠长裙与书本 |
+| [Gemini](characters/gemini/README.md) | model-family | 本地图片 | 蓝紫渐变长发；猫耳猫尾；异色瞳与星形元素 |
+| [Grok](characters/grok/README.md) | model-family | 本地图片 | 金发；黑红或黑色裙装；蝙蝠翼、尖角与斧形道具 |
+| [Kimi](characters/kimi/README.md) | product-and-model-family | 本地图片 | 白至银紫色长发；月亮和K元素；黑白深蓝非对称服装 |
+| [GLM / 智谱](characters/glm/README.md) | model-family | 本地图片 | 黑色长发；狐耳和蓬松尾部；黑白服装及书本/Z元素 |
+| [Qwen / 通义千问](characters/qwen/README.md) | model-family | 本地图片 | 蓝紫长发；圆形发饰；中式衣裙与折扇 |
+| [Seed 娘（豆包相关同人）](characters/seed/README.md) | model-family | 本地图片 | 紫蓝单马尾；蓝白服装；豆包挂件 |
+| [MiniMax](characters/minimax/README.md) | model-family | 本地图片 | 橙色短发；粉色贝雷帽；场记板、照片与创作道具 |
+| [Llama](characters/llama/README.md) | model-family | 本地图片 | 白色长卷发；白色猫耳；宽松白色外套 |
+| [Mistral](characters/mistral/README.md) | model-family | 本地图片 | 金色长发；红色宽檐帽；红白法师裙 |
+| [Perplexity](characters/perplexity/README.md) | product | 本地图片 | 墨绿色长发；绿系长袍；星形法杖 |
+| [文心 / ERNIE](characters/wenxin/README.md) | model-family | 本地图片 | 蓝色方块发夹；蓝色系头发；中式衣裙 |
+| [RWKV](characters/rwkv/README.md) | model-family | 档案与外链 | 深紫长发；放射状王冠；紫色羽翼与羽毛服饰 |
+| [腾讯混元 / Hunyuan](characters/hunyuan/README.md) | model-family | 本地图片 | 深色长发；中式长裙；算盘 |
+| [JEV 裁判者](characters/jev/README.md) | community-model-reference | 档案与外链 | 黑粉配色；天平；嘴部荆棘 |
+| [OpenCode](characters/opencode/README.md) | coding-tool | 作品线索 | 黑色长发；机械感尖角；灰黑服装 |
+| [Zcode](characters/zcode/README.md) | coding-tool | 作品线索 | 浅色长发；蒙眼元素；浅蓝白工程少女轮廓 |
+| [Codex 龙娘分支](characters/codex/README.md) | coding-tool | 作品线索 | 龙娘分支；细节以作者发布的三视图为准 |
+| [Image 2 黑龙娘](characters/image2/README.md) | image-model-reference | 作品线索 | 黑龙娘分支；已有三视图入口 |
+| [NovelAI](characters/novelai/README.md) | creative-product | 作品线索 | 本次仅确认生成式模型合照中的形象线索 |
+| [Midjourney](characters/midjourney/README.md) | image-product | 作品线索 | 本次仅确认生成式模型合照中的形象线索 |
+| [Suno](characters/suno/README.md) | music-product | 作品线索 | 本次仅确认生成式模型合照中的形象线索 |
+| [ElevenLabs](characters/elevenlabs/README.md) | audio-product | 作品线索 | 本次仅确认生成式模型合照中的形象线索 |
+| [豆包官方头像及其他版本](characters/doubao/README.md) | product | 本地图片 | 官方短发头像有来源；同人造型存在多个分支 |
+| [StepFun / 阶跃星辰](characters/stepfun/README.md) | model-family | 作品线索 | 找到三项站点记录；精确外貌和原作许可待原帖逐图核对 |
+| [MiMo / 小米](characters/mimo/README.md) | model-family | 本地图片 | 银白双马尾；橙黑服装、mi/MiMo标识；兔子与黑白不对称袜 |
+| [Hugging Face](characters/huggingface/README.md) | platform | 作品线索 | 站点条目描述黄色笑脸玩偶与海军蓝外套 |
+| [Microsoft Copilot](characters/copilot/README.md) | product | 待补 | 与GitHub Copilot分开；本次未确认采用哪一套社区形象。 |
+| [腾讯元宝](characters/yuanbao/README.md) | product | 待补 | 产品条目与混元模型角色分开，未指定同人作者。 |
+| [讯飞星火](characters/spark/README.md) | model-family | 本地图片 | 酒红低侧马尾；眼镜与蓝眼；蓝色火焰发夹 |
+| [Cohere / Command](characters/cohere/README.md) | model-family | 本地图片 | 森林绿及肩卷发；浅色挑染；桃绿奶油色领结 |
+| [可灵 / Kling](characters/kling/README.md) | video-product | 待补 | 官方入口本次读取受限；没有补造角色图或厂商许可。 |
+| [Runway](characters/runway/README.md) | video-product | 待补 | 产品有官方入口，未指定成熟社区形象。 |
+| [Sora（历史产品）](characters/sora/README.md) | historical-video-product | 待补 | 原入口当前转到官方停用说明；作为历史产品待补档，不列为当前可用服务。 |
+| [Stable Diffusion](characters/stable-diffusion/README.md) | image-model-family | 待补 | 模型家族与各WebUI/服务不混同，拟人设计待补。 |
+| [FLUX](characters/flux/README.md) | image-model-family | 待补 | 模型家族与厂商分开登记；未找到本次可核验角色档案。 |
+| [Copilot（校园项目，具体产品待区分）](characters/copilot-school/README.md) | ambiguous-product-reference | 本地图片 | 青绿色高马尾；多色缎带环徽章；灰蓝校服裙 |
 
 ## 六个重点入口
 
-1. [《各AI娘形象盘点》](https://www.bilibili.com/video/BV14phK66Ejw/)：认人和描述来源链。
-2. [《各个ai刻板印象》](https://www.bilibili.com/video/BV1pLn36sEJq/)：社区笑话、使用语境与外形差异。
-3. [知乎：在哪里找这些角色的提示词](https://www.zhihu.com/question/2078891449882514701)：参考图与动作描述的分工。
-4. [GenderSwapAI AI娘化专题](https://genderswapai.com/zh-CN/ai-gijinka)：成套角色、三视图、视频及项目索引。
-5. [lmy414/ai-girl-stickers](https://github.com/lmy414/ai-girl-stickers)：表情包与形象作品的公开图片档案。
-6. [shuaizenge/ai-girls](https://github.com/shuaizenge/ai-girls)：早期原图、Q版展示与逐文件来源核验。
+1. [B站《各AI娘形象盘点》](https://www.bilibili.com/video/BV14phK66Ejw/)
+2. [B站《各个ai刻板印象》](https://www.bilibili.com/video/BV1pLn36sEJq/)
+3. [知乎提示词问题](https://www.zhihu.com/question/2078891449882514701)
+4. [GenderSwapAI专题](https://genderswapai.com/ai-gijinka) · [中文](https://genderswapai.com/zh-CN/ai-gijinka)
+5. [lmy414/ai-girl-stickers](https://github.com/lmy414/ai-girl-stickers)
+6. [shuaizenge/ai-girls](https://github.com/shuaizenge/ai-girls)
 
-## 对创作者最有用的几条提炼
+## 数据与素材
 
-- 同一产品可以拥有多个作者版本，先选版本再谈“角色应该长什么样”。
-- 参考图固定人物身份，提示词描述本次动作、情绪、构图与场景；反推描述不叫原始提示词。
-- 立绘、Q版原图、视频截帧、三视图、表情包与桌宠精灵图分别管理。
-- 角色原型、二次设计、具体图片作者、投稿者和整理者分别署名。
-- 社区刻板印象留在作品语境里，不变成模型能力、真实情感或当前厂商政策。
-- 图片可公开查看、可非商业分享、可改编、可商用是不同状态，逐项保留证据。
+[data/README.md](data/README.md)列出JSON与CSV。原图在assets中；[THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)逐文件给出作者、原帖、供应方与使用条件。未统一向第三方图片或声音授予许可。
 
-## 数据和文件
+同人形象、声音演绎与模型厂商分别署名；本库为社区整理，与相关厂商无官方关系。贡献新的作者版本、声音或出处可按[投稿说明](CONTRIBUTING.md)补充。
 
-```text
-characters/<id>/README.md    38个条目的识别点、版本规则与来源
-assets/zipzippipe/           早期立绘、变体和作者视频Q版展示截帧
-assets/jadpp/               独立项目的角色立绘与鲸鱼娘表情
-assets/previews/            九份轻量预览
-data/                       JSON主记录与CSV导出
-docs/                       八篇专题研究与维护说明
-licenses/upstream/          随素材保留的上游声明
-scripts/verify.py           本地完整性与引用校验
-```
-
-从 [data/README.md](data/README.md) 选择JSON或CSV。CSV包含Unicode列值，适合用UTF-8方式导入表格工具。仓库中的程序不需要网络，也不调用模型API。
-
-下载或克隆后，在仓库目录运行：
-
-```powershell
-python scripts/verify.py
-```
-
-验证会检查文件哈希、大小、关系引用、相对链接和统计。它不证明角色审美、三视图结构正确，也不等于逐作品授权复核。
-
-## 使用与贡献
-
-DeepSeek相关指定图片及JAdpp指定图片保留已有CC BY-NC-SA 4.0条款；其他早期图片依据作者开放分享/再创作声明记录，未统一宣称MIT、CC0或可商用。官方头像、来源不明三视图和禁止转载的纯人声未复制。详情见[来源与使用状态](docs/06-rights-and-provenance.md)。
-
-欢迎补作者原帖、缺失Q版原文件、三视图和明确许可，见[贡献说明](CONTRIBUTING.md)。这不是任何厂商官方形象库，也没有把参考项目安装到用户系统。
-
-本库新写的说明与模板为CC BY 4.0，原创维护脚本为MIT；第三方图片各保留原有状态，见[许可边界](LICENSE.md)。
+维护检查：`python scripts/verify.py`。它只检查库内资料关系、文件与链接，不运行第三方软件。

@@ -1,0 +1,73 @@
+{
+  "checked_on": "2026-10-21",
+  "updates": [
+    {
+      "source": "shuaizenge/ai-girls",
+      "url": "https://github.com/shuaizenge/ai-girls",
+      "commit_sha": "dcd69f5f4f2dff1a9c0031e82deb49e0fe949c76",
+      "git_tree_sha": "ba308779d8a1fd965777bbbcc2fe6b60dd3f442c",
+      "action": "按已有文件SHA-256与作者版本去重，加入7张新图。MiniMax/Llama首版已从AI Moe Atlas取得，不再复制同字节文件；Seed另一发布压缩文件保留为来源关系。",
+      "new_asset_ids": [
+        "zipzippipe-pixiv-148186519-p09",
+        "zipzippipe-pixiv-148186519-p14-variant",
+        "zipzippipe-pixiv-150718881-p03",
+        "zipzippipe-pixiv-150718881-p04-variant",
+        "zipzippipe-bilibili-1236803362705375305-p07",
+        "mimo-adult-01",
+        "mimo-turnaround-02"
+      ],
+      "voice_action": "登记原视频与上游纯人声路径，不将该音频作为本库开放下载素材。",
+      "upstream_preview_note": "新版目录列出部分后续预览，但当前树未包含这些预览文件；本库使用原图入口。"
+    },
+    {
+      "source": "GenderSwapAI",
+      "url": "https://genderswapai.com/ai-gijinka",
+      "http_status": 200,
+      "same_visible_text_as_prior": false,
+      "action": "英文入口对照或路由观察，不将404计作资料。",
+      "text_sha256": "84590bf6531c7ab2bbe01d6bce5ff63d8d9e9f7d172ee5052d21b1d2273e5777"
+    },
+    {
+      "source": "GenderSwapAI",
+      "url": "https://genderswapai.com/zh-CN/ai-gijinka",
+      "http_status": 200,
+      "same_visible_text_as_prior": true,
+      "action": "内容相同，沿用已有整理。",
+      "text_sha256": "405327067b7a550948da6ae3fa6084c63e90b2dc77b5ceed8dc479961fb5916a"
+    },
+    {
+      "source": "GenderSwapAI",
+      "url": "https://genderswapai.com/zh-CN/ai-gijinka/gallery",
+      "http_status": 200,
+      "same_visible_text_as_prior": true,
+      "action": "内容相同，沿用已有整理。",
+      "text_sha256": "405842203c32e397595943bf49fcec4b12885a1823051ca39e819f43936b9236"
+    },
+    {
+      "source": "GenderSwapAI",
+      "url": "https://genderswapai.com/zh-CN/ai-gijinka/fanworks",
+      "http_status": 200,
+      "same_visible_text_as_prior": true,
+      "action": "内容相同，沿用已有整理。",
+      "text_sha256": "3cf3148a9fe8eea4947ce8e6a08b0bbe3f27ba600b1fc358c1ff4bd93ba177ec"
+    },
+    {
+      "source": "GenderSwapAI",
+      "url": "https://genderswapai.com/zh-CN/ai-gijinka/projects",
+      "http_status": 200,
+      "same_visible_text_as_prior": false,
+      "action": "英文入口对照或路由观察，不将404计作资料。",
+      "text_sha256": "9756566ed6a8b2d75555928dcc85233c10d1073b53fda3677648d80746981e73"
+    },
+    {
+      "source": "GenderSwapAI",
+      "url": "https://genderswapai.com/zh-CN/ai-gijinka/history",
+      "http_status": 404,
+      "same_visible_text_as_prior": false,
+      "action": "英文入口对照或路由观察，不将404计作资料。",
+      "text_sha256": "94c7d154a629da04aafa7d597b58833742e5602d3a10c31fdc0b00e169bc18fb"
+    }
+  ],
+  "deduplication": "本轮新增50张原作/派生图和2张已有上游预览；原仓库32张与9张预览保留。",
+  "runtime_scope": "素材、文档与元数据整理；没有安装桌宠、TTS或生图工作流。"
+}

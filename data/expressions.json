@@ -1,0 +1,148 @@
+{
+  "schema_version": 1,
+  "expressions": [
+    {
+      "id": "expression-jadpp-whale-angry",
+      "asset_id": "jadpp-whale-angry",
+      "character_id": "deepseek",
+      "label": "生气",
+      "emotion_tags_editorial": [
+        "生气",
+        "拒绝"
+      ],
+      "suggested_context_editorial": "轻量抱怨或不同意",
+      "series": "jadpp",
+      "note": "标签与使用场景为本库编者分类；原作许可见assets.json。"
+    },
+    {
+      "id": "expression-jadpp-whale-cheerful",
+      "asset_id": "jadpp-whale-cheerful",
+      "character_id": "deepseek",
+      "label": "开心",
+      "emotion_tags_editorial": [
+        "开心",
+        "庆祝"
+      ],
+      "suggested_context_editorial": "收到好消息或完成任务",
+      "series": "jadpp",
+      "note": "标签与使用场景为本库编者分类；原作许可见assets.json。"
+    },
+    {
+      "id": "expression-jadpp-whale-confused",
+      "asset_id": "jadpp-whale-confused",
+      "character_id": "deepseek",
+      "label": "困惑",
+      "emotion_tags_editorial": [
+        "疑惑",
+        "求解释"
+      ],
+      "suggested_context_editorial": "需要澄清与查看结果",
+      "series": "jadpp",
+      "note": "标签与使用场景为本库编者分类；原作许可见assets.json。"
+    },
+    {
+      "id": "expression-jadpp-whale-exasperated",
+      "asset_id": "jadpp-whale-exasperated",
+      "character_id": "deepseek",
+      "label": "无奈",
+      "emotion_tags_editorial": [
+        "无奈",
+        "吐槽"
+      ],
+      "suggested_context_editorial": "重复出错或返工",
+      "series": "jadpp",
+      "note": "标签与使用场景为本库编者分类；原作许可见assets.json。"
+    },
+    {
+      "id": "expression-jadpp-whale-frightened",
+      "asset_id": "jadpp-whale-frightened",
+      "character_id": "deepseek",
+      "label": "害怕",
+      "emotion_tags_editorial": [
+        "惊讶",
+        "害怕"
+      ],
+      "suggested_context_editorial": "意外情况的夸张反应",
+      "series": "jadpp",
+      "note": "标签与使用场景为本库编者分类；原作许可见assets.json。"
+    },
+    {
+      "id": "expression-jadpp-whale-serious",
+      "asset_id": "jadpp-whale-serious",
+      "character_id": "deepseek",
+      "label": "认真",
+      "emotion_tags_editorial": [
+        "认真",
+        "思考"
+      ],
+      "suggested_context_editorial": "进入工作或说明状态",
+      "series": "jadpp",
+      "note": "标签与使用场景为本库编者分类；原作许可见assets.json。"
+    },
+    {
+      "id": "expression-jadpp-whale-shy",
+      "asset_id": "jadpp-whale-shy",
+      "character_id": "deepseek",
+      "label": "害羞",
+      "emotion_tags_editorial": [
+        "害羞",
+        "感谢"
+      ],
+      "suggested_context_editorial": "温和回应与感谢",
+      "series": "jadpp",
+      "note": "标签与使用场景为本库编者分类；原作许可见assets.json。"
+    },
+    {
+      "id": "expression-jadpp-whale-starry",
+      "asset_id": "jadpp-whale-starry",
+      "character_id": "deepseek",
+      "label": "星星眼",
+      "emotion_tags_editorial": [
+        "期待",
+        "兴奋"
+      ],
+      "suggested_context_editorial": "发现喜欢的内容",
+      "series": "jadpp",
+      "note": "标签与使用场景为本库编者分类；原作许可见assets.json。"
+    },
+    {
+      "id": "expression-maid-delighted",
+      "asset_id": "maid-atelier-delighted",
+      "character_id": "deepseek",
+      "label": "开心",
+      "emotion_tags_editorial": [
+        "开心",
+        "期待"
+      ],
+      "suggested_context_editorial": "收到回复或小头像反馈",
+      "series": "maid-atelier",
+      "note": "上游透明表情；不宣称包含眨眼动画或口型。"
+    },
+    {
+      "id": "expression-maid-determined",
+      "asset_id": "maid-atelier-determined",
+      "character_id": "deepseek",
+      "label": "认真",
+      "emotion_tags_editorial": [
+        "认真",
+        "思考"
+      ],
+      "suggested_context_editorial": "需要专注的提示",
+      "series": "maid-atelier",
+      "note": "上游透明表情；不宣称包含眨眼动画或口型。"
+    },
+    {
+      "id": "expression-maid-sleepy",
+      "asset_id": "maid-atelier-sleepy",
+      "character_id": "deepseek",
+      "label": "困倦",
+      "emotion_tags_editorial": [
+        "困倦",
+        "待机"
+      ],
+      "suggested_context_editorial": "休息、等待或深夜语境",
+      "series": "maid-atelier",
+      "note": "上游透明表情；不宣称包含眨眼动画或口型。"
+    }
+  ]
+}

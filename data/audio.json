@@ -1,0 +1,263 @@
+{
+  "schema_version": 1,
+  "note": "声音来源索引，不是音频文件下载包；无歌词镜像。",
+  "audio": [
+    {
+      "id": "audio-ssr",
+      "title": "音色初始候选",
+      "kind": "音色",
+      "character_ids": [
+        "deepseek"
+      ],
+      "video_id": "BV1PPYM6EEUR",
+      "source_id": "src-132f96a0f8",
+      "source_url": "https://www.bilibili.com/video/BV1PPYM6EEUR/",
+      "publisher": "星落落_oi",
+      "duration_seconds": 11,
+      "source_chain_ids": [],
+      "content_summary": "作为音色方向的早期参考，不等于固定的TTS模型文件。",
+      "access_mode": "original_publication",
+      "local_copy": false,
+      "voice_model_download": null,
+      "review_scope": "metadata_and_source_links_only",
+      "rights_as_recorded": "回原页查看；音频不套用角色图的CC许可。",
+      "checked_on": "2026-10-21"
+    },
+    {
+      "id": "audio-ten-voices",
+      "title": "十种音色对比",
+      "kind": "音色对比",
+      "character_ids": [
+        "deepseek"
+      ],
+      "video_id": "BV16NYS6ZE8H",
+      "source_id": "src-829a8497f5",
+      "source_url": "https://www.bilibili.com/video/BV16NYS6ZE8H/",
+      "publisher": "星落落_oi",
+      "duration_seconds": 101,
+      "source_chain_ids": [],
+      "content_summary": "比较候选声音的入口；各段主观听感留给试听。",
+      "access_mode": "original_publication",
+      "local_copy": false,
+      "voice_model_download": null,
+      "review_scope": "metadata_and_source_links_only",
+      "rights_as_recorded": "回原页查看；音频不套用角色图的CC许可。",
+      "checked_on": "2026-10-21"
+    },
+    {
+      "id": "audio-voice-refined",
+      "title": "音色迭代",
+      "kind": "音色",
+      "character_ids": [
+        "deepseek"
+      ],
+      "video_id": "BV1vSYe6kESU",
+      "source_id": "src-57565e8781",
+      "source_url": "https://www.bilibili.com/video/BV1vSYe6kESU/",
+      "publisher": "星落落_oi",
+      "duration_seconds": 21,
+      "source_chain_ids": [
+        "audio-ssr"
+      ],
+      "content_summary": "同作者后续版本，便于追踪选声过程。",
+      "access_mode": "original_publication",
+      "local_copy": false,
+      "voice_model_download": null,
+      "review_scope": "metadata_and_source_links_only",
+      "rights_as_recorded": "回原页查看；音频不套用角色图的CC许可。",
+      "checked_on": "2026-10-21"
+    },
+    {
+      "id": "audio-ren-shi-mao",
+      "title": "《人是猫》翻唱",
+      "kind": "翻唱",
+      "character_ids": [
+        "deepseek"
+      ],
+      "video_id": "BV1fYpn6SEk9",
+      "source_id": "src-aeb2911376",
+      "source_url": "https://www.bilibili.com/video/BV1fYpn6SEk9/",
+      "publisher": "星落落_oi",
+      "duration_seconds": 135,
+      "source_chain_ids": [
+        "audio-ssr",
+        "audio-ren-shi-mao-original"
+      ],
+      "content_summary": "音色、角色动画、词曲作者分开记录。",
+      "access_mode": "original_publication",
+      "local_copy": false,
+      "voice_model_download": null,
+      "review_scope": "metadata_and_source_links_only",
+      "rights_as_recorded": "回原页查看；音频不套用角色图的CC许可。",
+      "checked_on": "2026-10-21"
+    },
+    {
+      "id": "audio-ren-shi-mao-original",
+      "title": "《人是猫》上游原曲",
+      "kind": "原曲（非AI娘）",
+      "character_ids": [],
+      "video_id": "BV1Bfjq6LEDi",
+      "source_id": "src-9970f45aff",
+      "source_url": "https://www.bilibili.com/video/BV1Bfjq6LEDi/",
+      "publisher": "张卡斯",
+      "duration_seconds": 133,
+      "source_chain_ids": [],
+      "content_summary": "张卡斯创作、洛天依演唱；原页提供伴奏入口。",
+      "access_mode": "original_publication",
+      "local_copy": false,
+      "voice_model_download": null,
+      "review_scope": "metadata_and_source_links_only",
+      "rights_as_recorded": "回原页查看；音频不套用角色图的CC许可。",
+      "checked_on": "2026-10-21"
+    },
+    {
+      "id": "audio-let-me-go-one-minute",
+      "title": "Let Me Go一分钟版本",
+      "kind": "歌曲早期版本",
+      "character_ids": [
+        "deepseek"
+      ],
+      "video_id": "BV1R5YL69EC5",
+      "source_id": "src-1ed251ec1e",
+      "source_url": "https://www.bilibili.com/video/BV1R5YL69EC5/",
+      "publisher": "星落落_oi",
+      "duration_seconds": 61,
+      "source_chain_ids": [],
+      "content_summary": "作者简介说明未能稳定复现该音色，适合追踪版本来源。",
+      "access_mode": "original_publication",
+      "local_copy": false,
+      "voice_model_download": null,
+      "review_scope": "metadata_and_source_links_only",
+      "rights_as_recorded": "回原页查看；音频不套用角色图的CC许可。",
+      "checked_on": "2026-10-21"
+    },
+    {
+      "id": "audio-let-me-go-remix",
+      "title": "Let Me Go改编版",
+      "kind": "歌曲改编",
+      "character_ids": [
+        "deepseek"
+      ],
+      "video_id": "BV1XbY66nEWr",
+      "source_id": "src-ae2e90a404",
+      "source_url": "https://www.bilibili.com/video/BV1XbY66nEWr/",
+      "publisher": "罐装毕加索",
+      "duration_seconds": 126,
+      "source_chain_ids": [
+        "audio-let-me-go-one-minute"
+      ],
+      "content_summary": "简介回链一分钟版本，分别署词、曲和背景形象。",
+      "access_mode": "original_publication",
+      "local_copy": false,
+      "voice_model_download": null,
+      "review_scope": "metadata_and_source_links_only",
+      "rights_as_recorded": "回原页查看；音频不套用角色图的CC许可。",
+      "checked_on": "2026-10-21"
+    },
+    {
+      "id": "audio-let-me-go-duet",
+      "title": "Let Me Go对唱版",
+      "kind": "歌曲版本",
+      "character_ids": [
+        "deepseek"
+      ],
+      "video_id": "BV13SYr6dEiQ",
+      "source_id": "src-fb641b9af1",
+      "source_url": "https://www.bilibili.com/video/BV13SYr6dEiQ/",
+      "publisher": "星落落_oi",
+      "duration_seconds": 219,
+      "source_chain_ids": [],
+      "content_summary": "同名歌的另一演绎，不与其他MV视为同一原文件。",
+      "access_mode": "original_publication",
+      "local_copy": false,
+      "voice_model_download": null,
+      "review_scope": "metadata_and_source_links_only",
+      "rights_as_recorded": "回原页查看；音频不套用角色图的CC许可。",
+      "checked_on": "2026-10-21"
+    },
+    {
+      "id": "audio-let-me-go-mv",
+      "title": "Let Me Go动画MV",
+      "kind": "MV",
+      "character_ids": [
+        "deepseek"
+      ],
+      "video_id": "BV1pueU6cEfg",
+      "source_id": "src-990da42259",
+      "source_url": "https://www.bilibili.com/video/BV1pueU6cEfg/",
+      "publisher": "星落落_oi",
+      "duration_seconds": 219,
+      "source_chain_ids": [],
+      "content_summary": "把声音与角色舞台演出放在同一版本观察。",
+      "access_mode": "original_publication",
+      "local_copy": false,
+      "voice_model_download": null,
+      "review_scope": "metadata_and_source_links_only",
+      "rights_as_recorded": "回原页查看；音频不套用角色图的CC许可。",
+      "checked_on": "2026-10-21"
+    },
+    {
+      "id": "audio-let-me-go-soft",
+      "title": "Let Me Go温柔版本",
+      "kind": "音色变体",
+      "character_ids": [
+        "deepseek"
+      ],
+      "video_id": "BV1gaeA6mEyJ",
+      "source_id": "src-06312131fe",
+      "source_url": "https://www.bilibili.com/video/BV1gaeA6mEyJ/",
+      "publisher": "星落落_oi",
+      "duration_seconds": 212,
+      "source_chain_ids": [],
+      "content_summary": "温柔是作者标题的描述；本轮不作实听音质结论。",
+      "access_mode": "original_publication",
+      "local_copy": false,
+      "voice_model_download": null,
+      "review_scope": "metadata_and_source_links_only",
+      "rights_as_recorded": "回原页查看；音频不套用角色图的CC许可。",
+      "checked_on": "2026-10-21"
+    },
+    {
+      "id": "audio-screen-both-sides",
+      "title": "《屏幕两端》",
+      "kind": "改编歌曲",
+      "character_ids": [
+        "deepseek"
+      ],
+      "video_id": "BV1GZaN6DEBR",
+      "source_id": "src-991f9bd632",
+      "source_url": "https://www.bilibili.com/video/BV1GZaN6DEBR/",
+      "publisher": "八千女鬼-",
+      "duration_seconds": 199,
+      "source_chain_ids": [],
+      "content_summary": "原页标注星落落_oi音色及《燕无歇》改编关系。",
+      "access_mode": "original_publication",
+      "local_copy": false,
+      "voice_model_download": null,
+      "review_scope": "metadata_and_source_links_only",
+      "rights_as_recorded": "回原页查看；音频不套用角色图的CC许可。",
+      "checked_on": "2026-10-21"
+    },
+    {
+      "id": "audio-tts-reading",
+      "title": "DeepSeek语音展示",
+      "kind": "朗读演示",
+      "character_ids": [
+        "deepseek"
+      ],
+      "video_id": "BV1nJY26QEdV",
+      "source_id": "src-92e69aeb51",
+      "source_url": "https://www.bilibili.com/video/BV1nJY26QEdV/",
+      "publisher": "earth五行",
+      "duration_seconds": 47,
+      "source_chain_ids": [],
+      "content_summary": "区别于演唱音色，原页未给可下载统一音库。",
+      "access_mode": "original_publication",
+      "local_copy": false,
+      "voice_model_download": null,
+      "review_scope": "metadata_and_source_links_only",
+      "rights_as_recorded": "回原页查看；音频不套用角色图的CC许可。",
+      "checked_on": "2026-10-21"
+    }
+  ]
+}

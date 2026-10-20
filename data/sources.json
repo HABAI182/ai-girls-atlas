@@ -1048,6 +1048,590 @@
       "checked_on": "2026-10-20",
       "evidence_level": "curator_metadata_only",
       "note": "已从固定作品数据中读到此详情地址；没有逐项重新验证图片或作者授权。"
+    },
+    {
+      "id": "src-7d6d1d5015",
+      "url": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/README.md",
+      "title": "ai-school-op：项目说明和图片许可",
+      "checked_on": "2026-10-21",
+      "evidence_level": "pinned_repository_text",
+      "note": "公开来源与目录读取；未运行上游程序。"
+    },
+    {
+      "id": "src-863473febf",
+      "url": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/README.md",
+      "title": "18位校园AI娘演员表",
+      "checked_on": "2026-10-21",
+      "evidence_level": "pinned_repository_text",
+      "note": "公开来源与目录读取；未运行上游程序。"
+    },
+    {
+      "id": "src-16534796c6",
+      "url": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/designs/claude.prompt.txt",
+      "title": "校园claude作者提示词",
+      "checked_on": "2026-10-21",
+      "evidence_level": "pinned_repository_text",
+      "note": "公开来源与目录读取；未运行上游程序。"
+    },
+    {
+      "id": "src-dd821bddb8",
+      "url": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/designs/cohere.prompt.txt",
+      "title": "校园cohere作者提示词",
+      "checked_on": "2026-10-21",
+      "evidence_level": "pinned_repository_text",
+      "note": "公开来源与目录读取；未运行上游程序。"
+    },
+    {
+      "id": "src-c133a02d4c",
+      "url": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/designs/copilot.prompt.txt",
+      "title": "校园copilot作者提示词",
+      "checked_on": "2026-10-21",
+      "evidence_level": "pinned_repository_text",
+      "note": "公开来源与目录读取；未运行上游程序。"
+    },
+    {
+      "id": "src-aecfc4fecb",
+      "url": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/designs/deepseek.prompt.txt",
+      "title": "校园deepseek作者提示词",
+      "checked_on": "2026-10-21",
+      "evidence_level": "pinned_repository_text",
+      "note": "公开来源与目录读取；未运行上游程序。"
+    },
+    {
+      "id": "src-dafaefb17c",
+      "url": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/designs/doubao.prompt.txt",
+      "title": "校园doubao作者提示词",
+      "checked_on": "2026-10-21",
+      "evidence_level": "pinned_repository_text",
+      "note": "公开来源与目录读取；未运行上游程序。"
+    },
+    {
+      "id": "src-8fafda5907",
+      "url": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/designs/ernie.prompt.txt",
+      "title": "校园ernie作者提示词",
+      "checked_on": "2026-10-21",
+      "evidence_level": "pinned_repository_text",
+      "note": "公开来源与目录读取；未运行上游程序。"
+    },
+    {
+      "id": "src-614c501560",
+      "url": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/designs/gemini.prompt.txt",
+      "title": "校园gemini作者提示词",
+      "checked_on": "2026-10-21",
+      "evidence_level": "pinned_repository_text",
+      "note": "公开来源与目录读取；未运行上游程序。"
+    },
+    {
+      "id": "src-3cb18a4850",
+      "url": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/designs/glm.prompt.txt",
+      "title": "校园glm作者提示词",
+      "checked_on": "2026-10-21",
+      "evidence_level": "pinned_repository_text",
+      "note": "公开来源与目录读取；未运行上游程序。"
+    },
+    {
+      "id": "src-7bc7471853",
+      "url": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/designs/gpt.prompt.txt",
+      "title": "校园gpt作者提示词",
+      "checked_on": "2026-10-21",
+      "evidence_level": "pinned_repository_text",
+      "note": "公开来源与目录读取；未运行上游程序。"
+    },
+    {
+      "id": "src-ce62ff9f96",
+      "url": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/designs/grok.prompt.txt",
+      "title": "校园grok作者提示词",
+      "checked_on": "2026-10-21",
+      "evidence_level": "pinned_repository_text",
+      "note": "公开来源与目录读取；未运行上游程序。"
+    },
+    {
+      "id": "src-246d5fe606",
+      "url": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/designs/hunyuan.prompt.txt",
+      "title": "校园hunyuan作者提示词",
+      "checked_on": "2026-10-21",
+      "evidence_level": "pinned_repository_text",
+      "note": "公开来源与目录读取；未运行上游程序。"
+    },
+    {
+      "id": "src-b4846a8be8",
+      "url": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/designs/kimi.prompt.txt",
+      "title": "校园kimi作者提示词",
+      "checked_on": "2026-10-21",
+      "evidence_level": "pinned_repository_text",
+      "note": "公开来源与目录读取；未运行上游程序。"
+    },
+    {
+      "id": "src-f935f5749c",
+      "url": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/designs/llama.prompt.txt",
+      "title": "校园llama作者提示词",
+      "checked_on": "2026-10-21",
+      "evidence_level": "pinned_repository_text",
+      "note": "公开来源与目录读取；未运行上游程序。"
+    },
+    {
+      "id": "src-9df664fe98",
+      "url": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/designs/minimax.prompt.txt",
+      "title": "校园minimax作者提示词",
+      "checked_on": "2026-10-21",
+      "evidence_level": "pinned_repository_text",
+      "note": "公开来源与目录读取；未运行上游程序。"
+    },
+    {
+      "id": "src-7519e41294",
+      "url": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/designs/mistral.prompt.txt",
+      "title": "校园mistral作者提示词",
+      "checked_on": "2026-10-21",
+      "evidence_level": "pinned_repository_text",
+      "note": "公开来源与目录读取；未运行上游程序。"
+    },
+    {
+      "id": "src-df5958ee04",
+      "url": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/designs/perplexity.prompt.txt",
+      "title": "校园perplexity作者提示词",
+      "checked_on": "2026-10-21",
+      "evidence_level": "pinned_repository_text",
+      "note": "公开来源与目录读取；未运行上游程序。"
+    },
+    {
+      "id": "src-b54b97c19d",
+      "url": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/designs/qwen.prompt.txt",
+      "title": "校园qwen作者提示词",
+      "checked_on": "2026-10-21",
+      "evidence_level": "pinned_repository_text",
+      "note": "公开来源与目录读取；未运行上游程序。"
+    },
+    {
+      "id": "src-86a60f88ee",
+      "url": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/designs/spark.prompt.txt",
+      "title": "校园spark作者提示词",
+      "checked_on": "2026-10-21",
+      "evidence_level": "pinned_repository_text",
+      "note": "公开来源与目录读取；未运行上游程序。"
+    },
+    {
+      "id": "src-22fa810a0e",
+      "url": "https://github.com/Apprentice-Geo/AI-Fanworks/blob/ee1f5176710f3bcfd60ee5cb0af00f77ed96748e/ApprenTice/AI-Girls-and-Chibis/README.md",
+      "title": "ApprenTice常规与Q版图：参考和逐目录许可",
+      "checked_on": "2026-10-21",
+      "evidence_level": "pinned_repository_text",
+      "note": "公开来源与目录读取；未运行上游程序。"
+    },
+    {
+      "id": "src-57ada90d6d",
+      "url": "https://github.com/Apprentice-Geo/AI-Fanworks/blob/ee1f5176710f3bcfd60ee5cb0af00f77ed96748e/ApprenTice/AI-Girls-and-Chibis/Prompts.md",
+      "title": "ApprenTice图集提示词文件",
+      "checked_on": "2026-10-21",
+      "evidence_level": "pinned_repository_index",
+      "note": "公开树已确认文件存在；本轮未全文审读长提示词。"
+    },
+    {
+      "id": "src-ce1ce0a429",
+      "url": "https://github.com/SelinLee/ai-moe-atlas/blob/018bc3ca6c8d946006dacfc0bca7bf65a6dff4d6/public/collected/zipzippipe-llama/evidence/source-statement-1.json",
+      "title": "AI Moe Atlas留存的llama作者发布与使用说明",
+      "checked_on": "2026-10-21",
+      "evidence_level": "upstream_evidence_snapshot",
+      "note": "上游留存的Pixiv公开元数据；本轮读取此记录，未声称重新登录Pixiv核验。"
+    },
+    {
+      "id": "src-e3b48382d0",
+      "url": "https://github.com/SelinLee/ai-moe-atlas/blob/018bc3ca6c8d946006dacfc0bca7bf65a6dff4d6/public/collected/zipzippipe-minimax/evidence/source-statement-1.json",
+      "title": "AI Moe Atlas留存的minimax作者发布与使用说明",
+      "checked_on": "2026-10-21",
+      "evidence_level": "upstream_evidence_snapshot",
+      "note": "上游留存的Pixiv公开元数据；本轮读取此记录，未声称重新登录Pixiv核验。"
+    },
+    {
+      "id": "src-29d06f544b",
+      "url": "https://github.com/Small-tailqwq/dsh-deep-whale/blob/e74fa8439b8584ed16113920894491b5e0e1e4a0/maid-atelier/NOTICE",
+      "title": "深海女仆工坊素材署名链与处理记录",
+      "checked_on": "2026-10-21",
+      "evidence_level": "pinned_repository_text",
+      "note": "公开来源与目录读取；未运行上游程序。"
+    },
+    {
+      "id": "src-45e43a9f10",
+      "url": "https://github.com/Small-tailqwq/dsh-deep-whale/blob/e74fa8439b8584ed16113920894491b5e0e1e4a0/maid-atelier/LICENSE-ARTWORK",
+      "title": "深海女仆工坊美术CC许可",
+      "checked_on": "2026-10-21",
+      "evidence_level": "pinned_repository_text",
+      "note": "公开来源与目录读取；未运行上游程序。"
+    },
+    {
+      "id": "src-64550de9e4",
+      "url": "https://github.com/shuaizenge/ai-girls/blob/dcd69f5f4f2dff1a9c0031e82deb49e0fe949c76/README.md",
+      "title": "shuaizenge/ai-girls更新后的目录说明",
+      "checked_on": "2026-10-21",
+      "evidence_level": "pinned_repository_text",
+      "note": "公开来源与目录读取；未运行上游程序。"
+    },
+    {
+      "id": "src-b9006a9bef",
+      "url": "https://github.com/shuaizenge/ai-girls/blob/dcd69f5f4f2dff1a9c0031e82deb49e0fe949c76/NOTICE.md",
+      "title": "shuaizenge/ai-girls更新后的作者与声音说明",
+      "checked_on": "2026-10-21",
+      "evidence_level": "pinned_repository_text",
+      "note": "公开来源与目录读取；未运行上游程序。"
+    },
+    {
+      "id": "src-09cee6cfdb",
+      "url": "https://github.com/lmy414/ai-girl-stickers/issues/35",
+      "title": "MiMo娘作者投稿与CC BY-NC声明",
+      "checked_on": "2026-10-21",
+      "evidence_level": "author_submission",
+      "note": "读取公开投稿正文：作者甶丶、原帖、两张图和CC BY-NC；未写具体CC版本号。"
+    },
+    {
+      "id": "src-2f1b5b7594",
+      "url": "https://github.com/SelinLee/ai-moe-atlas/blob/018bc3ca6c8d946006dacfc0bca7bf65a6dff4d6/README.md",
+      "title": "SelinLee/ai-moe-atlas 项目说明",
+      "checked_on": "2026-10-21",
+      "evidence_level": "pinned_repository_text",
+      "note": "公开来源与目录读取；未运行上游程序。"
+    },
+    {
+      "id": "src-9b9a6a8a5d",
+      "url": "https://github.com/Apprentice-Geo/AI-Fanworks/blob/ee1f5176710f3bcfd60ee5cb0af00f77ed96748e/README.md",
+      "title": "Apprentice-Geo/AI-Fanworks 项目说明",
+      "checked_on": "2026-10-21",
+      "evidence_level": "pinned_repository_text",
+      "note": "公开来源与目录读取；未运行上游程序。"
+    },
+    {
+      "id": "src-507e461309",
+      "url": "https://github.com/Small-tailqwq/dsh-deep-whale/blob/e74fa8439b8584ed16113920894491b5e0e1e4a0/README.md",
+      "title": "Small-tailqwq/dsh-deep-whale 项目说明",
+      "checked_on": "2026-10-21",
+      "evidence_level": "pinned_repository_text",
+      "note": "公开来源与目录读取；未运行上游程序。"
+    },
+    {
+      "id": "src-8b2c1a1e58",
+      "url": "https://github.com/TreapGoGo/deepseek-whale-girl/blob/99fdf6e419a4097cc9b2d6a8a808f7b96a412e38/README.md",
+      "title": "TreapGoGo/deepseek-whale-girl 项目说明",
+      "checked_on": "2026-10-21",
+      "evidence_level": "pinned_repository_text",
+      "note": "公开来源与目录读取；未运行上游程序。"
+    },
+    {
+      "id": "src-004eaab78f",
+      "url": "https://github.com/AATINF/deepseek-whale-girl-assets/blob/a7e58d261885e12a7652d4677e1412edbab557e8/README.md",
+      "title": "AATINF/deepseek-whale-girl-assets 项目说明",
+      "checked_on": "2026-10-21",
+      "evidence_level": "pinned_repository_text",
+      "note": "公开来源与目录读取；未运行上游程序。"
+    },
+    {
+      "id": "src-21b5b6616a",
+      "url": "https://github.com/Neko3000/deepseek-whalechan/blob/ced7e609db91e8743e7919611eee31f1c093b7e9/README.md",
+      "title": "Neko3000/deepseek-whalechan 项目说明",
+      "checked_on": "2026-10-21",
+      "evidence_level": "pinned_repository_text",
+      "note": "公开来源与目录读取；未运行上游程序。"
+    },
+    {
+      "id": "src-3a5e9bcd07",
+      "url": "https://github.com/EDMOK/blue-fish-archive/blob/b498c80d69fe81f766422bd0c45e857d3a68ba34/README.md",
+      "title": "EDMOK/blue-fish-archive 项目说明",
+      "checked_on": "2026-10-21",
+      "evidence_level": "pinned_repository_text",
+      "note": "公开来源与目录读取；未运行上游程序。"
+    },
+    {
+      "id": "src-6db5e21550",
+      "url": "https://github.com/the-beating-light-of-the-nail/deepseek-chan-meme-pack/blob/c82a0fb1c8958c2f0d6ea7fa7c12128027cfd7c6/README.md",
+      "title": "the-beating-light-of-the-nail/deepseek-chan-meme-pack 项目说明",
+      "checked_on": "2026-10-21",
+      "evidence_level": "pinned_repository_text",
+      "note": "公开来源与目录读取；未运行上游程序。"
+    },
+    {
+      "id": "src-c0f4e78bb7",
+      "url": "https://github.com/tqlearning/ai-girl-chatgpt-pets/blob/3afe14603b40e24c75e87e097cbfee1bfc10290d/README.md",
+      "title": "tqlearning/ai-girl-chatgpt-pets 项目说明",
+      "checked_on": "2026-10-21",
+      "evidence_level": "pinned_repository_text",
+      "note": "公开来源与目录读取；未运行上游程序。"
+    },
+    {
+      "id": "src-f26a41e9e9",
+      "url": "https://github.com/legeling/awesome-codex-pet/blob/022aea52f75841d31f57b7596479ebb425480a50/README.md",
+      "title": "legeling/awesome-codex-pet 项目说明",
+      "checked_on": "2026-10-21",
+      "evidence_level": "pinned_repository_text",
+      "note": "公开来源与目录读取；未运行上游程序。"
+    },
+    {
+      "id": "src-f7d330c3ae",
+      "url": "https://github.com/AwesomeHou/openpet-ai-girls/blob/72677712a7991b32f87c219dd8a6d86e5cc4f672/README.md",
+      "title": "AwesomeHou/openpet-ai-girls 项目说明",
+      "checked_on": "2026-10-21",
+      "evidence_level": "pinned_repository_text",
+      "note": "公开来源与目录读取；未运行上游程序。"
+    },
+    {
+      "id": "src-5746a29c51",
+      "url": "https://github.com/lokicorvus/crosspet/blob/6e98970f6ff9b44e8ac85215241cabcd78f67d92/README.md",
+      "title": "lokicorvus/crosspet 项目说明",
+      "checked_on": "2026-10-21",
+      "evidence_level": "pinned_repository_text",
+      "note": "公开来源与目录读取；未运行上游程序。"
+    },
+    {
+      "id": "src-64db636886",
+      "url": "https://github.com/glt258/anime-character-director/blob/b64385fd2c6a4c2e28045dea875319ec461fb28a/README.md",
+      "title": "glt258/anime-character-director 项目说明",
+      "checked_on": "2026-10-21",
+      "evidence_level": "pinned_repository_text",
+      "note": "公开来源与目录读取；未运行上游程序。"
+    },
+    {
+      "id": "src-5ab74ca1ef",
+      "url": "https://github.com/legeling/awesome-codex-pet/blob/022aea52f75841d31f57b7596479ebb425480a50/pets/codex-dragon-girl--orient37/submission.json",
+      "title": "Codex龙娘·居家版 独立版本记录",
+      "checked_on": "2026-10-21",
+      "evidence_level": "pinned_repository_text",
+      "note": "公开来源与目录读取；未运行上游程序。"
+    },
+    {
+      "id": "src-5cf24a4fd0",
+      "url": "https://github.com/legeling/awesome-codex-pet/blob/022aea52f75841d31f57b7596479ebb425480a50/pets/deepseek-girl--legeling/submission.json",
+      "title": "DeepSeek Girl 独立版本记录",
+      "checked_on": "2026-10-21",
+      "evidence_level": "pinned_repository_text",
+      "note": "公开来源与目录读取；未运行上游程序。"
+    },
+    {
+      "id": "src-f94d9d5e76",
+      "url": "https://github.com/legeling/awesome-codex-pet/blob/022aea52f75841d31f57b7596479ebb425480a50/pets/deepseek-whalechan--qimi/submission.json",
+      "title": "DeepSeek Whalechan 独立版本记录",
+      "checked_on": "2026-10-21",
+      "evidence_level": "pinned_repository_text",
+      "note": "公开来源与目录读取；未运行上游程序。"
+    },
+    {
+      "id": "src-ddf6cc3468",
+      "url": "https://github.com/legeling/awesome-codex-pet/blob/022aea52f75841d31f57b7596479ebb425480a50/pets/gpt-dragon-girl--legeling/submission.json",
+      "title": "GPT Dragon Girl 独立版本记录",
+      "checked_on": "2026-10-21",
+      "evidence_level": "pinned_repository_text",
+      "note": "公开来源与目录读取；未运行上游程序。"
+    },
+    {
+      "id": "src-e1e27a18a5",
+      "url": "https://github.com/legeling/awesome-codex-pet/blob/022aea52f75841d31f57b7596479ebb425480a50/pets/gpt-dragon-girl--tenghuan123/submission.json",
+      "title": "GPT龙娘 独立版本记录",
+      "checked_on": "2026-10-21",
+      "evidence_level": "pinned_repository_text",
+      "note": "公开来源与目录读取；未运行上游程序。"
+    },
+    {
+      "id": "src-fb641b9af1",
+      "url": "https://www.bilibili.com/video/BV13SYr6dEiQ/",
+      "title": "Let me go大肥鱼和用户深情对唱",
+      "checked_on": "2026-10-21",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "公开API标题、简介、作者及播放互动快照；本轮未完整观看或试听。"
+    },
+    {
+      "id": "src-1845559f0f",
+      "url": "https://www.bilibili.com/video/BV15X3n6mEWy/",
+      "title": "大肥鱼 炸盆子",
+      "checked_on": "2026-10-21",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "公开API标题、简介、作者及播放互动快照；本轮未完整观看或试听。"
+    },
+    {
+      "id": "src-829a8497f5",
+      "url": "https://www.bilibili.com/video/BV16NYS6ZE8H/",
+      "title": "大肥鱼工作摸鱼歌，10种音色你喜欢哪个？",
+      "checked_on": "2026-10-21",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "公开API标题、简介、作者及播放互动快照；本轮未完整观看或试听。"
+    },
+    {
+      "id": "src-9970f45aff",
+      "url": "https://www.bilibili.com/video/BV1Bfjq6LEDi/",
+      "title": "【洛天依原创】人是猫",
+      "checked_on": "2026-10-21",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "公开API标题、简介、作者及播放互动快照；本轮未完整观看或试听。"
+    },
+    {
+      "id": "src-aeb2911376",
+      "url": "https://www.bilibili.com/video/BV1fYpn6SEk9/",
+      "title": "deepseek 翻唱《人是猫》真完整版，大肥鱼觉得人和猫一样可爱,所以人是猫",
+      "checked_on": "2026-10-21",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "公开API标题、简介、作者及播放互动快照；本轮未完整观看或试听。"
+    },
+    {
+      "id": "src-06312131fe",
+      "url": "https://www.bilibili.com/video/BV1gaeA6mEyJ/",
+      "title": "大音鲸唱Let me go最温柔的一次，1分17秒超爽副歌",
+      "checked_on": "2026-10-21",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "公开API标题、简介、作者及播放互动快照；本轮未完整观看或试听。"
+    },
+    {
+      "id": "src-b646ec75c1",
+      "url": "https://www.bilibili.com/video/BV1Gu8p6hEyF/",
+      "title": "与AI娘们的七夕特辑《六等分的花嫁》（？",
+      "checked_on": "2026-10-21",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "公开API标题、简介、作者及播放互动快照；本轮未完整观看或试听。"
+    },
+    {
+      "id": "src-9bb4105ed5",
+      "url": "https://www.bilibili.com/video/BV1gVJe6cEVU/",
+      "title": "【白饭决战】大肥鱼VS梁圣",
+      "checked_on": "2026-10-21",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "公开API标题、简介、作者及播放互动快照；本轮未完整观看或试听。"
+    },
+    {
+      "id": "src-991f9bd632",
+      "url": "https://www.bilibili.com/video/BV1GZaN6DEBR/",
+      "title": "蓝色大肥鱼深情演唱《屏幕两端》 你能听懂肥鱼的心声嘛？ 改编自《燕无歇》",
+      "checked_on": "2026-10-21",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "公开API标题、简介、作者及播放互动快照；本轮未完整观看或试听。"
+    },
+    {
+      "id": "src-557491bb4f",
+      "url": "https://www.bilibili.com/video/BV1MNYy6WEgY/",
+      "title": "琵琶曲 | 大肥鱼 vs 豆包",
+      "checked_on": "2026-10-21",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "公开API标题、简介、作者及播放互动快照；本轮未完整观看或试听。"
+    },
+    {
+      "id": "src-70742b88cb",
+      "url": "https://www.bilibili.com/video/BV1Nfag6xEHQ/",
+      "title": "【10月新番】败犬AI太多了！ 正式PV【4K】",
+      "checked_on": "2026-10-21",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "公开API标题、简介、作者及播放互动快照；本轮未完整观看或试听。"
+    },
+    {
+      "id": "src-92e69aeb51",
+      "url": "https://www.bilibili.com/video/BV1nJY26QEdV/",
+      "title": "deepseek语音 大肥鱼每次读出来的语气都不一样呢😍",
+      "checked_on": "2026-10-21",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "公开API标题、简介、作者及播放互动快照；本轮未完整观看或试听。"
+    },
+    {
+      "id": "src-f641719b8c",
+      "url": "https://www.bilibili.com/video/BV1Pgt36VEeg/",
+      "title": "你怎么知道我钓到了蓝色大肥鱼？",
+      "checked_on": "2026-10-21",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "公开API标题、简介、作者及播放互动快照；本轮未完整观看或试听。"
+    },
+    {
+      "id": "src-132f96a0f8",
+      "url": "https://www.bilibili.com/video/BV1PPYM6EEUR/",
+      "title": "一发入魂！ssr大肥鱼音色！",
+      "checked_on": "2026-10-21",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "公开API标题、简介、作者及播放互动快照；本轮未完整观看或试听。"
+    },
+    {
+      "id": "src-990da42259",
+      "url": "https://www.bilibili.com/video/BV1pueU6cEfg/",
+      "title": "大肥鱼Let me go 首支mv！出道进度（1/10）",
+      "checked_on": "2026-10-21",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "公开API标题、简介、作者及播放互动快照；本轮未完整观看或试听。"
+    },
+    {
+      "id": "src-1ed251ec1e",
+      "url": "https://www.bilibili.com/video/BV1R5YL69EC5/",
+      "title": "音鲸干活唱歌1分钟纯享版",
+      "checked_on": "2026-10-21",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "公开API标题、简介、作者及播放互动快照；本轮未完整观看或试听。"
+    },
+    {
+      "id": "src-57565e8781",
+      "url": "https://www.bilibili.com/video/BV1vSYe6kESU/",
+      "title": "终于把音鲸的音色熔炼完成了！",
+      "checked_on": "2026-10-21",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "公开API标题、简介、作者及播放互动快照；本轮未完整观看或试听。"
+    },
+    {
+      "id": "src-ae2e90a404",
+      "url": "https://www.bilibili.com/video/BV1XbY66nEWr/",
+      "title": "[AI] 大肥鱼摸鱼歌《Let Me Go》",
+      "checked_on": "2026-10-21",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "公开API标题、简介、作者及播放互动快照；本轮未完整观看或试听。"
+    },
+    {
+      "id": "src-d472a56998",
+      "url": "https://aigengtu.com/meme/001",
+      "title": "梗鲸#001 气鼓鼓与价格吐槽",
+      "checked_on": "2026-10-21",
+      "evidence_level": "web_index_metadata",
+      "note": "本轮详情页或目录条目文字；不把署名的说明文作者认作图像作者。"
+    },
+    {
+      "id": "src-44c955cf67",
+      "url": "https://aigengtu.com/meme/003",
+      "title": "梗鲸#003 看不懂用户输入",
+      "checked_on": "2026-10-21",
+      "evidence_level": "web_index_metadata",
+      "note": "本轮详情页或目录条目文字；不把署名的说明文作者认作图像作者。"
+    },
+    {
+      "id": "src-8d048366b9",
+      "url": "https://aigengtu.com/meme/010",
+      "title": "梗鲸#010 发现高手",
+      "checked_on": "2026-10-21",
+      "evidence_level": "web_page_text",
+      "note": "本轮详情页或目录条目文字；不把署名的说明文作者认作图像作者。"
+    },
+    {
+      "id": "src-ce527eb4ce",
+      "url": "https://aigengtu.com/meme/012",
+      "title": "梗鲸#012 最后还是自己来画",
+      "checked_on": "2026-10-21",
+      "evidence_level": "web_page_text",
+      "note": "本轮详情页或目录条目文字；不把署名的说明文作者认作图像作者。"
+    },
+    {
+      "id": "src-26cca3698e",
+      "url": "https://aigengtu.com/meme/037",
+      "title": "梗鲸#037 挽留用户",
+      "checked_on": "2026-10-21",
+      "evidence_level": "web_index_metadata",
+      "note": "本轮详情页或目录条目文字；不把署名的说明文作者认作图像作者。"
+    },
+    {
+      "id": "src-9cb4ccffb2",
+      "url": "https://aigengtu.com/meme/064",
+      "title": "梗鲸#064 蓝女仆Q版三视图",
+      "checked_on": "2026-10-21",
+      "evidence_level": "web_page_text",
+      "note": "本轮详情页或目录条目文字；不把署名的说明文作者认作图像作者。"
+    },
+    {
+      "id": "src-df489c9028",
+      "url": "https://aigengtu.com/meme/065",
+      "title": "梗鲸#065 虎鲸版本三视图",
+      "checked_on": "2026-10-21",
+      "evidence_level": "web_page_text",
+      "note": "本轮详情页或目录条目文字；不把署名的说明文作者认作图像作者。"
+    },
+    {
+      "id": "src-49414bc114",
+      "url": "https://aigengtu.com/meme/123",
+      "title": "梗鲸#123 蹭一碗饭",
+      "checked_on": "2026-10-21",
+      "evidence_level": "web_index_metadata",
+      "note": "本轮详情页或目录条目文字；不把署名的说明文作者认作图像作者。"
     }
   ]
 }

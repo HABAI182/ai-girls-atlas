@@ -1,0 +1,389 @@
+{
+  "schema_version": 1,
+  "projects": [
+    {
+      "id": "project-selinlee",
+      "repository": "SelinLee/ai-moe-atlas",
+      "url": "https://github.com/SelinLee/ai-moe-atlas",
+      "homepage": "https://selinlee.github.io/ai-moe-atlas/",
+      "commit_sha": "018bc3ca6c8d946006dacfc0bca7bf65a6dff4d6",
+      "git_tree_sha": "0d954517b34f94b133e67aa72e099cfc24a79678",
+      "kind": "多语图鉴与素材工坊",
+      "value_for_atlas": "补全MiniMax/Llama原图，借鉴逐作品来源与文件处理记录。",
+      "rights_note": "逐图条件；生成参考与作者原图分开。",
+      "character_ids": [
+        "deepseek",
+        "gpt",
+        "claude",
+        "gemini",
+        "kimi",
+        "qwen",
+        "minimax",
+        "llama"
+      ],
+      "local_asset_ids": [
+        "zipzippipe-pixiv-148186519-p13",
+        "zipzippipe-pixiv-148186519-p15"
+      ],
+      "source_ids": [
+        "src-2f1b5b7594"
+      ],
+      "review_scope": "public_repository_docs_and_tree",
+      "runtime_tested": false,
+      "checked_on": "2026-10-21"
+    },
+    {
+      "id": "project-apprentice-geo",
+      "repository": "Apprentice-Geo/AI-Fanworks",
+      "url": "https://github.com/Apprentice-Geo/AI-Fanworks",
+      "homepage": "",
+      "commit_sha": "ee1f5176710f3bcfd60ee5cb0af00f77ed96748e",
+      "git_tree_sha": "f3ec125ec7ac7991f650c823fa4a84c836b85e68",
+      "kind": "按投稿作者归档",
+      "value_for_atlas": "补入ApprenTice常规与Q版；另有风格、海报与提示词。",
+      "rights_note": "仅选有目录许可的ApprenTice图；两位海报作者保留权利，外链即可。",
+      "character_ids": [
+        "gpt",
+        "claude",
+        "deepseek",
+        "glm",
+        "gemini",
+        "grok",
+        "kimi",
+        "minimax",
+        "qwen"
+      ],
+      "local_asset_ids": [
+        "apprentice-chatgpt-chibi",
+        "apprentice-chatgpt-girl",
+        "apprentice-claude-chibi",
+        "apprentice-claude-girl",
+        "apprentice-deepseek-chibi",
+        "apprentice-deepseek-girl",
+        "apprentice-glm-chibi",
+        "apprentice-glm-fox-chibi",
+        "apprentice-glm-fox-girl",
+        "apprentice-glm-girl",
+        "apprentice-gemini-chibi",
+        "apprentice-gemini-girl",
+        "apprentice-grok-chibi",
+        "apprentice-grok-girl",
+        "apprentice-kimi-chibi",
+        "apprentice-kimi-girl",
+        "apprentice-minimax-chibi",
+        "apprentice-minimax-girl",
+        "apprentice-qwen-chibi",
+        "apprentice-qwen-girl"
+      ],
+      "source_ids": [
+        "src-9b9a6a8a5d"
+      ],
+      "review_scope": "public_repository_docs_and_tree",
+      "runtime_tested": false,
+      "checked_on": "2026-10-21"
+    },
+    {
+      "id": "project-lshhhhhhh",
+      "repository": "lshhhhhhh/ai-school-op",
+      "url": "https://github.com/lshhhhhhh/ai-school-op",
+      "homepage": null,
+      "commit_sha": "379e83eebe0f5c34eefa81ca4ef8203c1c54ae64",
+      "git_tree_sha": "46f1ef05059a9752c6b6f67b89a0af8e56e411b8",
+      "kind": "校园形象与分镜制作",
+      "value_for_atlas": "18位统一服装的人设及逐角色提示词，补星火/Cohere。",
+      "rights_note": "人设图CC BY-NC 4.0；原作动画和音乐不随本库复制。",
+      "character_ids": [
+        "claude",
+        "cohere",
+        "copilot-school",
+        "deepseek",
+        "doubao",
+        "wenxin",
+        "gemini",
+        "glm",
+        "gpt",
+        "grok",
+        "hunyuan",
+        "kimi",
+        "llama",
+        "minimax",
+        "mistral",
+        "perplexity",
+        "qwen",
+        "spark"
+      ],
+      "local_asset_ids": [
+        "school-op-claude",
+        "school-op-cohere",
+        "school-op-copilot",
+        "school-op-deepseek",
+        "school-op-doubao",
+        "school-op-ernie",
+        "school-op-gemini",
+        "school-op-glm",
+        "school-op-gpt",
+        "school-op-grok",
+        "school-op-hunyuan",
+        "school-op-kimi",
+        "school-op-llama",
+        "school-op-minimax",
+        "school-op-mistral",
+        "school-op-perplexity",
+        "school-op-qwen",
+        "school-op-spark"
+      ],
+      "source_ids": [
+        "src-7d6d1d5015"
+      ],
+      "review_scope": "public_repository_docs_and_tree",
+      "runtime_tested": false,
+      "checked_on": "2026-10-21"
+    },
+    {
+      "id": "project-small-tailqwq",
+      "repository": "Small-tailqwq/dsh-deep-whale",
+      "url": "https://github.com/Small-tailqwq/dsh-deep-whale",
+      "homepage": "",
+      "commit_sha": "e74fa8439b8584ed16113920894491b5e0e1e4a0",
+      "git_tree_sha": "f578554cbc2fd70fd170e162ed0a87948c99ef60",
+      "kind": "角色皮肤与表情",
+      "value_for_atlas": "新增三个透明表情，并保留上游抠图及署名链记录。",
+      "rights_note": "代码与美术分别声明；本次仅取maid-atelier明确覆盖的图片。",
+      "character_ids": [
+        "deepseek"
+      ],
+      "local_asset_ids": [
+        "maid-atelier-delighted",
+        "maid-atelier-determined",
+        "maid-atelier-sleepy"
+      ],
+      "source_ids": [
+        "src-507e461309"
+      ],
+      "review_scope": "public_repository_docs_and_tree",
+      "runtime_tested": false,
+      "checked_on": "2026-10-21"
+    },
+    {
+      "id": "project-treapgogo",
+      "repository": "TreapGoGo/deepseek-whale-girl",
+      "url": "https://github.com/TreapGoGo/deepseek-whale-girl",
+      "homepage": "https://treapgogo.github.io/deepseek-whale-girl/",
+      "commit_sha": "99fdf6e419a4097cc9b2d6a8a808f7b96a412e38",
+      "git_tree_sha": "fc8e91a6136046207b217237ac1d400a62c741c2",
+      "kind": "二创资源与工作流",
+      "value_for_atlas": "从单一角色入口继续发现服装、绘画和社区项目。",
+      "rights_note": "网站MIT不覆盖所有角色图；工作流为参考链接。",
+      "character_ids": [
+        "deepseek"
+      ],
+      "local_asset_ids": [],
+      "source_ids": [
+        "src-8b2c1a1e58"
+      ],
+      "review_scope": "public_repository_docs_and_tree",
+      "runtime_tested": false,
+      "checked_on": "2026-10-21"
+    },
+    {
+      "id": "project-aatinf",
+      "repository": "AATINF/deepseek-whale-girl-assets",
+      "url": "https://github.com/AATINF/deepseek-whale-girl-assets",
+      "homepage": null,
+      "commit_sha": "a7e58d261885e12a7652d4677e1412edbab557e8",
+      "git_tree_sha": "13e54a965df401a889c5d8f3a0fd58784f74f52f",
+      "kind": "细节拆解与Prompt清单",
+      "value_for_atlas": "93张扩展包提供服装、鲸尾、配色、姿势等检索思路。",
+      "rights_note": "README把上游图片称MIT，原维护者已在Issue37纠正；本轮留链接。",
+      "character_ids": [
+        "deepseek"
+      ],
+      "local_asset_ids": [],
+      "source_ids": [
+        "src-004eaab78f"
+      ],
+      "review_scope": "public_repository_docs_and_tree",
+      "runtime_tested": false,
+      "checked_on": "2026-10-21"
+    },
+    {
+      "id": "project-neko3000",
+      "repository": "Neko3000/deepseek-whalechan",
+      "url": "https://github.com/Neko3000/deepseek-whalechan",
+      "homepage": "",
+      "commit_sha": "ced7e609db91e8743e7919611eee31f1c093b7e9",
+      "git_tree_sha": "eea02aa97124423078bcf991dfcdbd05051c365e",
+      "kind": "角色一致性规范",
+      "value_for_atlas": "已有角色可继续补比例、服装、动作和参考图用途。",
+      "rights_note": "文档与图片范围不同；没有逐图授权映射的参考图留外链。",
+      "character_ids": [
+        "deepseek"
+      ],
+      "local_asset_ids": [],
+      "source_ids": [
+        "src-21b5b6616a"
+      ],
+      "review_scope": "public_repository_docs_and_tree",
+      "runtime_tested": false,
+      "checked_on": "2026-10-21"
+    },
+    {
+      "id": "project-edmok",
+      "repository": "EDMOK/blue-fish-archive",
+      "url": "https://github.com/EDMOK/blue-fish-archive",
+      "homepage": "",
+      "commit_sha": "b498c80d69fe81f766422bd0c45e857d3a68ba34",
+      "git_tree_sha": "d8440685bdae8d28c3be2e6f3e68c28ebc0b14ee",
+      "kind": "表情包原始档案",
+      "value_for_atlas": "补上lmy414部分早期档案的上游来源关系。",
+      "rights_note": "图像仍按具体作者条件；不把站点图库整批再授权。",
+      "character_ids": [
+        "deepseek"
+      ],
+      "local_asset_ids": [],
+      "source_ids": [
+        "src-3a5e9bcd07"
+      ],
+      "review_scope": "public_repository_docs_and_tree",
+      "runtime_tested": false,
+      "checked_on": "2026-10-21"
+    },
+    {
+      "id": "project-the-beating-light-of-the-nail",
+      "repository": "the-beating-light-of-the-nail/deepseek-chan-meme-pack",
+      "url": "https://github.com/the-beating-light-of-the-nail/deepseek-chan-meme-pack",
+      "homepage": "https://aigengtu.com",
+      "commit_sha": "c82a0fb1c8958c2f0d6ea7fa7c12128027cfd7c6",
+      "git_tree_sha": "c654106f50cc7f3e65419638dc399f96676cd9fd",
+      "kind": "表情与语境导航",
+      "value_for_atlas": "结合梗鲸详情页，增加情绪和对话场景索引。",
+      "rights_note": "README数量与在线目录可能不同；不以整理站代替图片作者。",
+      "character_ids": [
+        "deepseek",
+        "gpt"
+      ],
+      "local_asset_ids": [],
+      "source_ids": [
+        "src-6db5e21550"
+      ],
+      "review_scope": "public_repository_docs_and_tree",
+      "runtime_tested": false,
+      "checked_on": "2026-10-21"
+    },
+    {
+      "id": "project-tqlearning",
+      "repository": "tqlearning/ai-girl-chatgpt-pets",
+      "url": "https://github.com/tqlearning/ai-girl-chatgpt-pets",
+      "homepage": null,
+      "commit_sha": "3afe14603b40e24c75e87e097cbfee1bfc10290d",
+      "git_tree_sha": "68ac755bae03773bc7ec862f8f4c5030b2860b6f",
+      "kind": "透明精灵图结构参考",
+      "value_for_atlas": "两套角色动作与方向布局，可供理解动画素材组织。",
+      "rights_note": "其美术开放授权尚未确认；本库只索引，不打包。",
+      "character_ids": [
+        "deepseek",
+        "gpt"
+      ],
+      "local_asset_ids": [],
+      "source_ids": [
+        "src-c0f4e78bb7"
+      ],
+      "review_scope": "public_repository_docs_and_tree",
+      "runtime_tested": false,
+      "checked_on": "2026-10-21"
+    },
+    {
+      "id": "project-legeling",
+      "repository": "legeling/awesome-codex-pet",
+      "url": "https://github.com/legeling/awesome-codex-pet",
+      "homepage": "https://codexpet.top",
+      "commit_sha": "022aea52f75841d31f57b7596479ebb425480a50",
+      "git_tree_sha": "ac8809bf71437aafeb22c305f8ff0b0951f0529f",
+      "kind": "多作者宠物版本目录",
+      "value_for_atlas": "同一请求下区分GPT两作者与Codex居家版本。",
+      "rights_note": "逐submission保留非商业与署名待核内容；未安装运行。",
+      "character_ids": [
+        "deepseek",
+        "gpt",
+        "codex"
+      ],
+      "local_asset_ids": [],
+      "source_ids": [
+        "src-f26a41e9e9"
+      ],
+      "review_scope": "public_repository_docs_and_tree",
+      "runtime_tested": false,
+      "checked_on": "2026-10-21"
+    },
+    {
+      "id": "project-awesomehou",
+      "repository": "AwesomeHou/openpet-ai-girls",
+      "url": "https://github.com/AwesomeHou/openpet-ai-girls",
+      "homepage": "",
+      "commit_sha": "72677712a7991b32f87c219dd8a6d86e5cc4f672",
+      "git_tree_sha": "c2f004b3ca2fa66eba4332a2b87ca8ec1c35a256",
+      "kind": "另一套多角色宠物设计",
+      "value_for_atlas": "与常见ZipZipPipe系列对照，避免产品同名就合并角色。",
+      "rights_note": "声明偏向仓库内查看与欣赏，本轮只链接。",
+      "character_ids": [
+        "deepseek",
+        "gpt",
+        "claude",
+        "gemini",
+        "doubao"
+      ],
+      "local_asset_ids": [],
+      "source_ids": [
+        "src-f7d330c3ae"
+      ],
+      "review_scope": "public_repository_docs_and_tree",
+      "runtime_tested": false,
+      "checked_on": "2026-10-21"
+    },
+    {
+      "id": "project-lokicorvus",
+      "repository": "lokicorvus/crosspet",
+      "url": "https://github.com/lokicorvus/crosspet",
+      "homepage": "https://github.com/lokicorvus/crosspet/releases/latest",
+      "commit_sha": "6e98970f6ff9b44e8ac85215241cabcd78f67d92",
+      "git_tree_sha": "230ceb6865429b8ce390130920eba766d1eec764",
+      "kind": "任务状态与角色动作",
+      "value_for_atlas": "可参考多模型角色、服装和工作动作的分工。",
+      "rights_note": "单独美术CC BY-NC-SA声明；本轮读取文档，不运行桌宠。",
+      "character_ids": [
+        "deepseek",
+        "gpt",
+        "claude",
+        "gemini",
+        "glm",
+        "qwen"
+      ],
+      "local_asset_ids": [],
+      "source_ids": [
+        "src-5746a29c51"
+      ],
+      "review_scope": "public_repository_docs_and_tree",
+      "runtime_tested": false,
+      "checked_on": "2026-10-21"
+    },
+    {
+      "id": "project-glt258",
+      "repository": "glt258/anime-character-director",
+      "url": "https://github.com/glt258/anime-character-director",
+      "homepage": "",
+      "commit_sha": "b64385fd2c6a4c2e28045dea875319ec461fb28a",
+      "git_tree_sha": "2042941530ef3dd62a2810c219d1cd028d94acc4",
+      "kind": "通用角色设计方法",
+      "value_for_atlas": "借鉴参考图分工、约束与改稿记录，属于制作工具。",
+      "rights_note": "不作为AI娘原设定或现成角色素材统计。",
+      "character_ids": [],
+      "local_asset_ids": [],
+      "source_ids": [
+        "src-64db636886"
+      ],
+      "review_scope": "public_repository_docs_and_tree",
+      "runtime_tested": false,
+      "checked_on": "2026-10-21"
+    }
+  ]
+}
