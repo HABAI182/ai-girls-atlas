@@ -1,0 +1,15 @@
+name: 署名、来源或下架请求
+description: 指出具体文件和可核查的更正依据
+title: "[更正] "
+body:
+  - type: textarea
+    attributes:
+      label: 文件路径或条目链接
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: 请求与公开证据
+      description: 不要提交私人证件、电话号码或其他敏感个人信息。
+    validations:
+      required: true

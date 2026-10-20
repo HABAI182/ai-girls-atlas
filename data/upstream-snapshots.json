@@ -1,0 +1,82 @@
+{
+  "snapshots": [
+    {
+      "repository": "shuaizenge/ai-girls",
+      "default_branch": "main",
+      "git_tree_sha": "71defe761164407514c1db9bac582d74eab4cdac",
+      "tree_truncated": false,
+      "checked_on": "2026-10-20",
+      "file_count": 58,
+      "image_file_count": 41,
+      "note": "文件数量包含预览与派生文件，不是独立作品数。"
+    },
+    {
+      "repository": "lmy414/ai-girl-stickers",
+      "default_branch": "main",
+      "git_tree_sha": "98a173476851d3a7804e9b6a0c740f18f4671556",
+      "tree_truncated": false,
+      "checked_on": "2026-10-20",
+      "file_count": 3098,
+      "image_file_count": 3089,
+      "note": "文件数量包含预览与派生文件，不是独立作品数。"
+    },
+    {
+      "repository": "lmy414/bluedafeiyu",
+      "default_branch": "main",
+      "git_tree_sha": "d40c3109c9c0bf8b34f4be19569fd768a4992fc4",
+      "tree_truncated": false,
+      "checked_on": "2026-10-20",
+      "file_count": 510,
+      "image_file_count": 0,
+      "note": "文件数量包含预览与派生文件，不是独立作品数。"
+    },
+    {
+      "repository": "JAdpp/dsh-whale-galgame",
+      "default_branch": "main",
+      "git_tree_sha": "046b848f244450e6e636335766276bf3343fe84b",
+      "tree_truncated": false,
+      "checked_on": "2026-10-20",
+      "file_count": 65,
+      "image_file_count": 25,
+      "note": "文件数量包含预览与派生文件，不是独立作品数。"
+    }
+  ],
+  "lmy_metadata_statistics": {
+    "works_records": 936,
+    "character_classification_records": 24,
+    "character_occurrences": {
+      "deepseek": 750,
+      "claude": 52,
+      "qwen": 18,
+      "grok": 10,
+      "stepfun": 3,
+      "glm": 14,
+      "gpt": 71,
+      "mimo": 3,
+      "gemini": 23,
+      "kimi": 23,
+      "other": 19,
+      "doubao": 8,
+      "opencode": 1,
+      "huggingface": 1,
+      "git": 3,
+      "zcode": 1,
+      "rwkv": 1,
+      "mistral": 1,
+      "minimax": 2,
+      "perplexity": 1,
+      "hunyuan": 1,
+      "novelai": 1,
+      "llama": 1
+    },
+    "license_fields": {
+      "unknown": 66,
+      "submitter-permission": 25,
+      "cc0": 96,
+      "cc-by-nc": 6,
+      "author-permission": 2,
+      "unrecorded": 741
+    },
+    "note": "统计本次固定数据快照；多角色作品可能重复计入角色出现次数。未逐图核验，不把空许可或站点标签升级为作者授权。"
+  }
+}

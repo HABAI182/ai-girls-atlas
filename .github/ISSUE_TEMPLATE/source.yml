@@ -1,0 +1,21 @@
+name: 补充角色或来源
+description: 提交原作、版本、许可或出处线索
+title: "[资料] "
+body:
+  - type: textarea
+    attributes:
+      label: 角色、作者与版本
+      description: 请区分产品、模型、工具及官方/同人来源。
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: 原帖与许可证据
+      description: 找不到许可就写未知；本表提交不等于已获再分发许可。
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: 新资料或纠错内容
+    validations:
+      required: true

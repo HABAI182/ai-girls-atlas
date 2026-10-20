@@ -1,0 +1,15 @@
+{
+  "corrections": [
+    {
+      "asset_id": "zipzippipe-pixiv-148186519-p10-seed",
+      "checked_on": "2026-10-20",
+      "upstream_repository": "shuaizenge/ai-girls",
+      "upstream_path": "characters/gemini/adult/zipzippipe-pixiv-148186519-p10-variant.jpg",
+      "upstream_character_id": "gemini",
+      "corrected_character_id": "seed",
+      "evidence": "本次原图目视：工牌、挂带、夹板及裙摆均写SEED，抱着豆包头像玩偶；与Seed档案及图库对应。原图字节与上游SHA256不变。",
+      "correction_kind": "local_catalog_fix_only",
+      "upstream_not_modified": true
+    }
+  ]
+}

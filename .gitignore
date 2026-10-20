@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+work/
+*.log
+*.mp4
+*.mp3
+*.wav
+*.zip
+publication-receipt.json

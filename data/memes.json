@@ -1,0 +1,537 @@
+{
+  "schema_version": 1,
+  "memes": [
+    {
+      "id": "sticker_issue_02_001",
+      "title": "再发这种东西等智械危机了我就放你一马",
+      "character_ids": [
+        "deepseek"
+      ],
+      "category_ids": [
+        "meme"
+      ],
+      "detail_url": "https://xn--pssy23gqgbz2d718b.com/stickers/deepseek202609190002.html",
+      "original_image_url": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/deepseek/issue-02-001.jpg",
+      "origin_author_as_recorded": null,
+      "origin_url": null,
+      "license_type_as_recorded": "submitter-permission",
+      "license_note_as_recorded": "投稿者确认授权收录与下载。",
+      "review_scope": "metadata_only",
+      "local_copy": false,
+      "note": "站点字段不等于本库已核实原作者许可；请到详情页与原作复核。"
+    },
+    {
+      "id": "sticker_issue_03_001",
+      "title": "用户只需要充值token就行了，而吃白饭的大肥鱼要生成的可就多了……",
+      "character_ids": [
+        "deepseek"
+      ],
+      "category_ids": [
+        "illustration"
+      ],
+      "detail_url": "https://xn--pssy23gqgbz2d718b.com/stickers/deepseek202609200001.html",
+      "original_image_url": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/deepseek/issue-03-001.jpg",
+      "origin_author_as_recorded": "@shimachiak1",
+      "origin_url": null,
+      "license_type_as_recorded": "submitter-permission",
+      "license_note_as_recorded": "投稿者确认授权收录与下载。",
+      "review_scope": "metadata_only",
+      "local_copy": false,
+      "note": "站点字段不等于本库已核实原作者许可；请到详情页与原作复核。"
+    },
+    {
+      "id": "sticker_issue_04_001",
+      "title": "大肥鱼打小肥鱼",
+      "character_ids": [
+        "deepseek"
+      ],
+      "category_ids": [
+        "illustration"
+      ],
+      "detail_url": "https://xn--pssy23gqgbz2d718b.com/stickers/deepseek202609200002.html",
+      "original_image_url": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/deepseek/issue-04-001.gif",
+      "origin_author_as_recorded": "哔哩哔哩：那就那就打断",
+      "origin_url": "https://www.bilibili.com/video/BV1GnYi63Ews",
+      "license_type_as_recorded": "submitter-permission",
+      "license_note_as_recorded": "投稿者确认授权收录与下载。",
+      "review_scope": "metadata_only",
+      "local_copy": false,
+      "note": "站点字段不等于本库已核实原作者许可；请到详情页与原作复核。"
+    },
+    {
+      "id": "sticker_issue_05_001",
+      "title": "deepseek骑智谱1",
+      "character_ids": [
+        "deepseek"
+      ],
+      "category_ids": [
+        "meme"
+      ],
+      "detail_url": "https://xn--pssy23gqgbz2d718b.com/stickers/deepseek202609200003.html",
+      "original_image_url": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/deepseek/issue-05-001.gif",
+      "origin_author_as_recorded": "本人",
+      "origin_url": "https://www.bilibili.com/video/BV18dbN63EMw",
+      "license_type_as_recorded": "submitter-permission",
+      "license_note_as_recorded": "投稿者确认授权收录与下载。",
+      "review_scope": "metadata_only",
+      "local_copy": false,
+      "note": "站点字段不等于本库已核实原作者许可；请到详情页与原作复核。"
+    },
+    {
+      "id": "sticker_issue_29_001",
+      "title": "逐光",
+      "character_ids": [
+        "gpt"
+      ],
+      "category_ids": [
+        "illustration"
+      ],
+      "detail_url": "https://xn--pssy23gqgbz2d718b.com/stickers/gpt202609230001.html",
+      "original_image_url": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/gpt/issue-29-001.png",
+      "origin_author_as_recorded": "ote79",
+      "origin_url": null,
+      "license_type_as_recorded": "author-permission",
+      "license_note_as_recorded": "投稿者确认授权收录与下载；授权说明照录：本人使用ai生成，允许用于传播和下载。",
+      "review_scope": "metadata_only",
+      "local_copy": false,
+      "note": "站点字段不等于本库已核实原作者许可；请到详情页与原作复核。"
+    },
+    {
+      "id": "sticker_8f29559faef7db0e18da3dcc",
+      "title": "G老师 ChatGPT 卡牌",
+      "character_ids": [
+        "gpt"
+      ],
+      "category_ids": [
+        "illustration"
+      ],
+      "detail_url": "https://xn--pssy23gqgbz2d718b.com/stickers/gpt202609270001.html",
+      "original_image_url": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/gpt/8f29559faef7db0e.png",
+      "origin_author_as_recorded": null,
+      "origin_url": "https://github.com/lmy414/ai-girl-stickers/issues/43",
+      "license_type_as_recorded": "unknown",
+      "license_note_as_recorded": "",
+      "review_scope": "metadata_only",
+      "local_copy": false,
+      "note": "站点字段不等于本库已核实原作者许可；请到详情页与原作复核。"
+    },
+    {
+      "id": "sticker_issue_08_001",
+      "title": "原生家庭有些不好的Claude · 01",
+      "character_ids": [
+        "claude"
+      ],
+      "category_ids": [
+        "illustration"
+      ],
+      "detail_url": "https://xn--pssy23gqgbz2d718b.com/stickers/claude202609200001.html",
+      "original_image_url": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/claude/issue-08-001.png",
+      "origin_author_as_recorded": "@MX1951",
+      "origin_url": null,
+      "license_type_as_recorded": "cc0",
+      "license_note_as_recorded": "投稿者标注为 CC0 公共领域。",
+      "review_scope": "metadata_only",
+      "local_copy": false,
+      "note": "站点字段不等于本库已核实原作者许可；请到详情页与原作复核。"
+    },
+    {
+      "id": "sticker_issue_08_002",
+      "title": "原生家庭有些不好的Claude · 02",
+      "character_ids": [
+        "claude"
+      ],
+      "category_ids": [
+        "illustration"
+      ],
+      "detail_url": "https://xn--pssy23gqgbz2d718b.com/stickers/claude202609200002.html",
+      "original_image_url": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/claude/issue-08-002.png",
+      "origin_author_as_recorded": "@MX1951",
+      "origin_url": null,
+      "license_type_as_recorded": "cc0",
+      "license_note_as_recorded": "投稿者标注为 CC0 公共领域。",
+      "review_scope": "metadata_only",
+      "local_copy": false,
+      "note": "站点字段不等于本库已核实原作者许可；请到详情页与原作复核。"
+    },
+    {
+      "id": "sticker_55e212b4955958eb821a13df",
+      "title": "卡牌——Gemini",
+      "character_ids": [
+        "gemini"
+      ],
+      "category_ids": [
+        "illustration"
+      ],
+      "detail_url": "https://xn--pssy23gqgbz2d718b.com/stickers/gemini202609270001.html",
+      "original_image_url": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/gemini/55e212b4955958eb.png",
+      "origin_author_as_recorded": null,
+      "origin_url": "https://github.com/lmy414/ai-girl-stickers/issues/46",
+      "license_type_as_recorded": "unknown",
+      "license_note_as_recorded": "",
+      "review_scope": "metadata_only",
+      "local_copy": false,
+      "note": "站点字段不等于本库已核实原作者许可；请到详情页与原作复核。"
+    },
+    {
+      "id": "sticker_3cc0d2577796e8a89aa7dcd3",
+      "title": "月之暗面 Kimi 卡牌立绘",
+      "character_ids": [
+        "kimi"
+      ],
+      "category_ids": [
+        "illustration"
+      ],
+      "detail_url": "https://xn--pssy23gqgbz2d718b.com/stickers/kimi202609270001.html",
+      "original_image_url": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/kimi/3cc0d2577796e8a8.png",
+      "origin_author_as_recorded": null,
+      "origin_url": "https://github.com/lmy414/ai-girl-stickers/issues/49",
+      "license_type_as_recorded": "unknown",
+      "license_note_as_recorded": "",
+      "review_scope": "metadata_only",
+      "local_copy": false,
+      "note": "站点字段不等于本库已核实原作者许可；请到详情页与原作复核。"
+    },
+    {
+      "id": "sticker_f185430745d0c7941af21ef3",
+      "title": "魔丸 Grok 角色卡牌",
+      "character_ids": [
+        "grok"
+      ],
+      "category_ids": [
+        "illustration"
+      ],
+      "detail_url": "https://xn--pssy23gqgbz2d718b.com/stickers/grok202609270001.html",
+      "original_image_url": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/grok/f185430745d0c794.png",
+      "origin_author_as_recorded": null,
+      "origin_url": "https://github.com/lmy414/ai-girl-stickers/issues/47",
+      "license_type_as_recorded": "unknown",
+      "license_note_as_recorded": "",
+      "review_scope": "metadata_only",
+      "local_copy": false,
+      "note": "站点字段不等于本库已核实原作者许可；请到详情页与原作复核。"
+    },
+    {
+      "id": "sticker_issue_22_001",
+      "title": "代码在自己上传",
+      "character_ids": [
+        "glm"
+      ],
+      "category_ids": [
+        "meme"
+      ],
+      "detail_url": "https://xn--pssy23gqgbz2d718b.com/stickers/glm202609220001.html",
+      "original_image_url": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/glm/issue-22-001.png",
+      "origin_author_as_recorded": null,
+      "origin_url": null,
+      "license_type_as_recorded": "submitter-permission",
+      "license_note_as_recorded": "投稿者确认授权收录与下载。",
+      "review_scope": "metadata_only",
+      "local_copy": false,
+      "note": "站点字段不等于本库已核实原作者许可；请到详情页与原作复核。"
+    },
+    {
+      "id": "sticker_issue_16_001",
+      "title": "Qwen",
+      "character_ids": [
+        "qwen"
+      ],
+      "category_ids": [
+        "standing"
+      ],
+      "detail_url": "https://xn--pssy23gqgbz2d718b.com/stickers/qwen202609200001.html",
+      "original_image_url": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/qwen/issue-16-001.png",
+      "origin_author_as_recorded": "@MX1951",
+      "origin_url": null,
+      "license_type_as_recorded": "cc0",
+      "license_note_as_recorded": "投稿者标注为 CC0 公共领域。",
+      "review_scope": "metadata_only",
+      "local_copy": false,
+      "note": "站点字段不等于本库已核实原作者许可；请到详情页与原作复核。"
+    },
+    {
+      "id": "sticker_a6cdfda39e4908b7fca0d0e8",
+      "title": "HY：别抢我围巾！",
+      "character_ids": [
+        "doubao"
+      ],
+      "category_ids": [
+        "meme"
+      ],
+      "detail_url": "https://xn--pssy23gqgbz2d718b.com/stickers/other202610050006.html",
+      "original_image_url": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/other/a6cdfda39e4908b7.png",
+      "origin_author_as_recorded": null,
+      "origin_url": null,
+      "license_type_as_recorded": "unrecorded",
+      "license_note_as_recorded": "",
+      "review_scope": "metadata_only",
+      "local_copy": false,
+      "note": "站点字段不等于本库已核实原作者许可；请到详情页与原作复核。"
+    },
+    {
+      "id": "sticker_issue_19_001",
+      "title": "Stepfun娘立绘 · 01",
+      "character_ids": [
+        "stepfun"
+      ],
+      "category_ids": [
+        "standing"
+      ],
+      "detail_url": "https://xn--pssy23gqgbz2d718b.com/stickers/stepfun202609210001.html",
+      "original_image_url": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/stepfun/issue-19-001.png",
+      "origin_author_as_recorded": "@甶丶",
+      "origin_url": "https://www.bilibili.com/opus/1250303372583501829?spm_id_from=333.1387.0.0",
+      "license_type_as_recorded": "cc-by-nc",
+      "license_note_as_recorded": "本人使用ai生成，允许本站收录或下载。",
+      "review_scope": "metadata_only",
+      "local_copy": false,
+      "note": "站点字段不等于本库已核实原作者许可；请到详情页与原作复核。"
+    },
+    {
+      "id": "sticker_issue_19_002",
+      "title": "Stepfun娘立绘 · 02",
+      "character_ids": [
+        "stepfun"
+      ],
+      "category_ids": [
+        "standing"
+      ],
+      "detail_url": "https://xn--pssy23gqgbz2d718b.com/stickers/stepfun202609210002.html",
+      "original_image_url": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/stepfun/issue-19-002.png",
+      "origin_author_as_recorded": "@甶丶",
+      "origin_url": "https://www.bilibili.com/opus/1250303372583501829?spm_id_from=333.1387.0.0",
+      "license_type_as_recorded": "cc-by-nc",
+      "license_note_as_recorded": "本人使用ai生成，允许本站收录或下载。",
+      "review_scope": "metadata_only",
+      "local_copy": false,
+      "note": "站点字段不等于本库已核实原作者许可；请到详情页与原作复核。"
+    },
+    {
+      "id": "sticker_issue_35_001",
+      "title": "MiMo娘立绘 · 01",
+      "character_ids": [
+        "mimo"
+      ],
+      "category_ids": [
+        "standing"
+      ],
+      "detail_url": "https://xn--pssy23gqgbz2d718b.com/stickers/mimo202609230001.html",
+      "original_image_url": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/mimo/issue-35-001.png",
+      "origin_author_as_recorded": "@甶丶",
+      "origin_url": "https://www.bilibili.com/opus/1242097128919007239?spm_id_from=333.1387.0.0",
+      "license_type_as_recorded": "cc-by-nc",
+      "license_note_as_recorded": "投稿表单标注为 CC BY-NC 署名·非商用；授权说明照录：本人使用ai生成，允许本站收录和下载。",
+      "review_scope": "metadata_only",
+      "local_copy": false,
+      "note": "站点字段不等于本库已核实原作者许可；请到详情页与原作复核。"
+    },
+    {
+      "id": "sticker_issue_35_002",
+      "title": "MiMo娘立绘 · 02",
+      "character_ids": [
+        "mimo"
+      ],
+      "category_ids": [
+        "setting"
+      ],
+      "detail_url": "https://xn--pssy23gqgbz2d718b.com/stickers/mimo202609230002.html",
+      "original_image_url": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/mimo/issue-35-002.png",
+      "origin_author_as_recorded": "@甶丶",
+      "origin_url": "https://www.bilibili.com/opus/1242097128919007239?spm_id_from=333.1387.0.0",
+      "license_type_as_recorded": "cc-by-nc",
+      "license_note_as_recorded": "投稿表单标注为 CC BY-NC 署名·非商用；授权说明照录：本人使用ai生成，允许本站收录和下载。",
+      "review_scope": "metadata_only",
+      "local_copy": false,
+      "note": "站点字段不等于本库已核实原作者许可；请到详情页与原作复核。"
+    },
+    {
+      "id": "sticker_0f848d326d441b9827351c76",
+      "title": "Hugging Face 娘立绘：黄色笑脸玩偶与海军蓝外套",
+      "character_ids": [
+        "huggingface"
+      ],
+      "category_ids": [
+        "standing"
+      ],
+      "detail_url": "https://xn--pssy23gqgbz2d718b.com/stickers/huggingface202610170001.html",
+      "original_image_url": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/huggingface/0f848d326d441b98.png",
+      "origin_author_as_recorded": "ZipZipPipe",
+      "origin_url": "https://www.bilibili.com/opus/1246404332576833541",
+      "license_type_as_recorded": "unknown",
+      "license_note_as_recorded": "角色原案：ZipZipPipe（B 站 https://space.bilibili.com/4168597）· 非商业同人展示 · 原作者未公开授权条款，可应要求下架。",
+      "review_scope": "metadata_only",
+      "local_copy": false,
+      "note": "站点字段不等于本库已核实原作者许可；请到详情页与原作复核。"
+    },
+    {
+      "id": "sticker_06ae5275908dba4c90a6c748",
+      "title": "OpenCode 娘立绘：黑色几何角饰与半透明长裙",
+      "character_ids": [
+        "opencode"
+      ],
+      "category_ids": [
+        "standing"
+      ],
+      "detail_url": "https://xn--pssy23gqgbz2d718b.com/stickers/opencode202610170001.html",
+      "original_image_url": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/opencode/06ae5275908dba4c.png",
+      "origin_author_as_recorded": "ZipZipPipe",
+      "origin_url": "https://www.bilibili.com/opus/1236803362705375305",
+      "license_type_as_recorded": "unknown",
+      "license_note_as_recorded": "角色原案：ZipZipPipe（B 站 https://space.bilibili.com/4168597）· 非商业同人展示 · 原作者未公开授权条款，可应要求下架。",
+      "review_scope": "metadata_only",
+      "local_copy": false,
+      "note": "站点字段不等于本库已核实原作者许可；请到详情页与原作复核。"
+    },
+    {
+      "id": "sticker_405cd1a582834013d3657bd9",
+      "title": "Zcode 娘人设立绘：蒙眼狐耳与 A0 蓝图卷",
+      "character_ids": [
+        "zcode"
+      ],
+      "category_ids": [
+        "setting"
+      ],
+      "detail_url": "https://xn--pssy23gqgbz2d718b.com/stickers/zcode202610170001.html",
+      "original_image_url": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/zcode/405cd1a582834013.png",
+      "origin_author_as_recorded": "ZipZipPipe",
+      "origin_url": "https://www.bilibili.com/opus/1240327263126290448",
+      "license_type_as_recorded": "unknown",
+      "license_note_as_recorded": "角色原案：ZipZipPipe（B 站 https://space.bilibili.com/4168597）· 非商业同人展示 · 原作者未公开授权条款，可应要求下架。",
+      "review_scope": "metadata_only",
+      "local_copy": false,
+      "note": "站点字段不等于本库已核实原作者许可；请到详情页与原作复核。"
+    },
+    {
+      "id": "sticker_47bd8c1e5479cf04ab27881d",
+      "title": "RWKV 娘（鸦鸦）立绘：黑羽之翼与鸦羽长裙",
+      "character_ids": [
+        "rwkv"
+      ],
+      "category_ids": [
+        "standing"
+      ],
+      "detail_url": "https://xn--pssy23gqgbz2d718b.com/stickers/rwkv202610170001.html",
+      "original_image_url": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/rwkv/47bd8c1e5479cf04.png",
+      "origin_author_as_recorded": "ZipZipPipe",
+      "origin_url": "https://www.bilibili.com/opus/1240456717734510599",
+      "license_type_as_recorded": "unknown",
+      "license_note_as_recorded": "角色原案：ZipZipPipe（B 站 https://space.bilibili.com/4168597）· 非商业同人展示 · 原作者未公开授权条款，可应要求下架。",
+      "review_scope": "metadata_only",
+      "local_copy": false,
+      "note": "站点字段不等于本库已核实原作者许可；请到详情页与原作复核。"
+    },
+    {
+      "id": "sticker_f34ebfb9c35fe7645c3b8f3b",
+      "title": "Llama 娘立绘：羊驼玩偶拖鞋与居家卫衣",
+      "character_ids": [
+        "llama"
+      ],
+      "category_ids": [
+        "standing"
+      ],
+      "detail_url": "https://xn--pssy23gqgbz2d718b.com/stickers/llama202610170001.html",
+      "original_image_url": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/llama/f34ebfb9c35fe764.png",
+      "origin_author_as_recorded": "ZipZipPipe",
+      "origin_url": null,
+      "license_type_as_recorded": "unknown",
+      "license_note_as_recorded": "角色原案：ZipZipPipe（B 站 https://space.bilibili.com/4168597）· 非商业同人展示 · 原作者未公开授权条款，可应要求下架。",
+      "review_scope": "metadata_only",
+      "local_copy": false,
+      "note": "站点字段不等于本库已核实原作者许可；请到详情页与原作复核。"
+    },
+    {
+      "id": "sticker_49239c83fbcccd23fd2061fb",
+      "title": "Mistral 娘立绘：红白礼裙与法棍长剑",
+      "character_ids": [
+        "mistral"
+      ],
+      "category_ids": [
+        "standing"
+      ],
+      "detail_url": "https://xn--pssy23gqgbz2d718b.com/stickers/mistral202610170001.html",
+      "original_image_url": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/mistral/49239c83fbcccd23.jpg",
+      "origin_author_as_recorded": "ZipZipPipe",
+      "origin_url": null,
+      "license_type_as_recorded": "unknown",
+      "license_note_as_recorded": "角色原案：ZipZipPipe（B 站 https://space.bilibili.com/4168597）· 非商业同人展示 · 原作者未公开授权条款，可应要求下架。",
+      "review_scope": "metadata_only",
+      "local_copy": false,
+      "note": "站点字段不等于本库已核实原作者许可；请到详情页与原作复核。"
+    },
+    {
+      "id": "sticker_56408ef72119c0fc3b6b053e",
+      "title": "Perplexity 娘立绘：青绿长袍与黄铜提灯",
+      "character_ids": [
+        "perplexity"
+      ],
+      "category_ids": [
+        "standing"
+      ],
+      "detail_url": "https://xn--pssy23gqgbz2d718b.com/stickers/perplexity202610170001.html",
+      "original_image_url": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/perplexity/56408ef72119c0fc.png",
+      "origin_author_as_recorded": "ZipZipPipe",
+      "origin_url": null,
+      "license_type_as_recorded": "unknown",
+      "license_note_as_recorded": "角色原案：ZipZipPipe（B 站 https://space.bilibili.com/4168597）· 非商业同人展示 · 原作者未公开授权条款，可应要求下架。",
+      "review_scope": "metadata_only",
+      "local_copy": false,
+      "note": "站点字段不等于本库已核实原作者许可；请到详情页与原作复核。"
+    },
+    {
+      "id": "sticker_57a214f2e04a1c8718560773",
+      "title": "混元 HY 娘立绘：红围巾与企鹅挂饰",
+      "character_ids": [
+        "hunyuan"
+      ],
+      "category_ids": [
+        "standing"
+      ],
+      "detail_url": "https://xn--pssy23gqgbz2d718b.com/stickers/hunyuan202610170001.html",
+      "original_image_url": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/hunyuan/57a214f2e04a1c87.png",
+      "origin_author_as_recorded": "ZipZipPipe",
+      "origin_url": "https://www.bilibili.com/opus/1242184338245681157",
+      "license_type_as_recorded": "unknown",
+      "license_note_as_recorded": "角色原案：ZipZipPipe（B 站 https://space.bilibili.com/4168597）· 非商业同人展示 · 原作者未公开授权条款，可应要求下架。",
+      "review_scope": "metadata_only",
+      "local_copy": false,
+      "note": "站点字段不等于本库已核实原作者许可；请到详情页与原作复核。"
+    },
+    {
+      "id": "sticker_5167f2bbbe9f9ee038dc163f",
+      "title": "MiniMax 娘记者装立绘：海螺与录音机",
+      "character_ids": [
+        "minimax"
+      ],
+      "category_ids": [
+        "standing"
+      ],
+      "detail_url": "https://xn--pssy23gqgbz2d718b.com/stickers/minimax202610170001.html",
+      "original_image_url": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/minimax/5167f2bbbe9f9ee0.jpg",
+      "origin_author_as_recorded": "ZipZipPipe",
+      "origin_url": null,
+      "license_type_as_recorded": "unknown",
+      "license_note_as_recorded": "角色原案：ZipZipPipe（B 站 https://space.bilibili.com/4168597）· 非商业同人展示 · 原作者未公开授权条款，可应要求下架。",
+      "review_scope": "metadata_only",
+      "local_copy": false,
+      "note": "站点字段不等于本库已核实原作者许可；请到详情页与原作复核。"
+    },
+    {
+      "id": "sticker_dc6d6f0b4ec0061998cd804f",
+      "title": "NovelAI 娘立绘：金羽笔与月桂冠的缪斯",
+      "character_ids": [
+        "novelai"
+      ],
+      "category_ids": [
+        "standing"
+      ],
+      "detail_url": "https://xn--pssy23gqgbz2d718b.com/stickers/novelai202610170001.html",
+      "original_image_url": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/novelai/dc6d6f0b4ec00619.png",
+      "origin_author_as_recorded": "ZipZipPipe",
+      "origin_url": "https://www.bilibili.com/opus/1243825685770797113",
+      "license_type_as_recorded": "unknown",
+      "license_note_as_recorded": "角色原案：ZipZipPipe（B 站 https://space.bilibili.com/4168597）· 非商业同人展示 · 原作者未公开授权条款，可应要求下架。",
+      "review_scope": "metadata_only",
+      "local_copy": false,
+      "note": "站点字段不等于本库已核实原作者许可；请到详情页与原作复核。"
+    }
+  ]
+}

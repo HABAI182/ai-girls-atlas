@@ -1,0 +1,14 @@
+{
+  "checked_on": "2026-10-20",
+  "entity_records": 38,
+  "entities_with_visual_evidence_or_leads": 29,
+  "wanted_entities": 9,
+  "entities_with_local_assets": 9,
+  "artwork_files": 32,
+  "preview_files": 9,
+  "external_gallery_references": 44,
+  "video_records": 29,
+  "meme_navigation_records": 28,
+  "source_records": 131,
+  "unit_note": "品牌、模型家族、产品与工具混合的覆盖清单，明确标注entity_kind；不是主流模型市场份额或独立角色总数。"
+}

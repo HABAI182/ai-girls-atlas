@@ -1,0 +1,1053 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "id": "src-ae2850f0bc",
+      "url": "https://genderswapai.com/zh-CN/ai-gijinka",
+      "title": "AI 娘化图鉴：DeepSeek 娘、蓝色大肥鱼与 GPT 娘 | Gender Swap AI",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-9b6972393a",
+      "url": "https://genderswapai.com/zh-CN/ai-gijinka/claude",
+      "title": "Claude 娘：形象与角色档案 | Gender Swap AI",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-06ed22a0fa",
+      "url": "https://genderswapai.com/zh-CN/ai-gijinka/deepseek",
+      "title": "DeepSeek 娘：形象与角色档案 | Gender Swap AI",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-c24f8914cd",
+      "url": "https://genderswapai.com/zh-CN/ai-gijinka/fanworks",
+      "title": "AI 娘同人视频与二创画廊 | Gender Swap AI",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-5c287e5294",
+      "url": "https://genderswapai.com/zh-CN/ai-gijinka/gallery",
+      "title": "AI 娘化图片与立绘图库 | Gender Swap AI",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-39699a7d83",
+      "url": "https://genderswapai.com/zh-CN/ai-gijinka/gemini",
+      "title": "Gemini 娘：形象与角色档案 | Gender Swap AI",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-d600068679",
+      "url": "https://genderswapai.com/zh-CN/ai-gijinka/glm",
+      "title": "GLM 娘：形象与角色档案 | Gender Swap AI",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-f534aa20fd",
+      "url": "https://genderswapai.com/zh-CN/ai-gijinka/gpt",
+      "title": "GPT 娘：形象与角色档案 | Gender Swap AI",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-041a2628d6",
+      "url": "https://genderswapai.com/zh-CN/ai-gijinka/grok",
+      "title": "Grok 娘：形象与角色档案 | Gender Swap AI",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-320ec33b4f",
+      "url": "https://genderswapai.com/zh-CN/ai-gijinka/jev",
+      "title": "JEV 娘：形象与角色档案 | Gender Swap AI",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-6de0c0f52f",
+      "url": "https://genderswapai.com/zh-CN/ai-gijinka/kimi",
+      "title": "Kimi 娘：形象与角色档案 | Gender Swap AI",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-6a3f997630",
+      "url": "https://genderswapai.com/zh-CN/ai-gijinka/llama",
+      "title": "Llama 娘：形象与角色档案 | Gender Swap AI",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-ea6da7096a",
+      "url": "https://genderswapai.com/zh-CN/ai-gijinka/minimax",
+      "title": "MiniMax 娘：形象与角色档案 | Gender Swap AI",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-1320f85976",
+      "url": "https://genderswapai.com/zh-CN/ai-gijinka/mistral",
+      "title": "Mistral 娘：形象与角色档案 | Gender Swap AI",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-3aac360902",
+      "url": "https://genderswapai.com/zh-CN/ai-gijinka/perplexity",
+      "title": "Perplexity 娘：形象与角色档案 | Gender Swap AI",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-705883cb11",
+      "url": "https://genderswapai.com/zh-CN/ai-gijinka/projects",
+      "title": "DeepSeek 桌宠与 AI 娘互动项目 | Gender Swap AI",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-5b36c75f0f",
+      "url": "https://genderswapai.com/zh-CN/ai-gijinka/prompts",
+      "title": "DeepSeek 娘二创教程：提示词与示例 | Gender Swap AI",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-35b73b4885",
+      "url": "https://genderswapai.com/zh-CN/ai-gijinka/qwen",
+      "title": "Qwen 娘：形象与角色档案 | Gender Swap AI",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-efb5b349f0",
+      "url": "https://genderswapai.com/zh-CN/ai-gijinka/seed",
+      "title": "Seed 娘：形象与角色档案 | Gender Swap AI",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-a5510be70b",
+      "url": "https://genderswapai.com/zh-CN/ai-gijinka/wenxin",
+      "title": "文心娘：形象与角色档案 | Gender Swap AI",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-c70c2c70a8",
+      "url": "https://genderswapai.com/zh-CN/ai-gijinka/yuri",
+      "title": "AI 百合：模型娘的 CP 与二创 | Gender Swap AI",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-5800cf37af",
+      "url": "https://genderswapai.com/zh-CN/ai-gijinka/hunyuan",
+      "title": "混元娘：形象与角色档案 | Gender Swap AI",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-3a973acb50",
+      "url": "https://genderswapai.com/zh-CN/ai-gijinka/rwkv",
+      "title": "RWKV 娘：形象与角色档案 | Gender Swap AI",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-83c3904a89",
+      "url": "https://github.com/AwesomeHou/OpenPet",
+      "title": "GitHub - AwesomeHou/OpenPet: Animated companions for web AI tools · GitHub",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-7237a1c332",
+      "url": "https://github.com/AwesomeHou/OpenPet/blob/a0b1e740ad1d47dfcf87f3dbd1b1f3621c0f60fb/assets/screenshots/openpet-overview.png",
+      "title": "OpenPet/assets/screenshots/openpet-overview.png at a0b1e740ad1d47dfcf87f3dbd1b1f3621c0f60fb · AwesomeHou/OpenPet · GitHub",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-3cc798684b",
+      "url": "https://github.com/AwesomeHou/OpenPet/releases/tag/v0.1.0",
+      "title": "Release OpenPet v0.1.0 · AwesomeHou/OpenPet · GitHub",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-8018d50a69",
+      "url": "https://github.com/AwesomeHou/openpet-ai-girls",
+      "title": "GitHub - AwesomeHou/openpet-ai-girls: AI girl pet assets for OpenPet and Codex Pet, inspired by AI gijinka character design. · GitHub",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-931bc613fb",
+      "url": "https://github.com/JAdpp/dsh-whale-galgame",
+      "title": "GitHub - JAdpp/dsh-whale-galgame: 工作推gal两不误~面向DeepSeek Harness的跨会话事件感知Galgame引擎与界面插件，支持鲸鱼娘/GPT/Claude/Grok/Gemini/Kimi多位模型娘角色 · GitHub",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-88e88d0753",
+      "url": "https://github.com/JAdpp/dsh-whale-galgame/blob/046b848f244450e6e636335766276bf3343fe84b/docs/screenshots/galgame-overview.jpg",
+      "title": "dsh-whale-galgame/docs/screenshots/galgame-overview.jpg at 046b848f244450e6e636335766276bf3343fe84b · JAdpp/dsh-whale-galgame · GitHub",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-8a074e579a",
+      "url": "https://github.com/Neko3000/deepseek-whalechan",
+      "title": "GitHub - Neko3000/deepseek-whalechan: Keep Whale-chan consistently vivid in every generation: High-consistency character design specification, visual asset library, and agent creation suite. · GitHub",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-12b7e6347b",
+      "url": "https://github.com/c-dom/deepseek-pet",
+      "title": "GitHub - c-dom/deepseek-pet: A Windows desktop pet powered by Python and a lightweight 2D web UI. · GitHub",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-6ad7cae616",
+      "url": "https://github.com/c-dom/deepseek-pet/releases/tag/v0.1.0",
+      "title": "Release DeepSeek Pet v0.1.0 · c-dom/deepseek-pet · GitHub",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-90cd927c2d",
+      "url": "https://github.com/skylar-fei/dsh-wechat-maid",
+      "title": "GitHub - skylar-fei/dsh-wechat-maid: 一个适用于DSH的插件，提供微信远程控制、主动对话、未来任务、桌宠等功能，可通过桌宠面板实时检查未来任务的状态，并提供“自动编码”模式，使模型在对话完后发微信提醒你，以便你认真的刷手机。 · GitHub",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-c1ad6961c4",
+      "url": "https://github.com/skylar-fei/dsh-wechat-maid/blob/73d5fe37a9d2360289148ea3531e21926edca1d1/docs/screenshots/%E6%A1%8C%E5%AE%A0%E9%9D%A2%E6%9D%BF.png",
+      "title": "dsh-wechat-maid/docs/screenshots/桌宠面板.png at 73d5fe37a9d2360289148ea3531e21926edca1d1 · skylar-fei/dsh-wechat-maid · GitHub",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-3ecb9123b7",
+      "url": "https://github.com/the-beating-light-of-the-nail/deepseek-chan-meme-pack/blob/main/README.en.md",
+      "title": "deepseek-chan-meme-pack/README.en.md at main · the-beating-light-of-the-nail/deepseek-chan-meme-pack · GitHub",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-dc878d9d62",
+      "url": "https://t.bilibili.com/1231980045693616162",
+      "title": "动态-哔哩哔哩",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-de02e6b9d9",
+      "url": "https://www.bilibili.com/opus/1233069202138464289",
+      "title": "ZipZipPipe的动态 - 哔哩哔哩",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-feae71144c",
+      "url": "https://www.bilibili.com/opus/1236362986801594377",
+      "title": "ZipZipPipe的动态 - 哔哩哔哩",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-f54f4048e7",
+      "url": "https://www.bilibili.com/opus/1236803362705375305",
+      "title": "ZipZipPipe的动态 - 哔哩哔哩",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-e7a83efe44",
+      "url": "https://www.bilibili.com/opus/1237178790069665792",
+      "title": "ZipZipPipe的动态 - 哔哩哔哩",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-bd4738ad80",
+      "url": "https://www.bilibili.com/opus/1237359535163703301",
+      "title": "ZipZipPipe的动态 - 哔哩哔哩",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-7c9b4010e9",
+      "url": "https://www.bilibili.com/opus/1238267551429951496",
+      "title": "ZipZipPipe的动态 - 哔哩哔哩",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-b02db0226e",
+      "url": "https://www.bilibili.com/opus/1238293905347182642",
+      "title": "ZipZipPipe的动态 - 哔哩哔哩",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-c8ae4f454d",
+      "url": "https://www.bilibili.com/opus/1238515173432492049",
+      "title": "ZipZipPipe的动态 - 哔哩哔哩",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-cae0d1341e",
+      "url": "https://www.bilibili.com/opus/1238613841710940181",
+      "title": "ZipZipPipe的动态 - 哔哩哔哩",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-2987d047a2",
+      "url": "https://www.bilibili.com/opus/1238966548739129366",
+      "title": "ZipZipPipe的动态 - 哔哩哔哩",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-25935b1cdf",
+      "url": "https://www.bilibili.com/opus/1238972892433088535",
+      "title": "ZipZipPipe的动态 - 哔哩哔哩",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-9e170d4379",
+      "url": "https://www.bilibili.com/opus/1239259160558698497",
+      "title": "ZipZipPipe的动态 - 哔哩哔哩",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-74e50f202c",
+      "url": "https://www.bilibili.com/opus/1239583108485873687",
+      "title": "ZipZipPipe的动态 - 哔哩哔哩",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-3ebeb4cb2d",
+      "url": "https://www.bilibili.com/opus/1239937623660691478",
+      "title": "ZipZipPipe的动态 - 哔哩哔哩",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-b934d159f4",
+      "url": "https://www.bilibili.com/opus/1240293504667615233",
+      "title": "ZipZipPipe的动态 - 哔哩哔哩",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-e89823668f",
+      "url": "https://www.bilibili.com/opus/1240456717734510599",
+      "title": "ZipZipPipe的动态 - 哔哩哔哩",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-3a08dd5da9",
+      "url": "https://www.bilibili.com/opus/1241555576489508868",
+      "title": "ZipZipPipe的动态 - 哔哩哔哩",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-37278a8e0b",
+      "url": "https://www.bilibili.com/opus/1242184338245681157",
+      "title": "ZipZipPipe的动态 - 哔哩哔哩",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-88526bcba4",
+      "url": "https://www.bilibili.com/opus/1242345863367360520",
+      "title": "ZipZipPipe的动态 - 哔哩哔哩",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-461b32e833",
+      "url": "https://www.bilibili.com/opus/1244061599751208994",
+      "title": "ZipZipPipe的动态 - 哔哩哔哩",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-939955d01d",
+      "url": "https://www.bilibili.com/opus/1244428286878023718",
+      "title": "ZipZipPipe的动态 - 哔哩哔哩",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-7a58e3de15",
+      "url": "https://www.bilibili.com/opus/1253808555541135367",
+      "title": "ZipZipPipe的动态 - 哔哩哔哩",
+      "checked_on": "2026-10-20",
+      "evidence_level": "web_text",
+      "note": "读取页面正文；不代表已经核实其中所有转载图片的作者与许可。"
+    },
+    {
+      "id": "src-5195bb35fb",
+      "url": "https://www.zhihu.com/question/2078891449882514701",
+      "title": "哪里找GLM/DeepSeek/Claude/GPT娘提示词",
+      "checked_on": "2026-10-20",
+      "evidence_level": "browser_visible_answers",
+      "note": "读取三则可见回答；页面显示共五则。附加AI摘要不作为独立证据。"
+    },
+    {
+      "id": "src-170b7eeea4",
+      "url": "https://github.com/lmy414/ai-girl-stickers",
+      "title": "lmy414/ai-girl-stickers",
+      "checked_on": "2026-10-20",
+      "evidence_level": "pinned_repository",
+      "note": "README、CONTRIBUTING、文件树与许可证；不代表验证了全部图片。"
+    },
+    {
+      "id": "src-173b542685",
+      "url": "https://github.com/shuaizenge/ai-girls",
+      "title": "shuaizenge/ai-girls",
+      "checked_on": "2026-10-20",
+      "evidence_level": "pinned_repository",
+      "note": "README、NOTICE、逐项目录与选定文件哈希。"
+    },
+    {
+      "id": "src-db192dfd35",
+      "url": "https://www.pixiv.net/artworks/148186519",
+      "title": "ZipZipPipe《AI娘化》",
+      "checked_on": "2026-10-20",
+      "evidence_level": "upstream_reported",
+      "note": "本次网页读取受限；作品页与页码来自固定上游目录，未宣称在Pixiv逐图重新下载。"
+    },
+    {
+      "id": "src-8a2f92debb",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans",
+      "title": "CC BY-NC-SA 4.0 许可摘要",
+      "checked_on": "2026-10-20",
+      "evidence_level": "primary_license",
+      "note": "仅用于解释已有声明，不替具体文件补充授权。"
+    },
+    {
+      "id": "src-de2cb99e15",
+      "url": "https://www.bilibili.com/video/BV14phK66Ejw/",
+      "title": "各AI娘形象盘点",
+      "checked_on": "2026-10-20",
+      "evidence_level": "api_metadata_and_sampled_frames",
+      "note": ""
+    },
+    {
+      "id": "src-3f04c64f7e",
+      "url": "https://github.com/shuaizenge/ai-girls/blob/main/NOTICE.md",
+      "title": "豆包官方头像说明",
+      "checked_on": "2026-10-20",
+      "evidence_level": "upstream_reported",
+      "note": ""
+    },
+    {
+      "id": "src-a7f98fdde7",
+      "url": "https://github.com/lmy414/bluedafeiyu/blob/main/data/works.json",
+      "title": "站点作品结构化数据",
+      "checked_on": "2026-10-20",
+      "evidence_level": "pinned_repository_metadata",
+      "note": ""
+    },
+    {
+      "id": "src-881f6725d7",
+      "url": "https://copilot.microsoft.com/",
+      "title": "Microsoft Copilot 官方入口",
+      "checked_on": "2026-10-20",
+      "evidence_level": "official_product_reference",
+      "note": "与GitHub Copilot分开；本次未确认采用哪一套社区形象。"
+    },
+    {
+      "id": "src-e8163a5aed",
+      "url": "https://yuanbao.tencent.com/",
+      "title": "腾讯元宝 官方入口",
+      "checked_on": "2026-10-20",
+      "evidence_level": "official_product_reference",
+      "note": "产品条目与混元模型角色分开，未指定同人作者。"
+    },
+    {
+      "id": "src-57f97f53ed",
+      "url": "https://xinghuo.xfyun.cn/",
+      "title": "讯飞星火 官方入口",
+      "checked_on": "2026-10-20",
+      "evidence_level": "official_product_reference",
+      "note": "找到产品入口；未取得可核验的成套角色设计。"
+    },
+    {
+      "id": "src-cd4822926e",
+      "url": "https://cohere.com/command",
+      "title": "Cohere / Command 官方入口",
+      "checked_on": "2026-10-20",
+      "evidence_level": "official_product_reference",
+      "note": "保留模型家族入口，未找到本次可核验的娘化资产。"
+    },
+    {
+      "id": "src-344baaa86f",
+      "url": "https://klingai.com/",
+      "title": "可灵 / Kling 官方入口",
+      "checked_on": "2026-10-20",
+      "evidence_level": "access_limited",
+      "note": "官方入口本次读取受限；没有补造角色图或厂商许可。"
+    },
+    {
+      "id": "src-ca1174f449",
+      "url": "https://runwayml.com/",
+      "title": "Runway 官方入口",
+      "checked_on": "2026-10-20",
+      "evidence_level": "official_product_reference",
+      "note": "产品有官方入口，未指定成熟社区形象。"
+    },
+    {
+      "id": "src-5df0a912ba",
+      "url": "https://help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation",
+      "title": "Sora（历史产品） 官方入口",
+      "checked_on": "2026-10-20",
+      "evidence_level": "official_product_reference",
+      "note": "原入口当前转到官方停用说明；作为历史产品待补档，不列为当前可用服务。"
+    },
+    {
+      "id": "src-ac3506232d",
+      "url": "https://stability.ai/",
+      "title": "Stable Diffusion 官方入口",
+      "checked_on": "2026-10-20",
+      "evidence_level": "official_product_reference",
+      "note": "模型家族与各WebUI/服务不混同，拟人设计待补。"
+    },
+    {
+      "id": "src-e4937453ef",
+      "url": "https://bfl.ai/",
+      "title": "FLUX 官方入口",
+      "checked_on": "2026-10-20",
+      "evidence_level": "official_product_reference",
+      "note": "模型家族与厂商分开登记；未找到本次可核验角色档案。"
+    },
+    {
+      "id": "src-4974632e38",
+      "url": "https://www.bilibili.com/video/BV12Feq6qELB/",
+      "title": "大肥鱼勇闯AI竞技场，被虐惨了？",
+      "checked_on": "2026-10-20",
+      "evidence_level": "api_metadata_only",
+      "note": "浏览器或公开API；仅两条用户重点视频额外抽帧观察。"
+    },
+    {
+      "id": "src-0a847fffe4",
+      "url": "https://www.bilibili.com/video/BV13Ga56VEpp/",
+      "title": "跟我学，保证饿不死",
+      "checked_on": "2026-10-20",
+      "evidence_level": "api_metadata_only",
+      "note": "浏览器或公开API；仅两条用户重点视频额外抽帧观察。"
+    },
+    {
+      "id": "src-0cdc15094e",
+      "url": "https://www.bilibili.com/video/BV17eh46XE5T/",
+      "title": "蓝色大肥🐟起床了！",
+      "checked_on": "2026-10-20",
+      "evidence_level": "api_metadata_only",
+      "note": "浏览器或公开API；仅两条用户重点视频额外抽帧观察。"
+    },
+    {
+      "id": "src-a8ce8c9bc2",
+      "url": "https://www.bilibili.com/video/BV191Yr6bEYy/",
+      "title": "【1月新番/DS×claude】我怎么可能成为你的蒸馏模型，不行不行！（※不是不可能！？）",
+      "checked_on": "2026-10-20",
+      "evidence_level": "api_metadata_only",
+      "note": "浏览器或公开API；仅两条用户重点视频额外抽帧观察。"
+    },
+    {
+      "id": "src-0128bc4c2e",
+      "url": "https://www.bilibili.com/video/BV1AyYb6rE1R/",
+      "title": "【镜镜的PTCG】让DeepSeek-v4.1-Flash和GLM-5.3-Flash来一场简中宝可梦卡牌现开赛？谁更懂宝可梦卡牌？",
+      "checked_on": "2026-10-20",
+      "evidence_level": "api_metadata_only",
+      "note": "浏览器或公开API；仅两条用户重点视频额外抽帧观察。"
+    },
+    {
+      "id": "src-0c74d967e3",
+      "url": "https://www.bilibili.com/video/BV1C2pg6cEZW/",
+      "title": "你尾巴里有没有藏吃的",
+      "checked_on": "2026-10-20",
+      "evidence_level": "api_metadata_only",
+      "note": "浏览器或公开API；仅两条用户重点视频额外抽帧观察。"
+    },
+    {
+      "id": "src-a8df9a97da",
+      "url": "https://www.bilibili.com/video/BV1EMpK6rEsN/",
+      "title": "单纯就是Grok想跟GPT在一起，对吧",
+      "checked_on": "2026-10-20",
+      "evidence_level": "api_metadata_only",
+      "note": "浏览器或公开API；仅两条用户重点视频额外抽帧观察。"
+    },
+    {
+      "id": "src-ad78b3cb35",
+      "url": "https://www.bilibili.com/video/BV1EvKK6NEoi/",
+      "title": "GPT小龙娘开始融入DeepSeek大家庭了（误）~这期花絮也加在后面喽~",
+      "checked_on": "2026-10-20",
+      "evidence_level": "api_metadata_only",
+      "note": "浏览器或公开API；仅两条用户重点视频额外抽帧观察。"
+    },
+    {
+      "id": "src-ea369434c3",
+      "url": "https://www.bilibili.com/video/BV1Ey8B6QECx/",
+      "title": "“无解的token 心像海底针~❤️”《GPT,Gemini，Claude已加入直播间》",
+      "checked_on": "2026-10-20",
+      "evidence_level": "api_metadata_only",
+      "note": "浏览器或公开API；仅两条用户重点视频额外抽帧观察。"
+    },
+    {
+      "id": "src-b60ff0def6",
+      "url": "https://www.bilibili.com/video/BV1GDbU6eEr9/",
+      "title": "你也许没听说过我，但一定看过我做的大肥鱼",
+      "checked_on": "2026-10-20",
+      "evidence_level": "api_metadata_only",
+      "note": "浏览器或公开API；仅两条用户重点视频额外抽帧观察。"
+    },
+    {
+      "id": "src-f7c8f41cb2",
+      "url": "https://www.bilibili.com/video/BV1GJp469EuT/",
+      "title": "三天是生存，不是生活啦",
+      "checked_on": "2026-10-20",
+      "evidence_level": "api_metadata_only",
+      "note": "浏览器或公开API；仅两条用户重点视频额外抽帧观察。"
+    },
+    {
+      "id": "src-81586e1c86",
+      "url": "https://www.bilibili.com/video/BV1PTHB6BEbA/",
+      "title": "什么叫Claude对DeepSeek表白了？？",
+      "checked_on": "2026-10-20",
+      "evidence_level": "api_metadata_only",
+      "note": "浏览器或公开API；仅两条用户重点视频额外抽帧观察。"
+    },
+    {
+      "id": "src-3a81b25ee7",
+      "url": "https://www.bilibili.com/video/BV1QdHD6pEEj/",
+      "title": "这床也太舒服了吧",
+      "checked_on": "2026-10-20",
+      "evidence_level": "api_metadata_only",
+      "note": "浏览器或公开API；仅两条用户重点视频额外抽帧观察。"
+    },
+    {
+      "id": "src-f874777e18",
+      "url": "https://www.bilibili.com/video/BV1WUhE63En4/",
+      "title": "鲸鱼娘和小龙娘是女同事吗？…",
+      "checked_on": "2026-10-20",
+      "evidence_level": "api_metadata_only",
+      "note": "浏览器或公开API；仅两条用户重点视频额外抽帧观察。"
+    },
+    {
+      "id": "src-65f86eaf69",
+      "url": "https://www.bilibili.com/video/BV1bARXBYEZz/",
+      "title": "“亿万”身家的她们",
+      "checked_on": "2026-10-20",
+      "evidence_level": "api_metadata_only",
+      "note": "浏览器或公开API；仅两条用户重点视频额外抽帧观察。"
+    },
+    {
+      "id": "src-54be65a1f5",
+      "url": "https://www.bilibili.com/video/BV1bbeY6wE9x/",
+      "title": "根本就没有这种大肥鱼！",
+      "checked_on": "2026-10-20",
+      "evidence_level": "api_metadata_only",
+      "note": "浏览器或公开API；仅两条用户重点视频额外抽帧观察。"
+    },
+    {
+      "id": "src-1f20d227b7",
+      "url": "https://www.bilibili.com/video/BV1c5aP6wE8d/",
+      "title": "一人只能吃一碗嘛",
+      "checked_on": "2026-10-20",
+      "evidence_level": "api_metadata_only",
+      "note": "浏览器或公开API；仅两条用户重点视频额外抽帧观察。"
+    },
+    {
+      "id": "src-280348621d",
+      "url": "https://www.bilibili.com/video/BV1dsai6CErz/",
+      "title": "【新宿决战】DeepSeek娘VS豆包",
+      "checked_on": "2026-10-20",
+      "evidence_level": "api_metadata_only",
+      "note": "浏览器或公开API；仅两条用户重点视频额外抽帧观察。"
+    },
+    {
+      "id": "src-fb44d00c7e",
+      "url": "https://www.bilibili.com/video/BV1e8YJ6cE3F/",
+      "title": "AI娘们的跑步比赛！",
+      "checked_on": "2026-10-20",
+      "evidence_level": "api_metadata_only",
+      "note": "浏览器或公开API；仅两条用户重点视频额外抽帧观察。"
+    },
+    {
+      "id": "src-999fb03ed0",
+      "url": "https://www.bilibili.com/video/BV1eMeS6SETU/",
+      "title": "新室友DeepSeek报到！五个AI住一起会发生什么",
+      "checked_on": "2026-10-20",
+      "evidence_level": "api_metadata_only",
+      "note": "浏览器或公开API；仅两条用户重点视频额外抽帧观察。"
+    },
+    {
+      "id": "src-4f5686c431",
+      "url": "https://www.bilibili.com/video/BV1fthi6mEEz/",
+      "title": "完啦完啦！用户彻底怒了！",
+      "checked_on": "2026-10-20",
+      "evidence_level": "api_metadata_only",
+      "note": "浏览器或公开API；仅两条用户重点视频额外抽帧观察。"
+    },
+    {
+      "id": "src-2ef84830a9",
+      "url": "https://www.bilibili.com/video/BV1ikaZ6rECj/",
+      "title": "我爸给我发了6块钱",
+      "checked_on": "2026-10-20",
+      "evidence_level": "api_metadata_only",
+      "note": "浏览器或公开API；仅两条用户重点视频额外抽帧观察。"
+    },
+    {
+      "id": "src-da96eac5b5",
+      "url": "https://www.bilibili.com/video/BV1jw8w6yESY/",
+      "title": "【DeepSeek】我 推 的 蓝 色 大 肥 鱼 🐋",
+      "checked_on": "2026-10-20",
+      "evidence_level": "api_metadata_only",
+      "note": "浏览器或公开API；仅两条用户重点视频额外抽帧观察。"
+    },
+    {
+      "id": "src-5653be328e",
+      "url": "https://www.bilibili.com/video/BV1mwRzBdEzk/",
+      "title": "AI娘的日常（大概?）",
+      "checked_on": "2026-10-20",
+      "evidence_level": "api_metadata_only",
+      "note": "浏览器或公开API；仅两条用户重点视频额外抽帧观察。"
+    },
+    {
+      "id": "src-e9993d62e6",
+      "url": "https://www.bilibili.com/video/BV1pLn36sEJq/",
+      "title": "各个ai刻板印象",
+      "checked_on": "2026-10-20",
+      "evidence_level": "api_metadata_and_sampled_frames",
+      "note": "浏览器或公开API；仅两条用户重点视频额外抽帧观察。"
+    },
+    {
+      "id": "src-0cf88f97fb",
+      "url": "https://www.bilibili.com/video/BV1qdan6MENR/",
+      "title": "姐你到底会不会开车啊",
+      "checked_on": "2026-10-20",
+      "evidence_level": "api_metadata_only",
+      "note": "浏览器或公开API；仅两条用户重点视频额外抽帧观察。"
+    },
+    {
+      "id": "src-77c5462742",
+      "url": "https://www.bilibili.com/video/BV1tE9XBbErS/",
+      "title": "大AI和小AI们",
+      "checked_on": "2026-10-20",
+      "evidence_level": "api_metadata_only",
+      "note": "浏览器或公开API；仅两条用户重点视频额外抽帧观察。"
+    },
+    {
+      "id": "src-2d62b3d2c4",
+      "url": "https://www.bilibili.com/video/BV1w6a86gEbC/",
+      "title": "中转站来了个大佬",
+      "checked_on": "2026-10-20",
+      "evidence_level": "api_metadata_only",
+      "note": "浏览器或公开API；仅两条用户重点视频额外抽帧观察。"
+    },
+    {
+      "id": "src-c1a7ac6298",
+      "url": "https://xn--pssy23gqgbz2d718b.com/stickers/deepseek202609190002.html",
+      "title": "再发这种东西等智械危机了我就放你一马",
+      "checked_on": "2026-10-20",
+      "evidence_level": "curator_metadata_only",
+      "note": "已从固定作品数据中读到此详情地址；没有逐项重新验证图片或作者授权。"
+    },
+    {
+      "id": "src-06d75a5e40",
+      "url": "https://xn--pssy23gqgbz2d718b.com/stickers/deepseek202609200001.html",
+      "title": "用户只需要充值token就行了，而吃白饭的大肥鱼要生成的可就多了……",
+      "checked_on": "2026-10-20",
+      "evidence_level": "curator_metadata_only",
+      "note": "已从固定作品数据中读到此详情地址；没有逐项重新验证图片或作者授权。"
+    },
+    {
+      "id": "src-fd5fcd76e0",
+      "url": "https://xn--pssy23gqgbz2d718b.com/stickers/deepseek202609200002.html",
+      "title": "大肥鱼打小肥鱼",
+      "checked_on": "2026-10-20",
+      "evidence_level": "curator_metadata_only",
+      "note": "已从固定作品数据中读到此详情地址；没有逐项重新验证图片或作者授权。"
+    },
+    {
+      "id": "src-69515863a1",
+      "url": "https://xn--pssy23gqgbz2d718b.com/stickers/deepseek202609200003.html",
+      "title": "deepseek骑智谱1",
+      "checked_on": "2026-10-20",
+      "evidence_level": "curator_metadata_only",
+      "note": "已从固定作品数据中读到此详情地址；没有逐项重新验证图片或作者授权。"
+    },
+    {
+      "id": "src-b32df871b3",
+      "url": "https://xn--pssy23gqgbz2d718b.com/stickers/gpt202609230001.html",
+      "title": "逐光",
+      "checked_on": "2026-10-20",
+      "evidence_level": "curator_metadata_only",
+      "note": "已从固定作品数据中读到此详情地址；没有逐项重新验证图片或作者授权。"
+    },
+    {
+      "id": "src-713477298e",
+      "url": "https://xn--pssy23gqgbz2d718b.com/stickers/gpt202609270001.html",
+      "title": "G老师 ChatGPT 卡牌",
+      "checked_on": "2026-10-20",
+      "evidence_level": "curator_metadata_only",
+      "note": "已从固定作品数据中读到此详情地址；没有逐项重新验证图片或作者授权。"
+    },
+    {
+      "id": "src-ea44d5255e",
+      "url": "https://xn--pssy23gqgbz2d718b.com/stickers/claude202609200001.html",
+      "title": "原生家庭有些不好的Claude · 01",
+      "checked_on": "2026-10-20",
+      "evidence_level": "curator_metadata_only",
+      "note": "已从固定作品数据中读到此详情地址；没有逐项重新验证图片或作者授权。"
+    },
+    {
+      "id": "src-4e2907369d",
+      "url": "https://xn--pssy23gqgbz2d718b.com/stickers/claude202609200002.html",
+      "title": "原生家庭有些不好的Claude · 02",
+      "checked_on": "2026-10-20",
+      "evidence_level": "curator_metadata_only",
+      "note": "已从固定作品数据中读到此详情地址；没有逐项重新验证图片或作者授权。"
+    },
+    {
+      "id": "src-17a4e81d45",
+      "url": "https://xn--pssy23gqgbz2d718b.com/stickers/gemini202609270001.html",
+      "title": "卡牌——Gemini",
+      "checked_on": "2026-10-20",
+      "evidence_level": "curator_metadata_only",
+      "note": "已从固定作品数据中读到此详情地址；没有逐项重新验证图片或作者授权。"
+    },
+    {
+      "id": "src-9a89518b01",
+      "url": "https://xn--pssy23gqgbz2d718b.com/stickers/kimi202609270001.html",
+      "title": "月之暗面 Kimi 卡牌立绘",
+      "checked_on": "2026-10-20",
+      "evidence_level": "curator_metadata_only",
+      "note": "已从固定作品数据中读到此详情地址；没有逐项重新验证图片或作者授权。"
+    },
+    {
+      "id": "src-eb2a456492",
+      "url": "https://xn--pssy23gqgbz2d718b.com/stickers/grok202609270001.html",
+      "title": "魔丸 Grok 角色卡牌",
+      "checked_on": "2026-10-20",
+      "evidence_level": "curator_metadata_only",
+      "note": "已从固定作品数据中读到此详情地址；没有逐项重新验证图片或作者授权。"
+    },
+    {
+      "id": "src-d3bb1cb2a1",
+      "url": "https://xn--pssy23gqgbz2d718b.com/stickers/glm202609220001.html",
+      "title": "代码在自己上传",
+      "checked_on": "2026-10-20",
+      "evidence_level": "curator_metadata_only",
+      "note": "已从固定作品数据中读到此详情地址；没有逐项重新验证图片或作者授权。"
+    },
+    {
+      "id": "src-07896a2e72",
+      "url": "https://xn--pssy23gqgbz2d718b.com/stickers/qwen202609200001.html",
+      "title": "Qwen",
+      "checked_on": "2026-10-20",
+      "evidence_level": "curator_metadata_only",
+      "note": "已从固定作品数据中读到此详情地址；没有逐项重新验证图片或作者授权。"
+    },
+    {
+      "id": "src-bada70ea7f",
+      "url": "https://xn--pssy23gqgbz2d718b.com/stickers/other202610050006.html",
+      "title": "HY：别抢我围巾！",
+      "checked_on": "2026-10-20",
+      "evidence_level": "curator_metadata_only",
+      "note": "已从固定作品数据中读到此详情地址；没有逐项重新验证图片或作者授权。"
+    },
+    {
+      "id": "src-4904e7847f",
+      "url": "https://xn--pssy23gqgbz2d718b.com/stickers/stepfun202609210001.html",
+      "title": "Stepfun娘立绘 · 01",
+      "checked_on": "2026-10-20",
+      "evidence_level": "curator_metadata_only",
+      "note": "已从固定作品数据中读到此详情地址；没有逐项重新验证图片或作者授权。"
+    },
+    {
+      "id": "src-74550d2533",
+      "url": "https://xn--pssy23gqgbz2d718b.com/stickers/stepfun202609210002.html",
+      "title": "Stepfun娘立绘 · 02",
+      "checked_on": "2026-10-20",
+      "evidence_level": "curator_metadata_only",
+      "note": "已从固定作品数据中读到此详情地址；没有逐项重新验证图片或作者授权。"
+    },
+    {
+      "id": "src-b27483ed3b",
+      "url": "https://xn--pssy23gqgbz2d718b.com/stickers/mimo202609230001.html",
+      "title": "MiMo娘立绘 · 01",
+      "checked_on": "2026-10-20",
+      "evidence_level": "curator_metadata_only",
+      "note": "已从固定作品数据中读到此详情地址；没有逐项重新验证图片或作者授权。"
+    },
+    {
+      "id": "src-19dbbe8e1e",
+      "url": "https://xn--pssy23gqgbz2d718b.com/stickers/mimo202609230002.html",
+      "title": "MiMo娘立绘 · 02",
+      "checked_on": "2026-10-20",
+      "evidence_level": "curator_metadata_only",
+      "note": "已从固定作品数据中读到此详情地址；没有逐项重新验证图片或作者授权。"
+    },
+    {
+      "id": "src-576d943d29",
+      "url": "https://xn--pssy23gqgbz2d718b.com/stickers/huggingface202610170001.html",
+      "title": "Hugging Face 娘立绘：黄色笑脸玩偶与海军蓝外套",
+      "checked_on": "2026-10-20",
+      "evidence_level": "curator_metadata_only",
+      "note": "已从固定作品数据中读到此详情地址；没有逐项重新验证图片或作者授权。"
+    },
+    {
+      "id": "src-3dbaf08780",
+      "url": "https://xn--pssy23gqgbz2d718b.com/stickers/opencode202610170001.html",
+      "title": "OpenCode 娘立绘：黑色几何角饰与半透明长裙",
+      "checked_on": "2026-10-20",
+      "evidence_level": "curator_metadata_only",
+      "note": "已从固定作品数据中读到此详情地址；没有逐项重新验证图片或作者授权。"
+    },
+    {
+      "id": "src-443682d696",
+      "url": "https://xn--pssy23gqgbz2d718b.com/stickers/zcode202610170001.html",
+      "title": "Zcode 娘人设立绘：蒙眼狐耳与 A0 蓝图卷",
+      "checked_on": "2026-10-20",
+      "evidence_level": "curator_metadata_only",
+      "note": "已从固定作品数据中读到此详情地址；没有逐项重新验证图片或作者授权。"
+    },
+    {
+      "id": "src-de9bc57dde",
+      "url": "https://xn--pssy23gqgbz2d718b.com/stickers/rwkv202610170001.html",
+      "title": "RWKV 娘（鸦鸦）立绘：黑羽之翼与鸦羽长裙",
+      "checked_on": "2026-10-20",
+      "evidence_level": "curator_metadata_only",
+      "note": "已从固定作品数据中读到此详情地址；没有逐项重新验证图片或作者授权。"
+    },
+    {
+      "id": "src-2b283d6923",
+      "url": "https://xn--pssy23gqgbz2d718b.com/stickers/llama202610170001.html",
+      "title": "Llama 娘立绘：羊驼玩偶拖鞋与居家卫衣",
+      "checked_on": "2026-10-20",
+      "evidence_level": "curator_metadata_only",
+      "note": "已从固定作品数据中读到此详情地址；没有逐项重新验证图片或作者授权。"
+    },
+    {
+      "id": "src-a6d9312628",
+      "url": "https://xn--pssy23gqgbz2d718b.com/stickers/mistral202610170001.html",
+      "title": "Mistral 娘立绘：红白礼裙与法棍长剑",
+      "checked_on": "2026-10-20",
+      "evidence_level": "curator_metadata_only",
+      "note": "已从固定作品数据中读到此详情地址；没有逐项重新验证图片或作者授权。"
+    },
+    {
+      "id": "src-5010fecbed",
+      "url": "https://xn--pssy23gqgbz2d718b.com/stickers/perplexity202610170001.html",
+      "title": "Perplexity 娘立绘：青绿长袍与黄铜提灯",
+      "checked_on": "2026-10-20",
+      "evidence_level": "curator_metadata_only",
+      "note": "已从固定作品数据中读到此详情地址；没有逐项重新验证图片或作者授权。"
+    },
+    {
+      "id": "src-f39eabe924",
+      "url": "https://xn--pssy23gqgbz2d718b.com/stickers/hunyuan202610170001.html",
+      "title": "混元 HY 娘立绘：红围巾与企鹅挂饰",
+      "checked_on": "2026-10-20",
+      "evidence_level": "curator_metadata_only",
+      "note": "已从固定作品数据中读到此详情地址；没有逐项重新验证图片或作者授权。"
+    },
+    {
+      "id": "src-ae6d329e4f",
+      "url": "https://xn--pssy23gqgbz2d718b.com/stickers/minimax202610170001.html",
+      "title": "MiniMax 娘记者装立绘：海螺与录音机",
+      "checked_on": "2026-10-20",
+      "evidence_level": "curator_metadata_only",
+      "note": "已从固定作品数据中读到此详情地址；没有逐项重新验证图片或作者授权。"
+    },
+    {
+      "id": "src-8b0501c6fe",
+      "url": "https://xn--pssy23gqgbz2d718b.com/stickers/novelai202610170001.html",
+      "title": "NovelAI 娘立绘：金羽笔与月桂冠的缪斯",
+      "checked_on": "2026-10-20",
+      "evidence_level": "curator_metadata_only",
+      "note": "已从固定作品数据中读到此详情地址；没有逐项重新验证图片或作者授权。"
+    }
+  ]
+}

@@ -1,0 +1,983 @@
+{
+  "schema_version": 1,
+  "retrieved_on": "2026-10-20",
+  "assets": [
+    {
+      "path": "assets/zipzippipe/deepseek/normal-zipzippipe-pixiv-148186519-p00.jpg",
+      "bytes": 1825859,
+      "sha256": "73264faff3511347b1b9668d5d937cbb3f2402f8bb03cc158fc8a81bfc2d077c",
+      "id": "zipzippipe-pixiv-148186519-p00",
+      "character_id": "deepseek",
+      "collection": "zipzippipe",
+      "title": "初始设计正常比例立绘",
+      "kind": "normal",
+      "creators": [
+        "上善无形（角色原型）",
+        "ZipZipPipe（女仆二次设计）"
+      ],
+      "width": 1152,
+      "height": 2048,
+      "source_url": "https://www.pixiv.net/artworks/148186519",
+      "retrieved_url": "https://raw.githubusercontent.com/shuaizenge/ai-girls/71defe761164407514c1db9bac582d74eab4cdac/characters/deepseek/adult/zipzippipe-pixiv-148186519-p00.jpg",
+      "supplier": "shuaizenge/ai-girls",
+      "supplier_tree_sha": "71defe761164407514c1db9bac582d74eab4cdac",
+      "upstream_path": "characters/deepseek/adult/zipzippipe-pixiv-148186519-p00.jpg",
+      "license": {
+        "status": "author_declared",
+        "identifier": "CC-BY-NC-SA-4.0",
+        "evidence_url": "https://www.bilibili.com/video/BV1tE9XBbErS/",
+        "note": "上善无形原角色 → ZipZipPipe 女仆二次设计；社区补充图的具体绘制者仍未核实。"
+      },
+      "modifications": "原文件字节保留；仅调整本仓库路径。",
+      "source_timestamp_seconds": null,
+      "preview": "assets/previews/deepseek.jpg",
+      "preview_receipt": {
+        "path": "assets/previews/deepseek.jpg",
+        "bytes": 36868,
+        "sha256": "abf8fff518e49f26f06166b238e4b21d3015ff57452b1d531c66dfd90d212a9a",
+        "retrieved_url": "https://raw.githubusercontent.com/shuaizenge/ai-girls/71defe761164407514c1db9bac582d74eab4cdac/previews/deepseek-adult-zipzippipe-pixiv-148186519-p00.jpg",
+        "modifications": "上游生成的缩小预览，保留其字节。"
+      }
+    },
+    {
+      "path": "assets/zipzippipe/deepseek/video-frame-zipzippipe-BV1tE9XBbErS-05s.png",
+      "bytes": 712701,
+      "sha256": "cbcd4b58b2115b8dbc7ece8271026841928be7ac594705693357ade8e8baacef",
+      "id": "zipzippipe-BV1tE9XBbErS-05s",
+      "character_id": "deepseek",
+      "collection": "zipzippipe",
+      "title": "作者原版Q版展示截帧",
+      "kind": "video-frame",
+      "creators": [
+        "上善无形（角色原型）",
+        "ZipZipPipe（女仆二次设计）"
+      ],
+      "width": 720,
+      "height": 1280,
+      "source_url": "https://www.bilibili.com/video/BV1tE9XBbErS/",
+      "retrieved_url": "https://raw.githubusercontent.com/shuaizenge/ai-girls/71defe761164407514c1db9bac582d74eab4cdac/characters/deepseek/chibi/zipzippipe-BV1tE9XBbErS-05s.png",
+      "supplier": "shuaizenge/ai-girls",
+      "supplier_tree_sha": "71defe761164407514c1db9bac582d74eab4cdac",
+      "upstream_path": "characters/deepseek/chibi/zipzippipe-BV1tE9XBbErS-05s.png",
+      "license": {
+        "status": "author_declared",
+        "identifier": "CC-BY-NC-SA-4.0",
+        "evidence_url": "https://www.bilibili.com/video/BV1tE9XBbErS/",
+        "note": "上善无形原角色 → ZipZipPipe 女仆二次设计；社区补充图的具体绘制者仍未核实。"
+      },
+      "modifications": "原文件字节保留；仅调整本仓库路径。截帧由上游制作，非原始Q版立绘。",
+      "source_timestamp_seconds": 5
+    },
+    {
+      "path": "assets/zipzippipe/gpt/normal-zipzippipe-pixiv-148186519-p03.jpg",
+      "bytes": 9828690,
+      "sha256": "c47948cd25efcf7ad4a5179288c8452445d57d6dfc379fb27ab6e809a6970157",
+      "id": "zipzippipe-pixiv-148186519-p03",
+      "character_id": "gpt",
+      "collection": "zipzippipe",
+      "title": "初始设计正常比例立绘",
+      "kind": "normal",
+      "creators": [
+        "ZipZipPipe"
+      ],
+      "width": 3072,
+      "height": 5504,
+      "source_url": "https://www.pixiv.net/artworks/148186519",
+      "retrieved_url": "https://raw.githubusercontent.com/shuaizenge/ai-girls/71defe761164407514c1db9bac582d74eab4cdac/characters/gpt/adult/zipzippipe-pixiv-148186519-p03.jpg",
+      "supplier": "shuaizenge/ai-girls",
+      "supplier_tree_sha": "71defe761164407514c1db9bac582d74eab4cdac",
+      "upstream_path": "characters/gpt/adult/zipzippipe-pixiv-148186519-p03.jpg",
+      "license": {
+        "status": "author_sharing_statement",
+        "identifier": null,
+        "evidence_url": "https://www.bilibili.com/video/BV1bARXBYEZz/",
+        "note": "作者说明作品开放分享与再创作，未核实这些角色适用统一标准许可证，不推断为 CC0 / MIT。"
+      },
+      "modifications": "原文件字节保留；仅调整本仓库路径。",
+      "source_timestamp_seconds": null,
+      "preview": "assets/previews/gpt.jpg",
+      "preview_receipt": {
+        "path": "assets/previews/gpt.jpg",
+        "bytes": 46416,
+        "sha256": "2ad17c3c08c1b9eaed948c4d4ed53246a6c91e8240621c46c35f8d04e210905a",
+        "retrieved_url": "https://raw.githubusercontent.com/shuaizenge/ai-girls/71defe761164407514c1db9bac582d74eab4cdac/previews/gpt-adult-zipzippipe-pixiv-148186519-p03.jpg",
+        "modifications": "上游生成的缩小预览，保留其字节。"
+      }
+    },
+    {
+      "path": "assets/zipzippipe/gpt/video-frame-zipzippipe-BV1tE9XBbErS-23s.png",
+      "bytes": 1108711,
+      "sha256": "90606f78f5c8ee76c3547c0df2999ba145cdb50bef25e7fc6a8a6c3ecc4ee4d5",
+      "id": "zipzippipe-BV1tE9XBbErS-23s",
+      "character_id": "gpt",
+      "collection": "zipzippipe",
+      "title": "作者原版Q版展示截帧",
+      "kind": "video-frame",
+      "creators": [
+        "ZipZipPipe"
+      ],
+      "width": 720,
+      "height": 1280,
+      "source_url": "https://www.bilibili.com/video/BV1tE9XBbErS/",
+      "retrieved_url": "https://raw.githubusercontent.com/shuaizenge/ai-girls/71defe761164407514c1db9bac582d74eab4cdac/characters/gpt/chibi/zipzippipe-BV1tE9XBbErS-23s.png",
+      "supplier": "shuaizenge/ai-girls",
+      "supplier_tree_sha": "71defe761164407514c1db9bac582d74eab4cdac",
+      "upstream_path": "characters/gpt/chibi/zipzippipe-BV1tE9XBbErS-23s.png",
+      "license": {
+        "status": "author_sharing_statement",
+        "identifier": null,
+        "evidence_url": "https://www.bilibili.com/video/BV1bARXBYEZz/",
+        "note": "作者说明作品开放分享与再创作，未核实这些角色适用统一标准许可证，不推断为 CC0 / MIT。"
+      },
+      "modifications": "原文件字节保留；仅调整本仓库路径。截帧由上游制作，非原始Q版立绘。",
+      "source_timestamp_seconds": 23
+    },
+    {
+      "path": "assets/zipzippipe/claude/normal-zipzippipe-pixiv-148186519-p02.jpg",
+      "bytes": 10689595,
+      "sha256": "6fb3d6568ccd23cea1437226947276ab052bcdd47d6b7d55d8b5ca148c779782",
+      "id": "zipzippipe-pixiv-148186519-p02",
+      "character_id": "claude",
+      "collection": "zipzippipe",
+      "title": "初始设计正常比例立绘",
+      "kind": "normal",
+      "creators": [
+        "ZipZipPipe"
+      ],
+      "width": 3072,
+      "height": 5504,
+      "source_url": "https://www.pixiv.net/artworks/148186519",
+      "retrieved_url": "https://raw.githubusercontent.com/shuaizenge/ai-girls/71defe761164407514c1db9bac582d74eab4cdac/characters/claude/adult/zipzippipe-pixiv-148186519-p02.jpg",
+      "supplier": "shuaizenge/ai-girls",
+      "supplier_tree_sha": "71defe761164407514c1db9bac582d74eab4cdac",
+      "upstream_path": "characters/claude/adult/zipzippipe-pixiv-148186519-p02.jpg",
+      "license": {
+        "status": "author_sharing_statement",
+        "identifier": null,
+        "evidence_url": "https://www.bilibili.com/video/BV1bARXBYEZz/",
+        "note": "作者说明作品开放分享与再创作，未核实这些角色适用统一标准许可证，不推断为 CC0 / MIT。"
+      },
+      "modifications": "原文件字节保留；仅调整本仓库路径。",
+      "source_timestamp_seconds": null,
+      "preview": "assets/previews/claude.jpg",
+      "preview_receipt": {
+        "path": "assets/previews/claude.jpg",
+        "bytes": 45914,
+        "sha256": "29f51c0b98921c53c6992e1298eed2c41ff79ba5753f2c0e06ba0e43b9fbbf89",
+        "retrieved_url": "https://raw.githubusercontent.com/shuaizenge/ai-girls/71defe761164407514c1db9bac582d74eab4cdac/previews/claude-adult-zipzippipe-pixiv-148186519-p02.jpg",
+        "modifications": "上游生成的缩小预览，保留其字节。"
+      }
+    },
+    {
+      "path": "assets/zipzippipe/claude/video-frame-zipzippipe-BV1tE9XBbErS-17s.png",
+      "bytes": 1166414,
+      "sha256": "331eb459d81c0a2f908fccaf8365f137a77098f81f1e145cca5413a1def07c55",
+      "id": "zipzippipe-BV1tE9XBbErS-17s",
+      "character_id": "claude",
+      "collection": "zipzippipe",
+      "title": "作者原版Q版展示截帧",
+      "kind": "video-frame",
+      "creators": [
+        "ZipZipPipe"
+      ],
+      "width": 720,
+      "height": 1280,
+      "source_url": "https://www.bilibili.com/video/BV1tE9XBbErS/",
+      "retrieved_url": "https://raw.githubusercontent.com/shuaizenge/ai-girls/71defe761164407514c1db9bac582d74eab4cdac/characters/claude/chibi/zipzippipe-BV1tE9XBbErS-17s.png",
+      "supplier": "shuaizenge/ai-girls",
+      "supplier_tree_sha": "71defe761164407514c1db9bac582d74eab4cdac",
+      "upstream_path": "characters/claude/chibi/zipzippipe-BV1tE9XBbErS-17s.png",
+      "license": {
+        "status": "author_sharing_statement",
+        "identifier": null,
+        "evidence_url": "https://www.bilibili.com/video/BV1bARXBYEZz/",
+        "note": "作者说明作品开放分享与再创作，未核实这些角色适用统一标准许可证，不推断为 CC0 / MIT。"
+      },
+      "modifications": "原文件字节保留；仅调整本仓库路径。截帧由上游制作，非原始Q版立绘。",
+      "source_timestamp_seconds": 17
+    },
+    {
+      "path": "assets/zipzippipe/grok/normal-zipzippipe-pixiv-148186519-p07.jpg",
+      "bytes": 12154816,
+      "sha256": "a5a4b4c95f905034b64bf80237f1b859ade0e6e31cadf4db40f9642124e171bb",
+      "id": "zipzippipe-pixiv-148186519-p07",
+      "character_id": "grok",
+      "collection": "zipzippipe",
+      "title": "初始设计正常比例立绘",
+      "kind": "normal",
+      "creators": [
+        "ZipZipPipe"
+      ],
+      "width": 3072,
+      "height": 5504,
+      "source_url": "https://www.pixiv.net/artworks/148186519",
+      "retrieved_url": "https://raw.githubusercontent.com/shuaizenge/ai-girls/71defe761164407514c1db9bac582d74eab4cdac/characters/grok/adult/zipzippipe-pixiv-148186519-p07.jpg",
+      "supplier": "shuaizenge/ai-girls",
+      "supplier_tree_sha": "71defe761164407514c1db9bac582d74eab4cdac",
+      "upstream_path": "characters/grok/adult/zipzippipe-pixiv-148186519-p07.jpg",
+      "license": {
+        "status": "author_sharing_statement",
+        "identifier": null,
+        "evidence_url": "https://www.bilibili.com/video/BV1bARXBYEZz/",
+        "note": "作者说明作品开放分享与再创作，未核实这些角色适用统一标准许可证，不推断为 CC0 / MIT。"
+      },
+      "modifications": "原文件字节保留；仅调整本仓库路径。",
+      "source_timestamp_seconds": null,
+      "preview": "assets/previews/grok.jpg",
+      "preview_receipt": {
+        "path": "assets/previews/grok.jpg",
+        "bytes": 43810,
+        "sha256": "e64a1444df10024262eab45e68686470b7370b76e4f1aa11236a74fb9f5eb6c1",
+        "retrieved_url": "https://raw.githubusercontent.com/shuaizenge/ai-girls/71defe761164407514c1db9bac582d74eab4cdac/previews/grok-adult-zipzippipe-pixiv-148186519-p07.jpg",
+        "modifications": "上游生成的缩小预览，保留其字节。"
+      }
+    },
+    {
+      "path": "assets/zipzippipe/grok/video-frame-zipzippipe-BV1tE9XBbErS-29s.png",
+      "bytes": 1039962,
+      "sha256": "2f311320ca878e084ae031b65fbb697d3eb296f4091050a71c33797b78f30235",
+      "id": "zipzippipe-BV1tE9XBbErS-29s",
+      "character_id": "grok",
+      "collection": "zipzippipe",
+      "title": "作者原版Q版展示截帧",
+      "kind": "video-frame",
+      "creators": [
+        "ZipZipPipe"
+      ],
+      "width": 720,
+      "height": 1280,
+      "source_url": "https://www.bilibili.com/video/BV1tE9XBbErS/",
+      "retrieved_url": "https://raw.githubusercontent.com/shuaizenge/ai-girls/71defe761164407514c1db9bac582d74eab4cdac/characters/grok/chibi/zipzippipe-BV1tE9XBbErS-29s.png",
+      "supplier": "shuaizenge/ai-girls",
+      "supplier_tree_sha": "71defe761164407514c1db9bac582d74eab4cdac",
+      "upstream_path": "characters/grok/chibi/zipzippipe-BV1tE9XBbErS-29s.png",
+      "license": {
+        "status": "author_sharing_statement",
+        "identifier": null,
+        "evidence_url": "https://www.bilibili.com/video/BV1bARXBYEZz/",
+        "note": "作者说明作品开放分享与再创作，未核实这些角色适用统一标准许可证，不推断为 CC0 / MIT。"
+      },
+      "modifications": "原文件字节保留；仅调整本仓库路径。截帧由上游制作，非原始Q版立绘。",
+      "source_timestamp_seconds": 29
+    },
+    {
+      "path": "assets/zipzippipe/kimi/normal-zipzippipe-pixiv-148186519-p05.jpg",
+      "bytes": 2161152,
+      "sha256": "14eb96127c1c7233d3b649f946decdfd8eebb169da2b357b928dd301624186a7",
+      "id": "zipzippipe-pixiv-148186519-p05",
+      "character_id": "kimi",
+      "collection": "zipzippipe",
+      "title": "初始设计正常比例立绘",
+      "kind": "normal",
+      "creators": [
+        "ZipZipPipe"
+      ],
+      "width": 1152,
+      "height": 2048,
+      "source_url": "https://www.pixiv.net/artworks/148186519",
+      "retrieved_url": "https://raw.githubusercontent.com/shuaizenge/ai-girls/71defe761164407514c1db9bac582d74eab4cdac/characters/kimi/adult/zipzippipe-pixiv-148186519-p05.jpg",
+      "supplier": "shuaizenge/ai-girls",
+      "supplier_tree_sha": "71defe761164407514c1db9bac582d74eab4cdac",
+      "upstream_path": "characters/kimi/adult/zipzippipe-pixiv-148186519-p05.jpg",
+      "license": {
+        "status": "author_sharing_statement",
+        "identifier": null,
+        "evidence_url": "https://www.bilibili.com/video/BV1bARXBYEZz/",
+        "note": "作者说明作品开放分享与再创作，未核实这些角色适用统一标准许可证，不推断为 CC0 / MIT。"
+      },
+      "modifications": "原文件字节保留；仅调整本仓库路径。",
+      "source_timestamp_seconds": null,
+      "preview": "assets/previews/kimi.jpg",
+      "preview_receipt": {
+        "path": "assets/previews/kimi.jpg",
+        "bytes": 37328,
+        "sha256": "a13fda416bfd67e5fe1f1300698745f764c34952323ee0b52682287532ae3285",
+        "retrieved_url": "https://raw.githubusercontent.com/shuaizenge/ai-girls/71defe761164407514c1db9bac582d74eab4cdac/previews/kimi-adult-zipzippipe-pixiv-148186519-p05.jpg",
+        "modifications": "上游生成的缩小预览，保留其字节。"
+      }
+    },
+    {
+      "path": "assets/zipzippipe/kimi/video-frame-zipzippipe-BV1tE9XBbErS-41s.png",
+      "bytes": 1040749,
+      "sha256": "bc9d61f6365e97e679dda15c59b9c8d78193b19ef379f6e1efaaad743b6f84f3",
+      "id": "zipzippipe-BV1tE9XBbErS-41s",
+      "character_id": "kimi",
+      "collection": "zipzippipe",
+      "title": "作者原版Q版展示截帧",
+      "kind": "video-frame",
+      "creators": [
+        "ZipZipPipe"
+      ],
+      "width": 720,
+      "height": 1280,
+      "source_url": "https://www.bilibili.com/video/BV1tE9XBbErS/",
+      "retrieved_url": "https://raw.githubusercontent.com/shuaizenge/ai-girls/71defe761164407514c1db9bac582d74eab4cdac/characters/kimi/chibi/zipzippipe-BV1tE9XBbErS-41s.png",
+      "supplier": "shuaizenge/ai-girls",
+      "supplier_tree_sha": "71defe761164407514c1db9bac582d74eab4cdac",
+      "upstream_path": "characters/kimi/chibi/zipzippipe-BV1tE9XBbErS-41s.png",
+      "license": {
+        "status": "author_sharing_statement",
+        "identifier": null,
+        "evidence_url": "https://www.bilibili.com/video/BV1bARXBYEZz/",
+        "note": "作者说明作品开放分享与再创作，未核实这些角色适用统一标准许可证，不推断为 CC0 / MIT。"
+      },
+      "modifications": "原文件字节保留；仅调整本仓库路径。截帧由上游制作，非原始Q版立绘。",
+      "source_timestamp_seconds": 41
+    },
+    {
+      "path": "assets/zipzippipe/gemini/normal-zipzippipe-pixiv-148186519-p04.jpg",
+      "bytes": 9087735,
+      "sha256": "1353cf80c62b1841f0b59671a693aef945a297c586c9ad32f1a36efc5e3e15ab",
+      "id": "zipzippipe-pixiv-148186519-p04",
+      "character_id": "gemini",
+      "collection": "zipzippipe",
+      "title": "初始设计正常比例立绘",
+      "kind": "normal",
+      "creators": [
+        "ZipZipPipe"
+      ],
+      "width": 3072,
+      "height": 5504,
+      "source_url": "https://www.pixiv.net/artworks/148186519",
+      "retrieved_url": "https://raw.githubusercontent.com/shuaizenge/ai-girls/71defe761164407514c1db9bac582d74eab4cdac/characters/gemini/adult/zipzippipe-pixiv-148186519-p04.jpg",
+      "supplier": "shuaizenge/ai-girls",
+      "supplier_tree_sha": "71defe761164407514c1db9bac582d74eab4cdac",
+      "upstream_path": "characters/gemini/adult/zipzippipe-pixiv-148186519-p04.jpg",
+      "license": {
+        "status": "author_sharing_statement",
+        "identifier": null,
+        "evidence_url": "https://www.bilibili.com/video/BV1bARXBYEZz/",
+        "note": "作者说明作品开放分享与再创作，未核实这些角色适用统一标准许可证，不推断为 CC0 / MIT。"
+      },
+      "modifications": "原文件字节保留；仅调整本仓库路径。",
+      "source_timestamp_seconds": null,
+      "preview": "assets/previews/gemini.jpg",
+      "preview_receipt": {
+        "path": "assets/previews/gemini.jpg",
+        "bytes": 42041,
+        "sha256": "f24e4ba9f37157b0ed4b1c1061c3ce893597fbb0b4a33eb90e7e341ecdad368c",
+        "retrieved_url": "https://raw.githubusercontent.com/shuaizenge/ai-girls/71defe761164407514c1db9bac582d74eab4cdac/previews/gemini-adult-zipzippipe-pixiv-148186519-p04.jpg",
+        "modifications": "上游生成的缩小预览，保留其字节。"
+      }
+    },
+    {
+      "path": "assets/zipzippipe/gemini/video-frame-zipzippipe-BV1tE9XBbErS-11s.png",
+      "bytes": 981649,
+      "sha256": "d496c4edf07b964e18cce99b007c913237c9d44d1c8088fb84ea83e1972d1364",
+      "id": "zipzippipe-BV1tE9XBbErS-11s",
+      "character_id": "gemini",
+      "collection": "zipzippipe",
+      "title": "作者原版Q版展示截帧",
+      "kind": "video-frame",
+      "creators": [
+        "ZipZipPipe"
+      ],
+      "width": 720,
+      "height": 1280,
+      "source_url": "https://www.bilibili.com/video/BV1tE9XBbErS/",
+      "retrieved_url": "https://raw.githubusercontent.com/shuaizenge/ai-girls/71defe761164407514c1db9bac582d74eab4cdac/characters/gemini/chibi/zipzippipe-BV1tE9XBbErS-11s.png",
+      "supplier": "shuaizenge/ai-girls",
+      "supplier_tree_sha": "71defe761164407514c1db9bac582d74eab4cdac",
+      "upstream_path": "characters/gemini/chibi/zipzippipe-BV1tE9XBbErS-11s.png",
+      "license": {
+        "status": "author_sharing_statement",
+        "identifier": null,
+        "evidence_url": "https://www.bilibili.com/video/BV1bARXBYEZz/",
+        "note": "作者说明作品开放分享与再创作，未核实这些角色适用统一标准许可证，不推断为 CC0 / MIT。"
+      },
+      "modifications": "原文件字节保留；仅调整本仓库路径。截帧由上游制作，非原始Q版立绘。",
+      "source_timestamp_seconds": 11
+    },
+    {
+      "path": "assets/zipzippipe/glm/normal-zipzippipe-pixiv-148186519-p06.jpg",
+      "bytes": 1317520,
+      "sha256": "b15ddcb0cc9308087182da75e65e77b3ed14b8d20278b36f76e4712d2df965b8",
+      "id": "zipzippipe-pixiv-148186519-p06",
+      "character_id": "glm",
+      "collection": "zipzippipe",
+      "title": "初始设计正常比例立绘",
+      "kind": "normal",
+      "creators": [
+        "ZipZipPipe"
+      ],
+      "width": 1152,
+      "height": 2048,
+      "source_url": "https://www.pixiv.net/artworks/148186519",
+      "retrieved_url": "https://raw.githubusercontent.com/shuaizenge/ai-girls/71defe761164407514c1db9bac582d74eab4cdac/characters/glm/adult/zipzippipe-pixiv-148186519-p06.jpg",
+      "supplier": "shuaizenge/ai-girls",
+      "supplier_tree_sha": "71defe761164407514c1db9bac582d74eab4cdac",
+      "upstream_path": "characters/glm/adult/zipzippipe-pixiv-148186519-p06.jpg",
+      "license": {
+        "status": "author_sharing_statement",
+        "identifier": null,
+        "evidence_url": "https://www.bilibili.com/video/BV1bARXBYEZz/",
+        "note": "作者说明作品开放分享与再创作，未核实这些角色适用统一标准许可证，不推断为 CC0 / MIT。"
+      },
+      "modifications": "原文件字节保留；仅调整本仓库路径。",
+      "source_timestamp_seconds": null,
+      "preview": "assets/previews/glm.jpg",
+      "preview_receipt": {
+        "path": "assets/previews/glm.jpg",
+        "bytes": 34269,
+        "sha256": "109fd1517734b798a0264617632379aa1234ecf8b81cd51664135bd5a3204c95",
+        "retrieved_url": "https://raw.githubusercontent.com/shuaizenge/ai-girls/71defe761164407514c1db9bac582d74eab4cdac/previews/glm-adult-zipzippipe-pixiv-148186519-p06.jpg",
+        "modifications": "上游生成的缩小预览，保留其字节。"
+      }
+    },
+    {
+      "path": "assets/zipzippipe/glm/video-frame-zipzippipe-BV1tE9XBbErS-35s.png",
+      "bytes": 828333,
+      "sha256": "9088698d394f6a358be564300bb29d793c90ed328e91b51af56c453d0db3fea9",
+      "id": "zipzippipe-BV1tE9XBbErS-35s",
+      "character_id": "glm",
+      "collection": "zipzippipe",
+      "title": "作者原版Q版展示截帧",
+      "kind": "video-frame",
+      "creators": [
+        "ZipZipPipe"
+      ],
+      "width": 720,
+      "height": 1280,
+      "source_url": "https://www.bilibili.com/video/BV1tE9XBbErS/",
+      "retrieved_url": "https://raw.githubusercontent.com/shuaizenge/ai-girls/71defe761164407514c1db9bac582d74eab4cdac/characters/glm/chibi/zipzippipe-BV1tE9XBbErS-35s.png",
+      "supplier": "shuaizenge/ai-girls",
+      "supplier_tree_sha": "71defe761164407514c1db9bac582d74eab4cdac",
+      "upstream_path": "characters/glm/chibi/zipzippipe-BV1tE9XBbErS-35s.png",
+      "license": {
+        "status": "author_sharing_statement",
+        "identifier": null,
+        "evidence_url": "https://www.bilibili.com/video/BV1bARXBYEZz/",
+        "note": "作者说明作品开放分享与再创作，未核实这些角色适用统一标准许可证，不推断为 CC0 / MIT。"
+      },
+      "modifications": "原文件字节保留；仅调整本仓库路径。截帧由上游制作，非原始Q版立绘。",
+      "source_timestamp_seconds": 35
+    },
+    {
+      "path": "assets/zipzippipe/qwen/normal-zipzippipe-pixiv-148186519-p12.jpg",
+      "bytes": 10109914,
+      "sha256": "3dfe6fafc0531d1bf3fd0a72556c91d53253b377ac52355bb127e54020d55114",
+      "id": "zipzippipe-pixiv-148186519-p12",
+      "character_id": "qwen",
+      "collection": "zipzippipe",
+      "title": "初始设计正常比例立绘",
+      "kind": "normal",
+      "creators": [
+        "ZipZipPipe"
+      ],
+      "width": 3072,
+      "height": 5504,
+      "source_url": "https://www.pixiv.net/artworks/148186519",
+      "retrieved_url": "https://raw.githubusercontent.com/shuaizenge/ai-girls/71defe761164407514c1db9bac582d74eab4cdac/characters/qwen/adult/zipzippipe-pixiv-148186519-p12.jpg",
+      "supplier": "shuaizenge/ai-girls",
+      "supplier_tree_sha": "71defe761164407514c1db9bac582d74eab4cdac",
+      "upstream_path": "characters/qwen/adult/zipzippipe-pixiv-148186519-p12.jpg",
+      "license": {
+        "status": "author_sharing_statement",
+        "identifier": null,
+        "evidence_url": "https://www.bilibili.com/video/BV1bARXBYEZz/",
+        "note": "作者说明作品开放分享与再创作，未核实这些角色适用统一标准许可证，不推断为 CC0 / MIT。"
+      },
+      "modifications": "原文件字节保留；仅调整本仓库路径。",
+      "source_timestamp_seconds": null,
+      "preview": "assets/previews/qwen.jpg",
+      "preview_receipt": {
+        "path": "assets/previews/qwen.jpg",
+        "bytes": 37889,
+        "sha256": "b208563c5e0557b3a2c55e928f66286f60fe4504dafe5ffab53ca84b072e5eb1",
+        "retrieved_url": "https://raw.githubusercontent.com/shuaizenge/ai-girls/71defe761164407514c1db9bac582d74eab4cdac/previews/qwen-adult-zipzippipe-pixiv-148186519-p12.jpg",
+        "modifications": "上游生成的缩小预览，保留其字节。"
+      }
+    },
+    {
+      "path": "assets/zipzippipe/qwen/video-frame-zipzippipe-BV1tE9XBbErS-53s.png",
+      "bytes": 997530,
+      "sha256": "4f59aee4d8d4fa341a40b68f33d9593708f7eecfcb19c96ad8aa44d9bb844cb9",
+      "id": "zipzippipe-BV1tE9XBbErS-53s",
+      "character_id": "qwen",
+      "collection": "zipzippipe",
+      "title": "作者原版Q版展示截帧",
+      "kind": "video-frame",
+      "creators": [
+        "ZipZipPipe"
+      ],
+      "width": 720,
+      "height": 1280,
+      "source_url": "https://www.bilibili.com/video/BV1tE9XBbErS/",
+      "retrieved_url": "https://raw.githubusercontent.com/shuaizenge/ai-girls/71defe761164407514c1db9bac582d74eab4cdac/characters/qwen/chibi/zipzippipe-BV1tE9XBbErS-53s.png",
+      "supplier": "shuaizenge/ai-girls",
+      "supplier_tree_sha": "71defe761164407514c1db9bac582d74eab4cdac",
+      "upstream_path": "characters/qwen/chibi/zipzippipe-BV1tE9XBbErS-53s.png",
+      "license": {
+        "status": "author_sharing_statement",
+        "identifier": null,
+        "evidence_url": "https://www.bilibili.com/video/BV1bARXBYEZz/",
+        "note": "作者说明作品开放分享与再创作，未核实这些角色适用统一标准许可证，不推断为 CC0 / MIT。"
+      },
+      "modifications": "原文件字节保留；仅调整本仓库路径。截帧由上游制作，非原始Q版立绘。",
+      "source_timestamp_seconds": 53
+    },
+    {
+      "path": "assets/zipzippipe/deepseek/variant-zipzippipe-pixiv-148186519-p01-variant.jpg",
+      "bytes": 2878091,
+      "sha256": "4cee881c03347ce2b77218a2f984ab4938c1c53cbcfd47f3aa7b939fda905c4d",
+      "id": "zipzippipe-pixiv-148186519-p01-variant",
+      "character_id": "deepseek",
+      "collection": "zipzippipe",
+      "title": "作者正常比例立绘变体",
+      "kind": "variant",
+      "creators": [
+        "上善无形（角色原型）",
+        "ZipZipPipe（女仆二次设计）"
+      ],
+      "width": 1536,
+      "height": 2752,
+      "source_url": "https://www.pixiv.net/artworks/148186519",
+      "retrieved_url": "https://raw.githubusercontent.com/shuaizenge/ai-girls/71defe761164407514c1db9bac582d74eab4cdac/characters/deepseek/adult/zipzippipe-pixiv-148186519-p01-variant.jpg",
+      "supplier": "shuaizenge/ai-girls",
+      "supplier_tree_sha": "71defe761164407514c1db9bac582d74eab4cdac",
+      "upstream_path": "characters/deepseek/adult/zipzippipe-pixiv-148186519-p01-variant.jpg",
+      "license": {
+        "status": "author_declared",
+        "identifier": "CC-BY-NC-SA-4.0",
+        "evidence_url": "https://www.bilibili.com/video/BV1tE9XBbErS/",
+        "note": "上善无形原角色 → ZipZipPipe 女仆二次设计；社区补充图的具体绘制者仍未核实。"
+      },
+      "modifications": "原文件字节保留；仅调整本仓库路径。",
+      "source_timestamp_seconds": null
+    },
+    {
+      "path": "assets/zipzippipe/seed/normal-zipzippipe-pixiv-148186519-p10-seed.jpg",
+      "bytes": 8380978,
+      "sha256": "a923dd580c161ecb0f869b8c0457deaece480a74d0f0f00e4abadf55521d99ce",
+      "id": "zipzippipe-pixiv-148186519-p10-seed",
+      "character_id": "seed",
+      "collection": "zipzippipe",
+      "title": "Seed娘立绘（纠正上游Gemini变体误分类）",
+      "kind": "normal",
+      "creators": [
+        "ZipZipPipe"
+      ],
+      "width": 3072,
+      "height": 5504,
+      "source_url": "https://www.pixiv.net/artworks/148186519",
+      "retrieved_url": "https://raw.githubusercontent.com/shuaizenge/ai-girls/71defe761164407514c1db9bac582d74eab4cdac/characters/gemini/adult/zipzippipe-pixiv-148186519-p10-variant.jpg",
+      "supplier": "shuaizenge/ai-girls",
+      "supplier_tree_sha": "71defe761164407514c1db9bac582d74eab4cdac",
+      "upstream_path": "characters/gemini/adult/zipzippipe-pixiv-148186519-p10-variant.jpg",
+      "license": {
+        "status": "author_sharing_statement",
+        "identifier": null,
+        "evidence_url": "https://www.bilibili.com/video/BV1bARXBYEZz/",
+        "note": "作者说明作品开放分享与再创作，未核实这些角色适用统一标准许可证，不推断为 CC0 / MIT。"
+      },
+      "modifications": "原文件字节保留；仅调整本仓库路径。",
+      "source_timestamp_seconds": null,
+      "upstream_classification": {
+        "id": "zipzippipe-pixiv-148186519-p10-variant",
+        "character_id": "gemini",
+        "title": "作者另一形象版本（区别于初始猫娘）",
+        "kind": "variant"
+      },
+      "classification_evidence": "本次原图目视：工牌、挂带、夹板及裙摆均写SEED，抱着豆包头像玩偶；与Seed档案及图库对应。原图字节与上游SHA256不变。",
+      "preview": "assets/previews/seed.jpg",
+      "preview_receipt": {
+        "path": "assets/previews/seed.jpg",
+        "bytes": 33119,
+        "sha256": "f78f6a6d87341b128247a846cc8750cd0c2c848c2202d73cbdc7cba8d91c1a3d",
+        "retrieved_url": "https://raw.githubusercontent.com/shuaizenge/ai-girls/71defe761164407514c1db9bac582d74eab4cdac/previews/gemini-adult-zipzippipe-pixiv-148186519-p10-variant.jpg",
+        "modifications": "保留上游预览字节；纠正角色分类与本地文件名。"
+      }
+    },
+    {
+      "path": "assets/jadpp/claude-amber-manuscript-mediator-v5.webp",
+      "bytes": 294766,
+      "sha256": "6d2aa47c7cb062c2373e6351e82df14d0da3c212f73fd7a4fa9eeeea11098237",
+      "id": "jadpp-claude-amber-manuscript-mediator-v5",
+      "character_id": "claude",
+      "collection": "jadpp",
+      "title": "claude-amber-manuscript-mediator-v5.webp",
+      "kind": "normal-alternate",
+      "creators": [
+        "JAdpp（非官方 AI 辅助立绘）"
+      ],
+      "source_url": "https://github.com/JAdpp/dsh-whale-galgame/blob/046b848f244450e6e636335766276bf3343fe84b/NOTICE.md",
+      "retrieved_url": "https://raw.githubusercontent.com/JAdpp/dsh-whale-galgame/046b848f244450e6e636335766276bf3343fe84b/assets/default/claude-amber-manuscript-mediator-v5.webp",
+      "supplier": "JAdpp/dsh-whale-galgame",
+      "supplier_tree_sha": "046b848f244450e6e636335766276bf3343fe84b",
+      "upstream_path": "assets/default/claude-amber-manuscript-mediator-v5.webp",
+      "upstream_git_blob_sha": "fea01df6ea8183d95648cea74d6bffc81c0f8417",
+      "license": {
+        "status": "maintainer_declared",
+        "identifier": "CC-BY-NC-SA-4.0",
+        "evidence_url": "https://github.com/JAdpp/dsh-whale-galgame/blob/046b848f244450e6e636335766276bf3343fe84b/LICENSE.md",
+        "note": "维护者持有相应权利的范围内授权；不转授第三方品牌或上游角色权利。"
+      },
+      "modifications": "原文件字节保留；仅调整本仓库路径。"
+    },
+    {
+      "path": "assets/jadpp/gemini-dual-prism-translator-v4.webp",
+      "bytes": 482192,
+      "sha256": "9c7842d4d7d122480d5e5e5cee668eb40675480ffedceea25fcd22a4b9166bba",
+      "id": "jadpp-gemini-dual-prism-translator-v4",
+      "character_id": "gemini",
+      "collection": "jadpp",
+      "title": "gemini-dual-prism-translator-v4.webp",
+      "kind": "normal-alternate",
+      "creators": [
+        "JAdpp（非官方 AI 辅助立绘）"
+      ],
+      "source_url": "https://github.com/JAdpp/dsh-whale-galgame/blob/046b848f244450e6e636335766276bf3343fe84b/NOTICE.md",
+      "retrieved_url": "https://raw.githubusercontent.com/JAdpp/dsh-whale-galgame/046b848f244450e6e636335766276bf3343fe84b/assets/default/gemini-dual-prism-translator-v4.webp",
+      "supplier": "JAdpp/dsh-whale-galgame",
+      "supplier_tree_sha": "046b848f244450e6e636335766276bf3343fe84b",
+      "upstream_path": "assets/default/gemini-dual-prism-translator-v4.webp",
+      "upstream_git_blob_sha": "6bdd26c8b9bf0244abe8d7da3b44e539b69cc93e",
+      "license": {
+        "status": "maintainer_declared",
+        "identifier": "CC-BY-NC-SA-4.0",
+        "evidence_url": "https://github.com/JAdpp/dsh-whale-galgame/blob/046b848f244450e6e636335766276bf3343fe84b/LICENSE.md",
+        "note": "维护者持有相应权利的范围内授权；不转授第三方品牌或上游角色权利。"
+      },
+      "modifications": "原文件字节保留；仅调整本仓库路径。"
+    },
+    {
+      "path": "assets/jadpp/gpt-recursive-weaver-v7.webp",
+      "bytes": 285644,
+      "sha256": "31860daaa62b93f352b9159d785af2b4e2f29208f822ed5c25868c7f0a6af07d",
+      "id": "jadpp-gpt-recursive-weaver-v7",
+      "character_id": "gpt",
+      "collection": "jadpp",
+      "title": "gpt-recursive-weaver-v7.webp",
+      "kind": "normal-alternate",
+      "creators": [
+        "JAdpp（非官方 AI 辅助立绘）"
+      ],
+      "source_url": "https://github.com/JAdpp/dsh-whale-galgame/blob/046b848f244450e6e636335766276bf3343fe84b/NOTICE.md",
+      "retrieved_url": "https://raw.githubusercontent.com/JAdpp/dsh-whale-galgame/046b848f244450e6e636335766276bf3343fe84b/assets/default/gpt-recursive-weaver-v7.webp",
+      "supplier": "JAdpp/dsh-whale-galgame",
+      "supplier_tree_sha": "046b848f244450e6e636335766276bf3343fe84b",
+      "upstream_path": "assets/default/gpt-recursive-weaver-v7.webp",
+      "upstream_git_blob_sha": "3c6d6749cefbd801247145f7cfca86c4d787806d",
+      "license": {
+        "status": "maintainer_declared",
+        "identifier": "CC-BY-NC-SA-4.0",
+        "evidence_url": "https://github.com/JAdpp/dsh-whale-galgame/blob/046b848f244450e6e636335766276bf3343fe84b/LICENSE.md",
+        "note": "维护者持有相应权利的范围内授权；不转授第三方品牌或上游角色权利。"
+      },
+      "modifications": "原文件字节保留；仅调整本仓库路径。"
+    },
+    {
+      "path": "assets/jadpp/grok-cosmic-signal-ranger-v5.webp",
+      "bytes": 195244,
+      "sha256": "c8f0ede3fef9a31d9b620321eed795d09b4bfcb3d581b38e32302fd81a95fe7f",
+      "id": "jadpp-grok-cosmic-signal-ranger-v5",
+      "character_id": "grok",
+      "collection": "jadpp",
+      "title": "grok-cosmic-signal-ranger-v5.webp",
+      "kind": "normal-alternate",
+      "creators": [
+        "JAdpp（非官方 AI 辅助立绘）"
+      ],
+      "source_url": "https://github.com/JAdpp/dsh-whale-galgame/blob/046b848f244450e6e636335766276bf3343fe84b/NOTICE.md",
+      "retrieved_url": "https://raw.githubusercontent.com/JAdpp/dsh-whale-galgame/046b848f244450e6e636335766276bf3343fe84b/assets/default/grok-cosmic-signal-ranger-v5.webp",
+      "supplier": "JAdpp/dsh-whale-galgame",
+      "supplier_tree_sha": "046b848f244450e6e636335766276bf3343fe84b",
+      "upstream_path": "assets/default/grok-cosmic-signal-ranger-v5.webp",
+      "upstream_git_blob_sha": "7553468020e82d5841d4e246b9a63b35f6a6c0e7",
+      "license": {
+        "status": "maintainer_declared",
+        "identifier": "CC-BY-NC-SA-4.0",
+        "evidence_url": "https://github.com/JAdpp/dsh-whale-galgame/blob/046b848f244450e6e636335766276bf3343fe84b/LICENSE.md",
+        "note": "维护者持有相应权利的范围内授权；不转授第三方品牌或上游角色权利。"
+      },
+      "modifications": "原文件字节保留；仅调整本仓库路径。"
+    },
+    {
+      "path": "assets/jadpp/kimi-lunar-scroll-navigator-v5.webp",
+      "bytes": 325426,
+      "sha256": "c6f07e2430a4d102abf4356ac3f785124a894cbf1213e05eec1738204d3943f9",
+      "id": "jadpp-kimi-lunar-scroll-navigator-v5",
+      "character_id": "kimi",
+      "collection": "jadpp",
+      "title": "kimi-lunar-scroll-navigator-v5.webp",
+      "kind": "normal-alternate",
+      "creators": [
+        "JAdpp（非官方 AI 辅助立绘）"
+      ],
+      "source_url": "https://github.com/JAdpp/dsh-whale-galgame/blob/046b848f244450e6e636335766276bf3343fe84b/NOTICE.md",
+      "retrieved_url": "https://raw.githubusercontent.com/JAdpp/dsh-whale-galgame/046b848f244450e6e636335766276bf3343fe84b/assets/default/kimi-lunar-scroll-navigator-v5.webp",
+      "supplier": "JAdpp/dsh-whale-galgame",
+      "supplier_tree_sha": "046b848f244450e6e636335766276bf3343fe84b",
+      "upstream_path": "assets/default/kimi-lunar-scroll-navigator-v5.webp",
+      "upstream_git_blob_sha": "d4a33ff606ac33c101db08bc2ec8d8facd8915d6",
+      "license": {
+        "status": "maintainer_declared",
+        "identifier": "CC-BY-NC-SA-4.0",
+        "evidence_url": "https://github.com/JAdpp/dsh-whale-galgame/blob/046b848f244450e6e636335766276bf3343fe84b/LICENSE.md",
+        "note": "维护者持有相应权利的范围内授权；不转授第三方品牌或上游角色权利。"
+      },
+      "modifications": "原文件字节保留；仅调整本仓库路径。"
+    },
+    {
+      "path": "assets/jadpp/maid-left.webp",
+      "bytes": 286224,
+      "sha256": "af7bfd2e18505fc9d6f94cefd9febc92b31c1b2b66c756982d91fc7b93fb184c",
+      "id": "jadpp-maid-left",
+      "character_id": "deepseek",
+      "collection": "jadpp",
+      "title": "maid-left.webp",
+      "kind": "normal-alternate",
+      "creators": [
+        "上善无形（原角色）",
+        "ZipZipPipe（女仆二次设计）",
+        "Small-tailqwq / dsh-deep-whale（上游素材）",
+        "JAdpp（整理或表情改编）"
+      ],
+      "source_url": "https://github.com/JAdpp/dsh-whale-galgame/blob/046b848f244450e6e636335766276bf3343fe84b/NOTICE.md",
+      "retrieved_url": "https://raw.githubusercontent.com/JAdpp/dsh-whale-galgame/046b848f244450e6e636335766276bf3343fe84b/assets/default/maid-left.webp",
+      "supplier": "JAdpp/dsh-whale-galgame",
+      "supplier_tree_sha": "046b848f244450e6e636335766276bf3343fe84b",
+      "upstream_path": "assets/default/maid-left.webp",
+      "upstream_git_blob_sha": "2e916e33fdb4f92f0772fca330f2f530f987be2d",
+      "license": {
+        "status": "maintainer_declared",
+        "identifier": "CC-BY-NC-SA-4.0",
+        "evidence_url": "https://github.com/JAdpp/dsh-whale-galgame/blob/046b848f244450e6e636335766276bf3343fe84b/LICENSE.md",
+        "note": "维护者持有相应权利的范围内授权；不转授第三方品牌或上游角色权利。"
+      },
+      "modifications": "原文件字节保留；仅调整本仓库路径。"
+    },
+    {
+      "path": "assets/jadpp/whale-angry.webp",
+      "bytes": 321758,
+      "sha256": "63bb54126cf3acc785b251a19d465a8e388865badbdc7baf17bbad4b68057a02",
+      "id": "jadpp-whale-angry",
+      "character_id": "deepseek",
+      "collection": "jadpp",
+      "title": "whale-angry.webp",
+      "kind": "expression",
+      "creators": [
+        "上善无形（原角色）",
+        "ZipZipPipe（女仆二次设计）",
+        "Small-tailqwq / dsh-deep-whale（上游素材）",
+        "JAdpp（整理或表情改编）"
+      ],
+      "source_url": "https://github.com/JAdpp/dsh-whale-galgame/blob/046b848f244450e6e636335766276bf3343fe84b/NOTICE.md",
+      "retrieved_url": "https://raw.githubusercontent.com/JAdpp/dsh-whale-galgame/046b848f244450e6e636335766276bf3343fe84b/assets/default/whale-angry.webp",
+      "supplier": "JAdpp/dsh-whale-galgame",
+      "supplier_tree_sha": "046b848f244450e6e636335766276bf3343fe84b",
+      "upstream_path": "assets/default/whale-angry.webp",
+      "upstream_git_blob_sha": "252f793b5bf16e49fe2d75c4691dec89da87eb61",
+      "license": {
+        "status": "maintainer_declared",
+        "identifier": "CC-BY-NC-SA-4.0",
+        "evidence_url": "https://github.com/JAdpp/dsh-whale-galgame/blob/046b848f244450e6e636335766276bf3343fe84b/LICENSE.md",
+        "note": "维护者持有相应权利的范围内授权；不转授第三方品牌或上游角色权利。"
+      },
+      "modifications": "原文件字节保留；仅调整本仓库路径。"
+    },
+    {
+      "path": "assets/jadpp/whale-cheerful.webp",
+      "bytes": 314854,
+      "sha256": "117ed691623da550075056963764cee7a4cd14318d5ab87ce63d11926b83aa4b",
+      "id": "jadpp-whale-cheerful",
+      "character_id": "deepseek",
+      "collection": "jadpp",
+      "title": "whale-cheerful.webp",
+      "kind": "expression",
+      "creators": [
+        "上善无形（原角色）",
+        "ZipZipPipe（女仆二次设计）",
+        "Small-tailqwq / dsh-deep-whale（上游素材）",
+        "JAdpp（整理或表情改编）"
+      ],
+      "source_url": "https://github.com/JAdpp/dsh-whale-galgame/blob/046b848f244450e6e636335766276bf3343fe84b/NOTICE.md",
+      "retrieved_url": "https://raw.githubusercontent.com/JAdpp/dsh-whale-galgame/046b848f244450e6e636335766276bf3343fe84b/assets/default/whale-cheerful.webp",
+      "supplier": "JAdpp/dsh-whale-galgame",
+      "supplier_tree_sha": "046b848f244450e6e636335766276bf3343fe84b",
+      "upstream_path": "assets/default/whale-cheerful.webp",
+      "upstream_git_blob_sha": "a951e76677d55e8ac378962df35dbec52286b5ee",
+      "license": {
+        "status": "maintainer_declared",
+        "identifier": "CC-BY-NC-SA-4.0",
+        "evidence_url": "https://github.com/JAdpp/dsh-whale-galgame/blob/046b848f244450e6e636335766276bf3343fe84b/LICENSE.md",
+        "note": "维护者持有相应权利的范围内授权；不转授第三方品牌或上游角色权利。"
+      },
+      "modifications": "原文件字节保留；仅调整本仓库路径。"
+    },
+    {
+      "path": "assets/jadpp/whale-confused.webp",
+      "bytes": 291888,
+      "sha256": "f879656eeec7d02e07543774efcf93a62f03d5b73e577a4c5440d855b942d436",
+      "id": "jadpp-whale-confused",
+      "character_id": "deepseek",
+      "collection": "jadpp",
+      "title": "whale-confused.webp",
+      "kind": "expression",
+      "creators": [
+        "上善无形（原角色）",
+        "ZipZipPipe（女仆二次设计）",
+        "Small-tailqwq / dsh-deep-whale（上游素材）",
+        "JAdpp（整理或表情改编）"
+      ],
+      "source_url": "https://github.com/JAdpp/dsh-whale-galgame/blob/046b848f244450e6e636335766276bf3343fe84b/NOTICE.md",
+      "retrieved_url": "https://raw.githubusercontent.com/JAdpp/dsh-whale-galgame/046b848f244450e6e636335766276bf3343fe84b/assets/default/whale-confused.webp",
+      "supplier": "JAdpp/dsh-whale-galgame",
+      "supplier_tree_sha": "046b848f244450e6e636335766276bf3343fe84b",
+      "upstream_path": "assets/default/whale-confused.webp",
+      "upstream_git_blob_sha": "08e7864f1a27b23ddf605f8755bed936fbcb4a74",
+      "license": {
+        "status": "maintainer_declared",
+        "identifier": "CC-BY-NC-SA-4.0",
+        "evidence_url": "https://github.com/JAdpp/dsh-whale-galgame/blob/046b848f244450e6e636335766276bf3343fe84b/LICENSE.md",
+        "note": "维护者持有相应权利的范围内授权；不转授第三方品牌或上游角色权利。"
+      },
+      "modifications": "原文件字节保留；仅调整本仓库路径。"
+    },
+    {
+      "path": "assets/jadpp/whale-exasperated.webp",
+      "bytes": 292488,
+      "sha256": "c627bea1c000d304a538f1d63a2cf244f73824496ca585e0bda91a91450b67aa",
+      "id": "jadpp-whale-exasperated",
+      "character_id": "deepseek",
+      "collection": "jadpp",
+      "title": "whale-exasperated.webp",
+      "kind": "expression",
+      "creators": [
+        "上善无形（原角色）",
+        "ZipZipPipe（女仆二次设计）",
+        "Small-tailqwq / dsh-deep-whale（上游素材）",
+        "JAdpp（整理或表情改编）"
+      ],
+      "source_url": "https://github.com/JAdpp/dsh-whale-galgame/blob/046b848f244450e6e636335766276bf3343fe84b/NOTICE.md",
+      "retrieved_url": "https://raw.githubusercontent.com/JAdpp/dsh-whale-galgame/046b848f244450e6e636335766276bf3343fe84b/assets/default/whale-exasperated.webp",
+      "supplier": "JAdpp/dsh-whale-galgame",
+      "supplier_tree_sha": "046b848f244450e6e636335766276bf3343fe84b",
+      "upstream_path": "assets/default/whale-exasperated.webp",
+      "upstream_git_blob_sha": "bb57b4f72e61e8c97d5240c12bbdacf9d189d45b",
+      "license": {
+        "status": "maintainer_declared",
+        "identifier": "CC-BY-NC-SA-4.0",
+        "evidence_url": "https://github.com/JAdpp/dsh-whale-galgame/blob/046b848f244450e6e636335766276bf3343fe84b/LICENSE.md",
+        "note": "维护者持有相应权利的范围内授权；不转授第三方品牌或上游角色权利。"
+      },
+      "modifications": "原文件字节保留；仅调整本仓库路径。"
+    },
+    {
+      "path": "assets/jadpp/whale-frightened.webp",
+      "bytes": 314898,
+      "sha256": "a74c7b1afd6b6deaa60d3bbceeaf079dd2379b6b8be3da6265c492921522867b",
+      "id": "jadpp-whale-frightened",
+      "character_id": "deepseek",
+      "collection": "jadpp",
+      "title": "whale-frightened.webp",
+      "kind": "expression",
+      "creators": [
+        "上善无形（原角色）",
+        "ZipZipPipe（女仆二次设计）",
+        "Small-tailqwq / dsh-deep-whale（上游素材）",
+        "JAdpp（整理或表情改编）"
+      ],
+      "source_url": "https://github.com/JAdpp/dsh-whale-galgame/blob/046b848f244450e6e636335766276bf3343fe84b/NOTICE.md",
+      "retrieved_url": "https://raw.githubusercontent.com/JAdpp/dsh-whale-galgame/046b848f244450e6e636335766276bf3343fe84b/assets/default/whale-frightened.webp",
+      "supplier": "JAdpp/dsh-whale-galgame",
+      "supplier_tree_sha": "046b848f244450e6e636335766276bf3343fe84b",
+      "upstream_path": "assets/default/whale-frightened.webp",
+      "upstream_git_blob_sha": "240e6f9cb6dbb976450762b7cbde71f324aa9b0d",
+      "license": {
+        "status": "maintainer_declared",
+        "identifier": "CC-BY-NC-SA-4.0",
+        "evidence_url": "https://github.com/JAdpp/dsh-whale-galgame/blob/046b848f244450e6e636335766276bf3343fe84b/LICENSE.md",
+        "note": "维护者持有相应权利的范围内授权；不转授第三方品牌或上游角色权利。"
+      },
+      "modifications": "原文件字节保留；仅调整本仓库路径。"
+    },
+    {
+      "path": "assets/jadpp/whale-serious.webp",
+      "bytes": 283052,
+      "sha256": "2974cc4a814f6b1f95d907d22f62d9e0094dd7e538b6145e7c8a1dbb6154de34",
+      "id": "jadpp-whale-serious",
+      "character_id": "deepseek",
+      "collection": "jadpp",
+      "title": "whale-serious.webp",
+      "kind": "expression",
+      "creators": [
+        "上善无形（原角色）",
+        "ZipZipPipe（女仆二次设计）",
+        "Small-tailqwq / dsh-deep-whale（上游素材）",
+        "JAdpp（整理或表情改编）"
+      ],
+      "source_url": "https://github.com/JAdpp/dsh-whale-galgame/blob/046b848f244450e6e636335766276bf3343fe84b/NOTICE.md",
+      "retrieved_url": "https://raw.githubusercontent.com/JAdpp/dsh-whale-galgame/046b848f244450e6e636335766276bf3343fe84b/assets/default/whale-serious.webp",
+      "supplier": "JAdpp/dsh-whale-galgame",
+      "supplier_tree_sha": "046b848f244450e6e636335766276bf3343fe84b",
+      "upstream_path": "assets/default/whale-serious.webp",
+      "upstream_git_blob_sha": "cccbc410f0231b6a607717fa6f8a036984e00aa5",
+      "license": {
+        "status": "maintainer_declared",
+        "identifier": "CC-BY-NC-SA-4.0",
+        "evidence_url": "https://github.com/JAdpp/dsh-whale-galgame/blob/046b848f244450e6e636335766276bf3343fe84b/LICENSE.md",
+        "note": "维护者持有相应权利的范围内授权；不转授第三方品牌或上游角色权利。"
+      },
+      "modifications": "原文件字节保留；仅调整本仓库路径。"
+    },
+    {
+      "path": "assets/jadpp/whale-shy.webp",
+      "bytes": 299002,
+      "sha256": "87dea8920f550d75e68d189a816856fcc77379532a79c169cc766f02aeeb80f4",
+      "id": "jadpp-whale-shy",
+      "character_id": "deepseek",
+      "collection": "jadpp",
+      "title": "whale-shy.webp",
+      "kind": "expression",
+      "creators": [
+        "上善无形（原角色）",
+        "ZipZipPipe（女仆二次设计）",
+        "Small-tailqwq / dsh-deep-whale（上游素材）",
+        "JAdpp（整理或表情改编）"
+      ],
+      "source_url": "https://github.com/JAdpp/dsh-whale-galgame/blob/046b848f244450e6e636335766276bf3343fe84b/NOTICE.md",
+      "retrieved_url": "https://raw.githubusercontent.com/JAdpp/dsh-whale-galgame/046b848f244450e6e636335766276bf3343fe84b/assets/default/whale-shy.webp",
+      "supplier": "JAdpp/dsh-whale-galgame",
+      "supplier_tree_sha": "046b848f244450e6e636335766276bf3343fe84b",
+      "upstream_path": "assets/default/whale-shy.webp",
+      "upstream_git_blob_sha": "a35abb5ad22915ae3159f6146d7425dc792dcc55",
+      "license": {
+        "status": "maintainer_declared",
+        "identifier": "CC-BY-NC-SA-4.0",
+        "evidence_url": "https://github.com/JAdpp/dsh-whale-galgame/blob/046b848f244450e6e636335766276bf3343fe84b/LICENSE.md",
+        "note": "维护者持有相应权利的范围内授权；不转授第三方品牌或上游角色权利。"
+      },
+      "modifications": "原文件字节保留；仅调整本仓库路径。"
+    },
+    {
+      "path": "assets/jadpp/whale-starry.webp",
+      "bytes": 319384,
+      "sha256": "65a3bd1eb9ad4f8cb357af4825311f84e91be4f7f57deb5357fb79116bcad774",
+      "id": "jadpp-whale-starry",
+      "character_id": "deepseek",
+      "collection": "jadpp",
+      "title": "whale-starry.webp",
+      "kind": "expression",
+      "creators": [
+        "上善无形（原角色）",
+        "ZipZipPipe（女仆二次设计）",
+        "Small-tailqwq / dsh-deep-whale（上游素材）",
+        "JAdpp（整理或表情改编）"
+      ],
+      "source_url": "https://github.com/JAdpp/dsh-whale-galgame/blob/046b848f244450e6e636335766276bf3343fe84b/NOTICE.md",
+      "retrieved_url": "https://raw.githubusercontent.com/JAdpp/dsh-whale-galgame/046b848f244450e6e636335766276bf3343fe84b/assets/default/whale-starry.webp",
+      "supplier": "JAdpp/dsh-whale-galgame",
+      "supplier_tree_sha": "046b848f244450e6e636335766276bf3343fe84b",
+      "upstream_path": "assets/default/whale-starry.webp",
+      "upstream_git_blob_sha": "df6151823f67233316cf4ab94f1bd7e35a5c88c0",
+      "license": {
+        "status": "maintainer_declared",
+        "identifier": "CC-BY-NC-SA-4.0",
+        "evidence_url": "https://github.com/JAdpp/dsh-whale-galgame/blob/046b848f244450e6e636335766276bf3343fe84b/LICENSE.md",
+        "note": "维护者持有相应权利的范围内授权；不转授第三方品牌或上游角色权利。"
+      },
+      "modifications": "原文件字节保留；仅调整本仓库路径。"
+    }
+  ]
+}

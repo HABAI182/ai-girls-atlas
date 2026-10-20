@@ -1,0 +1,1099 @@
+{
+  "schema_version": 1,
+  "checked_on": "2026-10-20",
+  "characters": [
+    {
+      "id": "deepseek",
+      "name": "DeepSeek / 深度求索",
+      "entity_kind": "model-family",
+      "status": "local_assets",
+      "design_family": "zipzippipe",
+      "creators": "上善无形（原角色）；ZipZipPipe（二次设计）",
+      "aliases": [
+        "蓝色大肥鱼",
+        "鲸鱼娘",
+        "DS娘",
+        "Whale-chan"
+      ],
+      "observed_traits": [
+        "蓝色长发",
+        "鲸鱼鳍状耳饰与鲸尾",
+        "深蓝白女仆裙"
+      ],
+      "identity_rules": "鲸尾末端左右尾鳍属于一条尾巴；女仆装、宫廷侍女装、小肥鱼及DSH方案分别建版本。不能把所有蓝发鲸鱼图归成同一作者。",
+      "creative_options_original": "可用饭碗、清单或休息动作表现日常反差；这是创作建议，吃饭摸鱼不是技术能力评价。",
+      "sources": [
+        "src-06ed22a0fa",
+        "src-de02e6b9d9",
+        "src-f54f4048e7",
+        "src-7c9b4010e9",
+        "src-2987d047a2",
+        "src-feae71144c",
+        "src-c8ae4f454d"
+      ],
+      "local_asset_ids": [
+        "zipzippipe-pixiv-148186519-p00",
+        "zipzippipe-BV1tE9XBbErS-05s",
+        "zipzippipe-pixiv-148186519-p01-variant",
+        "jadpp-maid-left",
+        "jadpp-whale-angry",
+        "jadpp-whale-cheerful",
+        "jadpp-whale-confused",
+        "jadpp-whale-exasperated",
+        "jadpp-whale-frightened",
+        "jadpp-whale-serious",
+        "jadpp-whale-shy",
+        "jadpp-whale-starry"
+      ],
+      "not_claimed": [
+        "官方统一形象",
+        "当前能力排名",
+        "所有版本均开放商用"
+      ]
+    },
+    {
+      "id": "gpt",
+      "name": "ChatGPT / GPT",
+      "entity_kind": "product-and-model-family",
+      "status": "local_assets",
+      "design_family": "zipzippipe",
+      "creators": "ZipZipPipe",
+      "aliases": [
+        "GPT娘",
+        "ChatGPT娘",
+        "龙娘",
+        "小龙娘"
+      ],
+      "observed_traits": [
+        "白色长发",
+        "龙角、龙翼与长尾",
+        "浅色礼服"
+      ],
+      "identity_rules": "早期原图带白紫色调，聚合页概括为白金礼服；以所选文件为准。Image 2和Codex为分支，不能直接互换服装。",
+      "creative_options_original": "可以用递需求、织网或整理模块表现协作；大小姐和富有只适用于特定作品的人设。",
+      "sources": [
+        "src-f534aa20fd",
+        "src-de02e6b9d9",
+        "src-f54f4048e7",
+        "src-cae0d1341e",
+        "src-939955d01d",
+        "src-b02db0226e"
+      ],
+      "local_asset_ids": [
+        "zipzippipe-pixiv-148186519-p03",
+        "zipzippipe-BV1tE9XBbErS-23s",
+        "jadpp-gpt-recursive-weaver-v7"
+      ],
+      "not_claimed": [
+        "官方统一形象",
+        "当前能力排名",
+        "所有版本均开放商用"
+      ]
+    },
+    {
+      "id": "claude",
+      "name": "Claude",
+      "entity_kind": "model-family",
+      "status": "local_assets",
+      "design_family": "zipzippipe",
+      "creators": "ZipZipPipe",
+      "aliases": [
+        "Claude娘",
+        "克劳德娘"
+      ],
+      "observed_traits": [
+        "橙色长发",
+        "花形发饰",
+        "米白橙黑层叠长裙与书本"
+      ],
+      "identity_rules": "花饰、书本和暖色裙装可组合识别；不要把后来的黑发版本或JAdpp立绘当成这个早期版本。",
+      "creative_options_original": "适合读稿、校对、认真解释或思索的动作；账号与中文梗应附作品语境，不当作当前政策说明。",
+      "sources": [
+        "src-9b6972393a",
+        "src-de02e6b9d9",
+        "src-3ebeb4cb2d"
+      ],
+      "local_asset_ids": [
+        "zipzippipe-pixiv-148186519-p02",
+        "zipzippipe-BV1tE9XBbErS-17s",
+        "jadpp-claude-amber-manuscript-mediator-v5"
+      ],
+      "not_claimed": [
+        "官方统一形象",
+        "当前能力排名",
+        "所有版本均开放商用"
+      ]
+    },
+    {
+      "id": "gemini",
+      "name": "Gemini",
+      "entity_kind": "model-family",
+      "status": "local_assets",
+      "design_family": "zipzippipe",
+      "creators": "ZipZipPipe",
+      "aliases": [
+        "Gemini娘",
+        "双子娘",
+        "猫娘"
+      ],
+      "observed_traits": [
+        "蓝紫渐变长发",
+        "猫耳猫尾",
+        "异色瞳与星形元素"
+      ],
+      "identity_rules": "猫耳轮廓与蓝紫色组合比单独的星标更有辨识度。OpenPet的彩虹发版本是另一套设计。",
+      "creative_options_original": "可以让一个角色在两个方案之间比较；双子概念不要求画成两个人。",
+      "sources": [
+        "src-39699a7d83",
+        "src-de02e6b9d9"
+      ],
+      "local_asset_ids": [
+        "zipzippipe-pixiv-148186519-p04",
+        "zipzippipe-BV1tE9XBbErS-11s",
+        "jadpp-gemini-dual-prism-translator-v4"
+      ],
+      "not_claimed": [
+        "官方统一形象",
+        "当前能力排名",
+        "所有版本均开放商用"
+      ]
+    },
+    {
+      "id": "grok",
+      "name": "Grok",
+      "entity_kind": "model-family",
+      "status": "local_assets",
+      "design_family": "zipzippipe",
+      "creators": "ZipZipPipe",
+      "aliases": [
+        "Grok娘"
+      ],
+      "observed_traits": [
+        "金发",
+        "黑红或黑色裙装",
+        "蝙蝠翼、尖角与斧形道具"
+      ],
+      "identity_rules": "原作者壁纸文案称友善的吸血鬼；不能把这套社区设计与产品伴侣Ani直接视为同一角色。",
+      "creative_options_original": "可用夸张但友好的表情表达探索欲；不要由“自由”梗推断服务没有限制。",
+      "sources": [
+        "src-041a2628d6",
+        "src-de02e6b9d9",
+        "src-88526bcba4"
+      ],
+      "local_asset_ids": [
+        "zipzippipe-pixiv-148186519-p07",
+        "zipzippipe-BV1tE9XBbErS-29s",
+        "jadpp-grok-cosmic-signal-ranger-v5"
+      ],
+      "not_claimed": [
+        "官方统一形象",
+        "当前能力排名",
+        "所有版本均开放商用"
+      ]
+    },
+    {
+      "id": "kimi",
+      "name": "Kimi",
+      "entity_kind": "product-and-model-family",
+      "status": "local_assets",
+      "design_family": "zipzippipe",
+      "creators": "ZipZipPipe",
+      "aliases": [
+        "Kimi娘",
+        "月之暗面娘"
+      ],
+      "observed_traits": [
+        "白至银紫色长发",
+        "月亮和K元素",
+        "黑白深蓝非对称服装"
+      ],
+      "identity_rules": "原作者专门说明了左右非对称；三视图必须逐侧核对。白发与银紫的差异要随具体版本保存。",
+      "creative_options_original": "可以采用卷轴、月光书房或档案夹作为场景提案；这些道具不自动属于原始设定。",
+      "sources": [
+        "src-6de0c0f52f",
+        "src-de02e6b9d9",
+        "src-7c9b4010e9",
+        "src-25935b1cdf"
+      ],
+      "local_asset_ids": [
+        "zipzippipe-pixiv-148186519-p05",
+        "zipzippipe-BV1tE9XBbErS-41s",
+        "jadpp-kimi-lunar-scroll-navigator-v5"
+      ],
+      "not_claimed": [
+        "官方统一形象",
+        "当前能力排名",
+        "所有版本均开放商用"
+      ]
+    },
+    {
+      "id": "glm",
+      "name": "GLM / 智谱",
+      "entity_kind": "model-family",
+      "status": "local_assets",
+      "design_family": "zipzippipe",
+      "creators": "ZipZipPipe",
+      "aliases": [
+        "GLM娘",
+        "智谱娘"
+      ],
+      "observed_traits": [
+        "黑色长发",
+        "狐耳和蓬松尾部",
+        "黑白服装及书本/Z元素"
+      ],
+      "identity_rules": "GLM狐娘与Zcode蒙眼工程少女分别登记；不能因为同属相关品牌便混作一人。",
+      "creative_options_original": "适合拿着方案、解释思路或带一点狡黠的微笑；原作者的壁纸文案可作该版本人设线索。",
+      "sources": [
+        "src-d600068679",
+        "src-de02e6b9d9",
+        "src-7c9b4010e9",
+        "src-9e170d4379"
+      ],
+      "local_asset_ids": [
+        "zipzippipe-pixiv-148186519-p06",
+        "zipzippipe-BV1tE9XBbErS-35s"
+      ],
+      "not_claimed": [
+        "官方统一形象",
+        "当前能力排名",
+        "所有版本均开放商用"
+      ]
+    },
+    {
+      "id": "qwen",
+      "name": "Qwen / 通义千问",
+      "entity_kind": "model-family",
+      "status": "local_assets",
+      "design_family": "zipzippipe",
+      "creators": "ZipZipPipe",
+      "aliases": [
+        "Qwen娘",
+        "千问娘",
+        "通义娘"
+      ],
+      "observed_traits": [
+        "蓝紫长发",
+        "圆形发饰",
+        "中式衣裙与折扇"
+      ],
+      "identity_rules": "作者三视图采用新版配色与图标；旧图新图并存时不要按文件时间误判谁是错误版本。",
+      "creative_options_original": "折扇可以成为动作变化的中心；衣纹和左右配件应以选定立绘为准。",
+      "sources": [
+        "src-35b73b4885",
+        "src-de02e6b9d9",
+        "src-7c9b4010e9",
+        "src-74e50f202c"
+      ],
+      "local_asset_ids": [
+        "zipzippipe-pixiv-148186519-p12",
+        "zipzippipe-BV1tE9XBbErS-53s"
+      ],
+      "not_claimed": [
+        "官方统一形象",
+        "当前能力排名",
+        "所有版本均开放商用"
+      ]
+    },
+    {
+      "id": "seed",
+      "name": "Seed 娘（豆包相关同人）",
+      "entity_kind": "model-family",
+      "status": "local_assets",
+      "design_family": "zipzippipe",
+      "creators": "ZipZipPipe",
+      "aliases": [
+        "Seed娘",
+        "豆包娘（本作者版本）"
+      ],
+      "observed_traits": [
+        "紫蓝单马尾",
+        "蓝白服装",
+        "豆包挂件"
+      ],
+      "identity_rules": "这是Seed模型相关的同人设计，与豆包官方短发头像和OpenPet短发洛丽塔版本分别管理。",
+      "creative_options_original": "可用舞台内外或工作换装表达产品与幕后模型的关系；不要把她的造型称为豆包官方全身设定。",
+      "sources": [
+        "src-efb5b349f0",
+        "src-f54f4048e7",
+        "src-b934d159f4"
+      ],
+      "local_asset_ids": [
+        "zipzippipe-pixiv-148186519-p10-seed"
+      ],
+      "not_claimed": [
+        "官方统一形象",
+        "当前能力排名",
+        "所有版本均开放商用"
+      ]
+    },
+    {
+      "id": "minimax",
+      "name": "MiniMax",
+      "entity_kind": "model-family",
+      "status": "profile_and_references",
+      "design_family": "zipzippipe",
+      "creators": "ZipZipPipe",
+      "aliases": [
+        "MiniMax娘",
+        "海螺娘"
+      ],
+      "observed_traits": [
+        "橙色短发",
+        "粉色贝雷帽",
+        "场记板、照片与创作道具"
+      ],
+      "identity_rules": "海螺是相关产品称呼，不表示品牌旗下每项服务都有同一角色。帽子和场记板组合是本版强识别点。",
+      "creative_options_original": "可围绕拍摄、记场或展示作品创作，适合让她成为群像中的制作人员。",
+      "sources": [
+        "src-ea6da7096a",
+        "src-f54f4048e7",
+        "src-e7a83efe44",
+        "src-461b32e833"
+      ],
+      "local_asset_ids": [],
+      "not_claimed": [
+        "官方统一形象",
+        "当前能力排名",
+        "所有版本均开放商用"
+      ]
+    },
+    {
+      "id": "llama",
+      "name": "Llama",
+      "entity_kind": "model-family",
+      "status": "profile_and_references",
+      "design_family": "zipzippipe",
+      "creators": "ZipZipPipe",
+      "aliases": [
+        "Llama娘",
+        "羊驼娘"
+      ],
+      "observed_traits": [
+        "白色长卷发",
+        "白色猫耳",
+        "宽松白色外套"
+      ],
+      "identity_rules": "名字可译羊驼，但这套资料的外形描述是猫耳；不要仅凭产品名擅自改掉耳朵。",
+      "creative_options_original": "以外套轮廓和浅色发型帮助认人；新加羊驼元素时应登记为改版。",
+      "sources": [
+        "src-6a3f997630",
+        "src-f54f4048e7"
+      ],
+      "local_asset_ids": [],
+      "not_claimed": [
+        "官方统一形象",
+        "当前能力排名",
+        "所有版本均开放商用"
+      ]
+    },
+    {
+      "id": "mistral",
+      "name": "Mistral",
+      "entity_kind": "model-family",
+      "status": "profile_and_references",
+      "design_family": "zipzippipe",
+      "creators": "ZipZipPipe",
+      "aliases": [
+        "Mistral娘",
+        "米斯特拉尔娘"
+      ],
+      "observed_traits": [
+        "金色长发",
+        "红色宽檐帽",
+        "红白法师裙"
+      ],
+      "identity_rules": "与Perplexity同属法师轮廓，但帽子形状和红白主色不同。小模型合照是作品主题，不是长期参数分类。",
+      "creative_options_original": "可以围绕风、纸页、施法准备安排动作；额外加入的功能隐喻属于创作提案。",
+      "sources": [
+        "src-1320f85976",
+        "src-f54f4048e7",
+        "src-e7a83efe44"
+      ],
+      "local_asset_ids": [],
+      "not_claimed": [
+        "官方统一形象",
+        "当前能力排名",
+        "所有版本均开放商用"
+      ]
+    },
+    {
+      "id": "perplexity",
+      "name": "Perplexity",
+      "entity_kind": "product",
+      "status": "profile_and_references",
+      "design_family": "zipzippipe",
+      "creators": "ZipZipPipe",
+      "aliases": [
+        "Perplexity娘",
+        "困惑娘"
+      ],
+      "observed_traits": [
+        "墨绿色长发",
+        "绿系长袍",
+        "星形法杖"
+      ],
+      "identity_rules": "产品/搜索服务与底层模型不是同一层级；不要把她硬塞进纯基础模型榜单。",
+      "creative_options_original": "用检索卡、索引页或寻找线索的姿态表现主题；保留绿色与法杖轮廓。",
+      "sources": [
+        "src-3aac360902",
+        "src-f54f4048e7",
+        "src-e7a83efe44"
+      ],
+      "local_asset_ids": [],
+      "not_claimed": [
+        "官方统一形象",
+        "当前能力排名",
+        "所有版本均开放商用"
+      ]
+    },
+    {
+      "id": "wenxin",
+      "name": "文心 / ERNIE",
+      "entity_kind": "model-family",
+      "status": "profile_and_references",
+      "design_family": "zipzippipe",
+      "creators": "ZipZipPipe",
+      "aliases": [
+        "文心娘",
+        "文心一言娘",
+        "ERNIE娘"
+      ],
+      "observed_traits": [
+        "蓝色方块发夹",
+        "蓝色系头发",
+        "中式衣裙"
+      ],
+      "identity_rules": "与Qwen的中式风格容易混淆，优先看发夹与配色。资历或旧时代笑话属于作者的表达。",
+      "creative_options_original": "可用信笺、旧相册或庭院作为新作品场景；不用负面技术标签固定角色。",
+      "sources": [
+        "src-a5510be70b",
+        "src-f54f4048e7",
+        "src-bd4738ad80",
+        "src-3a08dd5da9"
+      ],
+      "local_asset_ids": [],
+      "not_claimed": [
+        "官方统一形象",
+        "当前能力排名",
+        "所有版本均开放商用"
+      ]
+    },
+    {
+      "id": "rwkv",
+      "name": "RWKV",
+      "entity_kind": "model-family",
+      "status": "profile_and_references",
+      "design_family": "zipzippipe",
+      "creators": "ZipZipPipe",
+      "aliases": [
+        "RWKV娘",
+        "鸦鸦",
+        "乌鸦娘"
+      ],
+      "observed_traits": [
+        "深紫长发",
+        "放射状王冠",
+        "紫色羽翼与羽毛服饰"
+      ],
+      "identity_rules": "羽翼、王冠和深紫配色需要一起保留；不能把鸟翼和GPT龙翼只按“有翅膀”合并。",
+      "creative_options_original": "可以用收拢羽翼、整理羽毛等小动作产生表情差异；不要据造型解释模型架构。",
+      "sources": [
+        "src-3a973acb50",
+        "src-f54f4048e7",
+        "src-e7a83efe44",
+        "src-e89823668f"
+      ],
+      "local_asset_ids": [],
+      "not_claimed": [
+        "官方统一形象",
+        "当前能力排名",
+        "所有版本均开放商用"
+      ]
+    },
+    {
+      "id": "hunyuan",
+      "name": "腾讯混元 / Hunyuan",
+      "entity_kind": "model-family",
+      "status": "profile_and_references",
+      "design_family": "zipzippipe",
+      "creators": "ZipZipPipe",
+      "aliases": [
+        "混元娘",
+        "HY娘"
+      ],
+      "observed_traits": [
+        "深色长发",
+        "中式长裙",
+        "算盘"
+      ],
+      "identity_rules": "作者原帖说明希望呈现富商之女与企鹅式整体印象，并坦言基于有限使用印象设计。不要升级成客观产品评语。",
+      "creative_options_original": "算盘可帮助形成固定手势和轮廓；腾讯元宝作为产品另列，不直接复制这套衣服。",
+      "sources": [
+        "src-5800cf37af",
+        "src-37278a8e0b"
+      ],
+      "local_asset_ids": [],
+      "not_claimed": [
+        "官方统一形象",
+        "当前能力排名",
+        "所有版本均开放商用"
+      ]
+    },
+    {
+      "id": "jev",
+      "name": "JEV 裁判者",
+      "entity_kind": "community-model-reference",
+      "status": "profile_and_references",
+      "design_family": "zipzippipe",
+      "creators": "ZipZipPipe",
+      "aliases": [
+        "JEV娘",
+        "裁判者"
+      ],
+      "observed_traits": [
+        "黑粉配色",
+        "天平",
+        "嘴部荆棘"
+      ],
+      "identity_rules": "“不能对话所以封口”为作者设定说明；本次没有独立核实其完整技术身份，不把它当大众聊天产品。",
+      "creative_options_original": "可做群像中的评分或主持角色；应用到剧情时应保留该设定属于作者世界观。",
+      "sources": [
+        "src-320ec33b4f",
+        "src-7a58e3de15"
+      ],
+      "local_asset_ids": [],
+      "not_claimed": [
+        "官方统一形象",
+        "当前能力排名",
+        "所有版本均开放商用"
+      ]
+    },
+    {
+      "id": "opencode",
+      "name": "OpenCode",
+      "entity_kind": "coding-tool",
+      "status": "visual_lead",
+      "design_family": "multiple_or_pending",
+      "creators": "ZipZipPipe（资料署名）",
+      "aliases": [
+        "OpenCode娘",
+        "开源码宝库少女"
+      ],
+      "observed_traits": [
+        "黑色长发",
+        "机械感尖角",
+        "灰黑服装"
+      ],
+      "identity_rules": "用户重点视频把她作为编程工具拟人展示；不是独立基础模型。设计细节需继续回原帖核查。",
+      "creative_options_original": "可用模块、终端窗口或工具袋表达工作内容；不把这些新道具写成原作者固定设定。",
+      "sources": [
+        "src-de2cb99e15"
+      ],
+      "local_asset_ids": [],
+      "not_claimed": [
+        "官方统一形象",
+        "当前能力排名",
+        "所有版本均开放商用"
+      ]
+    },
+    {
+      "id": "zcode",
+      "name": "Zcode",
+      "entity_kind": "coding-tool",
+      "status": "visual_lead",
+      "design_family": "multiple_or_pending",
+      "creators": "具体设计署名待进一步核对",
+      "aliases": [
+        "Zcode娘",
+        "蒙眼狐娘"
+      ],
+      "observed_traits": [
+        "浅色长发",
+        "蒙眼元素",
+        "浅蓝白工程少女轮廓"
+      ],
+      "identity_rules": "在重点视频与档案站均找到线索；名字、所属品牌和具体作者应分别核验，不凭GLM相似元素推断。",
+      "creative_options_original": "可用卷图或工具包作为姿势参考，但精确服装和作者仍以原帖为准。",
+      "sources": [
+        "src-de2cb99e15"
+      ],
+      "local_asset_ids": [],
+      "not_claimed": [
+        "官方统一形象",
+        "当前能力排名",
+        "所有版本均开放商用"
+      ]
+    },
+    {
+      "id": "codex",
+      "name": "Codex 龙娘分支",
+      "entity_kind": "coding-tool",
+      "status": "visual_lead",
+      "design_family": "multiple_or_pending",
+      "creators": "群友设计（具体作者待核）；ZipZipPipe发布",
+      "aliases": [
+        "Codex娘"
+      ],
+      "observed_traits": [
+        "龙娘分支",
+        "细节以作者发布的三视图为准"
+      ],
+      "identity_rules": "原帖明确提到设计来自群友。不能把发布者自动当作唯一设计者，也不能从GPT龙娘直接推定颜色。",
+      "creative_options_original": "新画前先选定三视图对应版本；若无法确认，保留待核字段，不补想象颜色。",
+      "sources": [
+        "src-cae0d1341e"
+      ],
+      "local_asset_ids": [],
+      "not_claimed": [
+        "官方统一形象",
+        "当前能力排名",
+        "所有版本均开放商用"
+      ]
+    },
+    {
+      "id": "image2",
+      "name": "Image 2 黑龙娘",
+      "entity_kind": "image-model-reference",
+      "status": "visual_lead",
+      "design_family": "multiple_or_pending",
+      "creators": "ZipZipPipe",
+      "aliases": [
+        "Image 2娘",
+        "黑龙娘"
+      ],
+      "observed_traits": [
+        "黑龙娘分支",
+        "已有三视图入口"
+      ],
+      "identity_rules": "这是作品采用的名称和版本；图鉴记录历史设计，不据此断言当前服务的产品规格或可用性。",
+      "creative_options_original": "可在同一龙娘体系下比较配色和服装，但不能把黑白龙娘称作一张图的随机差分。",
+      "sources": [
+        "src-cae0d1341e"
+      ],
+      "local_asset_ids": [],
+      "not_claimed": [
+        "官方统一形象",
+        "当前能力排名",
+        "所有版本均开放商用"
+      ]
+    },
+    {
+      "id": "novelai",
+      "name": "NovelAI",
+      "entity_kind": "creative-product",
+      "status": "visual_lead",
+      "design_family": "multiple_or_pending",
+      "creators": "ZipZipPipe（合照署名）",
+      "aliases": [
+        "NovelAI娘"
+      ],
+      "observed_traits": [
+        "本次仅确认生成式模型合照中的形象线索"
+      ],
+      "identity_rules": "没有从合照自动推导独立全身设定、年龄、声音或完整三视图。",
+      "creative_options_original": "下一步应定位合照中的具体角色，再寻找独立作者作品；当前不填写想象外貌。",
+      "sources": [
+        "src-461b32e833"
+      ],
+      "local_asset_ids": [],
+      "not_claimed": [
+        "官方统一形象",
+        "当前能力排名",
+        "所有版本均开放商用"
+      ]
+    },
+    {
+      "id": "midjourney",
+      "name": "Midjourney",
+      "entity_kind": "image-product",
+      "status": "visual_lead",
+      "design_family": "multiple_or_pending",
+      "creators": "ZipZipPipe（合照署名）",
+      "aliases": [
+        "Midjourney娘",
+        "MJ娘"
+      ],
+      "observed_traits": [
+        "本次仅确认生成式模型合照中的形象线索"
+      ],
+      "identity_rules": "与NovelAI等同框不等于共享同一设计；未核实其独立提示词和文件许可。",
+      "creative_options_original": "创作前先补独立立绘和作者说明；如果自行设计，放入新的作者系列。",
+      "sources": [
+        "src-461b32e833"
+      ],
+      "local_asset_ids": [],
+      "not_claimed": [
+        "官方统一形象",
+        "当前能力排名",
+        "所有版本均开放商用"
+      ]
+    },
+    {
+      "id": "suno",
+      "name": "Suno",
+      "entity_kind": "music-product",
+      "status": "visual_lead",
+      "design_family": "multiple_or_pending",
+      "creators": "ZipZipPipe（合照署名）",
+      "aliases": [
+        "Suno娘"
+      ],
+      "observed_traits": [
+        "本次仅确认生成式模型合照中的形象线索"
+      ],
+      "identity_rules": "图像角色与歌曲、歌声、生成音乐的许可分别处理；形象链接不能授权音乐。",
+      "creative_options_original": "可把乐谱或舞台作为原创提案，但不把提案当作已观察到的角色配件。",
+      "sources": [
+        "src-461b32e833"
+      ],
+      "local_asset_ids": [],
+      "not_claimed": [
+        "官方统一形象",
+        "当前能力排名",
+        "所有版本均开放商用"
+      ]
+    },
+    {
+      "id": "elevenlabs",
+      "name": "ElevenLabs",
+      "entity_kind": "audio-product",
+      "status": "visual_lead",
+      "design_family": "multiple_or_pending",
+      "creators": "ZipZipPipe（合照署名）",
+      "aliases": [
+        "ElevenLabs娘"
+      ],
+      "observed_traits": [
+        "本次仅确认生成式模型合照中的形象线索"
+      ],
+      "identity_rules": "语音平台拟人与某位配音者的音色不能混为一谈；本库没有复制或授权声音。",
+      "creative_options_original": "先补原作定位和图像身份；声音资产另建来源与授权，不能沿用图片许可。",
+      "sources": [
+        "src-461b32e833"
+      ],
+      "local_asset_ids": [],
+      "not_claimed": [
+        "官方统一形象",
+        "当前能力排名",
+        "所有版本均开放商用"
+      ]
+    },
+    {
+      "id": "doubao",
+      "name": "豆包官方头像及其他版本",
+      "entity_kind": "product",
+      "status": "visual_lead",
+      "design_family": "multiple_or_pending",
+      "creators": "豆包/字节跳动（官方头像）；其他版本各自署名",
+      "aliases": [
+        "豆包",
+        "Doubao",
+        "豆包娘"
+      ],
+      "observed_traits": [
+        "官方短发头像有来源",
+        "同人造型存在多个分支"
+      ],
+      "identity_rules": "Seed娘不是所有豆包形象的同义词；官方头像、ZipZipPipe的Seed版、OpenPet版、网络夸张梗图应并列。",
+      "creative_options_original": "选择某一分支后固定身份；不能把官方头像补全生成的全身图称作官方全身立绘。",
+      "sources": [
+        "src-3f04c64f7e"
+      ],
+      "local_asset_ids": [],
+      "not_claimed": [
+        "官方统一形象",
+        "当前能力排名",
+        "所有版本均开放商用"
+      ]
+    },
+    {
+      "id": "stepfun",
+      "name": "StepFun / 阶跃星辰",
+      "entity_kind": "model-family",
+      "status": "visual_lead",
+      "design_family": "multiple_or_pending",
+      "creators": "甶丶（站点投稿记录）",
+      "aliases": [
+        "Stepfun娘",
+        "阶跃娘"
+      ],
+      "observed_traits": [
+        "找到三项站点记录",
+        "精确外貌和原作许可待原帖逐图核对"
+      ],
+      "identity_rules": "站点字段写CC BY-NC，但没有由本库补全许可证版本；保留原作者发布入口。",
+      "creative_options_original": "先补独立立绘、色板和明确许可，再决定是否纳入本地素材包。",
+      "sources": [
+        "src-a7f98fdde7"
+      ],
+      "local_asset_ids": [],
+      "not_claimed": [
+        "官方统一形象",
+        "当前能力排名",
+        "所有版本均开放商用"
+      ]
+    },
+    {
+      "id": "mimo",
+      "name": "MiMo / 小米",
+      "entity_kind": "model-family",
+      "status": "visual_lead",
+      "design_family": "multiple_or_pending",
+      "creators": "甶丶；另有署名Immyxxr的兔娘方案（均据站点字段）",
+      "aliases": [
+        "MiMo娘",
+        "米莫",
+        "小米MiMo"
+      ],
+      "observed_traits": [
+        "至少存在不同作者版本",
+        "站点有立绘和设定稿线索"
+      ],
+      "identity_rules": "不要把不同作者的立绘和兔娘三视图混成同一套设计。角色标题不是作者许可的替代。",
+      "creative_options_original": "以作者为分组，分别补全脸、配件和三视图；本次不从标题反推全部服装。",
+      "sources": [
+        "src-a7f98fdde7"
+      ],
+      "local_asset_ids": [],
+      "not_claimed": [
+        "官方统一形象",
+        "当前能力排名",
+        "所有版本均开放商用"
+      ]
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face",
+      "entity_kind": "platform",
+      "status": "visual_lead",
+      "design_family": "multiple_or_pending",
+      "creators": "ZipZipPipe（站点署名；原帖待进一步核对）",
+      "aliases": [
+        "HuggingFace娘",
+        "HF娘"
+      ],
+      "observed_traits": [
+        "站点条目描述黄色笑脸玩偶与海军蓝外套"
+      ],
+      "identity_rules": "这是平台拟人，不是一个基础模型。条目授权未知，本库只保留作品详情入口。",
+      "creative_options_original": "可优先核对抱持道具与服装轮廓，再决定与其他模型娘的群像关系。",
+      "sources": [
+        "src-a7f98fdde7"
+      ],
+      "local_asset_ids": [],
+      "not_claimed": [
+        "官方统一形象",
+        "当前能力排名",
+        "所有版本均开放商用"
+      ]
+    },
+    {
+      "id": "copilot",
+      "name": "Microsoft Copilot",
+      "entity_kind": "product",
+      "status": "wanted",
+      "design_family": "unassigned",
+      "creators": null,
+      "aliases": [
+        "Microsoft Copilot"
+      ],
+      "observed_traits": [],
+      "identity_rules": "与GitHub Copilot分开；本次未确认采用哪一套社区形象。",
+      "creative_options_original": "先补作者、原帖、形象识别点和具体许可；自行设计时标记为新提案。",
+      "sources": [
+        "src-881f6725d7"
+      ],
+      "local_asset_ids": [],
+      "not_claimed": [
+        "已经找到成熟娘化",
+        "已有图片可下载",
+        "官方授权同人"
+      ]
+    },
+    {
+      "id": "yuanbao",
+      "name": "腾讯元宝",
+      "entity_kind": "product",
+      "status": "wanted",
+      "design_family": "unassigned",
+      "creators": null,
+      "aliases": [
+        "腾讯元宝"
+      ],
+      "observed_traits": [],
+      "identity_rules": "产品条目与混元模型角色分开，未指定同人作者。",
+      "creative_options_original": "先补作者、原帖、形象识别点和具体许可；自行设计时标记为新提案。",
+      "sources": [
+        "src-e8163a5aed"
+      ],
+      "local_asset_ids": [],
+      "not_claimed": [
+        "已经找到成熟娘化",
+        "已有图片可下载",
+        "官方授权同人"
+      ]
+    },
+    {
+      "id": "spark",
+      "name": "讯飞星火",
+      "entity_kind": "model-family",
+      "status": "wanted",
+      "design_family": "unassigned",
+      "creators": null,
+      "aliases": [
+        "讯飞星火"
+      ],
+      "observed_traits": [],
+      "identity_rules": "找到产品入口；未取得可核验的成套角色设计。",
+      "creative_options_original": "先补作者、原帖、形象识别点和具体许可；自行设计时标记为新提案。",
+      "sources": [
+        "src-57f97f53ed"
+      ],
+      "local_asset_ids": [],
+      "not_claimed": [
+        "已经找到成熟娘化",
+        "已有图片可下载",
+        "官方授权同人"
+      ]
+    },
+    {
+      "id": "cohere",
+      "name": "Cohere / Command",
+      "entity_kind": "model-family",
+      "status": "wanted",
+      "design_family": "unassigned",
+      "creators": null,
+      "aliases": [
+        "Cohere"
+      ],
+      "observed_traits": [],
+      "identity_rules": "保留模型家族入口，未找到本次可核验的娘化资产。",
+      "creative_options_original": "先补作者、原帖、形象识别点和具体许可；自行设计时标记为新提案。",
+      "sources": [
+        "src-cd4822926e"
+      ],
+      "local_asset_ids": [],
+      "not_claimed": [
+        "已经找到成熟娘化",
+        "已有图片可下载",
+        "官方授权同人"
+      ]
+    },
+    {
+      "id": "kling",
+      "name": "可灵 / Kling",
+      "entity_kind": "video-product",
+      "status": "wanted",
+      "design_family": "unassigned",
+      "creators": null,
+      "aliases": [
+        "可灵"
+      ],
+      "observed_traits": [],
+      "identity_rules": "官方入口本次读取受限；没有补造角色图或厂商许可。",
+      "creative_options_original": "先补作者、原帖、形象识别点和具体许可；自行设计时标记为新提案。",
+      "sources": [
+        "src-344baaa86f"
+      ],
+      "local_asset_ids": [],
+      "not_claimed": [
+        "已经找到成熟娘化",
+        "已有图片可下载",
+        "官方授权同人"
+      ]
+    },
+    {
+      "id": "runway",
+      "name": "Runway",
+      "entity_kind": "video-product",
+      "status": "wanted",
+      "design_family": "unassigned",
+      "creators": null,
+      "aliases": [
+        "Runway"
+      ],
+      "observed_traits": [],
+      "identity_rules": "产品有官方入口，未指定成熟社区形象。",
+      "creative_options_original": "先补作者、原帖、形象识别点和具体许可；自行设计时标记为新提案。",
+      "sources": [
+        "src-ca1174f449"
+      ],
+      "local_asset_ids": [],
+      "not_claimed": [
+        "已经找到成熟娘化",
+        "已有图片可下载",
+        "官方授权同人"
+      ]
+    },
+    {
+      "id": "sora",
+      "name": "Sora（历史产品）",
+      "entity_kind": "historical-video-product",
+      "status": "wanted",
+      "design_family": "unassigned",
+      "creators": null,
+      "aliases": [
+        "Sora（历史产品）"
+      ],
+      "observed_traits": [],
+      "identity_rules": "原入口当前转到官方停用说明；作为历史产品待补档，不列为当前可用服务。",
+      "creative_options_original": "先补作者、原帖、形象识别点和具体许可；自行设计时标记为新提案。",
+      "sources": [
+        "src-5df0a912ba"
+      ],
+      "local_asset_ids": [],
+      "not_claimed": [
+        "已经找到成熟娘化",
+        "已有图片可下载",
+        "官方授权同人"
+      ]
+    },
+    {
+      "id": "stable-diffusion",
+      "name": "Stable Diffusion",
+      "entity_kind": "image-model-family",
+      "status": "wanted",
+      "design_family": "unassigned",
+      "creators": null,
+      "aliases": [
+        "Stable Diffusion"
+      ],
+      "observed_traits": [],
+      "identity_rules": "模型家族与各WebUI/服务不混同，拟人设计待补。",
+      "creative_options_original": "先补作者、原帖、形象识别点和具体许可；自行设计时标记为新提案。",
+      "sources": [
+        "src-ac3506232d"
+      ],
+      "local_asset_ids": [],
+      "not_claimed": [
+        "已经找到成熟娘化",
+        "已有图片可下载",
+        "官方授权同人"
+      ]
+    },
+    {
+      "id": "flux",
+      "name": "FLUX",
+      "entity_kind": "image-model-family",
+      "status": "wanted",
+      "design_family": "unassigned",
+      "creators": null,
+      "aliases": [
+        "FLUX"
+      ],
+      "observed_traits": [],
+      "identity_rules": "模型家族与厂商分开登记；未找到本次可核验角色档案。",
+      "creative_options_original": "先补作者、原帖、形象识别点和具体许可；自行设计时标记为新提案。",
+      "sources": [
+        "src-e4937453ef"
+      ],
+      "local_asset_ids": [],
+      "not_claimed": [
+        "已经找到成熟娘化",
+        "已有图片可下载",
+        "官方授权同人"
+      ]
+    }
+  ]
+}
