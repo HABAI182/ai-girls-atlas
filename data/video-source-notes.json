@@ -1,0 +1,28 @@
+{
+  "checked_on": "2026-10-21",
+  "notes": [
+    {
+      "id": "dance-finished-versus-tutorial",
+      "video_ids": [
+        "BV1BmYi6QEid",
+        "BV1LQ7j6WEyD",
+        "BV1QnE16cEnX"
+      ],
+      "note": "壁纸作者把BV1LQ7j6WEyD称为制作教程，但它本身是换装舞蹈成片；该成片简介实际回链的教程为BV1QnE16cEnX。三个作品分别保留，不合成一个“原教程”。"
+    },
+    {
+      "id": "future-stage-fiction",
+      "video_ids": [
+        "BV155bC69En7"
+      ],
+      "note": "画面出现2035.3.17和DeepSeek-V4-Pro；作为架空舞台版本记录，不作为真实发布型号/日期。"
+    },
+    {
+      "id": "craft-demo-identity",
+      "video_ids": [
+        "BV1B2Yw6sEVY"
+      ],
+      "note": "系列标题写大肥鱼；本集末段示范为紫发女仆，未确认身份，因此列为相关方法参考。"
+    }
+  ]
+}

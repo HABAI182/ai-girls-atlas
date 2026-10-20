@@ -53,3 +53,12 @@ Seed娘不是所有豆包形象的同义词；官方头像、ZipZipPipe的Seed�
 - [AwesomeHou/openpet-ai-girls 项目说明](https://github.com/AwesomeHou/openpet-ai-girls/blob/72677712a7991b32f87c219dd8a6d86e5cc4f672/README.md) · `pinned_repository_text`
 
 返回[角色总览](../../README.md) · [新增资料评述](../../docs/09-more-sources.md) · [版本比较](../../docs/10-variant-guide.md)。
+
+
+## 视频形态与画面案例
+
+- [月初当神仙，月底请笔仙【AI全民制作人】](../../videos/cases/BV1CNa36nEyw.md)：用户体验与产品关系讽刺；竖屏动漫角色与立体卡通人物混排、月初月中月末章节大字。
+- [【新宿决战】DeepSeek娘VS豆包](../../videos/cases/BV1dsai6CErz.md)：战斗、热血与动漫改编；暗色都市动漫、青红能量对比。
+- [琵琶曲 | 大肥鱼 vs 豆包](../../videos/cases/BV1MNYy6WEgY.md)：翻唱、音乐梗与偶像MV；三维卡通观感、室内景深与低机位。
+
+只把该作者作品的可见表现接入角色页；声音未试听。更多见[独立视频栏目](../../videos/README.md)。

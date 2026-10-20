@@ -40,10 +40,16 @@ variants = read('variants.json')['variants']
 projects = read('projects.json')['projects']
 audio = read('audio.json')['audio']
 expressions = read('expressions.json')['expressions']
+video_studies = read('video-studies.json')['studies']
+video_categories = read('video-categories.json')['categories']
+video_materials = read('video-material-sources.json')['materials']
 char_ids = unique(chars, 'character')
 asset_ids = unique(assets, 'asset')
 source_ids = unique(sources, 'source')
-unique(videos, 'video')
+video_ids = unique(videos, 'video')
+video_category_ids = unique(video_categories, 'video category')
+unique(video_studies, 'video study')
+unique(video_materials, 'video material source')
 unique(refs, 'reference')
 unique(memes, 'meme')
 variant_ids = unique(variants, 'variant')
@@ -73,6 +79,20 @@ for c in chars:
         require(any(a['id'] == aid and a['character_id'] == c['id'] for a in assets), f'Asset assigned to wrong character: {aid}')
 for v in videos:
     require(v['source_id'] in source_ids, f'Dangling video source: {v["id"]}')
+    if v.get('primary_genre'):
+        require(v['primary_genre'] in video_category_ids, f'Unknown video category: {v["id"]}')
+for c in video_studies:
+    require(c['video_id'] in video_ids and c['source_id'] in source_ids, f'Dangling video study: {c["id"]}')
+    require(c['primary_genre'] in video_category_ids, f'Unknown study category: {c["id"]}')
+    require(set(c['character_ids']).issubset(char_ids), f'Unknown study character: {c["id"]}')
+    require((ROOT / c['case_path']).is_file(), f'Missing video case page: {c["id"]}')
+    require(len(c['observed_evidence']) >= 4, f'Insufficient timestamp observations: {c["id"]}')
+    require(all(0 <= e['second'] < c['part']['duration_seconds'] for e in c['observed_evidence']), f'Observation outside selected part: {c["id"]}')
+for m in video_materials:
+    require(m['video_id'] in video_ids, f'Dangling material video: {m["id"]}')
+    require(set(m['source_ids']).issubset(source_ids), f'Dangling material source: {m["id"]}')
+for c in video_categories:
+    require(set(c['study_video_ids'] + c['indexed_video_ids']).issubset(video_ids), f'Dangling category video: {c["id"]}')
 for v in variants:
     require(v['character_id'] in char_ids, f'Unknown variant character: {v["id"]}')
     require(set(v['source_ids']).issubset(source_ids), f'Dangling variant source: {v["id"]}')
@@ -133,6 +153,9 @@ checks = {
     'reviewed_reference_projects': len(projects),
     'audio_source_records': len(audio),
     'expression_index_records': len(expressions),
+    'video_study_cases': len(video_studies),
+    'video_content_categories': len(video_categories),
+    'video_material_source_records': len(video_materials),
 }
 for key, value in checks.items():
     require(coverage[key] == value, f'Coverage mismatch: {key}')

@@ -69,5 +69,14 @@
     }
   ],
   "deduplication": "本轮新增50张原作/派生图和2张已有上游预览；原仓库32张与9张预览保留。",
-  "runtime_scope": "素材、文档与元数据整理；没有安装桌宠、TTS或生图工作流。"
+  "runtime_scope": "素材、文档与元数据整理；没有安装桌宠、TTS或生图工作流。",
+  "navigation_followup": [
+    {
+      "source": "GenderSwapAI",
+      "url": "https://genderswapai.com/ai-gijinka/projects",
+      "checked_on": "2026-10-21",
+      "evidence": "followed English homepage navigation",
+      "action": "确认实际社区项目页；沿用已有四个项目入口。History导航为首页内的沿革段落，不把此前猜测的中文/history404当作缺失内容。"
+    }
+  ]
 }

@@ -630,16 +630,16 @@
       "url": "https://www.bilibili.com/video/BV191Yr6bEYy/",
       "title": "【1月新番/DS×claude】我怎么可能成为你的蒸馏模型，不行不行！（※不是不可能！？）",
       "checked_on": "2026-10-20",
-      "evidence_level": "api_metadata_only",
-      "note": "浏览器或公开API；仅两条用户重点视频额外抽帧观察。"
+      "evidence_level": "public_metadata_and_sampled_visual_frames",
+      "note": "实际查看联系表抽帧，保存时间点分析；未连续完整播放，未试听音频。"
     },
     {
       "id": "src-0128bc4c2e",
       "url": "https://www.bilibili.com/video/BV1AyYb6rE1R/",
       "title": "【镜镜的PTCG】让DeepSeek-v4.1-Flash和GLM-5.3-Flash来一场简中宝可梦卡牌现开赛？谁更懂宝可梦卡牌？",
       "checked_on": "2026-10-20",
-      "evidence_level": "api_metadata_only",
-      "note": "浏览器或公开API；仅两条用户重点视频额外抽帧观察。"
+      "evidence_level": "public_metadata_and_sampled_visual_frames",
+      "note": "实际查看联系表抽帧，保存时间点分析；未连续完整播放，未试听音频。"
     },
     {
       "id": "src-0c74d967e3",
@@ -694,8 +694,8 @@
       "url": "https://www.bilibili.com/video/BV1PTHB6BEbA/",
       "title": "什么叫Claude对DeepSeek表白了？？",
       "checked_on": "2026-10-20",
-      "evidence_level": "api_metadata_only",
-      "note": "浏览器或公开API；仅两条用户重点视频额外抽帧观察。"
+      "evidence_level": "public_metadata_and_sampled_visual_frames",
+      "note": "实际查看联系表抽帧，保存时间点分析；未连续完整播放，未试听音频。"
     },
     {
       "id": "src-3a81b25ee7",
@@ -742,8 +742,8 @@
       "url": "https://www.bilibili.com/video/BV1dsai6CErz/",
       "title": "【新宿决战】DeepSeek娘VS豆包",
       "checked_on": "2026-10-20",
-      "evidence_level": "api_metadata_only",
-      "note": "浏览器或公开API；仅两条用户重点视频额外抽帧观察。"
+      "evidence_level": "public_metadata_and_sampled_visual_frames",
+      "note": "实际查看联系表抽帧，保存时间点分析；未连续完整播放，未试听音频。"
     },
     {
       "id": "src-fb44d00c7e",
@@ -758,8 +758,8 @@
       "url": "https://www.bilibili.com/video/BV1eMeS6SETU/",
       "title": "新室友DeepSeek报到！五个AI住一起会发生什么",
       "checked_on": "2026-10-20",
-      "evidence_level": "api_metadata_only",
-      "note": "浏览器或公开API；仅两条用户重点视频额外抽帧观察。"
+      "evidence_level": "public_metadata_and_sampled_visual_frames",
+      "note": "实际查看联系表抽帧，保存时间点分析；未连续完整播放，未试听音频。"
     },
     {
       "id": "src-4f5686c431",
@@ -790,8 +790,8 @@
       "url": "https://www.bilibili.com/video/BV1mwRzBdEzk/",
       "title": "AI娘的日常（大概?）",
       "checked_on": "2026-10-20",
-      "evidence_level": "api_metadata_only",
-      "note": "浏览器或公开API；仅两条用户重点视频额外抽帧观察。"
+      "evidence_level": "public_metadata_and_sampled_visual_frames",
+      "note": "实际查看联系表抽帧，保存时间点分析；未连续完整播放，未试听音频。"
     },
     {
       "id": "src-e9993d62e6",
@@ -1438,8 +1438,8 @@
       "url": "https://www.bilibili.com/video/BV15X3n6mEWy/",
       "title": "大肥鱼 炸盆子",
       "checked_on": "2026-10-21",
-      "evidence_level": "bilibili_api_metadata",
-      "note": "公开API标题、简介、作者及播放互动快照；本轮未完整观看或试听。"
+      "evidence_level": "public_metadata_and_sampled_visual_frames",
+      "note": "实际查看联系表抽帧，保存时间点分析；未连续完整播放，未试听音频。"
     },
     {
       "id": "src-829a8497f5",
@@ -1462,8 +1462,8 @@
       "url": "https://www.bilibili.com/video/BV1fYpn6SEk9/",
       "title": "deepseek 翻唱《人是猫》真完整版，大肥鱼觉得人和猫一样可爱,所以人是猫",
       "checked_on": "2026-10-21",
-      "evidence_level": "bilibili_api_metadata",
-      "note": "公开API标题、简介、作者及播放互动快照；本轮未完整观看或试听。"
+      "evidence_level": "public_metadata_and_sampled_visual_frames",
+      "note": "实际查看联系表抽帧，保存时间点分析；未连续完整播放，未试听音频。"
     },
     {
       "id": "src-06312131fe",
@@ -1502,16 +1502,16 @@
       "url": "https://www.bilibili.com/video/BV1MNYy6WEgY/",
       "title": "琵琶曲 | 大肥鱼 vs 豆包",
       "checked_on": "2026-10-21",
-      "evidence_level": "bilibili_api_metadata",
-      "note": "公开API标题、简介、作者及播放互动快照；本轮未完整观看或试听。"
+      "evidence_level": "public_metadata_and_sampled_visual_frames",
+      "note": "实际查看联系表抽帧，保存时间点分析；未连续完整播放，未试听音频。"
     },
     {
       "id": "src-70742b88cb",
       "url": "https://www.bilibili.com/video/BV1Nfag6xEHQ/",
       "title": "【10月新番】败犬AI太多了！ 正式PV【4K】",
       "checked_on": "2026-10-21",
-      "evidence_level": "bilibili_api_metadata",
-      "note": "公开API标题、简介、作者及播放互动快照；本轮未完整观看或试听。"
+      "evidence_level": "public_metadata_and_sampled_visual_frames",
+      "note": "实际查看联系表抽帧，保存时间点分析；未连续完整播放，未试听音频。"
     },
     {
       "id": "src-92e69aeb51",
@@ -1632,6 +1632,294 @@
       "checked_on": "2026-10-21",
       "evidence_level": "web_index_metadata",
       "note": "本轮详情页或目录条目文字；不把署名的说明文作者认作图像作者。"
+    },
+    {
+      "id": "src-9cd72c61b7",
+      "url": "https://www.bilibili.com/video/BV13Dem6VEbQ/",
+      "title": "【免费教程】草履虫都能学会的基于AI的蓝色大肥鱼Q版手办全流程:07裙子处理",
+      "checked_on": "2026-10-21",
+      "evidence_level": "public_metadata",
+      "note": "读取公开标题、作者简介、分P与统计；未据标题推断全部内容。"
+    },
+    {
+      "id": "src-84105ee9be",
+      "url": "https://www.bilibili.com/video/BV155bC69En7/",
+      "title": "肥鱼...........老了",
+      "checked_on": "2026-10-21",
+      "evidence_level": "public_metadata_and_sampled_visual_frames",
+      "note": "实际查看联系表抽帧，保存时间点分析；未连续完整播放，未试听音频。"
+    },
+    {
+      "id": "src-6e20f2e644",
+      "url": "https://www.bilibili.com/video/BV16yYi69EQT/",
+      "title": "大肥鱼！丨免费Live2d模型",
+      "checked_on": "2026-10-21",
+      "evidence_level": "public_metadata_and_sampled_visual_frames",
+      "note": "实际查看联系表抽帧，保存时间点分析；未连续完整播放，未试听音频。"
+    },
+    {
+      "id": "src-ca16787a8d",
+      "url": "https://www.bilibili.com/video/BV17f896tEZF/",
+      "title": "token呢？被我吃掉啦！",
+      "checked_on": "2026-10-21",
+      "evidence_level": "public_metadata",
+      "note": "读取公开标题、作者简介、分P与统计；未据标题推断全部内容。"
+    },
+    {
+      "id": "src-d475d52ffc",
+      "url": "https://www.bilibili.com/video/BV1arpN6FEHv/",
+      "title": "10月7日AI圈7件事：Mistral发布万亿参数Large 4，Anthropic送初创公司一年Claude Team",
+      "checked_on": "2026-10-21",
+      "evidence_level": "public_metadata_and_sampled_visual_frames",
+      "note": "实际查看联系表抽帧，保存时间点分析；未连续完整播放，未试听音频。"
+    },
+    {
+      "id": "src-68021dda10",
+      "url": "https://www.bilibili.com/video/BV1B2Yw6sEVY/",
+      "title": "【免费教程】草履虫都能学会的基于AI的蓝色大肥鱼Q版手办全流程:20贴水贴",
+      "checked_on": "2026-10-21",
+      "evidence_level": "public_metadata_and_sampled_visual_frames",
+      "note": "实际查看联系表抽帧，保存时间点分析；未连续完整播放，未试听音频。"
+    },
+    {
+      "id": "src-b24182f023",
+      "url": "https://www.bilibili.com/video/BV1BmYi6QEid/",
+      "title": "『大肥鲸不是罪过~』",
+      "checked_on": "2026-10-21",
+      "evidence_level": "public_metadata",
+      "note": "读取公开标题、作者简介、分P与统计；未据标题推断全部内容。"
+    },
+    {
+      "id": "src-04af5eae1c",
+      "url": "https://www.bilibili.com/video/BV1CNa36nEyw/",
+      "title": "月初当神仙，月底请笔仙【AI全民制作人】",
+      "checked_on": "2026-10-21",
+      "evidence_level": "public_metadata_and_sampled_visual_frames",
+      "note": "实际查看联系表抽帧，保存时间点分析；未连续完整播放，未试听音频。"
+    },
+    {
+      "id": "src-fd59ca616c",
+      "url": "https://www.bilibili.com/video/BV1czhy6VEvi/",
+      "title": "【免费教程】草履虫都能学会的基于AI的蓝色大肥鱼Q版手办全流程:12头部拆件",
+      "checked_on": "2026-10-21",
+      "evidence_level": "public_metadata",
+      "note": "读取公开标题、作者简介、分P与统计；未据标题推断全部内容。"
+    },
+    {
+      "id": "src-0199ee2f5e",
+      "url": "https://www.bilibili.com/video/BV1drpn65ErX/",
+      "title": "deepseek《人是猫》原版完整版，翻唱版要等一下，大肥鱼很可爱，所以大肥鱼也是猫！",
+      "checked_on": "2026-10-21",
+      "evidence_level": "public_metadata",
+      "note": "读取公开标题、作者简介、分P与统计；未据标题推断全部内容。"
+    },
+    {
+      "id": "src-865cee870f",
+      "url": "https://www.bilibili.com/video/BV1FCYw6tEJt/",
+      "title": "【免费教程】草履虫都能学会的基于AI的蓝色大肥鱼Q版手办全流程:18打印操作",
+      "checked_on": "2026-10-21",
+      "evidence_level": "public_metadata",
+      "note": "读取公开标题、作者简介、分P与统计；未据标题推断全部内容。"
+    },
+    {
+      "id": "src-1764181130",
+      "url": "https://www.bilibili.com/video/BV1Foez6TE9K/",
+      "title": "【泰拉瑞亚】当鲸鱼娘加入你的世界……让蓝色大肥鱼帮你打工吧！",
+      "checked_on": "2026-10-21",
+      "evidence_level": "public_metadata_and_sampled_visual_frames",
+      "note": "实际查看联系表抽帧，保存时间点分析；未连续完整播放，未试听音频。"
+    },
+    {
+      "id": "src-51d8b1e164",
+      "url": "https://www.bilibili.com/video/BV1foHs6dEtK/",
+      "title": "没人记得第二名，除非半场开香槟【AI全民制作人】",
+      "checked_on": "2026-10-21",
+      "evidence_level": "public_metadata",
+      "note": "读取公开标题、作者简介、分P与统计；未据标题推断全部内容。"
+    },
+    {
+      "id": "src-f4d98c2cf9",
+      "url": "https://www.bilibili.com/video/BV1gfe467Ehd/",
+      "title": "家里进肥鱼了你知不知道",
+      "checked_on": "2026-10-21",
+      "evidence_level": "public_metadata",
+      "note": "读取公开标题、作者简介、分P与统计；未据标题推断全部内容。"
+    },
+    {
+      "id": "src-93c2da1240",
+      "url": "https://www.bilibili.com/video/BV1HX8v6UErL/",
+      "title": "那你去找豆包啊！",
+      "checked_on": "2026-10-21",
+      "evidence_level": "public_metadata",
+      "note": "读取公开标题、作者简介、分P与统计；未据标题推断全部内容。"
+    },
+    {
+      "id": "src-b5f988f905",
+      "url": "https://www.bilibili.com/video/BV1ibpq6tE18/",
+      "title": "8个顶级AI挑战RPG史上最恶意BOSS，谁能翻盘？｜AI游戏大赛01",
+      "checked_on": "2026-10-21",
+      "evidence_level": "public_metadata",
+      "note": "读取公开标题、作者简介、分P与统计；未据标题推断全部内容。"
+    },
+    {
+      "id": "src-52255dbb55",
+      "url": "https://www.bilibili.com/video/BV1JHhn6qEDU/",
+      "title": "我明明让Claude Code用deepseek模型，为什么 GLM 娘突然上班了？",
+      "checked_on": "2026-10-21",
+      "evidence_level": "public_metadata",
+      "note": "读取公开标题、作者简介、分P与统计；未据标题推断全部内容。"
+    },
+    {
+      "id": "src-5bbc3dbde8",
+      "url": "https://www.bilibili.com/video/BV1K4ax6YE2n/",
+      "title": "GPT娘也想成为偶像！",
+      "checked_on": "2026-10-21",
+      "evidence_level": "public_metadata_and_sampled_visual_frames",
+      "note": "实际查看联系表抽帧，保存时间点分析；未连续完整播放，未试听音频。"
+    },
+    {
+      "id": "src-4f1e308470",
+      "url": "https://www.bilibili.com/video/BV1LQ7j6WEyD/",
+      "title": "🐋DeepSeek不是罪过~🐋",
+      "checked_on": "2026-10-21",
+      "evidence_level": "public_metadata_and_sampled_visual_frames",
+      "note": "实际查看联系表抽帧，保存时间点分析；未连续完整播放，未试听音频。"
+    },
+    {
+      "id": "src-7822182ed6",
+      "url": "https://www.bilibili.com/video/BV1MKH96sEZL/",
+      "title": "Claude：我……我也要吃大白饭吗",
+      "checked_on": "2026-10-21",
+      "evidence_level": "public_metadata",
+      "note": "读取公开标题、作者简介、分P与统计；未据标题推断全部内容。"
+    },
+    {
+      "id": "src-440c9a3fd6",
+      "url": "https://www.bilibili.com/video/BV1o28i6rEcw/",
+      "title": "哦鲸鲸正在攻击不给她喂食token的用户",
+      "checked_on": "2026-10-21",
+      "evidence_level": "public_metadata",
+      "note": "读取公开标题、作者简介、分P与统计；未据标题推断全部内容。"
+    },
+    {
+      "id": "src-80429ec846",
+      "url": "https://www.bilibili.com/video/BV1P18y6jEkV/",
+      "title": "当大肥鱼吃完你的token后……",
+      "checked_on": "2026-10-21",
+      "evidence_level": "public_metadata_and_sampled_visual_frames",
+      "note": "实际查看联系表抽帧，保存时间点分析；未连续完整播放，未试听音频。"
+    },
+    {
+      "id": "src-84bf6ac3f3",
+      "url": "https://www.bilibili.com/video/BV1q1tv6iELX/",
+      "title": "完了，家里遭蓝色大肥鱼了",
+      "checked_on": "2026-10-21",
+      "evidence_level": "public_metadata_and_sampled_visual_frames",
+      "note": "实际查看联系表抽帧，保存时间点分析；未连续完整播放，未试听音频。"
+    },
+    {
+      "id": "src-f1ac9d683b",
+      "url": "https://www.bilibili.com/video/BV1QnE16cEnX/",
+      "title": "⚡零基础不是罪过视频教学⚡",
+      "checked_on": "2026-10-21",
+      "evidence_level": "public_metadata_and_sampled_visual_frames",
+      "note": "实际查看联系表抽帧，保存时间点分析；未连续完整播放，未试听音频。"
+    },
+    {
+      "id": "src-fe3817add9",
+      "url": "https://www.bilibili.com/video/BV1tD4X6AE7Q/",
+      "title": "【MMD模型配布】蓝色大肥鱼",
+      "checked_on": "2026-10-21",
+      "evidence_level": "public_metadata_and_sampled_visual_frames",
+      "note": "实际查看联系表抽帧，保存时间点分析；未连续完整播放，未试听音频。"
+    },
+    {
+      "id": "src-7b9b09f536",
+      "url": "https://www.bilibili.com/video/BV1tXMU66E9W/",
+      "title": "什么叫DeepSeek自己玩起来了？",
+      "checked_on": "2026-10-21",
+      "evidence_level": "public_metadata",
+      "note": "读取公开标题、作者简介、分P与统计；未据标题推断全部内容。"
+    },
+    {
+      "id": "src-5ad112d47e",
+      "url": "https://www.bilibili.com/video/BV1VNh76QEuy/",
+      "title": "【4k60帧】我最喜欢的四小只",
+      "checked_on": "2026-10-21",
+      "evidence_level": "public_metadata",
+      "note": "读取公开标题、作者简介、分P与统计；未据标题推断全部内容。"
+    },
+    {
+      "id": "src-8bb366da25",
+      "url": "https://www.bilibili.com/video/BV1Wehy62EGR/",
+      "title": "【免费教程】草履虫都能学会的基于AI的蓝色大肥鱼Q版手办全流程:11水贴排版",
+      "checked_on": "2026-10-21",
+      "evidence_level": "public_metadata",
+      "note": "读取公开标题、作者简介、分P与统计；未据标题推断全部内容。"
+    },
+    {
+      "id": "src-73fa2fae34",
+      "url": "https://www.bilibili.com/video/BV1Wguz6gE3t/",
+      "title": "我去，用户彻底怒了",
+      "checked_on": "2026-10-21",
+      "evidence_level": "public_metadata",
+      "note": "读取公开标题、作者简介、分P与统计；未据标题推断全部内容。"
+    },
+    {
+      "id": "src-7cbd020fa9",
+      "url": "https://www.bilibili.com/video/BV1XZe66sEsn/",
+      "title": "【鼠标指针】-Deepseek-鲸鱼娘-大肥鱼-点击领取",
+      "checked_on": "2026-10-21",
+      "evidence_level": "public_metadata_and_sampled_visual_frames",
+      "note": "实际查看联系表抽帧，保存时间点分析；未连续完整播放，未试听音频。"
+    },
+    {
+      "id": "src-e1698ab832",
+      "url": "https://www.bilibili.com/video/BV1yvaT65EGk/",
+      "title": "【免费公皮】蓝色大肥鱼不止会卖萌，还自带“滑动变祖器”？！",
+      "checked_on": "2026-10-21",
+      "evidence_level": "public_metadata",
+      "note": "读取公开标题、作者简介、分P与统计；未据标题推断全部内容。"
+    },
+    {
+      "id": "src-37f99772d6",
+      "url": "https://pan.quark.cn/s/be81923b6e88",
+      "title": "鲸鱼娘鼠标指针 · 作者提供的入口",
+      "checked_on": "2026-10-21",
+      "evidence_level": "creator_link_lead",
+      "note": "入口由作者简介给出，本轮未登录、未下载或检验包内容。"
+    },
+    {
+      "id": "src-b7c53f1700",
+      "url": "https://pan.baidu.com/s/13kvzPu1o7yXZTiNNhfaSbg?pwd=senn",
+      "title": "舞蹈生成素材与参考链 · 作者提供的入口",
+      "checked_on": "2026-10-21",
+      "evidence_level": "creator_link_lead",
+      "note": "入口由作者简介给出，本轮未登录、未下载或检验包内容。"
+    },
+    {
+      "id": "src-1ab69d2ce0",
+      "url": "https://xyq.jianying.com/",
+      "title": "舞蹈生成素材与参考链 · 作者提供的入口",
+      "checked_on": "2026-10-21",
+      "evidence_level": "creator_link_lead",
+      "note": "入口由作者简介给出，本轮未登录、未下载或检验包内容。"
+    },
+    {
+      "id": "src-b5a6cbc5f5",
+      "url": "https://github.com/lshhhhhhh/ai-school-op/blob/main/cast/README.md",
+      "title": "校园作者版本与演员表 · 作者提供的入口",
+      "checked_on": "2026-10-21",
+      "evidence_level": "creator_link_lead",
+      "note": "入口由作者简介给出，本轮未登录、未下载或检验包内容。"
+    },
+    {
+      "id": "src-bfa9364827",
+      "url": "https://genderswapai.com/ai-gijinka/projects",
+      "title": "GenderSwapAI · AI Character Projects",
+      "checked_on": "2026-10-21",
+      "evidence_level": "web_text",
+      "note": "从英文首页Community projects实际链接进入，包含OpenPet、c-dom桌宠、DSH女仆与JAdpp故事入口；复用已有项目记录，不重下载素材。"
     }
   ]
 }

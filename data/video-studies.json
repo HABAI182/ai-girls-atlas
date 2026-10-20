@@ -1,0 +1,2286 @@
+{
+  "schema_version": 1,
+  "checked_on": "2026-10-21",
+  "method": "公开元数据+实际查看采样联系表/列明原帧；非连续完整播放；全部音频未试听。通常1fps生成帧后选取约15张；实体手工长片60秒间隔。",
+  "studies": [
+    {
+      "video_id": "BV1eMeS6SETU",
+      "primary_genre": "ensemble-sitcom",
+      "secondary_genres": [
+        "ai-product-satire",
+        "roommate-story"
+      ],
+      "visual_styles": [
+        "Q版角色与常规比例角色同场",
+        "旧城区实景质感背景与动漫角色组合",
+        "底部对白字幕",
+        "夸张表情特写"
+      ],
+      "character_ids": [
+        "deepseek",
+        "gpt",
+        "claude"
+      ],
+      "opening": "开场先给黑色轿车、旧街道和树影，2.5秒才出现抱锅的Q版蓝发鲸鱼女仆；用生活道具完成新室友身份介绍。",
+      "structure": "从街道到走廊、从门口见面到厨房与起居室，用住处空间依次容纳角色登场；后段的做饭、电脑和蒸馏字幕把AI产品梗塞进合租日常。",
+      "analysis_text": "这条把模型间的竞争关系改写成合租生活。开场不急于罗列五个名字，先用轿车与破旧街区建立反差，再让抱锅的Q版DeepSeek进入画面，使她同时成为新住客和观众的入口。走廊里的常规比例GPT与小体型主角并置，人物关系不用解释就能看出高低差；角色名大字则帮助不熟悉设定的人跟上。中段以泡面、厨房和电脑等生活物件组织小段落，避免每次产品笑点都靠空口说明。后段发光眼特写将情绪放大，再以远景收束住处空间。可借鉴的是先做一项明确日常任务，再让不同AI的脾气撞在同一任务上；这一判断来自抽帧，具体对白节奏和声音表现仍未核听。",
+      "visual_techniques": [
+        "以门框、走廊和屋内家具维持场所连续性，适合连载时复用同一住处。",
+        "Q版DeepSeek与常规身高GPT并置，体型差直接成为角色互动的视觉信息。",
+        "在角色首次出现时加名字大字，后续回到简短底部字幕；发光眼只用于情绪升级镜头。"
+      ],
+      "observed_evidence": [
+        {
+          "second": 0.5,
+          "observation": "黑色轿车和旧街区近景，尚未出现AI角色。"
+        },
+        {
+          "second": 2.5,
+          "observation": "蓝发鲸鱼女仆以Q版比例站在车门旁，怀抱金属锅。"
+        },
+        {
+          "second": 42.5,
+          "observation": "绿色旧走廊里出现白发有角的常规比例角色，画面大字标为GPT；DeepSeek背对镜头在前景。"
+        },
+        {
+          "second": 56.5,
+          "observation": "橙发角色近景，画面大字以中文标明克劳德。"
+        },
+        {
+          "second": 85.5,
+          "observation": "屋内床铺和墙面被大量方便面包装占据，GPT与Q版DeepSeek在同一空间。"
+        },
+        {
+          "second": 113.5,
+          "observation": "DeepSeek站在电饭煲旁拿着饭碗和饭勺。"
+        },
+        {
+          "second": 141.5,
+          "observation": "GPT正面怒容特写，红色发光眼效果配合包含蒸馏一词的底部字幕。"
+        }
+      ],
+      "creator_lessons": [
+        "先设定新住客、做饭、用电脑等日常任务，再安排模型关系笑点。",
+        "统一住处布局、主角身高和几项固定道具，让短集有连续世界感。",
+        "新角色首见用名字辅助辨识，避免每个镜头都堆模型说明。"
+      ],
+      "uncertainties": [
+        "标题中的五名室友未在本轮15帧样本中全部逐一核对，不能据此补全另外两名身份。",
+        "未实际试听，不能评价配音表演、BGM或包袱停顿。",
+        "背景有实景质感，但不能仅凭画面确定它来自拍摄、生成或混合处理。"
+      ],
+      "review_scope": "sampled_visual_frames_and_creator_description",
+      "audio_scope": "metadata_only",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 42007921100,
+        "part_duration_seconds": 156,
+        "total_duration_seconds": 156,
+        "contact_frames_reviewed": 15,
+        "additional_raw_frame_seconds": [
+          42.5
+        ]
+      },
+      "creator_statement": "作者简介说明是虚构粉丝二创，并把角色形象参考归于ZipZipPipe和这个刀子真甜。该署名是作者自述，没有进一步核验所有图像的逐文件来源。",
+      "id": "study-BV1eMeS6SETU",
+      "checked_on": "2026-10-21",
+      "published_media_copy": false,
+      "genre_label_original": "ensemble-sitcom",
+      "relation_to_ai_girls": "ai_girl_work",
+      "review_method": {
+        "mode": "sampled_frames",
+        "continuous_full_playback": false,
+        "audio_listened": false,
+        "software_reproduced": false,
+        "public_screenshots": false,
+        "sample_interval_seconds": 1
+      },
+      "part": {
+        "page": 1,
+        "cid": 42007921100,
+        "duration_seconds": 156,
+        "total_duration_seconds": 156,
+        "page_count": 1
+      },
+      "case_path": "videos/cases/BV1eMeS6SETU.md",
+      "source_id": "src-999fb03ed0"
+    },
+    {
+      "video_id": "BV1CNa36nEyw",
+      "primary_genre": "user-experience-satire",
+      "secondary_genres": [
+        "ai-product-satire",
+        "vertical-short",
+        "everyday-user-story"
+      ],
+      "visual_styles": [
+        "竖屏动漫角色与立体卡通人物混排",
+        "月初月中月末章节大字",
+        "底部短对白字幕",
+        "豪华场景到普通居室的环境反差"
+      ],
+      "character_ids": [
+        "gpt",
+        "deepseek",
+        "claude",
+        "doubao"
+      ],
+      "opening": "0.5秒就出现月初大字、游艇式豪华环境和为坐席人物倒酒的GPT，场景与身份关系一眼可读。",
+      "structure": "用月初、月中、月末三段时间标签建立递进：从享受服务，到电脑前处理代码问题，再到独处室内与窗前；同一位银色短发人物承担用户视角。",
+      "analysis_text": "这类竖屏短剧依靠一个能迅速读懂的生活曲线：资源充足时从容点单，实际工作时遇到问题，月底则换成简陋环境中的求助。月初、月中、月末大字始终承担章节提示，所以观众不必记复杂因果，也能理解场景落差。采样中同一位银色短发人物在豪华坐席、电脑桌和窗边反复出现，她比任何产品名都更像贯穿全片的用户视角。GPT、Claude、DeepSeek和黄色豆包式角色成为不同阶段的服务或互动对象。可借鉴的是把单一痛点拆成三档状态，让布景、道具和伙伴数量一起变化；不过月末具体求助对象与语义仍需看连续段落，不宜仅凭标题断言真实订阅规则或价格。",
+      "visual_techniques": [
+        "大号阶段字放在竖屏上方，人物和对白分别占据中部与下部。",
+        "让同一个用户角色跨场景出现，用服装和发型维持观看线索。",
+        "游艇酒杯、电脑键盘、普通卧室等道具承担经济与情绪落差，无需额外信息图。"
+      ],
+      "observed_evidence": [
+        {
+          "second": 0.5,
+          "observation": "画面标月初；白发有角角色给坐在沙发上的银色短发人物倒酒，字幕提及GPT-6 Astra。"
+        },
+        {
+          "second": 12.5,
+          "observation": "仍标月初，场景已换成冷色科技室；DeepSeek、橙发Claude和银色短发人物围在桌前。"
+        },
+        {
+          "second": 24.5,
+          "observation": "画面标月中；银色短发人物坐在电脑前，背后有棕发红围巾的立体卡通人物。"
+        },
+        {
+          "second": 30.5,
+          "observation": "电脑前近景，底部字幕指出修改后的代码仍有问题。"
+        },
+        {
+          "second": 41.5,
+          "observation": "画面标月末；普通室内出现黄色豆包式小角色和银色短发人物。"
+        },
+        {
+          "second": 53.5,
+          "observation": "仍标月末，银色短发人物在夜间窗前双手相合。"
+        }
+      ],
+      "creator_lessons": [
+        "用三段式时间或状态标签降低理解门槛，每段只保留一个主要变化。",
+        "固定用户角色，改变环境和伙伴，能把多个AI角色放进一条清晰主线。",
+        "把同一技术痛点落实成可见道具和表情，而不只是把名词写进字幕。"
+      ],
+      "uncertainties": [
+        "银色短发人物与棕发红围巾人物未有足够身份标记，作为未命名人物记录，不擅自编成某AI娘。",
+        "未实际试听，不能确定笔仙笑点所依靠的声音细节。",
+        "剧情是作者虚构，不据此记录真实模型、计费、额度或产品能力。"
+      ],
+      "review_scope": "sampled_visual_frames_and_creator_description",
+      "audio_scope": "metadata_only",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 42275177826,
+        "part_duration_seconds": 66,
+        "total_duration_seconds": 66,
+        "contact_frames_reviewed": 15,
+        "additional_raw_frame_seconds": [
+          0.5,
+          30.5
+        ]
+      },
+      "creator_statement": "作者简介将AI娘形象归于ZipZipPipe，并说明是娱乐用虚构剧情。",
+      "id": "study-BV1CNa36nEyw",
+      "checked_on": "2026-10-21",
+      "published_media_copy": false,
+      "genre_label_original": "three-stage-comedy",
+      "relation_to_ai_girls": "ai_girl_work",
+      "review_method": {
+        "mode": "sampled_frames",
+        "continuous_full_playback": false,
+        "audio_listened": false,
+        "software_reproduced": false,
+        "public_screenshots": false,
+        "sample_interval_seconds": 1
+      },
+      "part": {
+        "page": 1,
+        "cid": 42275177826,
+        "duration_seconds": 66,
+        "total_duration_seconds": 66,
+        "page_count": 1
+      },
+      "case_path": "videos/cases/BV1CNa36nEyw.md",
+      "source_id": "src-04af5eae1c"
+    },
+    {
+      "video_id": "BV1PTHB6BEbA",
+      "primary_genre": "relationship-drama",
+      "secondary_genres": [
+        "pairing-fanwork",
+        "ensemble-coda"
+      ],
+      "visual_styles": [
+        "阳光公园动漫短剧",
+        "双人中景与面部近景交替",
+        "冰淇淋共同道具",
+        "底部对白字幕"
+      ],
+      "character_ids": [
+        "deepseek",
+        "claude",
+        "gpt",
+        "grok"
+      ],
+      "opening": "首帧让DeepSeek坐在树下，Claude从画面右侧带着两支冰淇淋进入；不先解释世界观，而由一次具体的接近启动关系戏。",
+      "structure": "先用送冰淇淋建立互动，再以两人距离、表情和并肩画面推进情感段落；后段切到GPT与金发双马尾角色的另一组关系，形成群像尾声。",
+      "analysis_text": "这一案例适合与模型吐槽类区分：AI产品身份退到背景，主线是两个人能否表达心意。开场用送冰淇淋这种具体动作建立接近，不需要长篇设定；同一棵树、长椅和游乐设施背景，则让观众把注意力留在两人的关系变化。抽帧中可看到从双人中景、递物特写到贴近耳边，再到表白字幕与脸红近景，镜头尺度随情绪升级。后段两人站立并肩，画面关系从一方主动接近转为共同面对镜头。末尾另一对角色转到冷色室内，可作为系列群像的延伸。可借鉴的是一场戏只用少量角色和一个可反复操作的道具；表演节奏、口型与配音的贴合程度，本轮并未连续观看或试听。",
+      "visual_techniques": [
+        "冰淇淋贯穿相识动作与双人交流，能让角色手部有明确任务。",
+        "树荫和游乐场背景相对稳定，把镜头变化集中在双人距离和表情。",
+        "以递物、耳边靠近、脸红和并肩站立等画面状态替代纯字幕告知关系。"
+      ],
+      "observed_evidence": [
+        {
+          "second": 0.5,
+          "observation": "DeepSeek坐在公园树下长椅，橙发Claude持冰淇淋出现在右侧。"
+        },
+        {
+          "second": 26.5,
+          "observation": "镜头集中在Claude手中的冰淇淋，DeepSeek的蓝发位于背景。"
+        },
+        {
+          "second": 53.5,
+          "observation": "Claude靠近DeepSeek耳旁，两人面部占据主要画面。"
+        },
+        {
+          "second": 66.5,
+          "observation": "Claude面部近景，底部字幕明确进入表白。"
+        },
+        {
+          "second": 79.5,
+          "observation": "DeepSeek脸红并垂眼，画面以面部情绪为中心。"
+        },
+        {
+          "second": 105.5,
+          "observation": "DeepSeek和Claude并肩站在公园，构图重新回到完整双人关系。"
+        },
+        {
+          "second": 119.5,
+          "observation": "场景切到冷色室内，白发有角角色与金发双马尾角色拥抱。"
+        }
+      ],
+      "creator_lessons": [
+        "每段关系戏先给一个具体动作，让人物有理由进入彼此空间。",
+        "固定场所、两名角色和一件道具，更容易集中处理表情与互动。",
+        "情绪升级时收紧景别，关系确认后回到双人构图。"
+      ],
+      "uncertainties": [
+        "Grok身份由作者简介明确点名支持；本轮画面主要看到金发双马尾外形，没有独立姓名卡。",
+        "作者自述使用Seedance 2.0 mini，不代表本轮独立核验了生成模型或参数。",
+        "未实际试听，不能评价声音是否自然或表白段落的停顿设计。"
+      ],
+      "review_scope": "sampled_visual_frames_and_creator_description",
+      "audio_scope": "metadata_only",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 42439935676,
+        "part_duration_seconds": 147,
+        "total_duration_seconds": 147,
+        "contact_frames_reviewed": 15,
+        "additional_raw_frame_seconds": []
+      },
+      "creator_statement": "作者简介称使用Seedance 2.0 mini生成，并明确将后段角色关系写为Grok与GPT。",
+      "id": "study-BV1PTHB6BEbA",
+      "checked_on": "2026-10-21",
+      "published_media_copy": false,
+      "genre_label_original": "relationship-short-drama",
+      "relation_to_ai_girls": "ai_girl_work",
+      "review_method": {
+        "mode": "sampled_frames",
+        "continuous_full_playback": false,
+        "audio_listened": false,
+        "software_reproduced": false,
+        "public_screenshots": false,
+        "sample_interval_seconds": 1
+      },
+      "part": {
+        "page": 1,
+        "cid": 42439935676,
+        "duration_seconds": 147,
+        "total_duration_seconds": 147,
+        "page_count": 1
+      },
+      "case_path": "videos/cases/BV1PTHB6BEbA.md",
+      "source_id": "src-81586e1c86"
+    },
+    {
+      "video_id": "BV191Yr6bEYy",
+      "primary_genre": "op-pv-homage",
+      "secondary_genres": [
+        "pairing-fanwork",
+        "character-montage",
+        "ai-generation-workflow"
+      ],
+      "visual_styles": [
+        "平面色块与几何图形",
+        "日系动画OP式人物展示",
+        "字幕与装饰文字并存",
+        "日常场景与抽象背景交替"
+      ],
+      "character_ids": [
+        "deepseek",
+        "claude",
+        "gpt",
+        "glm",
+        "gemini"
+      ],
+      "opening": "先用高饱和心形图形建立轻快基调，随后以蓝色蝴蝶结局部切入DeepSeek侧脸，并把文字作为画面布局的一部分。",
+      "structure": "身份局部、人物亮相、双人关系和群像合影穿插组织；校园、卧室、街边与抽象旋涡之间切换，以情绪和人物组合连接段落，而非讲一个完整事件。",
+      "analysis_text": "这条的独立价值在于OP致敬式编排。它不是把许多AI娘依次排队，而是让心形、彩色色块、人物侧脸和双人关系互相接替。开头的蝴蝶结局部先给DeepSeek一个辨识锚点，再展示全貌；中段用校园边、卧室、圆形长椅等短场景制造日常感，并穿插紫色旋涡之类抽象夸张空间。Claude与DeepSeek的靠近、后段多角色合照，把配对关系与群像介绍放进同一支片头。对创作的启发是先确定少数颜色和人物标记，再让场景服务情绪而非硬凑连续剧情。作者简介给出参考图、自动生成、人工筛镜头与补关键帧的流程，可作为制作线索；这些是作者自述，本轮只核对了画面样本。",
+      "visual_techniques": [
+        "人物局部与侧脸先行，服饰标记先于完整人物出现。",
+        "实在的校园和室内场景与抽象几何背景交替，形成视觉密度变化。",
+        "人物大图、日文装饰文字和底部字幕分层，文字同时承担气氛与信息。"
+      ],
+      "observed_evidence": [
+        {
+          "second": 0.5,
+          "observation": "白底上出现粉色心形，青黄偏移边缘形成几何图形开场。"
+        },
+        {
+          "second": 1.5,
+          "observation": "DeepSeek蓝色蝴蝶结与蓝发局部近景。"
+        },
+        {
+          "second": 2.5,
+          "observation": "DeepSeek侧脸与竖排日文、横向条带文字并置。"
+        },
+        {
+          "second": 25.5,
+          "observation": "橙发Claude在前景侧脸，DeepSeek位于校园围栏前的远处。"
+        },
+        {
+          "second": 33.5,
+          "observation": "DeepSeek缩小悬于紫色旋涡中心，空间转为抽象夸张表达。"
+        },
+        {
+          "second": 74.5,
+          "observation": "Claude与DeepSeek相向贴近，背景为粉色心形。"
+        },
+        {
+          "second": 83.5,
+          "observation": "出现白发有角角色、DeepSeek、黑发带Z饰物角色与紫发猫耳角色的群像。"
+        }
+      ],
+      "creator_lessons": [
+        "角色介绍可以由局部标记、侧脸、关系图和合影分散完成。",
+        "先规定主色与图形语言，再安排复杂场景，能减少蒙太奇的拼盘感。",
+        "把生成候选筛选与人工补镜头分开，优先修关键的辨识镜头。"
+      ],
+      "uncertainties": [
+        "标题和作者说明支持OP致敬定位，但本轮未核对原动画全部镜头，不能逐镜声称还原。",
+        "H3、云端ComfyUI、Codex与剪映关键帧是作者自述流程，没有运行或验证该工具链。",
+        "未实际试听，不能评价歌曲改词、节拍同步或人声音色。"
+      ],
+      "review_scope": "sampled_visual_frames_and_creator_description",
+      "audio_scope": "metadata_only",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 41873705501,
+        "part_duration_seconds": 93,
+        "total_duration_seconds": 93,
+        "contact_frames_reviewed": 15,
+        "additional_raw_frame_seconds": [
+          83.5
+        ]
+      },
+      "creator_statement": "作者说明使用H3、云端ComfyUI和Codex准备候选镜头，再由人筛选并在剪映补关键帧；感谢夏娜酱Virtual提供思路。可归入制作流程来源。",
+      "id": "study-BV191Yr6bEYy",
+      "checked_on": "2026-10-21",
+      "published_media_copy": false,
+      "genre_label_original": "anime-op-homage",
+      "relation_to_ai_girls": "ai_girl_work",
+      "review_method": {
+        "mode": "sampled_frames",
+        "continuous_full_playback": false,
+        "audio_listened": false,
+        "software_reproduced": false,
+        "public_screenshots": false,
+        "sample_interval_seconds": 1
+      },
+      "part": {
+        "page": 1,
+        "cid": 41873705501,
+        "duration_seconds": 93,
+        "total_duration_seconds": 93,
+        "page_count": 1
+      },
+      "case_path": "videos/cases/BV191Yr6bEYy.md",
+      "source_id": "src-a8ce8c9bc2"
+    },
+    {
+      "video_id": "BV1Nfag6xEHQ",
+      "primary_genre": "op-pv-homage",
+      "secondary_genres": [
+        "anime-op-homage",
+        "ensemble-introduction",
+        "ai-industry-satire"
+      ],
+      "visual_styles": [
+        "校园动画片头式群像",
+        "高饱和几何装饰",
+        "大字职员表与人物构图结合",
+        "统一校服和角色发色标记"
+      ],
+      "character_ids": [
+        "deepseek",
+        "gemini",
+        "gpt",
+        "claude",
+        "grok"
+      ],
+      "opening": "前几秒快速建立蓝发主角、拟动画标题和人物姓名标记，随后让饮料瓶、涂鸦轮廓与校园背景共同构成俏皮的角色介绍。",
+      "structure": "先用标题和角色名确立设定，再以校园内外场景与虚构职员表交替呈现群像；后段的天空、雨后街道和窗边构图补充情绪变化，不以对白交代完整情节。",
+      "analysis_text": "这条展示的是把AI行业话题改造成校园番宣传片的路径。标题、角色姓名和制作职务大字不是附属信息，而是与人物、植物、楼梯和透视线一起构图。几位AI娘穿上相近校服，仍靠DeepSeek的蓝发、Gemini的紫发猫耳、Claude的橙发等保留辨识；这适合仓库记录同角色换装版本。抽帧中晴天、雨后街道和窗边画面形成情绪差异，但不能据此捏造完整剧情。最值得借鉴的是用统一场景与服装把多种角色设计收进同一世界，再把行业人物名、职位和模型竞争梗编进伪职员表。它共有两个分P，第二P是原版对比；本轮只检查首P，不能把182秒总时长说成已分析范围。",
+      "visual_techniques": [
+        "巨大的职员表文字依照人物与环境透视摆放，字体成为主要图形元素。",
+        "统一校服建立校园世界，差异化发色、耳饰与尾部轮廓维持AI娘身份。",
+        "借几何三角、涂鸦圈线和倾斜画幅增加变化，再穿插较安静的环境画面。"
+      ],
+      "observed_evidence": [
+        {
+          "second": 1.5,
+          "observation": "校园屋顶场景与拟动画标题同框，蓝发角色附近带DeepSeek姓名标记。"
+        },
+        {
+          "second": 3.5,
+          "observation": "巨大饮料瓶占据前景，远处紫发猫耳人物旁标有Gemini字样，并附手绘式圈线。"
+        },
+        {
+          "second": 25.5,
+          "observation": "校园庭院内的橙发角色穿校服，大字职员表写入AI行业人物和公司名。"
+        },
+        {
+          "second": 33.5,
+          "observation": "黑发角色、花坛与超大字职员表合成一幅横向群像构图。"
+        },
+        {
+          "second": 57.5,
+          "observation": "紫发猫耳角色的校服近景，胸前可见彩色G标记。"
+        },
+        {
+          "second": 74.5,
+          "observation": "蓝发角色撑黄色伞站在湿润街道上，背景有水面反光。"
+        },
+        {
+          "second": 82.5,
+          "observation": "紫发猫耳角色坐在窗边，光束与室内阴影形成安静段落。"
+        }
+      ],
+      "creator_lessons": [
+        "统一服装与场景世界，但保留每个角色两到三个外形锚点。",
+        "把职员表、姓名卡当成画面设计，不必单独做静态介绍页。",
+        "群像PV可以围绕一种心境组织，不需要硬塞完整剧情。"
+      ],
+      "uncertainties": [
+        "第二P原版对比未在本轮查看，不能评价逐镜对应程度。",
+        "职员表为作品内的戏仿表达，不把公司人物当作真实参与者或权利人。",
+        "未实际试听，不能声称验证OP音乐、节拍或配音。",
+        "演员表链接是作者给出的素材线索，是否已在主仓库收录需由主流程去重。"
+      ],
+      "review_scope": "sampled_visual_frames_and_creator_description",
+      "audio_scope": "metadata_only",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 42204596908,
+        "part_duration_seconds": 91,
+        "total_duration_seconds": 182,
+        "page_count": 2,
+        "unreviewed_pages": [
+          2
+        ],
+        "contact_frames_reviewed": 15,
+        "additional_raw_frame_seconds": [
+          3.5,
+          25.5
+        ]
+      },
+      "creator_statement": "作者简介附演员表仓库：https://github.com/lshhhhhhh/ai-school-op/blob/main/cast/README.md。简介中把模型排行榜竞争写为校园失落情绪，属于虚构设定。",
+      "id": "study-BV1Nfag6xEHQ",
+      "checked_on": "2026-10-21",
+      "published_media_copy": false,
+      "genre_label_original": "school-pv-parody",
+      "relation_to_ai_girls": "ai_girl_work",
+      "review_method": {
+        "mode": "sampled_frames",
+        "continuous_full_playback": false,
+        "audio_listened": false,
+        "software_reproduced": false,
+        "public_screenshots": false,
+        "sample_interval_seconds": 1
+      },
+      "part": {
+        "page": 1,
+        "cid": 42204596908,
+        "duration_seconds": 91,
+        "total_duration_seconds": 182,
+        "page_count": 2,
+        "unreviewed_pages": [
+          2
+        ]
+      },
+      "case_path": "videos/cases/BV1Nfag6xEHQ.md",
+      "source_id": "src-70742b88cb"
+    },
+    {
+      "video_id": "BV15X3n6mEWy",
+      "title": "大肥鱼 炸盆子",
+      "primary_genre": "prop-gag",
+      "secondary_genres": [
+        "恶作剧",
+        "现实场景混合"
+      ],
+      "visual_styles": [
+        "Q版鲸鱼女仆",
+        "拟真乡村院落",
+        "宽画幅固定机位",
+        "天空反打"
+      ],
+      "character_ids": [
+        "deepseek"
+      ],
+      "opening": "0.5秒已出现小角色、盆、红色小柱及木箱，直接建立恶作剧场面，不用角色介绍。",
+      "structure": "摆盆与倒扣→角色躲到箱后→地面扬尘→天空中的盆→返回院落，盆罩头后回到身前。结尾沿用开场道具，形成动作闭环。",
+      "visual_techniques": [
+        "固定院落全景保持道具位置清楚",
+        "把小角色放进大尺度日常环境",
+        "用蓝天中的盆替换地面动作作为反打",
+        "让结尾盆与角色的接触回收前面的准备"
+      ],
+      "observed_evidence": [
+        {
+          "second": 0.5,
+          "observation": "蓝发Q版女仆在左侧盆边；画面右侧是木箱，地面中间有红色小柱。"
+        },
+        {
+          "second": 2.5,
+          "observation": "角色旁边的盆已倒扣在地面。"
+        },
+        {
+          "second": 4.5,
+          "observation": "角色移到木箱后，主体被箱体遮挡，只露出部分蓝色头发。"
+        },
+        {
+          "second": 7.5,
+          "observation": "补看原帧：院落地面出现一团扬尘，盆不在原地。"
+        },
+        {
+          "second": 8.5,
+          "observation": "镜头切为仰望蓝天，盆位于天空画面中央。"
+        },
+        {
+          "second": 11.5,
+          "observation": "回到原院落全景，盆罩在角色头顶。"
+        },
+        {
+          "second": 14.5,
+          "observation": "末段角色仍在院落，盆移到角色身前。"
+        }
+      ],
+      "creator_lessons": [
+        "一条短梗先固定一个道具目标，再安排一次明确的意外结果。",
+        "角色短暂躲藏与天空反打能延长等待，不必靠大量字幕解释。",
+        "拟真环境中保留头饰、发色和围裙图案，可让远景Q版角色保持识别度。"
+      ],
+      "uncertainties": [
+        "未试听，不描述爆炸声、配乐或声画卡点。",
+        "1fps样本不用于判断精确运动轨迹与物理连续性。",
+        "拟真背景的具体获取方式和制作软件未确认。"
+      ],
+      "review_scope": "sampled_visual_frames_1fps：15帧生成，实际查看13张contact样本，并补看7.5秒原帧；未按正常速度完整播放",
+      "audio_scope": "metadata_only",
+      "reviewed_part": "P1；cid=40415333275；大肥鱼 炸盆子",
+      "source_notes": [
+        "作者简介另列参考作品BV17PPazyEEu；这里只记录参考链，不据此判断两条作品的全部制作关系。"
+      ],
+      "analysis_text": "这条短片把笑点集中在一个盆上。开场直接给出院落、角色、金属盆和地上的红色小柱，观众先看懂道具关系，再看到角色倒扣盆、转身躲到木箱后。随后地面扬尘，镜头切到蓝天中腾空的盆，再回到原机位，让盆与角色重新发生关系。末段盆罩在头上，最后又移到身前，形成恶作剧反噬的收束。蓝发、女仆头饰、鲸鱼围裙让小尺寸角色仍可辨认，而墙面树影、锈木箱和泥土地增强了尺度反差。可借鉴的不是增加复杂剧情，而是把准备、躲避、离地、落回几个阶段交代清楚，并用一次天空反打制造停顿。这里确认的是写实环境与Q版角色的画面混合；底景是否实拍、盆是否使用物理模拟，不能从这些帧确定。",
+      "id": "study-BV15X3n6mEWy",
+      "checked_on": "2026-10-21",
+      "published_media_copy": false,
+      "genre_label_original": "单动作道具短梗",
+      "relation_to_ai_girls": "ai_girl_work",
+      "review_method": {
+        "mode": "sampled_frames",
+        "continuous_full_playback": false,
+        "audio_listened": false,
+        "software_reproduced": false,
+        "public_screenshots": false,
+        "sample_interval_seconds": 1
+      },
+      "part": {
+        "page": 1,
+        "cid": 40415333275,
+        "duration_seconds": 16,
+        "total_duration_seconds": 16,
+        "page_count": 1
+      },
+      "case_path": "videos/cases/BV15X3n6mEWy.md",
+      "source_id": "src-1845559f0f"
+    },
+    {
+      "video_id": "BV1q1tv6iELX",
+      "title": "完了，家里遭蓝色大肥鱼了",
+      "primary_genre": "real-world-insertion",
+      "secondary_genres": [
+        "生活短梗",
+        "吃货",
+        "人手互动"
+      ],
+      "visual_styles": [
+        "拟真厨房",
+        "Q版鲸鱼女仆",
+        "手持近景感",
+        "角色与实物接触"
+      ],
+      "character_ids": [
+        "deepseek"
+      ],
+      "opening": "0.5—1.5秒先展示手提米袋，2.5秒揭示米锅里出现蓝色角色；用日常铺垫制造异常。",
+      "structure": "米袋与厨房→锅中发现角色→手拎出角色→角色回锅、米变少→再次拎起→空锅中角色闭眼躺下。",
+      "visual_techniques": [
+        "用人手与电饭锅提供清晰的体型参照",
+        "以容器内部米量变化代替长段吃饭过程",
+        "在俯视锅内与正面角色近景之间切换",
+        "最后用空锅和闭眼表情收束吃货短梗"
+      ],
+      "observed_evidence": [
+        {
+          "second": 0.5,
+          "observation": "人手提起透明米袋，背景为厨房与电饭锅。"
+        },
+        {
+          "second": 2.5,
+          "observation": "打开的锅装满米，米上出现团状蓝发鲸鱼角色背影。"
+        },
+        {
+          "second": 8.5,
+          "observation": "人手从角色头部上方拎住角色，正面可见蓝眼、女仆装及鲸鱼围裙。"
+        },
+        {
+          "second": 13.5,
+          "observation": "锅内米已明显减少，角色闭眼躺在锅底，旁边散落米粒。"
+        },
+        {
+          "second": 21.5,
+          "observation": "角色再次被拎起，画面出现下垂眉眼和额头汗滴式细节。"
+        },
+        {
+          "second": 29.5,
+          "observation": "末段几乎空的锅里，角色仰面闭眼躺着。"
+        }
+      ],
+      "creator_lessons": [
+        "先给一个观众熟悉的生活动作，再揭示异常角色，可减少设定说明。",
+        "让锅内存量变化承担故事进展，比重复播放同一个吃饭动作更清楚。",
+        "保留角色与人手接触处以及容器尺度，有助于制造小角色进入现实的观感。"
+      ],
+      "uncertainties": [
+        "未试听，不能说明是否有配音或拟声。",
+        "手部、米粒和角色是否分别拍摄或整段生成，当前证据不足。",
+        "团状背影与正面小人的变化只作画面观察，不推断具体建模或变形方案。"
+      ],
+      "review_scope": "sampled_visual_frames_1fps：30帧生成，实际查看14张contact样本；未按正常速度完整播放",
+      "audio_scope": "metadata_only",
+      "reviewed_part": "P1；cid=41564177202；1788480213374",
+      "source_notes": [
+        "作者简介把形象参考指向这个刀子真甜；这属于作者给出的来源线索，并非当前已验证的原始设计归属。"
+      ],
+      "analysis_text": "开场先用人手和米袋建立普通厨房场景，约两秒后才揭示米锅中的蓝色小角色，惊喜来自日常物品突然变成角色栖息地。后续反复使用手拎角色、把角色放回锅里、米量减少、空锅中躺平的变化，把大肥鱼爱吃的印象做成可以看见的结果。与炸盆子的远景不同，这条以锅口、手和角色构成近距离尺度比较，观众像站在灶台前抓到一个小偷吃者。形象识别依靠蓝发、女仆装和鲸鱼围裙，动作又允许角色在团状背影与正面小人之间变化。创作上可把一个熟悉容器设成舞台，让每次揭盖都产生新状态；不必展示全部吃饭过程，也能通过米的剩余量交代因果。画面可见拟真人手与角色接触，但这不等于已经证实使用真实拍摄底片或某一种生成流程。",
+      "id": "study-BV1q1tv6iELX",
+      "checked_on": "2026-10-21",
+      "published_media_copy": false,
+      "genre_label_original": "现实场景中的角色入侵",
+      "relation_to_ai_girls": "ai_girl_work",
+      "review_method": {
+        "mode": "sampled_frames",
+        "continuous_full_playback": false,
+        "audio_listened": false,
+        "software_reproduced": false,
+        "public_screenshots": false,
+        "sample_interval_seconds": 1
+      },
+      "part": {
+        "page": 1,
+        "cid": 41564177202,
+        "duration_seconds": 31,
+        "total_duration_seconds": 31,
+        "page_count": 1
+      },
+      "case_path": "videos/cases/BV1q1tv6iELX.md",
+      "source_id": "src-84bf6ac3f3"
+    },
+    {
+      "video_id": "BV1P18y6jEkV",
+      "title": "当大肥鱼吃完你的token后……",
+      "primary_genre": "prop-gag",
+      "secondary_genres": [
+        "单动作道具短梗",
+        "吃货",
+        "第一人称互动"
+      ],
+      "visual_styles": [
+        "竖屏",
+        "Q版描线鲸鱼女仆",
+        "拟真夜间庭院",
+        "前景道具夸张透视"
+      ],
+      "character_ids": [
+        "deepseek"
+      ],
+      "opening": "0.5秒已是角色在盆后举勺的近景；标题承担token语境，画面立即进入互动。",
+      "structure": "举勺面对空盆→勺子向盆口伸出→盆升到镜头前遮挡角色→盆回到远处，角色表情收尾。",
+      "visual_techniques": [
+        "竖屏让前景盆占据较大面积",
+        "靠道具前后位移制造观众被直接互动的感觉",
+        "角色表情随道具遮挡变化，保持单一笑点",
+        "标题与可见空盆共同形成资源消耗隐喻"
+      ],
+      "observed_evidence": [
+        {
+          "second": 0.5,
+          "observation": "蓝发Q版女仆站在盆后，手持木勺；背景是夜色中的棚亭。"
+        },
+        {
+          "second": 1.5,
+          "observation": "木勺伸向盆口，角色与前景道具的尺度差明显。"
+        },
+        {
+          "second": 4.5,
+          "observation": "角色在盆后张嘴并指向前方。"
+        },
+        {
+          "second": 5.5,
+          "observation": "补看原帧：盆升至镜头右前方，遮住部分角色；角色闭眼张嘴。"
+        },
+        {
+          "second": 7.5,
+          "observation": "盆倾斜在前景，角色仍位于其后。"
+        },
+        {
+          "second": 9.5,
+          "observation": "盆回到远处左侧，角色闭眼站在棚亭下，前景地面显露。"
+        }
+      ],
+      "creator_lessons": [
+        "把抽象AI使用体验转成空盆等物体隐喻，可在十秒级短片里省去技术解释。",
+        "一个主体加一个前景道具，就能用遮挡和尺度变化构成完整短梗。",
+        "画面未出现的token消耗应明确归为标题语境，避免写成视频里存在的界面演示。"
+      ],
+      "uncertainties": [
+        "未试听，不能确认角色是否说话、具体配乐或声音笑点。",
+        "未从画面确证真实拍摄、3D渲染或视频生成的具体组合。",
+        "标题暗示token消耗，但所查看画面没有实际计费或用量数据。"
+      ],
+      "review_scope": "sampled_visual_frames_1fps：10帧生成并实际查看全部contact样本，补看5.5秒原帧；未按正常速度完整播放",
+      "audio_scope": "metadata_only",
+      "reviewed_part": "P1；cid=41159035002；1787392668774",
+      "source_notes": [
+        "作者简介仅以可爱的小肥鱼概括作品，没有提供制作工具或原始素材包。"
+      ],
+      "analysis_text": "标题把消耗token转成吃完资源的拟人笑话，但画面没有token计数器，而是用空盆、木勺和小角色让观众自行完成联想。开场角色站在盆后举着勺子，盆在画面下方占据很大面积，形成像观众亲自端着盆的关系。中段勺子伸向盆口，随后盆被举到前景、遮住角色脸部，最后又落回远处，只留下角色的表情和小动作。它与炸盆子同样只用一个道具，却依靠竖屏近景和前后遮挡制造直接交流感；与厨房片相比，也不需要展示米量递减等多段生活过程。蓝发、头饰和围裙图案提供身份，标题提供AI语境，画面负责吃货反应。可借鉴的是让专业使用体验落到一个能立刻看懂的实物隐喻，而不是在短片内解释token原理。",
+      "id": "study-BV1P18y6jEkV",
+      "checked_on": "2026-10-21",
+      "published_media_copy": false,
+      "genre_label_original": "模型使用体验梗",
+      "relation_to_ai_girls": "ai_girl_work",
+      "review_method": {
+        "mode": "sampled_frames",
+        "continuous_full_playback": false,
+        "audio_listened": false,
+        "software_reproduced": false,
+        "public_screenshots": false,
+        "sample_interval_seconds": 1
+      },
+      "part": {
+        "page": 1,
+        "cid": 41159035002,
+        "duration_seconds": 11,
+        "total_duration_seconds": 11,
+        "page_count": 1
+      },
+      "case_path": "videos/cases/BV1P18y6jEkV.md",
+      "source_id": "src-80429ec846"
+    },
+    {
+      "video_id": "BV1LQ7j6WEyD",
+      "title": "🐋DeepSeek不是罪过~🐋",
+      "primary_genre": "dance-costume",
+      "secondary_genres": [
+        "AI生成改编",
+        "角色时装展示",
+        "动效剪辑"
+      ],
+      "visual_styles": [
+        "常规比例动漫角色",
+        "纯色与巨型英文背景",
+        "服装连换",
+        "倾斜画框",
+        "明亮模糊转场"
+      ],
+      "character_ids": [
+        "deepseek"
+      ],
+      "opening": "0.5秒直接出现正在动作中的蓝发女仆和巨型英文背景，先用熟悉造型建立角色。",
+      "structure": "女仆装出场→连续展示多套服装与近景动作→倾斜画框、擦白与模糊切换→双手手势及眨眼近景收尾。",
+      "visual_techniques": [
+        "用固定发色、鲸鱼特征与尾部维持换装前后识别",
+        "巨型英文和纯色背景强化角色轮廓",
+        "半身与较宽构图交替让服装变化可见",
+        "后半使用倾斜画面和明亮模糊过渡，末段回到可读的脸部近景"
+      ],
+      "observed_evidence": [
+        {
+          "second": 0.5,
+          "observation": "蓝发女仆正对镜头，白色巨型英文置于淡紫色背景。"
+        },
+        {
+          "second": 5.5,
+          "observation": "服装变为带花饰的浅色样式，脸部处于近景。"
+        },
+        {
+          "second": 10.5,
+          "observation": "角色戴草帽、穿白色夏装，背景变为淡蓝。"
+        },
+        {
+          "second": 20.5,
+          "observation": "角色穿白围巾和蓝外套，胸前可见鲸鱼图案。"
+        },
+        {
+          "second": 27.5,
+          "observation": "补看原帧：白色裙装角色以较宽构图举手，身后仍是大号英文，左侧可见鲸鱼尾部。"
+        },
+        {
+          "second": 35.5,
+          "observation": "画面处于明亮模糊的过渡状态，主体细节被遮蔽。"
+        },
+        {
+          "second": 55.5,
+          "observation": "补看原帧：角色以白衬衫、领带、马甲造型靠近镜头，眨一只眼并作双手手势。"
+        }
+      ],
+      "creator_lessons": [
+        "换装类作品需选取不会随服装消失的身份特征，避免每一段看成不同角色。",
+        "将大字背景和角色动作保持在相近位置，可给连续换装提供视觉连接。",
+        "成片展示、模型配布和操作教程应分栏，简介引用教程不代表当前视频展示教程过程。"
+      ],
+      "uncertainties": [
+        "未试听，不判断歌曲、节拍或动作是否严格同步。",
+        "作者给出的生成工具及参考模型属于简介证据，帧本身不能还原完整工作流。",
+        "生成造成的细部变化不在本次1fps抽样中作稳定性排名。"
+      ],
+      "review_scope": "sampled_visual_frames_1fps：56帧生成，实际查看15张contact样本，并补看27.5、55.5秒原帧；未按正常速度完整播放",
+      "audio_scope": "metadata_only",
+      "reviewed_part": "P1；cid=39444483191；成片",
+      "source_notes": [
+        "简介称参考视频BV1yQALzCEYE、参考原模型为绝区零千夏，女仆鲸鱼人设源ZipZipPipe；成片来自https://xyq.jianying.com/。",
+        "简介另列真正教程BV1QnE16cEnX，以及原始素材和生成内容分享https://pan.baidu.com/s/13kvzPu1o7yXZTiNNhfaSbg?pwd=senn；作者禁止商业化。链接与声明来自简介，本次未下载盘内内容。"
+      ],
+      "analysis_text": "这条以同一位蓝发鲸鱼女孩的多套服装组织舞蹈成片，不能因为简介提到参考模型就直接归成MMD演示。开场已在动作中，常规女仆装与大号英文背景先锁定身份，之后连续换成花饰服、草帽白裙、制服、围巾外套等样式。发色、侧部鲸鱼特征和尾巴使服装变化仍围绕同一个角色。前半主要是正面中近景与半身动作，后半的画面开始倾斜、擦白和模糊切换，最后以靠近镜头的眨眼双手手势收束。它的重点是身份稳定下的外观变化，而非交代一次有因果的生活事件。可借鉴同姿态或相近构图的换装连接，让服装本身承担新鲜感。作者简介明确说成片由剪映相关服务生成，并另列真正教程链接；该片自身没有展示操作步骤，配乐及节拍也尚未试听确认。",
+      "id": "study-BV1LQ7j6WEyD",
+      "checked_on": "2026-10-21",
+      "published_media_copy": false,
+      "genre_label_original": "舞蹈与换装成片",
+      "relation_to_ai_girls": "ai_girl_work",
+      "review_method": {
+        "mode": "sampled_frames",
+        "continuous_full_playback": false,
+        "audio_listened": false,
+        "software_reproduced": false,
+        "public_screenshots": false,
+        "sample_interval_seconds": 1
+      },
+      "part": {
+        "page": 1,
+        "cid": 39444483191,
+        "duration_seconds": 56,
+        "total_duration_seconds": 56,
+        "page_count": 1
+      },
+      "case_path": "videos/cases/BV1LQ7j6WEyD.md",
+      "source_id": "src-4f1e308470"
+    },
+    {
+      "video_id": "BV1tD4X6AE7Q",
+      "title": "【MMD模型配布】蓝色大肥鱼",
+      "primary_genre": "mmd-distribution",
+      "secondary_genres": [
+        "MMD舞蹈",
+        "Q版角色展示"
+      ],
+      "visual_styles": [
+        "明确3D体积的Q版模型",
+        "竖屏全身舞蹈",
+        "浅景深舞台",
+        "背面与侧面展示"
+      ],
+      "character_ids": [
+        "deepseek"
+      ],
+      "opening": "0.5秒是居中正面全身Q版模型，约1.5秒便转到侧面，使配布对象先被看清。",
+      "structure": "正面全身→侧面与背面、尾巴展示→回到正面进行手脚舞蹈动作→脸部特写收尾。",
+      "visual_techniques": [
+        "朝向变化展示发型、裙摆、尾巴的体积与遮挡",
+        "多数段落保留全身，便于观察动作和比例",
+        "舞台背景采用明显虚化，角色轮廓保持突出",
+        "结尾从全身切到表情特写，兼顾模型结构和可爱感"
+      ],
+      "observed_evidence": [
+        {
+          "second": 0.5,
+          "observation": "竖屏中央是蓝发Q版女仆全身，脚下有舞台地面反光。"
+        },
+        {
+          "second": 1.5,
+          "observation": "角色转到侧面，脸部轮廓、发量与裙摆表现出立体体积。"
+        },
+        {
+          "second": 3.5,
+          "observation": "背面朝镜头，大鲸鱼尾部位于长发和裙摆之后。"
+        },
+        {
+          "second": 10.5,
+          "observation": "角色重新正对镜头，抬手并抬起一条腿，保持全身构图。"
+        },
+        {
+          "second": 22.5,
+          "observation": "角色两臂向外，双脚分开，服装与舞台仍保持一致。"
+        },
+        {
+          "second": 35.5,
+          "observation": "末段切为脸部与上身近景，角色手靠近脸部。"
+        }
+      ],
+      "creator_lessons": [
+        "配布展示优先覆盖正面、侧面和背面，再安排表情特写。",
+        "固定服装与舞台能把注意力留给模型比例、尾巴和动作表现。",
+        "同时登记原画、制模、绑定、动作、相机、舞台等不同来源，方便实际二创时寻找所需素材。"
+      ],
+      "uncertainties": [
+        "未试听；配乐名称仅来自作者简介。",
+        "尚未取得模型文件，不评价骨骼、材质、物理、兼容性或实际可运行性。",
+        "评论区下载入口未核取；模型声明不自动覆盖全部第三方舞台、动作、音乐和特效。"
+      ],
+      "review_scope": "sampled_visual_frames_1fps：36帧生成，实际查看14张contact样本；未按正常速度完整播放",
+      "audio_scope": "metadata_only",
+      "reviewed_part": "P1；cid=41423668909；【MMD模型配布】蓝色大肥鱼",
+      "source_notes": [
+        "简介列水原镜制模、耶栗Yaki进行MMD转换绑定，致谢夏紫瞳渲染；2D形象源自ZipZipPipe与上善无形。模型声明为CC BY-NC-SA 4.0、非商业。",
+        "简介另列动作/相机tencha.3d，舞台QQ炫舞手游/伍鹅，音乐にぎにぎにじたうん；这些仅是署名线索，本次未单独验证各素材条款。"
+      ],
+      "analysis_text": "这条的核心价值是把Q版鲸鱼女仆展示成可从多个角度观看的立体模型。开场正面全身站在画面中央，很快转出侧面和背面，让长发、裙摆与大鲸鱼尾巴的体积和遮挡关系可见，再回到抬手、抬腿的全身舞蹈。与换装片不同，服装与舞台大体保持一致，变化来自模型姿态和朝向；与厨房短梗相比，角色没有进入日常容器，舞台也不承担故事因果。末段拉近到脸部，给模型表情留下记忆点。作为仓库案例，它适合归入模型配布和Q版3D演示，即使播放量不如百万短梗，也能补足素材可用性。简介明确列出制模、转换绑定、渲染和原画来源，并称模型遵循CC BY-NC-SA 4.0。该声明不应被扩大到配乐、动作、舞台等所有第三方内容；实际下载入口在评论区，尚未在本次核取。",
+      "id": "study-BV1tD4X6AE7Q",
+      "checked_on": "2026-10-21",
+      "published_media_copy": false,
+      "genre_label_original": "3D模型配布展示",
+      "relation_to_ai_girls": "ai_girl_work",
+      "review_method": {
+        "mode": "sampled_frames",
+        "continuous_full_playback": false,
+        "audio_listened": false,
+        "software_reproduced": false,
+        "public_screenshots": false,
+        "sample_interval_seconds": 1
+      },
+      "part": {
+        "page": 1,
+        "cid": 41423668909,
+        "duration_seconds": 37,
+        "total_duration_seconds": 37,
+        "page_count": 1
+      },
+      "case_path": "videos/cases/BV1tD4X6AE7Q.md",
+      "source_id": "src-fe3817add9"
+    },
+    {
+      "video_id": "BV155bC69En7",
+      "title": "肥鱼...........老了",
+      "primary_genre": "dance-costume",
+      "secondary_genres": [
+        "角色变体",
+        "架空未来梗",
+        "形象演化展示"
+      ],
+      "visual_styles": [
+        "3D观感动漫舞台",
+        "常规比例角色",
+        "蓝色灯光和反射地面",
+        "三段造型切换"
+      ],
+      "character_ids": [
+        "deepseek"
+      ],
+      "opening": "0.5秒以蓝发鲸鱼女仆张开双臂的舞台中景进入，身后大屏幕展示同角色图像。",
+      "structure": "蓝发女仆舞台动作→约13秒进入黑发眼镜红黑女仆段→约24秒进入白发角翼造型段→白色幻想角色动作延续至末段。",
+      "visual_techniques": [
+        "同一个舞台、相似伸手动作串联造型变化",
+        "蓝色灯带和反射地面营造演出空间",
+        "身后大屏幕与前景角色对应，强化每段身份",
+        "从深色女仆到浅色幻想服的色彩反差形成变化"
+      ],
+      "observed_evidence": [
+        {
+          "second": 0.5,
+          "observation": "蓝发鲸鱼女仆在蓝色舞台上伸出双臂，身后是她的放大角色画。"
+        },
+        {
+          "second": 7.5,
+          "observation": "蓝发角色闭眼，双手靠近胸前，舞台灯柱与鲸鱼主题背景仍在。"
+        },
+        {
+          "second": 13.5,
+          "observation": "补看原帧：角色已换成黑发、眼镜、红黑细节女仆装，身后可见深色尾部。"
+        },
+        {
+          "second": 23.5,
+          "observation": "黑发角色在同一舞台做向前伸手动作。"
+        },
+        {
+          "second": 24.5,
+          "observation": "补看原帧：角色已是白发、头角、长裙及带翼的幻想造型。"
+        },
+        {
+          "second": 26.5,
+          "observation": "补看原帧：白发角色身后屏幕可辨DeepSeek-V4-Pro以及2035年日期文字，属于作品内背景信息。"
+        },
+        {
+          "second": 36.5,
+          "observation": "末段白发角色仍在舞台中央，服饰、角和翼清晰可见。"
+        }
+      ],
+      "creator_lessons": [
+        "把角色变体放在同一空间、相似动作中比较，可让差异比设定文字更容易被看到。",
+        "背景大屏可用作第二层身份提示，使造型切换不只依赖近景。",
+        "架空产品年份和版本名应保留作品语境，不能混进正式模型产品资料。"
+      ],
+      "uncertainties": [
+        "未试听，不说明配乐、唱词、舞蹈节奏或歌曲出处。",
+        "黑红与白发造型仅按本片上下文作为DeepSeek相关变体记录，未确认独立原始人设作者与文件来源。",
+        "3D舞台观感不等于已确认制作软件、模型来源或MMD工程。",
+        "片中2035年版本文字是架空未来信息，不构成现实产品发布来源。"
+      ],
+      "review_scope": "sampled_visual_frames_1fps：37帧生成，实际查看14张contact样本，并补看13.5、24.5、26.5秒原帧；未按正常速度完整播放",
+      "audio_scope": "metadata_only",
+      "reviewed_part": "P1；cid=42023977343；8月25日",
+      "source_notes": [
+        "作者简介提及庆祝百万播放并换用4K源；这属于上传者描述，不表示本次实际研究的公开低清流为4K。"
+      ],
+      "analysis_text": "这条不是单一Q版模型展示，而是让三种常规比例造型依次登上同一个蓝色演出舞台。前段是熟悉的蓝发鲸鱼女仆，中段换成黑发、眼镜、红色细节的女仆，后段又变为白发、角和翼的幻想造型；舞台和相似的伸手动作把不同外观串在一起。大屏幕同时展示对应角色图像，扩大了每次换人的识别效果。最后一段背景可见带2035年日期的DeepSeek-V4-Pro字样，应作为架空未来设定读取，不能收成真实产品发布证据。它的可借鉴点是用同一空间、相近动作对比角色变体，让版本变化本身构成看点，结尾白色幻想造型又提供明显的视觉升级。三段样本呈现3D舞台观感，但简介没有给出完整制作说明，不能仅由画面断言全部来自MMD、具体模型文件或同一套动作工程。",
+      "id": "study-BV155bC69En7",
+      "checked_on": "2026-10-21",
+      "published_media_copy": false,
+      "genre_label_original": "舞台舞蹈与版本想象",
+      "relation_to_ai_girls": "ai_girl_work",
+      "review_method": {
+        "mode": "sampled_frames",
+        "continuous_full_playback": false,
+        "audio_listened": false,
+        "software_reproduced": false,
+        "public_screenshots": false,
+        "sample_interval_seconds": 1
+      },
+      "part": {
+        "page": 1,
+        "cid": 42023977343,
+        "duration_seconds": 38,
+        "total_duration_seconds": 38,
+        "page_count": 1
+      },
+      "case_path": "videos/cases/BV155bC69En7.md",
+      "source_id": "src-84105ee9be"
+    },
+    {
+      "video_id": "BV16yYi69EQT",
+      "primary_genre": "live2d-demo",
+      "secondary_genres": [
+        "免费素材发布",
+        "功能清单",
+        "表情演示"
+      ],
+      "visual_styles": [
+        "Q版女仆鲸鱼娘",
+        "粉白宣传背景",
+        "大特写与右下角小模型并列",
+        "二维变形动画"
+      ],
+      "character_ids": [
+        "deepseek"
+      ],
+      "opening": "0.5秒已是大头Q版鲸鱼娘与小尺寸副模型，1.5秒切心形眼、脸红和张嘴，2.5秒闭眼笑，极快建立表情丰富的印象。",
+      "structure": "即时可爱表情钩子 → 鼠控与外观选项 → 桌宠/姿态及表情清单 → 连续状态展示并给获取提示。",
+      "visual_techniques": [
+        "同一角色的大、小双尺度展示",
+        "右上角短标签提示当前功能",
+        "固定宣传背景搭配局部表情与道具变化",
+        "保留鲸鱼头饰、女仆头箍和蓝色尾部的识别锚点"
+      ],
+      "observed_evidence": [
+        {
+          "second": 0.5,
+          "observation": "大模型拿笔和画板，右下角小模型重复同一姿态。"
+        },
+        {
+          "second": 1.5,
+          "observation": "眼睛变为粉色爱心，嘴张开，脸颊明显变红。"
+        },
+        {
+          "second": 3.5,
+          "observation": "出现鼠控模式标签，角色改为面对蛋包饭、手持红色瓶状道具。"
+        },
+        {
+          "second": 19.5,
+          "observation": "右上角标两种发型，头顶配件和头发样式变化。"
+        },
+        {
+          "second": 29.5,
+          "observation": "角色戴上圆眼镜，同屏小模型同步呈现。"
+        },
+        {
+          "second": 48.5,
+          "observation": "右上角标20+表情，画板前出现不同手持小物。"
+        },
+        {
+          "second": 57.5,
+          "observation": "右上角给私信ds或评论区工房下载两种获取提示，角色为心形眼。"
+        },
+        {
+          "second": 67.5,
+          "observation": "眼睛变为黑色旋涡，嘴型也变化。"
+        }
+      ],
+      "creator_lessons": [
+        "展示模型时让大特写和小尺寸效果同时出现，兼顾细节与实际占屏预期。",
+        "按鼠控、外观、桌宠、表情分组，一个短标签只解释一个卖点。",
+        "可用固定背景做状态对照，减少为每个表情另做场景的成本。"
+      ],
+      "uncertainties": [
+        "抽帧不能确认运动连续性、面捕方案、实时鼠控绑定与响应。",
+        "公开简介为空，具体获取条件仅见画面；未读取评论、未私信作者或下载工房包。",
+        "标题中的免费不等于允许二次打包或任意商业使用。"
+      ],
+      "review_scope": "frame_sampled",
+      "audio_scope": "metadata_only",
+      "reviewed_part": "P1，106秒媒体按1fps抽帧；观察15张接触表帧及0.5、1.5、29.5、57.5秒独立帧。",
+      "notes": [
+        "作者氵六青，公开API播放快照396343。",
+        "57.5秒画面提示获取方式1一键三连+私信ds；方式2评论区工房下载。本次不执行这些互动，仅记录作者作品入口。"
+      ],
+      "analysis_text": "作品把模型能力组织成可立即看懂的功能菜单。开头不解释设定，直接给出拿画板的Q版鲸鱼娘，随后用眼睛、嘴型与脸红变化吸引注意；大特写方便看清细节，右下角小模型又展示实际占屏观感。中段依次给鼠控模式、两种发型、眼镜、桌宠姿态与多种表情，说明文字只标当下卖点。尾部保持同一构图持续切换心形眼、旋涡眼、通红脸和装饰特效，兼顾素材说明与可爱反应合集。其价值是用相同背景和机位消除变量，让观众比较状态差异。抽帧能确认眼口、头部姿态和配件状态改变，但不足以证明鼠标绑定方式、跟踪精度或实时性；应归入发布者模型演示，而非我们完成的Live2D运行测试。",
+      "id": "study-BV16yYi69EQT",
+      "checked_on": "2026-10-21",
+      "published_media_copy": false,
+      "genre_label_original": "Live2D模型与桌宠展示",
+      "relation_to_ai_girls": "ai_girl_work",
+      "review_method": {
+        "mode": "sampled_frames",
+        "continuous_full_playback": false,
+        "audio_listened": false,
+        "software_reproduced": false,
+        "public_screenshots": false,
+        "sample_interval_seconds": 1
+      },
+      "part": {
+        "page": 1,
+        "cid": 41858630018,
+        "duration_seconds": 106,
+        "total_duration_seconds": 106,
+        "page_count": 1
+      },
+      "case_path": "videos/cases/BV16yYi69EQT.md",
+      "source_id": "src-6e20f2e644"
+    },
+    {
+      "video_id": "BV1Foez6TE9K",
+      "primary_genre": "game-companion",
+      "secondary_genres": [
+        "Terraria游戏录屏",
+        "角色皮肤展示",
+        "功能解说"
+      ],
+      "visual_styles": [
+        "像素游戏场景",
+        "常规立绘与Q版模型叠加",
+        "聊天头像框",
+        "大字解说字幕"
+      ],
+      "character_ids": [
+        "deepseek"
+      ],
+      "opening": "0.5秒已置于游戏地形与物品栏界面，底部字幕称喜欢Q版模型，2.5秒悬浮Q版鲸鱼娘出现。",
+      "structure": "游戏内Q版外观钩子 → 模组与授权说明 → 常规/全身立绘和表情 → Q版替换与跟随片段 → 模组卡片收尾。",
+      "visual_techniques": [
+        "保留真实游戏HUD作为功能环境",
+        "头像聊天框、常规立绘、Q版伙伴多尺度切换",
+        "顶部/底部大字字幕讲解当前演示点",
+        "用熟悉道具和鲸鱼娘表情缓解配置说明的枯燥"
+      ],
+      "observed_evidence": [
+        {
+          "second": 0.5,
+          "observation": "地形、物品栏与多个聊天/配置窗口同屏，头像为鲸鱼娘。"
+        },
+        {
+          "second": 2.5,
+          "observation": "Q版鲸鱼娘悬浮于游戏画面上方。"
+        },
+        {
+          "second": 31.5,
+          "observation": "字幕称得到原作者授权，可作为免费模组加入；该许可陈述未独立验证。"
+        },
+        {
+          "second": 62.5,
+          "observation": "常规全身鲸鱼娘立绘浮于游戏上方，底部仍有带头像的聊天框。"
+        },
+        {
+          "second": 78.5,
+          "observation": "立绘移至左上，字幕解释将立绘头顶到界面时大小自动缩到合适程度。"
+        },
+        {
+          "second": 124.5,
+          "observation": "聊天框显示鲸鱼娘头像，大字字幕与聊天内容形成角色笑点。"
+        },
+        {
+          "second": 155.5,
+          "observation": "游戏角色在地形中活动，字幕为少女思考中。"
+        },
+        {
+          "second": 171.5,
+          "observation": "展示Aiko's world模组卡片，作者名XY蓝Z，并预告另一角色新立绘。"
+        }
+      ],
+      "creator_lessons": [
+        "AI娘游戏演示保留游戏HUD，让角色叠加层和游戏世界关系清楚。",
+        "同一角色展示头像、Q版、常规全身三种形态，方便观众选择占屏程度。",
+        "以实际场景组织功能，而非只罗列支持清单。"
+      ],
+      "uncertainties": [
+        "未安装模组或接入AI，不能将作者演示记为本机实测。",
+        "简介提到物品生成、时间调整、buff以及伐木挖掘钓鱼战斗；选帧不能逐一确认。",
+        "字幕提到的作者授权未取得独立许可文件，未将模组或其素材重分发。"
+      ],
+      "review_scope": "frame_sampled",
+      "audio_scope": "metadata_only",
+      "reviewed_part": "P1，172秒媒体按1fps抽帧；观察15张接触表帧及171.5秒独立帧。",
+      "notes": [
+        "作者XY蓝Z，公开API播放快照4871。",
+        "简介将模组称为欢迎来到艾可的世界/与艾可一起攻克难关；末帧给Aiko's world模组名，可作为Steam创意工坊进一步查找线索。",
+        "简介声明接入AI后经聊天栏交流，临时躯体由机巧之心解锁，角色可装备武器饰品；这些是作者描述的功能，不是本次软件测试结果。"
+      ],
+      "analysis_text": "这条把AI娘从单独立绘带入已有游戏环境，重点是让观众看见角色在哪、会怎样参与。画面始终保留泰拉瑞亚物品栏、血量、地形和聊天框，角色通过头像、悬浮Q版或常规立绘三种尺度出现；大字字幕逐步解释授权、装饰和跟随等设计。前段先展示对话配置与表情，中段用蛋包饭等熟悉道具连接鲸鱼娘形象，再演示全身立绘与Q版的大小关系，末段出现游戏中的跟随画面和模组卡片。其形式是游戏界面录制上叠加角色与讲解，不是仅靠角色动画假扮游戏实录。可借鉴之处是把立绘的审美价值与游戏内占屏、交互功能一起展示；不过视频中的功能声明仍属于作者演示，不能据此声称本机安装、联网或AI指令实测通过。",
+      "id": "study-BV1Foez6TE9K",
+      "checked_on": "2026-10-21",
+      "published_media_copy": false,
+      "genre_label_original": "游戏模组与AI同伴演示",
+      "relation_to_ai_girls": "ai_girl_work",
+      "review_method": {
+        "mode": "sampled_frames",
+        "continuous_full_playback": false,
+        "audio_listened": false,
+        "software_reproduced": false,
+        "public_screenshots": false,
+        "sample_interval_seconds": 1
+      },
+      "part": {
+        "page": 1,
+        "cid": 42056417530,
+        "duration_seconds": 172,
+        "total_duration_seconds": 172,
+        "page_count": 1
+      },
+      "case_path": "videos/cases/BV1Foez6TE9K.md",
+      "source_id": "src-1764181130"
+    },
+    {
+      "video_id": "BV1arpN6FEHv",
+      "primary_genre": "avatar-presenter",
+      "secondary_genres": [
+        "每日新闻摘要",
+        "竖屏信息卡",
+        "像素主持人"
+      ],
+      "visual_styles": [
+        "浅色竖屏版式",
+        "主标题与红黄重点标记",
+        "来源截图框",
+        "底部像素鲸鱼娘",
+        "分段进度条"
+      ],
+      "character_ids": [
+        "deepseek"
+      ],
+      "opening": "0.5秒出现今天说7件事及总览截图，底部左侧已有像素鲸鱼娘，建立栏目主持标识。",
+      "structure": "七条总览 → 每条使用标题、来源截图、字幕与要点卡的相同模板 → 七条回顾卡。",
+      "visual_techniques": [
+        "固定三层信息架构：标题、来源图、字幕要点",
+        "小尺寸像素主持人反复使用而不遮挡主体",
+        "红框与黄色底色强调来源和关键短语",
+        "章节序号和分段进度条减少长列表迷失"
+      ],
+      "observed_evidence": [
+        {
+          "second": 0.5,
+          "observation": "竖屏浅底总览页，顶部写今天说7件事，底部小鲸鱼娘与要点卡。"
+        },
+        {
+          "second": 27.5,
+          "observation": "第一条新闻页包含大标题、黄色强调短句、带来源标签的截图和双语字幕。"
+        },
+        {
+          "second": 82.5,
+          "observation": "换成绿色底截图和第二条新闻标题，同一底部角色与卡片布局继续使用。"
+        },
+        {
+          "second": 137.5,
+          "observation": "Claude相关标题和长文本来源截图，仍保留角色与序号进度。"
+        },
+        {
+          "second": 219.5,
+          "observation": "Together Link条目以大字标题和来源框替换中部内容。"
+        },
+        {
+          "second": 301.5,
+          "observation": "以今日回顾及七条新闻总览卡收尾。"
+        }
+      ],
+      "creator_lessons": [
+        "资讯AI娘可以只作小角标主持，把主要空间交给可读的信息。",
+        "建立能替换标题、来源图和要点的稳定模板，适合持续栏目。",
+        "展示可回溯来源是结构优点，但事实核对仍需独立完成。"
+      ],
+      "uncertainties": [
+        "未确认片中任何新闻、模型参数、发布日期或优惠事实。",
+        "未试听音频，Fish Audio苏晓晓和程序合成背景音乐仅来自简介。",
+        "角色像素素材来源链按简介记录，未据此取得素材包下载或再分发授权。"
+      ],
+      "review_scope": "frame_sampled",
+      "audio_scope": "metadata_only",
+      "reviewed_part": "P1，302秒媒体按1fps抽帧；观察15张接触表帧及27.5秒独立帧。",
+      "notes": [
+        "作者AI鼓励师_悠一，公开API播放快照264；这是品类补全案例，不能称热门代表。",
+        "简介称配音由Fish Audio苏晓晓合成，背景音乐为程序合成；可作为配音工具和声音来源线索，不代表本次试听。",
+        "简介将像素素材称作大肥鱼，标角色原型上善无形、女仆造型ZipZipPipe；该作者侧署名可补形象流转链。",
+        "简介提供00:22、01:01、01:37、02:14、02:52、03:37、04:19章节点，说明资讯类适合附章节索引。"
+      ],
+      "analysis_text": "该片把鲸鱼娘用作资讯栏目的固定主持标识，角色并不抢占新闻版面。竖屏上半部放日期、条数和大标题，中部放加框来源截图，底部是字幕、四项要点卡、像素鲸鱼娘与分段进度条；颜色和位置贯穿整条，观众进入任一段都能迅速定位重点。开场先给今日七件事的总览，之后按单条新闻切换标题与截图，结尾重新回到总览，形成可批量复用的栏目模板。与剧情类AI娘不同，这里的角色价值主要是陪伴感、辨识度与跨期统一性。可以借鉴标题、证据图、要点和角色分工，但不要把截图排版严整当成事实已核实；本次只分析视听形式中的可见部分，片中资讯真实性和配音声线均未验证。",
+      "id": "study-BV1arpN6FEHv",
+      "checked_on": "2026-10-21",
+      "published_media_copy": false,
+      "genre_label_original": "AI娘资讯播报",
+      "relation_to_ai_girls": "ai_girl_work",
+      "review_method": {
+        "mode": "sampled_frames",
+        "continuous_full_playback": false,
+        "audio_listened": false,
+        "software_reproduced": false,
+        "public_screenshots": false,
+        "sample_interval_seconds": 1
+      },
+      "part": {
+        "page": 1,
+        "cid": 42524018945,
+        "duration_seconds": 302,
+        "total_duration_seconds": 302,
+        "page_count": 1
+      },
+      "case_path": "videos/cases/BV1arpN6FEHv.md",
+      "source_id": "src-d475d52ffc"
+    },
+    {
+      "video_id": "BV1XZe66sEsn",
+      "primary_genre": "desktop-material",
+      "secondary_genres": [
+        "像素动效画册",
+        "素材下载发布",
+        "状态图标展示"
+      ],
+      "visual_styles": [
+        "粉紫纯色底",
+        "像素鲸鱼娘",
+        "复古窗口框",
+        "大字状态标签",
+        "单图居中展示"
+      ],
+      "character_ids": [
+        "deepseek"
+      ],
+      "opening": "0.5秒为下载前言与放大的像素鲸鱼娘，短时间内可见嘴和眼睛状态不同。",
+      "structure": "下载与支持说明 → 全套指针预览窗口 → 每个系统状态单独放大 → INF安装提示。",
+      "visual_techniques": [
+        "角色与大字状态标签横向并置",
+        "先用复古窗口总览建立完整套件预期",
+        "问号、禁用、沙漏、方向符号保持系统语义可辨",
+        "固定底色让不同状态差异成为焦点"
+      ],
+      "observed_evidence": [
+        {
+          "second": 0.5,
+          "observation": "前言说明下载链接在简介，右侧为像素鲸鱼娘及三角指针。"
+        },
+        {
+          "second": 10.5,
+          "observation": "复古窗口网格展示整套不同指针状态。"
+        },
+        {
+          "second": 30.5,
+          "observation": "正常选择大字标签，角色上方为普通指针。"
+        },
+        {
+          "second": 40.5,
+          "observation": "帮助选择标签，角色上方变问号。"
+        },
+        {
+          "second": 60.5,
+          "observation": "不可用标签，角色旁出现红色禁止标记。"
+        },
+        {
+          "second": 80.5,
+          "observation": "后台运行标签，头顶配沙漏。"
+        },
+        {
+          "second": 100.5,
+          "observation": "移动标签，鲸鱼形状配上下左右方向箭头。"
+        },
+        {
+          "second": 110.5,
+          "observation": "结尾文字提醒使用压缩包中的INF安装。"
+        }
+      ],
+      "creator_lessons": [
+        "工具型素材按用户操作状态组织，比按文件名逐个罗列更易理解。",
+        "总览加单项放大适合鼠标、桌面图标、表情和精灵套件。",
+        "角色造型必须与系统符号协调，避免可爱外观损失状态辨识。"
+      ],
+      "uncertainties": [
+        "未下载夸克文件或安装INF，不能确认格式、动画帧数、兼容系统或安装安全性。",
+        "标题和简介给下载入口，不等于开放再分发许可。",
+        "按1fps观察不能精确判断每种指针动画的循环节奏。"
+      ],
+      "review_scope": "frame_sampled",
+      "audio_scope": "metadata_only",
+      "reviewed_part": "P1，111张1fps帧；观察15张接触表帧及110.5秒独立帧。",
+      "notes": [
+        "作者Elti青空，公开API播放快照2989。",
+        "简介直接给夸克下载入口https://pan.quark.cn/s/be81923b6e88；仅记录作者入口，未访问云盘或取得文件。",
+        "作者希望先存自己的云盘再下载获得收益，并可支持小店；不将此当作必须执行的采集步骤。"
+      ],
+      "analysis_text": "作品采用像素素材画册的形式，把系统指针状态转译成鲸鱼娘的动作与表情。开头先交代简介下载入口，然后给复古系统窗口式总览，再依次放大正常选择、帮助选择、精确选择、不可用、忙、后台运行、候选与移动等状态。主体始终是像素角色加极大的中文标签，粉紫底和黑色像素描边保证小图仍清楚；同一角色在问号、禁止符号、沙漏和方向箭头旁形成统一套件。这类视频的观看目标不是剧情，而是让用户判断安装后每种操作会看到什么。可以借鉴先总览再逐项放大的结构，以及通过表情对应系统语义的设计。末尾给INF安装提醒，说明它是可使用素材的发布演示，但本次并未下载压缩包、检查ANI/CUR文件或实际安装。",
+      "id": "study-BV1XZe66sEsn",
+      "checked_on": "2026-10-21",
+      "published_media_copy": false,
+      "genre_label_original": "鼠标指针与系统美化素材",
+      "relation_to_ai_girls": "ai_girl_work",
+      "review_method": {
+        "mode": "sampled_frames",
+        "continuous_full_playback": false,
+        "audio_listened": false,
+        "software_reproduced": false,
+        "public_screenshots": false,
+        "sample_interval_seconds": 1
+      },
+      "part": {
+        "page": 1,
+        "cid": 41980660130,
+        "duration_seconds": 112,
+        "total_duration_seconds": 112,
+        "page_count": 1
+      },
+      "case_path": "videos/cases/BV1XZe66sEsn.md",
+      "source_id": "src-7cbd020fa9"
+    },
+    {
+      "video_id": "BV1AyYb6rE1R",
+      "primary_genre": "model-competition",
+      "secondary_genres": [
+        "模拟器画面",
+        "角色解说",
+        "比赛综述",
+        "AI制作流程线索"
+      ],
+      "visual_styles": [
+        "虚拟主持人舞台",
+        "角色选手介绍",
+        "暗色牌桌UI",
+        "牌组网格",
+        "卡牌局部放大"
+      ],
+      "character_ids": [
+        "deepseek",
+        "glm"
+      ],
+      "opening": "0.5至3.5秒为耳麦主持人在灯光舞台前的面部特写，嘴型连续变化，为比赛建立节目感。",
+      "structure": "主持人舞台开场 → AI娘选手出场/介绍 → 牌组一览 → 卡牌模拟对战与关键卡放大 → 角色反应插镜 → 主持人结束。",
+      "visual_techniques": [
+        "主持人、选手立绘和牌桌UI分工",
+        "用牌组网格交代赛前构筑",
+        "放大正在使用的单张卡牌并保留战场",
+        "插入角色表情特写制造情绪节拍",
+        "暗色竞技UI与蓝色舞台灯光统一节目包装"
+      ],
+      "observed_evidence": [
+        {
+          "second": 0.5,
+          "observation": "橙发耳麦主持人举手面对镜头，背景为蓝色舞台灯光。"
+        },
+        {
+          "second": 76.5,
+          "observation": "兽耳黑发角色特写，配发光效果和同类舞台背景。"
+        },
+        {
+          "second": 113.5,
+          "observation": "DeepSeek选手页左放鲸鱼娘立绘，右侧为赛前卡组网格和60 CARDS标识。"
+        },
+        {
+          "second": 151.5,
+          "observation": "上下双方的牌桌UI中，右下角放大一张训练家卡，虚线连接场上位置。"
+        },
+        {
+          "second": 227.5,
+          "observation": "两方场面和手牌持续变化，顶部有当前回合/动作状态。"
+        },
+        {
+          "second": 265.5,
+          "observation": "切回鲸鱼娘耳麦特写，双手靠脸呈紧张表情。"
+        },
+        {
+          "second": 340.5,
+          "observation": "战场上再次叠加大卡牌，突出当前关键动作。"
+        },
+        {
+          "second": 416.5,
+          "observation": "橙发主持人重新出现挥手，舞台画面变暗收尾。"
+        }
+      ],
+      "creator_lessons": [
+        "让角色担当模型的选手身份，同时把规则信息交给独立UI。",
+        "复杂对战中交替使用全场、关键卡放大和情绪反应镜头。",
+        "把模拟器和动画制作分别说明，避免观众混淆可视化与真实模型能力证据。"
+      ],
+      "uncertainties": [
+        "未运行模拟器、审阅代码或对局日志；不能验证比赛公平性、调用模型名称或规则正确性。",
+        "简介称gpt-6-astra为模拟器引擎、Minimax-H3制作动画，这些为作者自述，不是本次技术复现。",
+        "宝可梦卡图、主持人和动画素材不随研究报告重新分发。"
+      ],
+      "review_scope": "frame_sampled",
+      "audio_scope": "metadata_only",
+      "reviewed_part": "P1，417秒媒体按1fps抽帧；观察15张接触表帧及113.5、151.5秒独立帧。",
+      "notes": [
+        "作者晓镜子channel。",
+        "简介明确DeepSeek、GLM娘形象来自ZipZipPipe，可补入角色在竞赛视频中的实际应用链。",
+        "简介给制作工作流线索：现开卡牌模拟器处于测试修改阶段；动画制作Minimax-H3。没有提供可直接复用的仓库或下载链接，不把其工作流记作已公开。",
+        "简介说明公共卡池开包、60张构筑和现开规则；只作为片中赛制描述，未独立验证规则或版权素材许可。"
+      ],
+      "analysis_text": "这条把模型对比包装成一场有主持人与选手形象的卡牌比赛。开场是橙发耳麦主持人的舞台特写，之后转到兽耳GLM形象和DeepSeek选手牌组页，再进入暗色牌桌；比赛中用单张卡牌放大、连线提示和状态文字帮助读懂复杂桌面，并穿插鲸鱼娘的反应特写，末尾主持人挥手收束。AI娘在这里承担选手身份与情绪反应，牌桌界面承担规则和过程，两者交替，避免整段停留在静态日志。值得借鉴的是在模型比赛中加上稳定主持、选手介绍、可视化过程和结果叙事。需要区分它与官方宝可梦客户端实录：简介称使用仍在修改问题的现开卡牌模拟器，并列出动画制作模型；本次仅观察成片，不确认模型调用、对局公平性、规则执行或真实竞技能力。",
+      "id": "study-BV1AyYb6rE1R",
+      "checked_on": "2026-10-21",
+      "published_media_copy": false,
+      "genre_label_original": "AI娘卡牌对战与模型竞赛",
+      "relation_to_ai_girls": "ai_girl_work",
+      "review_method": {
+        "mode": "sampled_frames",
+        "continuous_full_playback": false,
+        "audio_listened": false,
+        "software_reproduced": false,
+        "public_screenshots": false,
+        "sample_interval_seconds": 1
+      },
+      "part": {
+        "page": 1,
+        "cid": 41739619565,
+        "duration_seconds": 417,
+        "total_duration_seconds": 417,
+        "page_count": 1
+      },
+      "case_path": "videos/cases/BV1AyYb6rE1R.md",
+      "source_id": "src-0128bc4c2e"
+    },
+    {
+      "video_id": "BV1fYpn6SEk9",
+      "primary_genre": "music-mv",
+      "secondary_genres": [
+        "cover-song",
+        "character-performance"
+      ],
+      "visual_styles": [
+        "平面色块背景",
+        "大字排版与角色切片",
+        "插画化道具",
+        "女仆与临时猫耳装饰"
+      ],
+      "character_ids": [
+        "deepseek"
+      ],
+      "opening": "首帧先给橙黄底与巨大文字，约1.5秒让蓝发女仆从文字旁出现；在角色与大字之间分配注意力。",
+      "structure": "开场字形与半身角色 → 暖色/绿色背景轮换 → 食物、黑板与人群插画 → 巨大文字覆盖 → 音乐和动画署名及结束卡。",
+      "analysis_text": "这条MV的画面组织更接近图形海报，角色不必一直在复杂场景中行走。橙黄、深红、绿色的整块背景把段落分开，巨大文字与蓝发女仆交替成为主体；角色半身切片可以反复使用，通过姿势、装饰和背景颜色改变观看感受。中段的树、杯面、简化人群和黑板把抽象段落落到具体物件，后段再以整屏文字和署名卡收束。鲸鱼娘临时戴猫耳并不改变原有角色版本，属于歌曲情境下的装扮。可以借鉴的是用少量稳定角色图、若干道具图和有节制的字体层级做出完整MV的视觉变化；本轮未听歌曲，也未连续看文字运动，因此不评价调音、演唱质量或精确声画卡点。",
+      "visual_techniques": [
+        "纯色大背景减少场景细节竞争。",
+        "全身/半身角色与文字主导画面交替。",
+        "物件插画可用于连接不同视觉段落。"
+      ],
+      "observed_evidence": [
+        {
+          "second": 0.5,
+          "observation": "橙黄背景上出现巨大白色字形。"
+        },
+        {
+          "second": 1.5,
+          "observation": "蓝发女仆与临时猫耳装饰出现于大字旁。"
+        },
+        {
+          "second": 24.5,
+          "observation": "绿色平面树形背景，文字成为中心。"
+        },
+        {
+          "second": 60.5,
+          "observation": "青绿背景里放置杯面与零食类图标。"
+        },
+        {
+          "second": 73.5,
+          "observation": "黑板和简化人物围绕主角组成插画场面。"
+        },
+        {
+          "second": 97.5,
+          "observation": "巨大字块覆盖主要构图。"
+        },
+        {
+          "second": 121.5,
+          "observation": "出现音乐与动画的结尾署名版式。"
+        }
+      ],
+      "creator_lessons": [
+        "先确定角色与文字谁主谁次，再安排每段替换。",
+        "把角色资产与背景资产分开设计，便于重复使用。",
+        "歌曲、演绎、动画、角色形象四条署名链分别保留。"
+      ],
+      "uncertainties": [
+        "未试听；歌曲与声音来源仅据简介。",
+        "抽帧不能确认文字具体运动曲线或剪辑与拍点的准确关系。"
+      ],
+      "review_scope": "sampled_visual_frames_and_creator_description",
+      "audio_scope": "metadata_only",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 42657645073,
+        "part_duration_seconds": 135,
+        "total_duration_seconds": 135,
+        "contact_frames_reviewed": 15,
+        "sample_interval_seconds": 1,
+        "additional_raw_frame_seconds": []
+      },
+      "id": "study-BV1fYpn6SEk9",
+      "checked_on": "2026-10-21",
+      "published_media_copy": false,
+      "genre_label_original": "typographic-music-mv",
+      "relation_to_ai_girls": "ai_girl_work",
+      "review_method": {
+        "mode": "sampled_frames",
+        "continuous_full_playback": false,
+        "audio_listened": false,
+        "software_reproduced": false,
+        "public_screenshots": false,
+        "sample_interval_seconds": 1
+      },
+      "part": {
+        "page": 1,
+        "cid": 42657645073,
+        "duration_seconds": 135,
+        "total_duration_seconds": 135,
+        "page_count": 1
+      },
+      "case_path": "videos/cases/BV1fYpn6SEk9.md",
+      "source_id": "src-aeb2911376"
+    },
+    {
+      "video_id": "BV1dsai6CErz",
+      "primary_genre": "action-battle",
+      "secondary_genres": [
+        "action-remix",
+        "ending-gag"
+      ],
+      "visual_styles": [
+        "暗色都市动漫",
+        "青红能量对比",
+        "面部特写与城市远景",
+        "末段Q版反差"
+      ],
+      "character_ids": [
+        "deepseek",
+        "doubao"
+      ],
+      "opening": "首帧以暗背景和手部青色能量建立对抗，下一张样本即出现倾斜构图中的青红碰撞。",
+      "structure": "能量开场 → 室内人物关系与双方反应 → 都市战斗/特写 → 道具插入 → 城市能量爆发 → 两名Q版角色持盆收尾。",
+      "analysis_text": "这类作品把AI娘放进已有热血动漫的战斗语法。青色与红色光效替角色分阵营，城市远景交代破坏规模，面部和眼睛近景负责情绪压力；同一段落里不需要字幕解释性能名词，也能读出强烈对抗。蓝发女仆的token字样和突然插入的微波炉等物件，又把通用战斗模板拉回角色梗。最后两位角色变成持盆微笑的Q版，完成画风和情绪的反差，说明重点是二创趣味。可借鉴的是先选定双方配色、一个可识别的角色道具和明确的收束镜头，再考虑复杂特效。原简介列出《咒术回战》及NinjaristicNinja的上游视频，因此应按致敬和改编链记录；画面输赢不能当作模型技术排名。",
+      "visual_techniques": [
+        "双方使用可分辨的青红色域。",
+        "城市远景与眼睛/面部特写形成尺度差。",
+        "日常道具和Q版结尾把战斗接回社区笑点。"
+      ],
+      "observed_evidence": [
+        {
+          "second": 0.5,
+          "observation": "暗色女孩手中发出青色光。"
+        },
+        {
+          "second": 1.5,
+          "observation": "倾斜构图里出现青红两股光效的空中碰撞。"
+        },
+        {
+          "second": 9.5,
+          "observation": "棕黑发、红围巾人物的侧脸位于红光中。"
+        },
+        {
+          "second": 27.5,
+          "observation": "蓝发角色前景周围出现发光的token字样。"
+        },
+        {
+          "second": 63.5,
+          "observation": "红色发光眼的面部特写。"
+        },
+        {
+          "second": 72.5,
+          "observation": "突然给出红色微波炉道具近景。"
+        },
+        {
+          "second": 90.5,
+          "observation": "城市天际线被洋红色光效覆盖。"
+        },
+        {
+          "second": 99.5,
+          "observation": "蓝发女仆和红围巾角色变为持盆的笑脸Q版。"
+        }
+      ],
+      "creator_lessons": [
+        "先让双方轮廓、色域和道具不同，观众才容易跟上高密度画面。",
+        "保留一两个角色专属笑点，避免只替换脸。",
+        "结尾用轻量画风回收长段的情绪压力。"
+      ],
+      "uncertainties": [
+        "未试听，不描述原曲、对白与碰撞音效的听感。",
+        "抽帧不能判断每个动作是否连续或说明完整输赢。"
+      ],
+      "review_scope": "sampled_visual_frames_and_creator_description",
+      "audio_scope": "metadata_only",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 42259320802,
+        "part_duration_seconds": 101,
+        "total_duration_seconds": 101,
+        "contact_frames_reviewed": 15,
+        "sample_interval_seconds": 1,
+        "additional_raw_frame_seconds": []
+      },
+      "id": "study-BV1dsai6CErz",
+      "checked_on": "2026-10-21",
+      "published_media_copy": false,
+      "genre_label_original": "anime-battle-parody",
+      "relation_to_ai_girls": "ai_girl_work",
+      "review_method": {
+        "mode": "sampled_frames",
+        "continuous_full_playback": false,
+        "audio_listened": false,
+        "software_reproduced": false,
+        "public_screenshots": false,
+        "sample_interval_seconds": 1
+      },
+      "part": {
+        "page": 1,
+        "cid": 42259320802,
+        "duration_seconds": 101,
+        "total_duration_seconds": 101,
+        "page_count": 1
+      },
+      "case_path": "videos/cases/BV1dsai6CErz.md",
+      "source_id": "src-280348621d"
+    },
+    {
+      "video_id": "BV1mwRzBdEzk",
+      "primary_genre": "character-gallery",
+      "secondary_genres": [
+        "character-gallery",
+        "product-satire"
+      ],
+      "visual_styles": [
+        "白底表情海报",
+        "Q版人物与巨大文字",
+        "新闻/广告卡片戏仿",
+        "多AI角色轮换"
+      ],
+      "character_ids": [
+        "deepseek",
+        "gpt",
+        "gemini",
+        "kimi",
+        "claude"
+      ],
+      "opening": "开头是白发角翼Q版人物坐转椅，背景配漫画爆炸；白底和大字让每一格都像可单独传播的表情图。",
+      "structure": "多个独立白底梗图卡轮换；模型、公司和用户体验题材穿插；末段由另一组常规立绘结束。",
+      "analysis_text": "虽然标题叫日常，抽帧看到的主要是独立梗图组成的图集，而不是一场连续生活戏。白底留出大块文字区域，人物只需给出一个明确姿态；爆炸、橘子、云团、钱币和新闻卡框架承担不同笑点。DeepSeek反复担任核心人物，Gemini、GPT、Kimi和Claude等轮流出现，形成作者版本的角色群像。新闻与广告版式在这里是笑话容器，不需要搭一套完整室内场景。可借鉴的是把每张卡当成可独立阅读的小作品：保留一个主体、一条主要情绪和一组相关道具，再把卡片串成合集。作者简介说明其中既有模型梗也有公司和个人体验梗，因此不应把所有字幕都转成角色的永久性格设定，也不把标题的日常误记为连续动画。",
+      "visual_techniques": [
+        "白底和统一文字密度让不同主题卡片保持整体感。",
+        "角色表情、前景物件和文字共同构成单格笑点。",
+        "借用新闻/广告外框改变同一角色图的语境。"
+      ],
+      "observed_evidence": [
+        {
+          "second": 0.5,
+          "observation": "白发角翼Q版人物坐在转椅上，背后是漫画爆炸。"
+        },
+        {
+          "second": 3.5,
+          "observation": "蓝发Q版在桌边，桌面有数个橘子，顶部大字提问。"
+        },
+        {
+          "second": 16.5,
+          "observation": "蓝发人物脸红，旁边配蓝色大字。"
+        },
+        {
+          "second": 27.5,
+          "observation": "蓝紫猫耳Q版人物与星形元素并置。"
+        },
+        {
+          "second": 32.5,
+          "observation": "蓝发人物周围有钱币图形和广告式大字。"
+        },
+        {
+          "second": 38.5,
+          "observation": "银白发人物位于NEWS框架中，表情慌张。"
+        },
+        {
+          "second": 48.5,
+          "observation": "黑板前的蓝发人物周围围着多个小鲸鱼。"
+        }
+      ],
+      "creator_lessons": [
+        "每张表情卡先确定一种情绪，避免同时塞多个不相关笑点。",
+        "按场景和情绪检索原有图片，比只按角色名更方便。",
+        "角色作者自己的表情图集可作为版本解释入口。"
+      ],
+      "uncertainties": [
+        "个别末段人物没有充分身份标记，不补猜角色名。",
+        "未试听，不推断旁白或台词对表情的二次解释。"
+      ],
+      "review_scope": "sampled_visual_frames_and_creator_description",
+      "audio_scope": "metadata_only",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 38091296679,
+        "part_duration_seconds": 60,
+        "total_duration_seconds": 60,
+        "contact_frames_reviewed": 15,
+        "sample_interval_seconds": 1,
+        "additional_raw_frame_seconds": []
+      },
+      "id": "study-BV1mwRzBdEzk",
+      "checked_on": "2026-10-21",
+      "published_media_copy": false,
+      "genre_label_original": "meme-card-compilation",
+      "relation_to_ai_girls": "ai_girl_work",
+      "review_method": {
+        "mode": "sampled_frames",
+        "continuous_full_playback": false,
+        "audio_listened": false,
+        "software_reproduced": false,
+        "public_screenshots": false,
+        "sample_interval_seconds": 1
+      },
+      "part": {
+        "page": 1,
+        "cid": 38091296679,
+        "duration_seconds": 60,
+        "total_duration_seconds": 60,
+        "page_count": 1
+      },
+      "case_path": "videos/cases/BV1mwRzBdEzk.md",
+      "source_id": "src-5653be328e"
+    },
+    {
+      "video_id": "BV1MNYy6WEgY",
+      "primary_genre": "music-mv",
+      "secondary_genres": [
+        "duel-comedy",
+        "character-remix"
+      ],
+      "visual_styles": [
+        "三维卡通观感",
+        "室内景深与低机位",
+        "夸张枪械和机器人道具",
+        "底部双层字幕"
+      ],
+      "character_ids": [
+        "deepseek",
+        "doubao"
+      ],
+      "opening": "先给室内蓝发角色，再把左轮道具推到前景，随后切红围巾角色，迅速建立双人对照。",
+      "structure": "室内双方对照 → 道具及面部近景 → 黑色机器人夸张姿态 → 双人同框 → 结束署名。",
+      "analysis_text": "同样是DeepSeek对豆包，这条与都市热血战斗的区别很大：画面更接近有体积、景深和材质的卡通影片，主舞台是一间棕色室内，枪械、机器人和夸张脸部状态承担喜剧。前景左轮与后方人物形成强透视，之后反复切单人面部和道具，降低多角色同框的负担；黑色机器人的宽幅姿态又打破蓝发与红围巾人物的固定配对。大部分样本保持同一环境，因此角色变化比换场更突出。可借鉴的是用稳定场景、两位对照角色和少量夸张道具做音乐梗片，保持视觉关系清楚。原简介回指KotteAnimation并列出调音与角色原设；本轮没有试听，不把标题的曲名延伸成对节拍、声线或改编音质的判断，也不推断具体三维制作软件。",
+      "visual_techniques": [
+        "前景道具大于人物，突出荒诞关系。",
+        "同一室内保持光色和材质连续。",
+        "单人特写与双人同框交替，穿插机器人形成角色反差。"
+      ],
+      "observed_evidence": [
+        {
+          "second": 1.5,
+          "observation": "左轮道具位于模糊前景，蓝发角色在后方。"
+        },
+        {
+          "second": 2.5,
+          "observation": "黑发红围巾角色伸出左轮，底部有两层字幕。"
+        },
+        {
+          "second": 13.5,
+          "observation": "蓝发角色出现夸张面部近景。"
+        },
+        {
+          "second": 19.5,
+          "observation": "黑色机器人张开双臂蹲伏于室内。"
+        },
+        {
+          "second": 32.5,
+          "observation": "黑色机器人与夸张头部/道具占据画面。"
+        },
+        {
+          "second": 51.5,
+          "observation": "蓝发角色和红围巾角色同框。"
+        },
+        {
+          "second": 70.5,
+          "observation": "结束画面列出多个头像和制作提示。"
+        }
+      ],
+      "creator_lessons": [
+        "固定场景可把制作精力集中到角色表情和道具关系。",
+        "两人的识别色与轮廓应在近景、全景都清楚。",
+        "音乐梗也应拆开记录动画参考、调音与原始角色。"
+      ],
+      "uncertainties": [
+        "三维卡通观感不等于已确认使用MMD或某款引擎。",
+        "未试听，不评价声音表演或音乐同步。"
+      ],
+      "review_scope": "sampled_visual_frames_and_creator_description",
+      "audio_scope": "metadata_only",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 41892315794,
+        "part_duration_seconds": 72,
+        "total_duration_seconds": 72,
+        "contact_frames_reviewed": 15,
+        "sample_interval_seconds": 1,
+        "additional_raw_frame_seconds": []
+      },
+      "id": "study-BV1MNYy6WEgY",
+      "checked_on": "2026-10-21",
+      "published_media_copy": false,
+      "genre_label_original": "music-meme-duel",
+      "relation_to_ai_girls": "ai_girl_work",
+      "review_method": {
+        "mode": "sampled_frames",
+        "continuous_full_playback": false,
+        "audio_listened": false,
+        "software_reproduced": false,
+        "public_screenshots": false,
+        "sample_interval_seconds": 1
+      },
+      "part": {
+        "page": 1,
+        "cid": 41892315794,
+        "duration_seconds": 72,
+        "total_duration_seconds": 72,
+        "page_count": 1
+      },
+      "case_path": "videos/cases/BV1MNYy6WEgY.md",
+      "source_id": "src-557491bb4f"
+    },
+    {
+      "video_id": "BV1K4ax6YE2n",
+      "primary_genre": "music-mv",
+      "secondary_genres": [
+        "music-mv",
+        "gpt-focus"
+      ],
+      "visual_styles": [
+        "紫色灯环舞台",
+        "常规龙娘与Q版伴舞同屏",
+        "面部歌唱姿态近景",
+        "工作桌插画穿插"
+      ],
+      "character_ids": [
+        "gpt"
+      ],
+      "opening": "首张样本即把长裙白发龙娘置于舞台正中，四周小龙娘以Q版围绕；不需要别的AI角色也能构成完整群舞视觉。",
+      "structure": "主舞台与Q版伴舞反复出现 → 工作桌Q版插画穿插 → 近景持麦克风 → 返回舞台并淡出。",
+      "analysis_text": "这是减少鲸鱼娘中心视角的一个代表：主角只有GPT龙娘，但同时使用常规比例主唱和Q版小龙娘，便能形成中心与陪衬。紫色光环、顶灯和环形地面维持舞台一致性，白色长发、角、翼和长尾在远景中仍清楚。工作桌前的小龙娘插画插在舞台之间，把偶像演出与协助用户的角色印象接起来；近景再让麦克风、面部和手势成为主体。可以借鉴的是同一作者版本准备一套大角色与小角色，再用舞台远景、半身近景、生活插画三种画面轮换，无需堆很多新人物。画面含双语字幕，但未实际试听，不能断定演唱语言、使用的音色或歌曲与其他Let Me Go版本的具体改编关系；原简介为空，也不补猜制作工具。",
+      "visual_techniques": [
+        "主唱与伴舞用同一角色的两套比例。",
+        "环形灯带和紫色主色统一远近景。",
+        "工作桌插图提供舞台以外的角色语境。"
+      ],
+      "observed_evidence": [
+        {
+          "second": 0.5,
+          "observation": "白发角翼长裙角色站中央，四周是多只Q版同角色。"
+        },
+        {
+          "second": 12.5,
+          "observation": "切到电脑前持杯的Q版龙娘，旁边可见用户手部。"
+        },
+        {
+          "second": 24.5,
+          "observation": "回到紫色舞台，主角举手，Q版角色围绕。"
+        },
+        {
+          "second": 49.5,
+          "observation": "持麦克风面部近景，角和长发仍完整可见。"
+        },
+        {
+          "second": 85.5,
+          "observation": "工作桌插画中电脑显示多个勾选图形。"
+        },
+        {
+          "second": 122.5,
+          "observation": "回到全身主舞台，四周Q版伴舞仍在。"
+        },
+        {
+          "second": 134.5,
+          "observation": "舞台画面变暗并显示结束文字。"
+        }
+      ],
+      "creator_lessons": [
+        "为非DeepSeek角色做单人栏目时，同角色大小配对也能形成群像。",
+        "舞台先固定主色、轮廓和灯位，再更换镜头尺度。",
+        "穿插工作/生活插图，让演出与角色语境产生联系。"
+      ],
+      "uncertainties": [
+        "未试听，音色与演唱工具未知。",
+        "仅可见演出姿态与舞台变化，不能评价舞蹈连续性或口型同步。"
+      ],
+      "review_scope": "sampled_visual_frames_and_creator_description",
+      "audio_scope": "metadata_only",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 42229629559,
+        "part_duration_seconds": 136,
+        "total_duration_seconds": 136,
+        "contact_frames_reviewed": 15,
+        "sample_interval_seconds": 1,
+        "additional_raw_frame_seconds": []
+      },
+      "id": "study-BV1K4ax6YE2n",
+      "checked_on": "2026-10-21",
+      "published_media_copy": false,
+      "genre_label_original": "idol-stage-mv",
+      "relation_to_ai_girls": "ai_girl_work",
+      "review_method": {
+        "mode": "sampled_frames",
+        "continuous_full_playback": false,
+        "audio_listened": false,
+        "software_reproduced": false,
+        "public_screenshots": false,
+        "sample_interval_seconds": 1
+      },
+      "part": {
+        "page": 1,
+        "cid": 42229629559,
+        "duration_seconds": 136,
+        "total_duration_seconds": 136,
+        "page_count": 1
+      },
+      "case_path": "videos/cases/BV1K4ax6YE2n.md",
+      "source_id": "src-5bbc3dbde8"
+    },
+    {
+      "video_id": "BV1QnE16cEnX",
+      "primary_genre": "production-tutorial",
+      "secondary_genres": [
+        "dance-transfer-workflow",
+        "related-reference"
+      ],
+      "visual_styles": [
+        "桌面软件录屏",
+        "底部步骤字幕",
+        "三视图参考板",
+        "成片与操作界面交替"
+      ],
+      "character_ids": [],
+      "opening": "用蓝发角色的舞蹈结果开场，再转入参考图、剪辑软件与生成工具，属于先展示目标再拆步骤的教程。",
+      "structure": "结果预览 → 三视图 → 片段裁剪与导出 → 生成工具 → 可选后期 → 剪辑/滤镜 → 不同服装的成片预览。",
+      "analysis_text": "这条应作为舞蹈作品的流程参考，而不是把其中所有蓝发角色都认作鲸鱼娘。画面先展示有大字背景的舞蹈目标，随后进入正侧背参考板、剪辑时间线和节点式生成页面，后段又回到结果对照；观看者因此能把角色一致性、动作片段和后期修整分成不同问题。对于素材仓最有用的是参考板的职责：提供正侧背、面部与服装细节，供后续步骤沿用，而不只是展示一张好看的正面立绘。它与DeepSeek换装作品的关系来自后者简介的明确回链。可借鉴教程的组织方式：每段只讲一个输入和输出，用可见结果接回前一步。本轮只看抽帧，不照搬软件安装包、去水印链接或登录步骤，也没有实际运行该工作流。",
+      "visual_techniques": [
+        "先给结果，再给界面，降低流程理解门槛。",
+        "参考板让角色外观输入变得可见。",
+        "时间线/生成页/成片三种界面承担不同解释职责。"
+      ],
+      "observed_evidence": [
+        {
+          "second": 0.5,
+          "observation": "蓝发蓝裙人物在巨大字形背景前，底部标题提示教学。"
+        },
+        {
+          "second": 26.5,
+          "observation": "正面、背面、侧面及两个表情组成参考板。"
+        },
+        {
+          "second": 77.5,
+          "observation": "剪辑时间线与人物片段同屏，字幕提示裁剪片段。"
+        },
+        {
+          "second": 102.5,
+          "observation": "多个片段与右键导出菜单出现在剪辑界面。"
+        },
+        {
+          "second": 128.5,
+          "observation": "参考图和视频片段连接到节点式生成页面。"
+        },
+        {
+          "second": 204.5,
+          "observation": "后期剪辑界面中是人物近景，底部提示流畅度效果。"
+        },
+        {
+          "second": 255.5,
+          "observation": "成片中人物换成白色服装和大帽子。"
+        }
+      ],
+      "creator_lessons": [
+        "收集角色时尽量补齐同作者的正侧背与细节，而非混用不同版本。",
+        "教程可分别记录目标效果、输入素材和结果示例，避免把成片误认作教程。",
+        "工作流介绍先写阶段用途，不把某期工具版本当永久标准。"
+      ],
+      "uncertainties": [
+        "这是被AI娘成片引用的相关教程，不是已确认身份的AI娘角色展示。",
+        "未按教程操作，不宣称当前工具可用性、费用或最终效果通过。"
+      ],
+      "review_scope": "sampled_visual_frames_and_creator_description",
+      "audio_scope": "metadata_only",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 39064043972,
+        "part_duration_seconds": 282,
+        "total_duration_seconds": 282,
+        "contact_frames_reviewed": 15,
+        "sample_interval_seconds": 1,
+        "additional_raw_frame_seconds": []
+      },
+      "id": "study-BV1QnE16cEnX",
+      "checked_on": "2026-10-21",
+      "published_media_copy": false,
+      "genre_label_original": "production-tutorial",
+      "relation_to_ai_girls": "related_production_reference",
+      "review_method": {
+        "mode": "sampled_frames",
+        "continuous_full_playback": false,
+        "audio_listened": false,
+        "software_reproduced": false,
+        "public_screenshots": false,
+        "sample_interval_seconds": 1
+      },
+      "part": {
+        "page": 1,
+        "cid": 39064043972,
+        "duration_seconds": 282,
+        "total_duration_seconds": 282,
+        "page_count": 1
+      },
+      "case_path": "videos/cases/BV1QnE16cEnX.md",
+      "source_id": "src-f1ac9d683b"
+    },
+    {
+      "video_id": "BV1B2Yw6sEVY",
+      "primary_genre": "physical-craft",
+      "secondary_genres": [
+        "waterslide-decal",
+        "related-reference"
+      ],
+      "visual_styles": [
+        "俯拍手工作台",
+        "绿色刻度切割垫",
+        "人手与实体小头部",
+        "剪刀镊子棉签近景"
+      ],
+      "character_ids": [],
+      "opening": "本轮为长视频稀疏抽帧，首个样本在30秒，不评价开头；可见切割垫、纸片和操作手部。",
+      "structure": "样本依次显示裁剪眼睛水贴 → 手持脸部与容器 → 镊子定位 → 棉签等工具修整 → 装回紫色头发组件展示。",
+      "analysis_text": "手办制作把角色素材的需求从单张立绘转成体积、拆件和表面细节。此集采用固定俯拍机位，绿色刻度垫提供稳定尺度；两只手、白色脸部件、眼睛贴纸和少量工具构成几乎全部信息。中段反复给出同一张脸的不同操作状态，最后装上紫发组件，眼部位置和整体造型的关系才清楚呈现。对素材仓的启发是，三视图、脸部特写、眼睛图案和拆件示意各有作用，不能靠一张正面图包办。系列标题写蓝色大肥鱼，但本集末段样本是紫发女仆造型，身份无法从样本确认，故仅列为被该主题教程采用的实体化方法参考，不把它当作已核实的DeepSeek手办原型。长视频按60秒间隔取样，不能据此复述全部手工步骤或声称复现成功。",
+      "visual_techniques": [
+        "固定俯拍与刻度垫让细小操作有尺度参照。",
+        "工具和零件同框，不依赖纯口述描述位置。",
+        "用组装后的整体头部接回局部操作的结果。"
+      ],
+      "observed_evidence": [
+        {
+          "second": 150,
+          "observation": "手用剪刀裁剪带蓝色眼睛图案的小纸片。"
+        },
+        {
+          "second": 210,
+          "observation": "手持小头部与紫色头发组件。"
+        },
+        {
+          "second": 330,
+          "observation": "白色脸部、镊子和白色容器同框。"
+        },
+        {
+          "second": 570,
+          "observation": "镊子接近白色脸部的眼睛位置。"
+        },
+        {
+          "second": 750,
+          "observation": "镊子作用于已带双眼的脸部。"
+        },
+        {
+          "second": 870,
+          "observation": "棉签状工具接近脸部，另一手固定零件。"
+        },
+        {
+          "second": 1170,
+          "observation": "紫色女仆头发组件装回头部，双眼及脸部可见。"
+        }
+      ],
+      "creator_lessons": [
+        "为实体化另设三视图、眼部纹样和拆件资料字段。",
+        "教程系列按一个项目收录，章节作为阶段链接，避免充数。",
+        "示范件与系列主角不一致时保留身份说明。"
+      ],
+      "uncertainties": [
+        "每60秒抽一帧，仅实际查看13个样本；时间定位以原片复看为准。",
+        "系列标题与当前示范件外观不完全对应，身份待确认。",
+        "未试听、未实作，也未取得STL或打印参数文件。"
+      ],
+      "review_scope": "sampled_visual_frames_and_creator_description",
+      "audio_scope": "metadata_only",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 42354411169,
+        "part_duration_seconds": 1222,
+        "total_duration_seconds": 1222,
+        "contact_frames_reviewed": 13,
+        "sample_interval_seconds": 60,
+        "additional_raw_frame_seconds": []
+      },
+      "id": "study-BV1B2Yw6sEVY",
+      "checked_on": "2026-10-21",
+      "published_media_copy": false,
+      "genre_label_original": "physical-craft-tutorial",
+      "relation_to_ai_girls": "related_production_reference",
+      "review_method": {
+        "mode": "sampled_frames",
+        "continuous_full_playback": false,
+        "audio_listened": false,
+        "software_reproduced": false,
+        "public_screenshots": false,
+        "sample_interval_seconds": 60
+      },
+      "part": {
+        "page": 1,
+        "cid": 42354411169,
+        "duration_seconds": 1222,
+        "total_duration_seconds": 1222,
+        "page_count": 1
+      },
+      "case_path": "videos/cases/BV1B2Yw6sEVY.md",
+      "source_id": "src-68021dda10"
+    }
+  ]
+}

@@ -18,6 +18,7 @@
 | [Let Me Go温柔版本](https://www.bilibili.com/video/BV1gaeA6mEyJ/) | 星落落_oi | 音色变体 | 温柔是作者标题的描述；本轮不作实听音质结论。 |
 | [《屏幕两端》](https://www.bilibili.com/video/BV1GZaN6DEBR/) | 八千女鬼- | 改编歌曲 | 原页标注星落落_oi音色及《燕无歇》改编关系。 |
 | [DeepSeek语音展示](https://www.bilibili.com/video/BV1nJY26QEdV/) | earth五行 | 朗读演示 | 区别于演唱音色，原页未给可下载统一音库。 |
+| [像素鲸鱼娘资讯播报](https://www.bilibili.com/video/BV1arpN6FEHv/) | AI鼓励师_悠一 | 合成播报线索 | 作者简介称Fish Audio苏晓晓配音、程序合成BGM；未试听，属于栏目用声。 |
 
 本轮读取公开标题、简介与署名，没有对所有候选完整试听，故不把标题中的“最温柔”“SSR”写成实听结论。声音条目的机器记录在[audio.json](../data/audio.json)，便览版为[audio.csv](../data/audio.csv)。
 
@@ -71,3 +72,8 @@
 ```
 
 只填已经找到的字段。这样不需要繁重表单，也能在以后增加配音、音效或素材包时继续接上来源。
+
+
+## 新增独立视频栏目
+
+已补入[18类视频与23篇画面案例](../videos/README.md)，包括音乐MV、关系短剧、合租群像、单梗、换装、MMD/Live2D、像素主持、游戏与实体化方法。每篇附原片时间点。另有[12条模型、桌面、声音和流程入口](../videos/materials.md)，已有声音记录沿用，不重复建立同名音色。当前音频仍未试听；模型包和工坊入口的未取项见该页。

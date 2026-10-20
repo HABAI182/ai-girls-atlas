@@ -85,3 +85,11 @@ GLM狐娘与Zcode蒙眼工程少女分别登记；不能因为同属相关品牌
 - [lokicorvus/crosspet 项目说明](https://github.com/lokicorvus/crosspet/blob/6e98970f6ff9b44e8ac85215241cabcd78f67d92/README.md) · `pinned_repository_text`
 
 返回[角色总览](../../README.md) · [新增资料评述](../../docs/09-more-sources.md) · [版本比较](../../docs/10-variant-guide.md)。
+
+
+## 视频形态与画面案例
+
+- [【1月新番/DS×claude】我怎么可能成为你的蒸馏模型，不行不行！（※不是不可能！？）](../../videos/cases/BV191Yr6bEYy.md)：番剧OP、PV与校园戏仿；平面色块与几何图形、日系动画OP式人物展示。
+- [【镜镜的PTCG】让DeepSeek-v4.1-Flash和GLM-5.3-Flash来一场简中宝可梦卡牌现开赛？谁更懂宝可梦卡牌？](../../videos/cases/BV1AyYb6rE1R.md)：模型竞赛、游戏与卡牌实验；虚拟主持人舞台、角色选手介绍。
+
+只把该作者作品的可见表现接入角色页；声音未试听。更多见[独立视频栏目](../../videos/README.md)。

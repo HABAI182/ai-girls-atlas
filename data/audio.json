@@ -258,6 +258,27 @@
       "review_scope": "metadata_and_source_links_only",
       "rights_as_recorded": "回原页查看；音频不套用角色图的CC许可。",
       "checked_on": "2026-10-21"
+    },
+    {
+      "id": "audio-pixel-news",
+      "title": "像素鲸鱼娘资讯配音制作说明",
+      "kind": "合成播报线索",
+      "character_ids": [
+        "deepseek"
+      ],
+      "video_id": "BV1arpN6FEHv",
+      "source_id": "src-d475d52ffc",
+      "source_url": "https://www.bilibili.com/video/BV1arpN6FEHv/",
+      "publisher": "AI鼓励师_悠一",
+      "duration_seconds": 302,
+      "source_chain_ids": [],
+      "content_summary": "作者简介称Fish Audio苏晓晓配音、程序合成BGM；这是该栏目用声，不是社区固定声线。未试听或取得音色模型。",
+      "access_mode": "original_publication",
+      "local_copy": false,
+      "voice_model_download": null,
+      "review_scope": "creator_metadata_only_audio_not_listened",
+      "rights_as_recorded": "仅记录作者制作说明；未取得声音权重或传播许可。",
+      "checked_on": "2026-10-21"
     }
   ]
 }

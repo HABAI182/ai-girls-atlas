@@ -164,3 +164,29 @@ An independent qimi variant of the existing DeepSeek whale-girl entry: a super-d
 - [deepseek语音 大肥鱼每次读出来的语气都不一样呢😍](https://www.bilibili.com/video/BV1nJY26QEdV/) · `bilibili_api_metadata`
 
 返回[角色总览](../../README.md) · [新增资料评述](../../docs/09-more-sources.md) · [版本比较](../../docs/10-variant-guide.md)。
+
+
+## 视频形态与画面案例
+
+- [新室友DeepSeek报到！五个AI住一起会发生什么](../../videos/cases/BV1eMeS6SETU.md)：合租、打工与群像日常；Q版角色与常规比例角色同场、旧城区实景质感背景与动漫角色组合。
+- [月初当神仙，月底请笔仙【AI全民制作人】](../../videos/cases/BV1CNa36nEyw.md)：用户体验与产品关系讽刺；竖屏动漫角色与立体卡通人物混排、月初月中月末章节大字。
+- [什么叫Claude对DeepSeek表白了？？](../../videos/cases/BV1PTHB6BEbA.md)：双人关系与情感短剧；阳光公园动漫短剧、双人中景与面部近景交替。
+- [【1月新番/DS×claude】我怎么可能成为你的蒸馏模型，不行不行！（※不是不可能！？）](../../videos/cases/BV191Yr6bEYy.md)：番剧OP、PV与校园戏仿；平面色块与几何图形、日系动画OP式人物展示。
+- [【10月新番】败犬AI太多了！ 正式PV【4K】](../../videos/cases/BV1Nfag6xEHQ.md)：番剧OP、PV与校园戏仿；校园动画片头式群像、高饱和几何装饰。
+- [大肥鱼 炸盆子](../../videos/cases/BV15X3n6mEWy.md)：单动作、道具与token短梗；Q版鲸鱼女仆、拟真乡村院落。
+- [完了，家里遭蓝色大肥鱼了](../../videos/cases/BV1q1tv6iELX.md)：现实场景中的小角色；拟真厨房、Q版鲸鱼女仆。
+- [当大肥鱼吃完你的token后……](../../videos/cases/BV1P18y6jEkV.md)：单动作、道具与token短梗；竖屏、Q版描线鲸鱼女仆。
+- [🐋DeepSeek不是罪过~🐋](../../videos/cases/BV1LQ7j6WEyD.md)：舞蹈、换装与舞台想象；常规比例动漫角色、纯色与巨型英文背景。
+- [【MMD模型配布】蓝色大肥鱼](../../videos/cases/BV1tD4X6AE7Q.md)：MMD与三维模型配布；明确3D体积的Q版模型、竖屏全身舞蹈。
+- [肥鱼...........老了](../../videos/cases/BV155bC69En7.md)：舞蹈、换装与舞台想象；3D观感动漫舞台、常规比例角色。
+- [大肥鱼！丨免费Live2d模型](../../videos/cases/BV16yYi69EQT.md)：Live2D、公皮与桌宠发布；Q版女仆鲸鱼娘、粉白宣传背景。
+- [【泰拉瑞亚】当鲸鱼娘加入你的世界……让蓝色大肥鱼帮你打工吧！](../../videos/cases/BV1Foez6TE9K.md)：游戏模组与AI同伴；像素游戏场景、常规立绘与Q版模型叠加。
+- [10月7日AI圈7件事：Mistral发布万亿参数Large 4，Anthropic送初创公司一年Claude Team](../../videos/cases/BV1arpN6FEHv.md)：AI娘主持与资讯播报；浅色竖屏版式、主标题与红黄重点标记。
+- [【鼠标指针】-Deepseek-鲸鱼娘-大肥鱼-点击领取](../../videos/cases/BV1XZe66sEsn.md)：鼠标指针与桌面素材；粉紫纯色底、像素鲸鱼娘。
+- [【镜镜的PTCG】让DeepSeek-v4.1-Flash和GLM-5.3-Flash来一场简中宝可梦卡牌现开赛？谁更懂宝可梦卡牌？](../../videos/cases/BV1AyYb6rE1R.md)：模型竞赛、游戏与卡牌实验；虚拟主持人舞台、角色选手介绍。
+- [deepseek 翻唱《人是猫》真完整版，大肥鱼觉得人和猫一样可爱,所以人是猫](../../videos/cases/BV1fYpn6SEk9.md)：翻唱、音乐梗与偶像MV；平面色块背景、大字排版与角色切片。
+- [【新宿决战】DeepSeek娘VS豆包](../../videos/cases/BV1dsai6CErz.md)：战斗、热血与动漫改编；暗色都市动漫、青红能量对比。
+- [AI娘的日常（大概?）](../../videos/cases/BV1mwRzBdEzk.md)：角色图鉴与表情图集；白底表情海报、Q版人物与巨大文字。
+- [琵琶曲 | 大肥鱼 vs 豆包](../../videos/cases/BV1MNYy6WEgY.md)：翻唱、音乐梗与偶像MV；三维卡通观感、室内景深与低机位。
+
+只把该作者作品的可见表现接入角色页；声音未试听。更多见[独立视频栏目](../../videos/README.md)。

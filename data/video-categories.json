@@ -1,0 +1,340 @@
+{
+  "schema_version": 1,
+  "checked_on": "2026-10-21",
+  "axis": "content_genre; visual styles stored separately",
+  "categories": [
+    {
+      "id": "character-gallery",
+      "title": "角色图鉴与表情图集",
+      "definition": "不是连续剧情；一张图通常就能独立读懂。",
+      "structure": "先展示一个角色或表情卡，再换角色、语境或道具；同一作者版本保持辨识。",
+      "materials": "已有常规/Q版配对图、表情索引、作者署名。",
+      "ideas": "做八位AI的同一种表情；同一条产品反馈如何变成三张表情卡。",
+      "editorial_note": "不要把作者的一次笑话固定成全社区统一性格。",
+      "study_video_ids": [
+        "BV1mwRzBdEzk"
+      ],
+      "indexed_video_ids": [
+        "BV14phK66Ejw",
+        "BV1GDbU6eEr9",
+        "BV1bARXBYEZz",
+        "BV1jw8w6yESY",
+        "BV1mwRzBdEzk",
+        "BV1pLn36sEJq",
+        "BV1tE9XBbErS"
+      ]
+    },
+    {
+      "id": "prop-gag",
+      "title": "单动作、道具与token短梗",
+      "definition": "笑点围绕一个可见动作或实物隐喻，通常不需要完整世界观。",
+      "structure": "道具关系先交代 → 小动作/等待 → 意外结果 → 回收开场。",
+      "materials": "一位Q版角色、一个盆/碗/键盘等道具、一处固定背景。",
+      "ideas": "同一只碗在三位AI手里发生什么；把一个使用痛点转成可见物件。",
+      "editorial_note": "token是创作隐喻，画面并不解释真实计费或计算机制。",
+      "study_video_ids": [
+        "BV15X3n6mEWy",
+        "BV1P18y6jEkV"
+      ],
+      "indexed_video_ids": [
+        "BV15X3n6mEWy",
+        "BV17f896tEZF",
+        "BV1o28i6rEcw",
+        "BV1P18y6jEkV"
+      ]
+    },
+    {
+      "id": "real-world-insertion",
+      "title": "现实场景中的小角色",
+      "definition": "看点是人手、容器、桌面等日常尺度与Q版人物的反差。",
+      "structure": "先让普通动作成立，再揭示角色；用物品存量或遮挡变化推进。",
+      "materials": "Q版透明形象、桌面/厨房参考、手部与接触点、体型参照。",
+      "ideas": "电饭锅里的新住客；键盘下为什么总少一颗键帽。",
+      "editorial_note": "可见写实质感不能证明底片一定实拍；不要替作者猜制作管线。",
+      "study_video_ids": [
+        "BV1q1tv6iELX"
+      ],
+      "indexed_video_ids": [
+        "BV1Pgt36VEeg",
+        "BV1gfe467Ehd",
+        "BV1q1tv6iELX"
+      ]
+    },
+    {
+      "id": "ensemble-sitcom",
+      "title": "合租、打工与群像日常",
+      "definition": "人物围绕做饭、入住、休息等共同任务互动，适合连载。",
+      "structure": "空间入口 → 人物首次见面 → 日常任务 → 分歧与反应 → 回到共同住处。",
+      "materials": "多位角色的同一版本、房屋布局、固定生活道具与表情。",
+      "ideas": "新室友报到；三位AI共同负责一顿晚饭；模型升级后谁换房间。",
+      "editorial_note": "每集先有清楚任务；少量角色比依次念产品名更容易跟上。",
+      "study_video_ids": [
+        "BV1eMeS6SETU"
+      ],
+      "indexed_video_ids": [
+        "BV13Ga56VEpp",
+        "BV17eh46XE5T",
+        "BV1C2pg6cEZW",
+        "BV1EvKK6NEoi",
+        "BV1GJp469EuT",
+        "BV1QdHD6pEEj",
+        "BV1bbeY6wE9x",
+        "BV1c5aP6wE8d",
+        "BV1eMeS6SETU",
+        "BV1fthi6mEEz",
+        "BV1ikaZ6rECj",
+        "BV1qdan6MENR",
+        "BV1w6a86gEbC",
+        "BV1MKH96sEZL"
+      ]
+    },
+    {
+      "id": "user-experience-satire",
+      "title": "用户体验与产品关系讽刺",
+      "definition": "从用户的一次经历或状态变化出发，让多个AI作为互动对象。",
+      "structure": "月初/月中/月末，或期待/实际/补救三段；固定用户角色，改变场景。",
+      "materials": "用户视角角色、工作桌、状态大字、不同AI的对照表情。",
+      "ideas": "一天内同一份需求经过三个助手；一次中转路由错误被改成办公室误会。",
+      "editorial_note": "作品中的价格、模型版本、报错与公司关系不是经本库验证的产品事实。",
+      "study_video_ids": [
+        "BV1CNa36nEyw"
+      ],
+      "indexed_video_ids": [
+        "BV1CNa36nEyw",
+        "BV1foHs6dEtK",
+        "BV1HX8v6UErL",
+        "BV1JHhn6qEDU",
+        "BV1tXMU66E9W",
+        "BV1Wguz6gE3t"
+      ]
+    },
+    {
+      "id": "relationship-drama",
+      "title": "双人关系与情感短剧",
+      "definition": "主线是距离、误会、表达和相处，AI技术梗可以只作背景。",
+      "structure": "具体接近动作 → 共同道具 → 表情/距离变化 → 双人关系的新状态。",
+      "materials": "两位角色一致版本、同一场景、可递送道具、近景表情。",
+      "ideas": "一把伞由谁先递出；一次共同加班如何改变两人的距离。",
+      "editorial_note": "关系只在该作者作品内成立；抽帧不等于听过台词或表演。",
+      "study_video_ids": [
+        "BV1PTHB6BEbA"
+      ],
+      "indexed_video_ids": [
+        "BV1EMpK6rEsN",
+        "BV1PTHB6BEbA",
+        "BV1WUhE63En4",
+        "BV1Gu8p6hEyF"
+      ]
+    },
+    {
+      "id": "op-pv-homage",
+      "title": "番剧OP、PV与校园戏仿",
+      "definition": "通过图形、角色卡、场景和虚构职员表建立番剧观感。",
+      "structure": "角色姓名/标题 → 群像与场景 → 情绪段落 → 标题或符号回收。",
+      "materials": "统一服装、角色姓名卡、背景和字体；已有校园项目演员表。",
+      "ideas": "同一所学校的八位AI；把版本迭代写成季节变化。",
+      "editorial_note": "致敬对象、角色作者与虚构职员表分开；原版对比P需另行观看。",
+      "study_video_ids": [
+        "BV191Yr6bEYy",
+        "BV1Nfag6xEHQ"
+      ],
+      "indexed_video_ids": [
+        "BV191Yr6bEYy",
+        "BV1Nfag6xEHQ"
+      ]
+    },
+    {
+      "id": "music-mv",
+      "title": "翻唱、音乐梗与偶像MV",
+      "definition": "音乐作品可以用图形排版、舞台演出或夸张对照三种视觉路径呈现。",
+      "structure": "明确主画面 → 三种视觉状态轮换 → 回主场景 → 作品贡献者署名。",
+      "materials": "角色切片、常规/Q版配对、字幕排版；歌曲/音色/动画各自来源。",
+      "ideas": "同一首歌做海报版和舞台版；GPT龙娘自己的单人舞台。",
+      "editorial_note": "本轮音频未试听；音乐热度与声音许可不随图像许可自动继承。",
+      "study_video_ids": [
+        "BV1fYpn6SEk9",
+        "BV1MNYy6WEgY",
+        "BV1K4ax6YE2n"
+      ],
+      "indexed_video_ids": [
+        "BV1Ey8B6QECx",
+        "BV13SYr6dEiQ",
+        "BV16NYS6ZE8H",
+        "BV1fYpn6SEk9",
+        "BV1gaeA6mEyJ",
+        "BV1GZaN6DEBR",
+        "BV1MNYy6WEgY",
+        "BV1nJY26QEdV",
+        "BV1PPYM6EEUR",
+        "BV1pueU6cEfg",
+        "BV1R5YL69EC5",
+        "BV1vSYe6kESU",
+        "BV1XbY66nEWr",
+        "BV1drpn65ErX",
+        "BV1K4ax6YE2n"
+      ]
+    },
+    {
+      "id": "dance-costume",
+      "title": "舞蹈、换装与舞台想象",
+      "definition": "以人物姿态、服装或舞台状态连续变化为主，与模型配布不是同一类。",
+      "structure": "同一景别建立角色 → 服装或动作变化 → 舞台升级/结束姿态。",
+      "materials": "动作参考、同版本多视图、服装设定、背景与生成素材。",
+      "ideas": "常服/女仆/校园三套服装的同一动作；大小角色同台。",
+      "editorial_note": "生成换装成片不能直接称MMD；画面中的2035年版本属于架空创作。",
+      "study_video_ids": [
+        "BV1LQ7j6WEyD",
+        "BV155bC69En7"
+      ],
+      "indexed_video_ids": [
+        "BV155bC69En7",
+        "BV1BmYi6QEid",
+        "BV1LQ7j6WEyD"
+      ]
+    },
+    {
+      "id": "action-battle",
+      "title": "战斗、热血与动漫改编",
+      "definition": "靠阵营色、空间尺度和动作反应表达冲突，不等于模型竞技测试。",
+      "structure": "对抗开场 → 双方反应 → 城市/场景升级 → 专属道具 → 反差结尾。",
+      "materials": "双方轮廓/配色、动作参考、特写与远景、上游改编作品。",
+      "ideas": "把同一个工作冲突表现成热血开场，再用生活道具落地。",
+      "editorial_note": "输赢是剧情；保留原作、上游视频和二创作者链。",
+      "study_video_ids": [
+        "BV1dsai6CErz"
+      ],
+      "indexed_video_ids": [
+        "BV1dsai6CErz",
+        "BV1gVJe6cEVU"
+      ]
+    },
+    {
+      "id": "model-competition",
+      "title": "模型竞赛、游戏与卡牌实验",
+      "definition": "角色帮助观众辨认参赛者；主体是规则、操作、结果或演绎。",
+      "structure": "规则与条件 → 每位选手的可见决定 → 对照结果 → 结果适用范围。",
+      "materials": "角色头像、规则卡、操作画面、比赛记录和结果表。",
+      "ideas": "两位AI使用同一公共卡池；多位AI在统一条件下挑战同一关卡。",
+      "editorial_note": "自制模拟器、游戏录屏和虚构战斗不同；视频不构成本库复现的模型排名。",
+      "study_video_ids": [
+        "BV1AyYb6rE1R"
+      ],
+      "indexed_video_ids": [
+        "BV12Feq6qELB",
+        "BV1AyYb6rE1R",
+        "BV1e8YJ6cE3F",
+        "BV1ibpq6tE18"
+      ]
+    },
+    {
+      "id": "live2d-demo",
+      "title": "Live2D、公皮与桌宠发布",
+      "definition": "同一模型的表情、道具、发型和控制方式展示；兼有获取入口。",
+      "structure": "大/小双尺度角色 → 外观功能 → 表情清单 → 获取提示。",
+      "materials": "模型作者、发布页、功能演示、包内说明；现有表情作方向参考。",
+      "ideas": "相同背景下比较十种情绪；大头特写和实际占屏同时展示。",
+      "editorial_note": "免费是发布者用语；未拿到模型包时不猜源码、适配或使用范围。",
+      "study_video_ids": [
+        "BV16yYi69EQT"
+      ],
+      "indexed_video_ids": [
+        "BV16yYi69EQT",
+        "BV1yvaT65EGk"
+      ]
+    },
+    {
+      "id": "mmd-distribution",
+      "title": "MMD与三维模型配布",
+      "definition": "明确存在制模、转换绑定和配布署名的作品，与AI换装图区分。",
+      "structure": "模型成片 → 形体与姿态 → 制作人员和下载入口。",
+      "materials": "模型、骨骼/绑定、动作、相机、舞台、MME分别署名。",
+      "ideas": "同一模型在固定相机下做姿态展示；再展示一个表情或衣装变化。",
+      "editorial_note": "模型许可不一并覆盖音乐、舞台、动作和相机；本轮未下载模型。",
+      "study_video_ids": [
+        "BV1tD4X6AE7Q"
+      ],
+      "indexed_video_ids": [
+        "BV1tD4X6AE7Q"
+      ]
+    },
+    {
+      "id": "game-companion",
+      "title": "游戏模组与AI同伴",
+      "definition": "角色实际被安排在游戏界面里，以头像、立绘或可活动小人出现。",
+      "structure": "游戏环境 → 对话与表情 → 尺寸/形态选择 → 游戏内活动 → 模组入口。",
+      "materials": "游戏界面、头像、全身/Q版、模组名、作者和工坊入口。",
+      "ideas": "同一伙伴三种占屏大小；一场游戏任务中角色何时说话。",
+      "editorial_note": "作者展示与本机安装实测分开；不要只凭简介逐一确认所有功能。",
+      "study_video_ids": [
+        "BV1Foez6TE9K"
+      ],
+      "indexed_video_ids": [
+        "BV1Foez6TE9K"
+      ]
+    },
+    {
+      "id": "desktop-material",
+      "title": "鼠标指针与桌面素材",
+      "definition": "重点是可读的小像素状态、系统用途与获取方式。",
+      "structure": "固定底色 → 不同指针/状态 → 使用效果或下载提示。",
+      "materials": "像素图、状态映射、原包、作者入口；已有宠物项目也可交叉参考。",
+      "ideas": "同一角色的普通/忙碌/拖拽状态；缩到32像素后还保留哪些识别点。",
+      "editorial_note": "视频画册不等于已验证安装包；未取包时不补猜.cur/.ani文件结构。",
+      "study_video_ids": [
+        "BV1XZe66sEsn"
+      ],
+      "indexed_video_ids": [
+        "BV1XZe66sEsn"
+      ]
+    },
+    {
+      "id": "avatar-presenter",
+      "title": "AI娘主持与资讯播报",
+      "definition": "角色是栏目的稳定主持标识，信息主体是标题、截图与要点。",
+      "structure": "总览 → 固定模板逐条展开 → 回顾；角色固定在不挡内容的位置。",
+      "materials": "像素主持人、栏目版式、章节、字幕和配音来源。",
+      "ideas": "一位AI娘每周介绍三个同人新作品；素材来源更新播报。",
+      "editorial_note": "版式整洁不代表新闻已核实；本栏目只研究表达形式。",
+      "study_video_ids": [
+        "BV1arpN6FEHv"
+      ],
+      "indexed_video_ids": [
+        "BV1arpN6FEHv"
+      ]
+    },
+    {
+      "id": "production-tutorial",
+      "title": "制作教程与工作流参考",
+      "definition": "展示输入、操作界面和输出，可能只是被AI娘作品引用的通用方法。",
+      "structure": "先展示目标 → 角色参考 → 动作/片段 → 工具处理 → 后期 → 结果对照。",
+      "materials": "同作者三视图、参考动作、工具阶段说明和原创流程文档。",
+      "ideas": "把输入图、输出片段、人工修补三类材料分开放；作者三轮修镜过程。",
+      "editorial_note": "教程和成片分别登记；未运行就不宣称费用、可用性或复现通过。",
+      "study_video_ids": [
+        "BV1QnE16cEnX"
+      ],
+      "indexed_video_ids": [
+        "BV1QnE16cEnX"
+      ]
+    },
+    {
+      "id": "physical-craft",
+      "title": "实体手办、打印与手工",
+      "definition": "将角色从平面素材转成建模、拆件、打印和表面细节，流程需求不同。",
+      "structure": "角色图 → 三维体积 → 拆件 → 打印 → 表面/水贴 → 组装；当前只抽看一集。",
+      "materials": "正侧背、眼睛纹样、拆件、STL与参数（只在作者提供时登记）。",
+      "ideas": "同一角色的眼睛贴纸与头部比例；建立从立绘到实体的来源链。",
+      "editorial_note": "系列标题不保证每集示范件身份相同；不将一组20集充成20种风格。",
+      "study_video_ids": [
+        "BV1B2Yw6sEVY"
+      ],
+      "indexed_video_ids": [
+        "BV13Dem6VEbQ",
+        "BV1B2Yw6sEVY",
+        "BV1czhy6VEvi",
+        "BV1FCYw6tEJt",
+        "BV1Wehy62EGR"
+      ]
+    }
+  ]
+}

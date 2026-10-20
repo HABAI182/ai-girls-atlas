@@ -7,12 +7,16 @@
   "artwork_files": 82,
   "preview_files": 11,
   "external_gallery_references": 49,
-  "video_records": 47,
+  "video_records": 78,
   "meme_navigation_records": 36,
-  "source_records": 204,
+  "source_records": 240,
   "expanded_design_variants": 43,
   "reviewed_reference_projects": 14,
-  "audio_source_records": 12,
+  "audio_source_records": 13,
   "unit_note": "含产品、模型、工具、平台、历史产品及项目内产品待区分的命名；按作者版本另计，不是市场份额。",
-  "expression_index_records": 11
+  "expression_index_records": 11,
+  "video_study_cases": 23,
+  "video_content_categories": 18,
+  "video_material_source_records": 12,
+  "video_related_method_cases": 2
 }

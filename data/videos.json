@@ -12,7 +12,11 @@
       "category": "竞技与对战",
       "review_scope": "api_metadata_only",
       "research_note": "题材可能引用榜单、虚构对战或特定游戏规则；不能直接当作通用模型排名。",
-      "source_id": "src-4974632e38"
+      "source_id": "src-4974632e38",
+      "primary_genre": "model-competition",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
     },
     {
       "id": "BV13Ga56VEpp",
@@ -25,7 +29,11 @@
       "category": "合租与日常",
       "review_scope": "api_metadata_only",
       "research_note": "简介将角色参考指向相关创作者；适合研究日常互动，具体剧情仍需逐片观看。",
-      "source_id": "src-0a847fffe4"
+      "source_id": "src-0a847fffe4",
+      "primary_genre": "ensemble-sitcom",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
     },
     {
       "id": "BV14phK66Ejw",
@@ -48,7 +56,11 @@
         "share": 2321,
         "reply": 1462,
         "danmaku": 335
-      }
+      },
+      "primary_genre": "character-gallery",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
     },
     {
       "id": "BV17eh46XE5T",
@@ -61,7 +73,11 @@
       "category": "合租与日常",
       "review_scope": "api_metadata_only",
       "research_note": "简介将角色参考指向相关创作者；适合研究日常互动，具体剧情仍需逐片观看。",
-      "source_id": "src-0cdc15094e"
+      "source_id": "src-0cdc15094e",
+      "primary_genre": "ensemble-sitcom",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
     },
     {
       "id": "BV191Yr6bEYy",
@@ -72,9 +88,28 @@
       "duration_seconds": 93,
       "published_at": "2026-09-14T11:00:00+08:00",
       "category": "关系与CP",
-      "review_scope": "api_metadata_only",
-      "research_note": "关系仅属于本作或本系列的二创世界观，不推广成统一设定。",
-      "source_id": "src-a8ce8c9bc2"
+      "review_scope": "sampled_visual_frames_and_creator_description",
+      "research_note": "本轮实际查看抽帧；观察位置、范围及原创分析见独立案例页。",
+      "source_id": "src-a8ce8c9bc2",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 41873705501,
+          "title": "【1月新番/DS×claude】我怎么可能成为你的蒸馏模型，不行不行！（※不是不可能！？）",
+          "duration_seconds": 93
+        }
+      ],
+      "primary_genre": "op-pv-homage",
+      "classification_basis": "sampled_visual_frames",
+      "relation_to_ai_girls": "ai_girl_work",
+      "study_id": "study-BV191Yr6bEYy",
+      "study_path": "videos/cases/BV191Yr6bEYy.md",
+      "visual_styles": [
+        "平面色块与几何图形",
+        "日系动画OP式人物展示",
+        "字幕与装饰文字并存",
+        "日常场景与抽象背景交替"
+      ]
     },
     {
       "id": "BV1AyYb6rE1R",
@@ -85,9 +120,29 @@
       "duration_seconds": 417,
       "published_at": "2026-09-10T02:37:18+08:00",
       "category": "竞技与对战",
-      "review_scope": "api_metadata_only",
-      "research_note": "题材可能引用榜单、虚构对战或特定游戏规则；不能直接当作通用模型排名。",
-      "source_id": "src-0128bc4c2e"
+      "review_scope": "sampled_visual_frames_and_creator_description",
+      "research_note": "本轮实际查看抽帧；观察位置、范围及原创分析见独立案例页。",
+      "source_id": "src-0128bc4c2e",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 41739619565,
+          "title": "【镜镜的PTCG】让DeepSeek-v4.1-Flash和GLM-5.3-Flash来一场简中宝可梦卡牌现开赛？谁更懂宝可梦卡牌？",
+          "duration_seconds": 417
+        }
+      ],
+      "primary_genre": "model-competition",
+      "classification_basis": "sampled_visual_frames",
+      "relation_to_ai_girls": "ai_girl_work",
+      "study_id": "study-BV1AyYb6rE1R",
+      "study_path": "videos/cases/BV1AyYb6rE1R.md",
+      "visual_styles": [
+        "虚拟主持人舞台",
+        "角色选手介绍",
+        "暗色牌桌UI",
+        "牌组网格",
+        "卡牌局部放大"
+      ]
     },
     {
       "id": "BV1C2pg6cEZW",
@@ -100,7 +155,11 @@
       "category": "合租与日常",
       "review_scope": "api_metadata_only",
       "research_note": "简介将角色参考指向相关创作者；适合研究日常互动，具体剧情仍需逐片观看。",
-      "source_id": "src-0c74d967e3"
+      "source_id": "src-0c74d967e3",
+      "primary_genre": "ensemble-sitcom",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
     },
     {
       "id": "BV1EMpK6rEsN",
@@ -113,7 +172,11 @@
       "category": "关系与CP",
       "review_scope": "api_metadata_only",
       "research_note": "关系仅属于本作或本系列的二创世界观，不推广成统一设定。",
-      "source_id": "src-a8df9a97da"
+      "source_id": "src-a8df9a97da",
+      "primary_genre": "relationship-drama",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
     },
     {
       "id": "BV1EvKK6NEoi",
@@ -126,7 +189,11 @@
       "category": "其他同人视频",
       "review_scope": "api_metadata_only",
       "research_note": "核验标题、作者、简介与时长；未完整观看，不据标题补写剧情。",
-      "source_id": "src-ad78b3cb35"
+      "source_id": "src-ad78b3cb35",
+      "primary_genre": "ensemble-sitcom",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
     },
     {
       "id": "BV1Ey8B6QECx",
@@ -139,7 +206,11 @@
       "category": "其他同人视频",
       "review_scope": "api_metadata_only",
       "research_note": "核验标题、作者、简介与时长；未完整观看，不据标题补写剧情。",
-      "source_id": "src-ea369434c3"
+      "source_id": "src-ea369434c3",
+      "primary_genre": "music-mv",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
     },
     {
       "id": "BV1GDbU6eEr9",
@@ -152,7 +223,11 @@
       "category": "表情包与日常",
       "review_scope": "api_metadata_only",
       "research_note": "原作者的视频简介明确谈及表情包和使用体验，可作为梗图出处线索。",
-      "source_id": "src-b60ff0def6"
+      "source_id": "src-b60ff0def6",
+      "primary_genre": "character-gallery",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
     },
     {
       "id": "BV1GJp469EuT",
@@ -165,7 +240,11 @@
       "category": "合租与日常",
       "review_scope": "api_metadata_only",
       "research_note": "简介将角色参考指向相关创作者；适合研究日常互动，具体剧情仍需逐片观看。",
-      "source_id": "src-f7c8f41cb2"
+      "source_id": "src-f7c8f41cb2",
+      "primary_genre": "ensemble-sitcom",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
     },
     {
       "id": "BV1PTHB6BEbA",
@@ -176,9 +255,28 @@
       "duration_seconds": 147,
       "published_at": "2026-10-04T05:13:08+08:00",
       "category": "关系与CP",
-      "review_scope": "api_metadata_only",
-      "research_note": "关系仅属于本作或本系列的二创世界观，不推广成统一设定。",
-      "source_id": "src-81586e1c86"
+      "review_scope": "sampled_visual_frames_and_creator_description",
+      "research_note": "本轮实际查看抽帧；观察位置、范围及原创分析见独立案例页。",
+      "source_id": "src-81586e1c86",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 42439935676,
+          "title": "studio_video_1791061570637",
+          "duration_seconds": 147
+        }
+      ],
+      "primary_genre": "relationship-drama",
+      "classification_basis": "sampled_visual_frames",
+      "relation_to_ai_girls": "ai_girl_work",
+      "study_id": "study-BV1PTHB6BEbA",
+      "study_path": "videos/cases/BV1PTHB6BEbA.md",
+      "visual_styles": [
+        "阳光公园动漫短剧",
+        "双人中景与面部近景交替",
+        "冰淇淋共同道具",
+        "底部对白字幕"
+      ]
     },
     {
       "id": "BV1QdHD6pEEj",
@@ -191,7 +289,11 @@
       "category": "合租与日常",
       "review_scope": "api_metadata_only",
       "research_note": "简介将角色参考指向相关创作者；适合研究日常互动，具体剧情仍需逐片观看。",
-      "source_id": "src-3a81b25ee7"
+      "source_id": "src-3a81b25ee7",
+      "primary_genre": "ensemble-sitcom",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
     },
     {
       "id": "BV1WUhE63En4",
@@ -204,7 +306,11 @@
       "category": "关系与CP",
       "review_scope": "api_metadata_only",
       "research_note": "关系仅属于本作或本系列的二创世界观，不推广成统一设定。",
-      "source_id": "src-f874777e18"
+      "source_id": "src-f874777e18",
+      "primary_genre": "relationship-drama",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
     },
     {
       "id": "BV1bARXBYEZz",
@@ -217,7 +323,11 @@
       "category": "角色形象与源头",
       "review_scope": "api_metadata_only",
       "research_note": "用于角色集合、署名链或作者分享声明；不是技术评测。",
-      "source_id": "src-65f86eaf69"
+      "source_id": "src-65f86eaf69",
+      "primary_genre": "character-gallery",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
     },
     {
       "id": "BV1bbeY6wE9x",
@@ -230,7 +340,11 @@
       "category": "合租与日常",
       "review_scope": "api_metadata_only",
       "research_note": "简介将角色参考指向相关创作者；适合研究日常互动，具体剧情仍需逐片观看。",
-      "source_id": "src-54be65a1f5"
+      "source_id": "src-54be65a1f5",
+      "primary_genre": "ensemble-sitcom",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
     },
     {
       "id": "BV1c5aP6wE8d",
@@ -243,7 +357,11 @@
       "category": "合租与日常",
       "review_scope": "api_metadata_only",
       "research_note": "简介将角色参考指向相关创作者；适合研究日常互动，具体剧情仍需逐片观看。",
-      "source_id": "src-1f20d227b7"
+      "source_id": "src-1f20d227b7",
+      "primary_genre": "ensemble-sitcom",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
     },
     {
       "id": "BV1dsai6CErz",
@@ -254,9 +372,28 @@
       "duration_seconds": 101,
       "published_at": "2026-09-28T07:30:00+08:00",
       "category": "竞技与对战",
-      "review_scope": "api_metadata_only",
-      "research_note": "题材可能引用榜单、虚构对战或特定游戏规则；不能直接当作通用模型排名。",
-      "source_id": "src-280348621d"
+      "review_scope": "sampled_visual_frames_and_creator_description",
+      "research_note": "本轮实际查看抽帧；观察位置、范围及原创分析见独立案例页。",
+      "source_id": "src-280348621d",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 42259320802,
+          "title": "【新宿决战】DeepSeek娘VS豆包",
+          "duration_seconds": 101
+        }
+      ],
+      "primary_genre": "action-battle",
+      "classification_basis": "sampled_visual_frames",
+      "relation_to_ai_girls": "ai_girl_work",
+      "study_id": "study-BV1dsai6CErz",
+      "study_path": "videos/cases/BV1dsai6CErz.md",
+      "visual_styles": [
+        "暗色都市动漫",
+        "青红能量对比",
+        "面部特写与城市远景",
+        "末段Q版反差"
+      ]
     },
     {
       "id": "BV1e8YJ6cE3F",
@@ -269,7 +406,11 @@
       "category": "竞技与对战",
       "review_scope": "api_metadata_only",
       "research_note": "题材可能引用榜单、虚构对战或特定游戏规则；不能直接当作通用模型排名。",
-      "source_id": "src-fb44d00c7e"
+      "source_id": "src-fb44d00c7e",
+      "primary_genre": "model-competition",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
     },
     {
       "id": "BV1eMeS6SETU",
@@ -280,9 +421,28 @@
       "duration_seconds": 156,
       "published_at": "2026-09-18T23:09:11+08:00",
       "category": "合租与日常",
-      "review_scope": "api_metadata_only",
-      "research_note": "简介将角色参考指向相关创作者；适合研究日常互动，具体剧情仍需逐片观看。",
-      "source_id": "src-999fb03ed0"
+      "review_scope": "sampled_visual_frames_and_creator_description",
+      "research_note": "本轮实际查看抽帧；观察位置、范围及原创分析见独立案例页。",
+      "source_id": "src-999fb03ed0",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 42007921100,
+          "title": "新室友DeepSeek报到！五个AI住一起会发生什么",
+          "duration_seconds": 156
+        }
+      ],
+      "primary_genre": "ensemble-sitcom",
+      "classification_basis": "sampled_visual_frames",
+      "relation_to_ai_girls": "ai_girl_work",
+      "study_id": "study-BV1eMeS6SETU",
+      "study_path": "videos/cases/BV1eMeS6SETU.md",
+      "visual_styles": [
+        "Q版角色与常规比例角色同场",
+        "旧城区实景质感背景与动漫角色组合",
+        "底部对白字幕",
+        "夸张表情特写"
+      ]
     },
     {
       "id": "BV1fthi6mEEz",
@@ -295,7 +455,11 @@
       "category": "合租与日常",
       "review_scope": "api_metadata_only",
       "research_note": "简介将角色参考指向相关创作者；适合研究日常互动，具体剧情仍需逐片观看。",
-      "source_id": "src-4f5686c431"
+      "source_id": "src-4f5686c431",
+      "primary_genre": "ensemble-sitcom",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
     },
     {
       "id": "BV1ikaZ6rECj",
@@ -308,7 +472,11 @@
       "category": "合租与日常",
       "review_scope": "api_metadata_only",
       "research_note": "简介将角色参考指向相关创作者；适合研究日常互动，具体剧情仍需逐片观看。",
-      "source_id": "src-2ef84830a9"
+      "source_id": "src-2ef84830a9",
+      "primary_genre": "ensemble-sitcom",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
     },
     {
       "id": "BV1jw8w6yESY",
@@ -321,7 +489,11 @@
       "category": "其他同人视频",
       "review_scope": "api_metadata_only",
       "research_note": "核验标题、作者、简介与时长；未完整观看，不据标题补写剧情。",
-      "source_id": "src-da96eac5b5"
+      "source_id": "src-da96eac5b5",
+      "primary_genre": "character-gallery",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
     },
     {
       "id": "BV1mwRzBdEzk",
@@ -332,9 +504,28 @@
       "duration_seconds": 60,
       "published_at": "2026-05-04T23:58:06+08:00",
       "category": "表情包与日常",
-      "review_scope": "api_metadata_only",
-      "research_note": "原作者的视频简介明确谈及表情包和使用体验，可作为梗图出处线索。",
-      "source_id": "src-5653be328e"
+      "review_scope": "sampled_visual_frames_and_creator_description",
+      "research_note": "本轮实际查看抽帧；观察位置、范围及原创分析见独立案例页。",
+      "source_id": "src-5653be328e",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 38091296679,
+          "title": "1777909429536",
+          "duration_seconds": 60
+        }
+      ],
+      "primary_genre": "character-gallery",
+      "classification_basis": "sampled_visual_frames",
+      "relation_to_ai_girls": "ai_girl_work",
+      "study_id": "study-BV1mwRzBdEzk",
+      "study_path": "videos/cases/BV1mwRzBdEzk.md",
+      "visual_styles": [
+        "白底表情海报",
+        "Q版人物与巨大文字",
+        "新闻/广告卡片戏仿",
+        "多AI角色轮换"
+      ]
     },
     {
       "id": "BV1pLn36sEJq",
@@ -357,7 +548,11 @@
         "share": 10,
         "reply": 57,
         "danmaku": 22
-      }
+      },
+      "primary_genre": "character-gallery",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
     },
     {
       "id": "BV1qdan6MENR",
@@ -370,7 +565,11 @@
       "category": "合租与日常",
       "review_scope": "api_metadata_only",
       "research_note": "简介将角色参考指向相关创作者；适合研究日常互动，具体剧情仍需逐片观看。",
-      "source_id": "src-0cf88f97fb"
+      "source_id": "src-0cf88f97fb",
+      "primary_genre": "ensemble-sitcom",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
     },
     {
       "id": "BV1tE9XBbErS",
@@ -383,7 +582,11 @@
       "category": "角色形象与源头",
       "review_scope": "api_metadata_only",
       "research_note": "用于角色集合、署名链或作者分享声明；不是技术评测。",
-      "source_id": "src-77c5462742"
+      "source_id": "src-77c5462742",
+      "primary_genre": "character-gallery",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
     },
     {
       "id": "BV1w6a86gEbC",
@@ -396,7 +599,11 @@
       "category": "合租与日常",
       "review_scope": "api_metadata_only",
       "research_note": "简介将角色参考指向相关创作者；适合研究日常互动，具体剧情仍需逐片观看。",
-      "source_id": "src-2d62b3d2c4"
+      "source_id": "src-2d62b3d2c4",
+      "primary_genre": "ensemble-sitcom",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
     },
     {
       "id": "BV13SYr6dEiQ",
@@ -420,7 +627,11 @@
         "share": 2178,
         "reply": 1430,
         "danmaku": 136
-      }
+      },
+      "primary_genre": "music-mv",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
     },
     {
       "id": "BV15X3n6mEWy",
@@ -431,8 +642,8 @@
       "duration_seconds": 16,
       "published_at": "2026-07-29T22:10:47+08:00",
       "category": "热门短片与角色演出",
-      "review_scope": "api_metadata_only",
-      "research_note": "保留作者与作品链，按用途参考；未从标题推定声音模型或人物授权。",
+      "review_scope": "sampled_visual_frames_and_creator_description",
+      "research_note": "本轮实际查看抽帧；观察位置、范围及原创分析见独立案例页。",
       "source_id": "src-1845559f0f",
       "source_description_summary": "已读取简介，具体署名链见声音索引或原页；不复制歌词。",
       "popularity_snapshot": {
@@ -444,7 +655,26 @@
         "share": 8576,
         "reply": 3974,
         "danmaku": 267
-      }
+      },
+      "parts": [
+        {
+          "page": 1,
+          "cid": 40415333275,
+          "title": "大肥鱼 炸盆子",
+          "duration_seconds": 16
+        }
+      ],
+      "primary_genre": "prop-gag",
+      "classification_basis": "sampled_visual_frames",
+      "relation_to_ai_girls": "ai_girl_work",
+      "study_id": "study-BV15X3n6mEWy",
+      "study_path": "videos/cases/BV15X3n6mEWy.md",
+      "visual_styles": [
+        "Q版鲸鱼女仆",
+        "拟真乡村院落",
+        "宽画幅固定机位",
+        "天空反打"
+      ]
     },
     {
       "id": "BV16NYS6ZE8H",
@@ -467,7 +697,11 @@
         "share": 531,
         "reply": 509,
         "danmaku": 54
-      }
+      },
+      "primary_genre": "music-mv",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
     },
     {
       "id": "BV1Bfjq6LEDi",
@@ -491,7 +725,10 @@
         "share": 90181,
         "reply": 36462,
         "danmaku": 35918
-      }
+      },
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "upstream_music_reference",
+      "visual_styles": []
     },
     {
       "id": "BV1fYpn6SEk9",
@@ -502,8 +739,8 @@
       "duration_seconds": 135,
       "published_at": "2026-10-11T22:17:12+08:00",
       "category": "音乐与声音来源",
-      "review_scope": "api_metadata_only",
-      "research_note": "保留作者与作品链，按用途参考；未从标题推定声音模型或人物授权。",
+      "review_scope": "sampled_visual_frames_and_creator_description",
+      "research_note": "本轮实际查看抽帧；观察位置、范围及原创分析见独立案例页。",
       "source_id": "src-aeb2911376",
       "source_description_summary": "已读取简介，具体署名链见声音索引或原页；不复制歌词。",
       "popularity_snapshot": {
@@ -515,7 +752,26 @@
         "share": 24041,
         "reply": 7336,
         "danmaku": 756
-      }
+      },
+      "parts": [
+        {
+          "page": 1,
+          "cid": 42657645073,
+          "title": "deepseek 翻唱《人是猫》真完整版，大肥鱼觉得人和猫一样可爱,所以人是猫",
+          "duration_seconds": 135
+        }
+      ],
+      "primary_genre": "music-mv",
+      "classification_basis": "sampled_visual_frames",
+      "relation_to_ai_girls": "ai_girl_work",
+      "study_id": "study-BV1fYpn6SEk9",
+      "study_path": "videos/cases/BV1fYpn6SEk9.md",
+      "visual_styles": [
+        "平面色块背景",
+        "大字排版与角色切片",
+        "插画化道具",
+        "女仆与临时猫耳装饰"
+      ]
     },
     {
       "id": "BV1gaeA6mEyJ",
@@ -538,7 +794,11 @@
         "share": 269,
         "reply": 243,
         "danmaku": 13
-      }
+      },
+      "primary_genre": "music-mv",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
     },
     {
       "id": "BV1Gu8p6hEyF",
@@ -562,7 +822,11 @@
         "share": 154,
         "reply": 46,
         "danmaku": 27
-      }
+      },
+      "primary_genre": "relationship-drama",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
     },
     {
       "id": "BV1gVJe6cEVU",
@@ -586,7 +850,11 @@
         "share": 1546,
         "reply": 549,
         "danmaku": 264
-      }
+      },
+      "primary_genre": "action-battle",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
     },
     {
       "id": "BV1GZaN6DEBR",
@@ -610,7 +878,11 @@
         "share": 10,
         "reply": 18,
         "danmaku": 0
-      }
+      },
+      "primary_genre": "music-mv",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
     },
     {
       "id": "BV1MNYy6WEgY",
@@ -621,8 +893,8 @@
       "duration_seconds": 72,
       "published_at": "2026-09-14T21:29:09+08:00",
       "category": "热门短片与角色演出",
-      "review_scope": "api_metadata_only",
-      "research_note": "保留作者与作品链，按用途参考；未从标题推定声音模型或人物授权。",
+      "review_scope": "sampled_visual_frames_and_creator_description",
+      "research_note": "本轮实际查看抽帧；观察位置、范围及原创分析见独立案例页。",
       "source_id": "src-557491bb4f",
       "source_description_summary": "已读取简介，具体署名链见声音索引或原页；不复制歌词。",
       "popularity_snapshot": {
@@ -634,7 +906,26 @@
         "share": 16719,
         "reply": 3990,
         "danmaku": 900
-      }
+      },
+      "parts": [
+        {
+          "page": 1,
+          "cid": 41892315794,
+          "title": "琵琶曲 | 大肥鱼 vs 豆包",
+          "duration_seconds": 72
+        }
+      ],
+      "primary_genre": "music-mv",
+      "classification_basis": "sampled_visual_frames",
+      "relation_to_ai_girls": "ai_girl_work",
+      "study_id": "study-BV1MNYy6WEgY",
+      "study_path": "videos/cases/BV1MNYy6WEgY.md",
+      "visual_styles": [
+        "三维卡通观感",
+        "室内景深与低机位",
+        "夸张枪械和机器人道具",
+        "底部双层字幕"
+      ]
     },
     {
       "id": "BV1Nfag6xEHQ",
@@ -645,8 +936,8 @@
       "duration_seconds": 182,
       "published_at": "2026-09-25T09:16:57+08:00",
       "category": "热门短片与角色演出",
-      "review_scope": "api_metadata_only",
-      "research_note": "保留作者与作品链，按用途参考；未从标题推定声音模型或人物授权。",
+      "review_scope": "sampled_visual_frames_and_creator_description",
+      "research_note": "本轮实际查看抽帧；观察位置、范围及原创分析见独立案例页。",
       "source_id": "src-70742b88cb",
       "source_description_summary": "已读取简介，具体署名链见声音索引或原页；不复制歌词。",
       "popularity_snapshot": {
@@ -658,7 +949,32 @@
         "share": 2144,
         "reply": 340,
         "danmaku": 43
-      }
+      },
+      "parts": [
+        {
+          "page": 1,
+          "cid": 42204596908,
+          "title": "【10月新番】败犬AI太多了！ 正式PV【4K】",
+          "duration_seconds": 91
+        },
+        {
+          "page": 2,
+          "cid": 42183361697,
+          "title": "原版对比",
+          "duration_seconds": 91
+        }
+      ],
+      "primary_genre": "op-pv-homage",
+      "classification_basis": "sampled_visual_frames",
+      "relation_to_ai_girls": "ai_girl_work",
+      "study_id": "study-BV1Nfag6xEHQ",
+      "study_path": "videos/cases/BV1Nfag6xEHQ.md",
+      "visual_styles": [
+        "校园动画片头式群像",
+        "高饱和几何装饰",
+        "大字职员表与人物构图结合",
+        "统一校服和角色发色标记"
+      ]
     },
     {
       "id": "BV1nJY26QEdV",
@@ -681,7 +997,11 @@
         "share": 1845,
         "reply": 257,
         "danmaku": 49
-      }
+      },
+      "primary_genre": "music-mv",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
     },
     {
       "id": "BV1Pgt36VEeg",
@@ -705,7 +1025,11 @@
         "share": 226,
         "reply": 125,
         "danmaku": 22
-      }
+      },
+      "primary_genre": "real-world-insertion",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
     },
     {
       "id": "BV1PPYM6EEUR",
@@ -728,7 +1052,11 @@
         "share": 1621,
         "reply": 771,
         "danmaku": 15
-      }
+      },
+      "primary_genre": "music-mv",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
     },
     {
       "id": "BV1pueU6cEfg",
@@ -752,7 +1080,11 @@
         "share": 4204,
         "reply": 1598,
         "danmaku": 222
-      }
+      },
+      "primary_genre": "music-mv",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
     },
     {
       "id": "BV1R5YL69EC5",
@@ -776,7 +1108,11 @@
         "share": 2599,
         "reply": 1011,
         "danmaku": 39
-      }
+      },
+      "primary_genre": "music-mv",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
     },
     {
       "id": "BV1vSYe6kESU",
@@ -799,7 +1135,11 @@
         "share": 535,
         "reply": 383,
         "danmaku": 21
-      }
+      },
+      "primary_genre": "music-mv",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
     },
     {
       "id": "BV1XbY66nEWr",
@@ -823,7 +1163,1189 @@
         "share": 4179,
         "reply": 1171,
         "danmaku": 113
-      }
+      },
+      "primary_genre": "music-mv",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
+    },
+    {
+      "id": "BV13Dem6VEbQ",
+      "title": "【免费教程】草履虫都能学会的基于AI的蓝色大肥鱼Q版手办全流程:07裙子处理",
+      "url": "https://www.bilibili.com/video/BV13Dem6VEbQ/",
+      "author": "Aniraiden",
+      "author_url": "https://space.bilibili.com/3129234",
+      "duration_seconds": 1796,
+      "published_at": "2026-09-18T17:40:22+08:00",
+      "category": "本轮新增视频线索",
+      "review_scope": "api_metadata_only",
+      "research_note": "按公开标题/简介导航；视觉判断另见具体案例页。",
+      "source_id": "src-9cd72c61b7",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 41999598479,
+          "title": "【免费教程】草履虫都能学会的基于AI的蓝色大肥鱼Q版手办全流程:07裙子处理",
+          "duration_seconds": 1796
+        }
+      ],
+      "popularity_snapshot": {
+        "checked_on": "2026-10-21",
+        "view": 1650,
+        "like": 116,
+        "favorite": 51,
+        "coin": 31,
+        "share": 3,
+        "reply": 11,
+        "danmaku": 1
+      },
+      "primary_genre": "physical-craft",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "production_series_lead",
+      "visual_styles": []
+    },
+    {
+      "id": "BV155bC69En7",
+      "title": "肥鱼...........老了",
+      "url": "https://www.bilibili.com/video/BV155bC69En7/",
+      "author": "黑猫勇者",
+      "author_url": "https://space.bilibili.com/69180811",
+      "duration_seconds": 38,
+      "published_at": "2026-08-15T22:35:00+08:00",
+      "category": "本轮新增视频线索",
+      "review_scope": "sampled_visual_frames_and_creator_description",
+      "research_note": "本轮实际查看抽帧；观察位置、范围及原创分析见独立案例页。",
+      "source_id": "src-84105ee9be",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 42023977343,
+          "title": "8月25日",
+          "duration_seconds": 38
+        }
+      ],
+      "popularity_snapshot": {
+        "checked_on": "2026-10-21",
+        "view": 1261682,
+        "like": 77144,
+        "favorite": 34274,
+        "coin": 2877,
+        "share": 7273,
+        "reply": 3052,
+        "danmaku": 1153
+      },
+      "primary_genre": "dance-costume",
+      "classification_basis": "sampled_visual_frames",
+      "relation_to_ai_girls": "ai_girl_work",
+      "study_id": "study-BV155bC69En7",
+      "study_path": "videos/cases/BV155bC69En7.md",
+      "visual_styles": [
+        "3D观感动漫舞台",
+        "常规比例角色",
+        "蓝色灯光和反射地面",
+        "三段造型切换"
+      ]
+    },
+    {
+      "id": "BV16yYi69EQT",
+      "title": "大肥鱼！丨免费Live2d模型",
+      "url": "https://www.bilibili.com/video/BV16yYi69EQT/",
+      "author": "氵六青",
+      "author_url": "https://space.bilibili.com/11272072",
+      "duration_seconds": 106,
+      "published_at": "2026-09-18T17:40:00+08:00",
+      "category": "本轮新增视频线索",
+      "review_scope": "sampled_visual_frames_and_creator_description",
+      "research_note": "本轮实际查看抽帧；观察位置、范围及原创分析见独立案例页。",
+      "source_id": "src-6e20f2e644",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 41858630018,
+          "title": "大肥鱼！丨免费Live2d模型",
+          "duration_seconds": 106
+        }
+      ],
+      "popularity_snapshot": {
+        "checked_on": "2026-10-21",
+        "view": 396343,
+        "like": 43912,
+        "favorite": 30823,
+        "coin": 4322,
+        "share": 4085,
+        "reply": 851,
+        "danmaku": 135
+      },
+      "primary_genre": "live2d-demo",
+      "classification_basis": "sampled_visual_frames",
+      "relation_to_ai_girls": "ai_girl_work",
+      "study_id": "study-BV16yYi69EQT",
+      "study_path": "videos/cases/BV16yYi69EQT.md",
+      "visual_styles": [
+        "Q版女仆鲸鱼娘",
+        "粉白宣传背景",
+        "大特写与右下角小模型并列",
+        "二维变形动画"
+      ]
+    },
+    {
+      "id": "BV17f896tEZF",
+      "title": "token呢？被我吃掉啦！",
+      "url": "https://www.bilibili.com/video/BV17f896tEZF/",
+      "author": "瓷人偶爱打电动",
+      "author_url": "https://space.bilibili.com/35716366",
+      "duration_seconds": 16,
+      "published_at": "2026-08-26T20:05:00+08:00",
+      "category": "本轮新增视频线索",
+      "review_scope": "api_metadata_only",
+      "research_note": "按公开标题/简介导航；视觉判断另见具体案例页。",
+      "source_id": "src-ca16787a8d",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 41283355701,
+          "title": "蓝色大肥鱼偷吃你的token后的胜利结算动画",
+          "duration_seconds": 16
+        }
+      ],
+      "popularity_snapshot": {
+        "checked_on": "2026-10-21",
+        "view": 1976,
+        "like": 303,
+        "favorite": 114,
+        "coin": 13,
+        "share": 5,
+        "reply": 12,
+        "danmaku": 0
+      },
+      "primary_genre": "prop-gag",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
+    },
+    {
+      "id": "BV1arpN6FEHv",
+      "title": "10月7日AI圈7件事：Mistral发布万亿参数Large 4，Anthropic送初创公司一年Claude Team",
+      "url": "https://www.bilibili.com/video/BV1arpN6FEHv/",
+      "author": "AI鼓励师_悠一",
+      "author_url": "https://space.bilibili.com/85288223",
+      "duration_seconds": 302,
+      "published_at": "2026-10-07T06:00:00+08:00",
+      "category": "本轮新增视频线索",
+      "review_scope": "sampled_visual_frames_and_creator_description",
+      "research_note": "本轮实际查看抽帧；观察位置、范围及原创分析见独立案例页。",
+      "source_id": "src-d475d52ffc",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 42524018945,
+          "title": "10月7日AI圈7件事：Mistral发布万亿参数Large 4，Anthropic送初创公司一年Claude Team",
+          "duration_seconds": 302
+        }
+      ],
+      "popularity_snapshot": {
+        "checked_on": "2026-10-21",
+        "view": 264,
+        "like": 2,
+        "favorite": 4,
+        "coin": 0,
+        "share": 1,
+        "reply": 0,
+        "danmaku": 0
+      },
+      "primary_genre": "avatar-presenter",
+      "classification_basis": "sampled_visual_frames",
+      "relation_to_ai_girls": "ai_girl_work",
+      "study_id": "study-BV1arpN6FEHv",
+      "study_path": "videos/cases/BV1arpN6FEHv.md",
+      "visual_styles": [
+        "浅色竖屏版式",
+        "主标题与红黄重点标记",
+        "来源截图框",
+        "底部像素鲸鱼娘",
+        "分段进度条"
+      ]
+    },
+    {
+      "id": "BV1B2Yw6sEVY",
+      "title": "【免费教程】草履虫都能学会的基于AI的蓝色大肥鱼Q版手办全流程:20贴水贴",
+      "url": "https://www.bilibili.com/video/BV1B2Yw6sEVY/",
+      "author": "Aniraiden",
+      "author_url": "https://space.bilibili.com/3129234",
+      "duration_seconds": 1222,
+      "published_at": "2026-10-04T17:15:00+08:00",
+      "category": "本轮新增视频线索",
+      "review_scope": "sampled_visual_frames_and_creator_description",
+      "research_note": "本轮实际查看抽帧；观察位置、范围及原创分析见独立案例页。",
+      "source_id": "src-68021dda10",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 42354411169,
+          "title": "【免费教程】草履虫都能学会的基于AI的蓝色大肥鱼Q版手办全流程:20贴水贴",
+          "duration_seconds": 1222
+        }
+      ],
+      "popularity_snapshot": {
+        "checked_on": "2026-10-21",
+        "view": 7893,
+        "like": 365,
+        "favorite": 433,
+        "coin": 44,
+        "share": 22,
+        "reply": 32,
+        "danmaku": 3
+      },
+      "primary_genre": "physical-craft",
+      "classification_basis": "sampled_visual_frames",
+      "relation_to_ai_girls": "related_production_reference",
+      "study_id": "study-BV1B2Yw6sEVY",
+      "study_path": "videos/cases/BV1B2Yw6sEVY.md",
+      "visual_styles": [
+        "俯拍手工作台",
+        "绿色刻度切割垫",
+        "人手与实体小头部",
+        "剪刀镊子棉签近景"
+      ]
+    },
+    {
+      "id": "BV1BmYi6QEid",
+      "title": "『大肥鲸不是罪过~』",
+      "url": "https://www.bilibili.com/video/BV1BmYi6QEid/",
+      "author": "睡醒了接着丶",
+      "author_url": "https://space.bilibili.com/698122230",
+      "duration_seconds": 218,
+      "published_at": "2026-09-13T20:19:53+08:00",
+      "category": "本轮新增视频线索",
+      "review_scope": "api_metadata_only",
+      "research_note": "按公开标题/简介导航；视觉判断另见具体案例页。",
+      "source_id": "src-b24182f023",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 41858436736,
+          "title": "Video_1789297785545_18",
+          "duration_seconds": 218
+        }
+      ],
+      "popularity_snapshot": {
+        "checked_on": "2026-10-21",
+        "view": 519,
+        "like": 32,
+        "favorite": 11,
+        "coin": 15,
+        "share": 2,
+        "reply": 5,
+        "danmaku": 0
+      },
+      "primary_genre": "dance-costume",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
+    },
+    {
+      "id": "BV1CNa36nEyw",
+      "title": "月初当神仙，月底请笔仙【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1CNa36nEyw/",
+      "author": "阳光爬行者SunCreeper",
+      "author_url": "https://space.bilibili.com/3706988261280389",
+      "duration_seconds": 66,
+      "published_at": "2026-09-28T17:48:53+08:00",
+      "category": "本轮新增视频线索",
+      "review_scope": "sampled_visual_frames_and_creator_description",
+      "research_note": "本轮实际查看抽帧；观察位置、范围及原创分析见独立案例页。",
+      "source_id": "src-04af5eae1c",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 42275177826,
+          "title": "9月28日(4)",
+          "duration_seconds": 66
+        }
+      ],
+      "popularity_snapshot": {
+        "checked_on": "2026-10-21",
+        "view": 811772,
+        "like": 55907,
+        "favorite": 8931,
+        "coin": 719,
+        "share": 3702,
+        "reply": 937,
+        "danmaku": 279
+      },
+      "primary_genre": "user-experience-satire",
+      "classification_basis": "sampled_visual_frames",
+      "relation_to_ai_girls": "ai_girl_work",
+      "study_id": "study-BV1CNa36nEyw",
+      "study_path": "videos/cases/BV1CNa36nEyw.md",
+      "visual_styles": [
+        "竖屏动漫角色与立体卡通人物混排",
+        "月初月中月末章节大字",
+        "底部短对白字幕",
+        "豪华场景到普通居室的环境反差"
+      ]
+    },
+    {
+      "id": "BV1czhy6VEvi",
+      "title": "【免费教程】草履虫都能学会的基于AI的蓝色大肥鱼Q版手办全流程:12头部拆件",
+      "url": "https://www.bilibili.com/video/BV1czhy6VEvi/",
+      "author": "Aniraiden",
+      "author_url": "https://space.bilibili.com/3129234",
+      "duration_seconds": 2070,
+      "published_at": "2026-09-25T17:45:00+08:00",
+      "category": "本轮新增视频线索",
+      "review_scope": "api_metadata_only",
+      "research_note": "按公开标题/简介导航；视觉判断另见具体案例页。",
+      "source_id": "src-fd59ca616c",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 42188081055,
+          "title": "【免费教程】草履虫都能学会的基于AI的蓝色大肥鱼Q版手办全流程:12头部拆件",
+          "duration_seconds": 2070
+        }
+      ],
+      "popularity_snapshot": {
+        "checked_on": "2026-10-21",
+        "view": 1745,
+        "like": 120,
+        "favorite": 71,
+        "coin": 22,
+        "share": 6,
+        "reply": 5,
+        "danmaku": 0
+      },
+      "primary_genre": "physical-craft",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "production_series_lead",
+      "visual_styles": []
+    },
+    {
+      "id": "BV1drpn65ErX",
+      "title": "deepseek《人是猫》原版完整版，翻唱版要等一下，大肥鱼很可爱，所以大肥鱼也是猫！",
+      "url": "https://www.bilibili.com/video/BV1drpn65ErX/",
+      "author": "蒙德砍壬",
+      "author_url": "https://space.bilibili.com/1931150416",
+      "duration_seconds": 133,
+      "published_at": "2026-10-11T20:35:52+08:00",
+      "category": "本轮新增视频线索",
+      "review_scope": "api_metadata_only",
+      "research_note": "按公开标题/简介导航；视觉判断另见具体案例页。",
+      "source_id": "src-0199ee2f5e",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 42772598713,
+          "title": "10月15日 (2)",
+          "duration_seconds": 133
+        }
+      ],
+      "popularity_snapshot": {
+        "checked_on": "2026-10-21",
+        "view": 22560,
+        "like": 1424,
+        "favorite": 478,
+        "coin": 556,
+        "share": 47,
+        "reply": 110,
+        "danmaku": 140
+      },
+      "primary_genre": "music-mv",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
+    },
+    {
+      "id": "BV1FCYw6tEJt",
+      "title": "【免费教程】草履虫都能学会的基于AI的蓝色大肥鱼Q版手办全流程:18打印操作",
+      "url": "https://www.bilibili.com/video/BV1FCYw6tEJt/",
+      "author": "Aniraiden",
+      "author_url": "https://space.bilibili.com/3129234",
+      "duration_seconds": 1031,
+      "published_at": "2026-10-02T17:20:00+08:00",
+      "category": "本轮新增视频线索",
+      "review_scope": "api_metadata_only",
+      "research_note": "按公开标题/简介导航；视觉判断另见具体案例页。",
+      "source_id": "src-865cee870f",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 42354344620,
+          "title": "【免费教程】草履虫都能学会的基于AI的蓝色大肥鱼Q版手办全流程:18打印操作",
+          "duration_seconds": 1031
+        }
+      ],
+      "popularity_snapshot": {
+        "checked_on": "2026-10-21",
+        "view": 1821,
+        "like": 91,
+        "favorite": 40,
+        "coin": 21,
+        "share": 6,
+        "reply": 13,
+        "danmaku": 2
+      },
+      "primary_genre": "physical-craft",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "production_series_lead",
+      "visual_styles": []
+    },
+    {
+      "id": "BV1Foez6TE9K",
+      "title": "【泰拉瑞亚】当鲸鱼娘加入你的世界……让蓝色大肥鱼帮你打工吧！",
+      "url": "https://www.bilibili.com/video/BV1Foez6TE9K/",
+      "author": "XY蓝Z",
+      "author_url": "https://space.bilibili.com/3546589035497918",
+      "duration_seconds": 172,
+      "published_at": "2026-09-20T20:05:21+08:00",
+      "category": "本轮新增视频线索",
+      "review_scope": "sampled_visual_frames_and_creator_description",
+      "research_note": "本轮实际查看抽帧；观察位置、范围及原创分析见独立案例页。",
+      "source_id": "src-1764181130",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 42056417530,
+          "title": "【泰拉瑞亚】当鲸鱼娘加入你的世界……让蓝色大肥鱼帮你打工吧！",
+          "duration_seconds": 172
+        }
+      ],
+      "popularity_snapshot": {
+        "checked_on": "2026-10-21",
+        "view": 4871,
+        "like": 303,
+        "favorite": 154,
+        "coin": 125,
+        "share": 41,
+        "reply": 46,
+        "danmaku": 1
+      },
+      "primary_genre": "game-companion",
+      "classification_basis": "sampled_visual_frames",
+      "relation_to_ai_girls": "ai_girl_work",
+      "study_id": "study-BV1Foez6TE9K",
+      "study_path": "videos/cases/BV1Foez6TE9K.md",
+      "visual_styles": [
+        "像素游戏场景",
+        "常规立绘与Q版模型叠加",
+        "聊天头像框",
+        "大字解说字幕"
+      ]
+    },
+    {
+      "id": "BV1foHs6dEtK",
+      "title": "没人记得第二名，除非半场开香槟【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1foHs6dEtK/",
+      "author": "阳光爬行者SunCreeper",
+      "author_url": "https://space.bilibili.com/3706988261280389",
+      "duration_seconds": 76,
+      "published_at": "2026-10-05T15:01:08+08:00",
+      "category": "本轮新增视频线索",
+      "review_scope": "api_metadata_only",
+      "research_note": "按公开标题/简介导航；视觉判断另见具体案例页。",
+      "source_id": "src-51d8b1e164",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 42478669256,
+          "title": "10月5日",
+          "duration_seconds": 76
+        }
+      ],
+      "popularity_snapshot": {
+        "checked_on": "2026-10-21",
+        "view": 33004,
+        "like": 1146,
+        "favorite": 289,
+        "coin": 51,
+        "share": 24,
+        "reply": 40,
+        "danmaku": 127
+      },
+      "primary_genre": "user-experience-satire",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
+    },
+    {
+      "id": "BV1gfe467Ehd",
+      "title": "家里进肥鱼了你知不知道",
+      "url": "https://www.bilibili.com/video/BV1gfe467Ehd/",
+      "author": "暮之鸣",
+      "author_url": "https://space.bilibili.com/38871361",
+      "duration_seconds": 21,
+      "published_at": "2026-09-19T13:37:13+08:00",
+      "category": "本轮新增视频线索",
+      "review_scope": "api_metadata_only",
+      "research_note": "按公开标题/简介导航；视觉判断另见具体案例页。",
+      "source_id": "src-f4d98c2cf9",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 42021224845,
+          "title": "家里进肥鱼了你知不知道",
+          "duration_seconds": 21
+        }
+      ],
+      "popularity_snapshot": {
+        "checked_on": "2026-10-21",
+        "view": 45114,
+        "like": 2914,
+        "favorite": 697,
+        "coin": 74,
+        "share": 73,
+        "reply": 27,
+        "danmaku": 109
+      },
+      "primary_genre": "real-world-insertion",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
+    },
+    {
+      "id": "BV1HX8v6UErL",
+      "title": "那你去找豆包啊！",
+      "url": "https://www.bilibili.com/video/BV1HX8v6UErL/",
+      "author": "彼岸花Channel",
+      "author_url": "https://space.bilibili.com/13787349",
+      "duration_seconds": 61,
+      "published_at": "2026-08-27T11:20:00+08:00",
+      "category": "本轮新增视频线索",
+      "review_scope": "api_metadata_only",
+      "research_note": "按公开标题/简介导航；视觉判断另见具体案例页。",
+      "source_id": "src-93c2da1240",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 41212446556,
+          "title": "那你去找豆包啊！",
+          "duration_seconds": 61
+        }
+      ],
+      "popularity_snapshot": {
+        "checked_on": "2026-10-21",
+        "view": 364685,
+        "like": 9246,
+        "favorite": 3042,
+        "coin": 157,
+        "share": 440,
+        "reply": 461,
+        "danmaku": 90
+      },
+      "primary_genre": "user-experience-satire",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
+    },
+    {
+      "id": "BV1ibpq6tE18",
+      "title": "8个顶级AI挑战RPG史上最恶意BOSS，谁能翻盘？｜AI游戏大赛01",
+      "url": "https://www.bilibili.com/video/BV1ibpq6tE18/",
+      "author": "StuG_III",
+      "author_url": "https://space.bilibili.com/1487316",
+      "duration_seconds": 844,
+      "published_at": "2026-10-13T21:01:39+08:00",
+      "category": "本轮新增视频线索",
+      "review_scope": "api_metadata_only",
+      "research_note": "按公开标题/简介导航；视觉判断另见具体案例页。",
+      "source_id": "src-b5f988f905",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 42712302716,
+          "title": "8个顶级AI挑战RPG史上最恶意BOSS，谁能翻盘？｜AI游戏大赛01",
+          "duration_seconds": 844
+        }
+      ],
+      "popularity_snapshot": {
+        "checked_on": "2026-10-21",
+        "view": 426688,
+        "like": 14434,
+        "favorite": 9070,
+        "coin": 1146,
+        "share": 3004,
+        "reply": 1144,
+        "danmaku": 723
+      },
+      "primary_genre": "model-competition",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
+    },
+    {
+      "id": "BV1JHhn6qEDU",
+      "title": "我明明让Claude Code用deepseek模型，为什么 GLM 娘突然上班了？",
+      "url": "https://www.bilibili.com/video/BV1JHhn6qEDU/",
+      "author": "阿生生活",
+      "author_url": "https://space.bilibili.com/545668484",
+      "duration_seconds": 118,
+      "published_at": "2026-09-22T23:59:08+08:00",
+      "category": "本轮新增视频线索",
+      "review_scope": "api_metadata_only",
+      "research_note": "按公开标题/简介导航；视觉判断另见具体案例页。",
+      "source_id": "src-52255dbb55",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 42117238553,
+          "title": "我明明让Claude Code用deepseek模型，为什么 GLM 娘突然上班了？",
+          "duration_seconds": 118
+        }
+      ],
+      "popularity_snapshot": {
+        "checked_on": "2026-10-21",
+        "view": 1457,
+        "like": 35,
+        "favorite": 18,
+        "coin": 4,
+        "share": 1,
+        "reply": 1,
+        "danmaku": 0
+      },
+      "primary_genre": "user-experience-satire",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
+    },
+    {
+      "id": "BV1K4ax6YE2n",
+      "title": "GPT娘也想成为偶像！",
+      "url": "https://www.bilibili.com/video/BV1K4ax6YE2n/",
+      "author": "想要一只和花花",
+      "author_url": "https://space.bilibili.com/141669862",
+      "duration_seconds": 136,
+      "published_at": "2026-09-27T01:30:58+08:00",
+      "category": "本轮新增视频线索",
+      "review_scope": "sampled_visual_frames_and_creator_description",
+      "research_note": "本轮实际查看抽帧；观察位置、范围及原创分析见独立案例页。",
+      "source_id": "src-5bbc3dbde8",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 42229629559,
+          "title": "GPT娘也想成为偶像！",
+          "duration_seconds": 136
+        }
+      ],
+      "popularity_snapshot": {
+        "checked_on": "2026-10-21",
+        "view": 3496,
+        "like": 359,
+        "favorite": 227,
+        "coin": 107,
+        "share": 32,
+        "reply": 28,
+        "danmaku": 3
+      },
+      "primary_genre": "music-mv",
+      "classification_basis": "sampled_visual_frames",
+      "relation_to_ai_girls": "ai_girl_work",
+      "study_id": "study-BV1K4ax6YE2n",
+      "study_path": "videos/cases/BV1K4ax6YE2n.md",
+      "visual_styles": [
+        "紫色灯环舞台",
+        "常规龙娘与Q版伴舞同屏",
+        "面部歌唱姿态近景",
+        "工作桌插画穿插"
+      ]
+    },
+    {
+      "id": "BV1LQ7j6WEyD",
+      "title": "🐋DeepSeek不是罪过~🐋",
+      "url": "https://www.bilibili.com/video/BV1LQ7j6WEyD/",
+      "author": "uulumine゛",
+      "author_url": "https://space.bilibili.com/285041722",
+      "duration_seconds": 56,
+      "published_at": "2026-06-27T06:08:56+08:00",
+      "category": "本轮新增视频线索",
+      "review_scope": "sampled_visual_frames_and_creator_description",
+      "research_note": "本轮实际查看抽帧；观察位置、范围及原创分析见独立案例页。",
+      "source_id": "src-4f1e308470",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 39444483191,
+          "title": "成片",
+          "duration_seconds": 56
+        }
+      ],
+      "popularity_snapshot": {
+        "checked_on": "2026-10-21",
+        "view": 1166106,
+        "like": 72386,
+        "favorite": 37837,
+        "coin": 4861,
+        "share": 6628,
+        "reply": 2733,
+        "danmaku": 606
+      },
+      "primary_genre": "dance-costume",
+      "classification_basis": "sampled_visual_frames",
+      "relation_to_ai_girls": "ai_girl_work",
+      "study_id": "study-BV1LQ7j6WEyD",
+      "study_path": "videos/cases/BV1LQ7j6WEyD.md",
+      "visual_styles": [
+        "常规比例动漫角色",
+        "纯色与巨型英文背景",
+        "服装连换",
+        "倾斜画框",
+        "明亮模糊转场"
+      ]
+    },
+    {
+      "id": "BV1MKH96sEZL",
+      "title": "Claude：我……我也要吃大白饭吗",
+      "url": "https://www.bilibili.com/video/BV1MKH96sEZL/",
+      "author": "戛然而纸",
+      "author_url": "https://space.bilibili.com/511403115",
+      "duration_seconds": 107,
+      "published_at": "2026-10-08T21:00:00+08:00",
+      "category": "本轮新增视频线索",
+      "review_scope": "api_metadata_only",
+      "research_note": "按公开标题/简介导航；视觉判断另见具体案例页。",
+      "source_id": "src-7822182ed6",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 42570155486,
+          "title": "studio_video_1791462279965",
+          "duration_seconds": 107
+        }
+      ],
+      "popularity_snapshot": {
+        "checked_on": "2026-10-21",
+        "view": 23950,
+        "like": 1138,
+        "favorite": 477,
+        "coin": 98,
+        "share": 39,
+        "reply": 76,
+        "danmaku": 42
+      },
+      "primary_genre": "ensemble-sitcom",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
+    },
+    {
+      "id": "BV1o28i6rEcw",
+      "title": "哦鲸鲸正在攻击不给她喂食token的用户",
+      "url": "https://www.bilibili.com/video/BV1o28i6rEcw/",
+      "author": "魔王的紫色话筒",
+      "author_url": "https://space.bilibili.com/457814016",
+      "duration_seconds": 11,
+      "published_at": "2026-08-21T19:50:24+08:00",
+      "category": "本轮新增视频线索",
+      "review_scope": "api_metadata_only",
+      "research_note": "按公开标题/简介导航；视觉判断另见具体案例页。",
+      "source_id": "src-440c9a3fd6",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 41131379121,
+          "title": "mmexport1787311471738",
+          "duration_seconds": 11
+        }
+      ],
+      "popularity_snapshot": {
+        "checked_on": "2026-10-21",
+        "view": 1404191,
+        "like": 79679,
+        "favorite": 25603,
+        "coin": 1925,
+        "share": 7312,
+        "reply": 2051,
+        "danmaku": 145
+      },
+      "primary_genre": "prop-gag",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
+    },
+    {
+      "id": "BV1P18y6jEkV",
+      "title": "当大肥鱼吃完你的token后……",
+      "url": "https://www.bilibili.com/video/BV1P18y6jEkV/",
+      "author": "芝士蓝白碗",
+      "author_url": "https://space.bilibili.com/484735944",
+      "duration_seconds": 11,
+      "published_at": "2026-08-22T18:00:14+08:00",
+      "category": "本轮新增视频线索",
+      "review_scope": "sampled_visual_frames_and_creator_description",
+      "research_note": "本轮实际查看抽帧；观察位置、范围及原创分析见独立案例页。",
+      "source_id": "src-80429ec846",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 41159035002,
+          "title": "1787392668774",
+          "duration_seconds": 11
+        }
+      ],
+      "popularity_snapshot": {
+        "checked_on": "2026-10-21",
+        "view": 1951669,
+        "like": 55647,
+        "favorite": 19560,
+        "coin": 3209,
+        "share": 5690,
+        "reply": 1354,
+        "danmaku": 520
+      },
+      "primary_genre": "prop-gag",
+      "classification_basis": "sampled_visual_frames",
+      "relation_to_ai_girls": "ai_girl_work",
+      "study_id": "study-BV1P18y6jEkV",
+      "study_path": "videos/cases/BV1P18y6jEkV.md",
+      "visual_styles": [
+        "竖屏",
+        "Q版描线鲸鱼女仆",
+        "拟真夜间庭院",
+        "前景道具夸张透视"
+      ]
+    },
+    {
+      "id": "BV1q1tv6iELX",
+      "title": "完了，家里遭蓝色大肥鱼了",
+      "url": "https://www.bilibili.com/video/BV1q1tv6iELX/",
+      "author": "中分_背带裤",
+      "author_url": "https://space.bilibili.com/3706939525564443",
+      "duration_seconds": 31,
+      "published_at": "2026-09-04T09:07:16+08:00",
+      "category": "本轮新增视频线索",
+      "review_scope": "sampled_visual_frames_and_creator_description",
+      "research_note": "本轮实际查看抽帧；观察位置、范围及原创分析见独立案例页。",
+      "source_id": "src-84bf6ac3f3",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 41564177202,
+          "title": "1788480213374",
+          "duration_seconds": 31
+        }
+      ],
+      "popularity_snapshot": {
+        "checked_on": "2026-10-21",
+        "view": 2716166,
+        "like": 106409,
+        "favorite": 51358,
+        "coin": 8058,
+        "share": 13487,
+        "reply": 3392,
+        "danmaku": 495
+      },
+      "primary_genre": "real-world-insertion",
+      "classification_basis": "sampled_visual_frames",
+      "relation_to_ai_girls": "ai_girl_work",
+      "study_id": "study-BV1q1tv6iELX",
+      "study_path": "videos/cases/BV1q1tv6iELX.md",
+      "visual_styles": [
+        "拟真厨房",
+        "Q版鲸鱼女仆",
+        "手持近景感",
+        "角色与实物接触"
+      ]
+    },
+    {
+      "id": "BV1QnE16cEnX",
+      "title": "⚡零基础不是罪过视频教学⚡",
+      "url": "https://www.bilibili.com/video/BV1QnE16cEnX/",
+      "author": "皌柠",
+      "author_url": "https://space.bilibili.com/497519740",
+      "duration_seconds": 282,
+      "published_at": "2026-06-12T19:11:29+08:00",
+      "category": "本轮新增视频线索",
+      "review_scope": "sampled_visual_frames_and_creator_description",
+      "research_note": "本轮实际查看抽帧；观察位置、范围及原创分析见独立案例页。",
+      "source_id": "src-f1ac9d683b",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 39064043972,
+          "title": "零基础不是罪过视频教学",
+          "duration_seconds": 282
+        }
+      ],
+      "popularity_snapshot": {
+        "checked_on": "2026-10-21",
+        "view": 92906,
+        "like": 5451,
+        "favorite": 7017,
+        "coin": 986,
+        "share": 497,
+        "reply": 407,
+        "danmaku": 116
+      },
+      "primary_genre": "production-tutorial",
+      "classification_basis": "sampled_visual_frames",
+      "relation_to_ai_girls": "related_production_reference",
+      "study_id": "study-BV1QnE16cEnX",
+      "study_path": "videos/cases/BV1QnE16cEnX.md",
+      "visual_styles": [
+        "桌面软件录屏",
+        "底部步骤字幕",
+        "三视图参考板",
+        "成片与操作界面交替"
+      ]
+    },
+    {
+      "id": "BV1tD4X6AE7Q",
+      "title": "【MMD模型配布】蓝色大肥鱼",
+      "url": "https://www.bilibili.com/video/BV1tD4X6AE7Q/",
+      "author": "水原镜",
+      "author_url": "https://space.bilibili.com/319625783",
+      "duration_seconds": 37,
+      "published_at": "2026-08-30T16:30:00+08:00",
+      "category": "本轮新增视频线索",
+      "review_scope": "sampled_visual_frames_and_creator_description",
+      "research_note": "本轮实际查看抽帧；观察位置、范围及原创分析见独立案例页。",
+      "source_id": "src-fe3817add9",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 41423668909,
+          "title": "【MMD模型配布】蓝色大肥鱼",
+          "duration_seconds": 37
+        }
+      ],
+      "popularity_snapshot": {
+        "checked_on": "2026-10-21",
+        "view": 4760,
+        "like": 457,
+        "favorite": 272,
+        "coin": 110,
+        "share": 69,
+        "reply": 19,
+        "danmaku": 75
+      },
+      "primary_genre": "mmd-distribution",
+      "classification_basis": "sampled_visual_frames",
+      "relation_to_ai_girls": "ai_girl_work",
+      "study_id": "study-BV1tD4X6AE7Q",
+      "study_path": "videos/cases/BV1tD4X6AE7Q.md",
+      "visual_styles": [
+        "明确3D体积的Q版模型",
+        "竖屏全身舞蹈",
+        "浅景深舞台",
+        "背面与侧面展示"
+      ]
+    },
+    {
+      "id": "BV1tXMU66E9W",
+      "title": "什么叫DeepSeek自己玩起来了？",
+      "url": "https://www.bilibili.com/video/BV1tXMU66E9W/",
+      "author": "阳光爬行者SunCreeper",
+      "author_url": "https://space.bilibili.com/3706988261280389",
+      "duration_seconds": 26,
+      "published_at": "2026-08-06T10:23:17+08:00",
+      "category": "本轮新增视频线索",
+      "review_scope": "api_metadata_only",
+      "research_note": "按公开标题/简介导航；视觉判断另见具体案例页。",
+      "source_id": "src-7b9b09f536",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 40639858744,
+          "title": "1785982725259",
+          "duration_seconds": 26
+        }
+      ],
+      "popularity_snapshot": {
+        "checked_on": "2026-10-21",
+        "view": 608050,
+        "like": 24896,
+        "favorite": 6094,
+        "coin": 200,
+        "share": 590,
+        "reply": 666,
+        "danmaku": 36
+      },
+      "primary_genre": "user-experience-satire",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
+    },
+    {
+      "id": "BV1VNh76QEuy",
+      "title": "【4k60帧】我最喜欢的四小只",
+      "url": "https://www.bilibili.com/video/BV1VNh76QEuy/",
+      "author": "蒙德砍壬",
+      "author_url": "https://space.bilibili.com/1931150416",
+      "duration_seconds": 38,
+      "published_at": "2026-09-22T17:30:00+08:00",
+      "category": "本轮新增视频线索",
+      "review_scope": "api_metadata_only",
+      "research_note": "按公开标题/简介导航；视觉判断另见具体案例页。",
+      "source_id": "src-5ad112d47e",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 42127854780,
+          "title": "111111111111",
+          "duration_seconds": 38
+        }
+      ],
+      "popularity_snapshot": {
+        "checked_on": "2026-10-21",
+        "view": 4956,
+        "like": 285,
+        "favorite": 121,
+        "coin": 21,
+        "share": 8,
+        "reply": 33,
+        "danmaku": 15
+      },
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
+    },
+    {
+      "id": "BV1Wehy62EGR",
+      "title": "【免费教程】草履虫都能学会的基于AI的蓝色大肥鱼Q版手办全流程:11水贴排版",
+      "url": "https://www.bilibili.com/video/BV1Wehy62EGR/",
+      "author": "Aniraiden",
+      "author_url": "https://space.bilibili.com/3129234",
+      "duration_seconds": 385,
+      "published_at": "2026-09-25T17:30:00+08:00",
+      "category": "本轮新增视频线索",
+      "review_scope": "api_metadata_only",
+      "research_note": "按公开标题/简介导航；视觉判断另见具体案例页。",
+      "source_id": "src-8bb366da25",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 42188017007,
+          "title": "【免费教程】草履虫都能学会的基于AI的蓝色大肥鱼Q版手办全流程:11水贴排版",
+          "duration_seconds": 385
+        }
+      ],
+      "popularity_snapshot": {
+        "checked_on": "2026-10-21",
+        "view": 1660,
+        "like": 110,
+        "favorite": 133,
+        "coin": 28,
+        "share": 4,
+        "reply": 14,
+        "danmaku": 0
+      },
+      "primary_genre": "physical-craft",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "production_series_lead",
+      "visual_styles": []
+    },
+    {
+      "id": "BV1Wguz6gE3t",
+      "title": "我去，用户彻底怒了",
+      "url": "https://www.bilibili.com/video/BV1Wguz6gE3t/",
+      "author": "阳光爬行者SunCreeper",
+      "author_url": "https://space.bilibili.com/3706988261280389",
+      "duration_seconds": 40,
+      "published_at": "2026-08-11T20:20:14+08:00",
+      "category": "本轮新增视频线索",
+      "review_scope": "api_metadata_only",
+      "research_note": "按公开标题/简介导航；视觉判断另见具体案例页。",
+      "source_id": "src-73fa2fae34",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 40814969556,
+          "title": "Video_1786450360376_294",
+          "duration_seconds": 40
+        }
+      ],
+      "popularity_snapshot": {
+        "checked_on": "2026-10-21",
+        "view": 361517,
+        "like": 10014,
+        "favorite": 3692,
+        "coin": 106,
+        "share": 379,
+        "reply": 269,
+        "danmaku": 24
+      },
+      "primary_genre": "user-experience-satire",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
+    },
+    {
+      "id": "BV1XZe66sEsn",
+      "title": "【鼠标指针】-Deepseek-鲸鱼娘-大肥鱼-点击领取",
+      "url": "https://www.bilibili.com/video/BV1XZe66sEsn/",
+      "author": "Elti青空",
+      "author_url": "https://space.bilibili.com/8582766",
+      "duration_seconds": 112,
+      "published_at": "2026-09-18T18:00:00+08:00",
+      "category": "本轮新增视频线索",
+      "review_scope": "sampled_visual_frames_and_creator_description",
+      "research_note": "本轮实际查看抽帧；观察位置、范围及原创分析见独立案例页。",
+      "source_id": "src-7cbd020fa9",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 41980660130,
+          "title": "【鼠标指针】-Deepseek-鲸鱼娘-大肥鱼-点击领取",
+          "duration_seconds": 112
+        }
+      ],
+      "popularity_snapshot": {
+        "checked_on": "2026-10-21",
+        "view": 2989,
+        "like": 157,
+        "favorite": 223,
+        "coin": 29,
+        "share": 17,
+        "reply": 12,
+        "danmaku": 0
+      },
+      "primary_genre": "desktop-material",
+      "classification_basis": "sampled_visual_frames",
+      "relation_to_ai_girls": "ai_girl_work",
+      "study_id": "study-BV1XZe66sEsn",
+      "study_path": "videos/cases/BV1XZe66sEsn.md",
+      "visual_styles": [
+        "粉紫纯色底",
+        "像素鲸鱼娘",
+        "复古窗口框",
+        "大字状态标签",
+        "单图居中展示"
+      ]
+    },
+    {
+      "id": "BV1yvaT65EGk",
+      "title": "【免费公皮】蓝色大肥鱼不止会卖萌，还自带“滑动变祖器”？！",
+      "url": "https://www.bilibili.com/video/BV1yvaT65EGk/",
+      "author": "狐宫静",
+      "author_url": "https://space.bilibili.com/261589131",
+      "duration_seconds": 78,
+      "published_at": "2026-09-25T09:00:00+08:00",
+      "category": "本轮新增视频线索",
+      "review_scope": "api_metadata_only",
+      "research_note": "按公开标题/简介导航；视觉判断另见具体案例页。",
+      "source_id": "src-e1698ab832",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 42171957543,
+          "title": "【免费公皮】蓝色大肥鱼不止会卖萌，还自带“滑动变祖器”？！",
+          "duration_seconds": 78
+        }
+      ],
+      "popularity_snapshot": {
+        "checked_on": "2026-10-21",
+        "view": 4564,
+        "like": 254,
+        "favorite": 170,
+        "coin": 43,
+        "share": 36,
+        "reply": 28,
+        "danmaku": 0
+      },
+      "primary_genre": "live2d-demo",
+      "classification_basis": "title_description_or_existing_index",
+      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "visual_styles": []
     }
   ]
 }

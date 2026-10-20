@@ -76,3 +76,10 @@
 - [Apprentice-Geo/AI-Fanworks 项目说明](https://github.com/Apprentice-Geo/AI-Fanworks/blob/ee1f5176710f3bcfd60ee5cb0af00f77ed96748e/README.md) · `pinned_repository_text`
 
 返回[角色总览](../../README.md) · [新增资料评述](../../docs/09-more-sources.md) · [版本比较](../../docs/10-variant-guide.md)。
+
+
+## 视频形态与画面案例
+
+- [AI娘的日常（大概?）](../../videos/cases/BV1mwRzBdEzk.md)：角色图鉴与表情图集；白底表情海报、Q版人物与巨大文字。
+
+只把该作者作品的可见表现接入角色页；声音未试听。更多见[独立视频栏目](../../videos/README.md)。

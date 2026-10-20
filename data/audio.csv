@@ -1,4 +1,4 @@
-﻿id,title,kind,publisher,duration_seconds,source_url,review_scope
+id,title,kind,publisher,duration_seconds,source_url,review_scope
 audio-ssr,音色初始候选,音色,星落落_oi,11,https://www.bilibili.com/video/BV1PPYM6EEUR/,metadata_and_source_links_only
 audio-ten-voices,十种音色对比,音色对比,星落落_oi,101,https://www.bilibili.com/video/BV16NYS6ZE8H/,metadata_and_source_links_only
 audio-voice-refined,音色迭代,音色,星落落_oi,21,https://www.bilibili.com/video/BV1vSYe6kESU/,metadata_and_source_links_only
@@ -11,3 +11,4 @@ audio-let-me-go-mv,Let Me Go动画MV,MV,星落落_oi,219,https://www.bilibili.co
 audio-let-me-go-soft,Let Me Go温柔版本,音色变体,星落落_oi,212,https://www.bilibili.com/video/BV1gaeA6mEyJ/,metadata_and_source_links_only
 audio-screen-both-sides,《屏幕两端》,改编歌曲,八千女鬼-,199,https://www.bilibili.com/video/BV1GZaN6DEBR/,metadata_and_source_links_only
 audio-tts-reading,DeepSeek语音展示,朗读演示,earth五行,47,https://www.bilibili.com/video/BV1nJY26QEdV/,metadata_and_source_links_only
+audio-pixel-news,像素鲸鱼娘资讯配音制作说明,合成播报线索,AI鼓励师_悠一,302,https://www.bilibili.com/video/BV1arpN6FEHv/,creator_metadata_only_audio_not_listened

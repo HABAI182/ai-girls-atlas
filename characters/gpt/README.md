@@ -100,3 +100,16 @@ tenghuan123 独立制作的 V2 Q 版，包含九组动画和 16 个环视方向�
 - [GPT龙娘 独立版本记录](https://github.com/legeling/awesome-codex-pet/blob/022aea52f75841d31f57b7596479ebb425480a50/pets/gpt-dragon-girl--tenghuan123/submission.json) · `pinned_repository_text`
 
 返回[角色总览](../../README.md) · [新增资料评述](../../docs/09-more-sources.md) · [版本比较](../../docs/10-variant-guide.md)。
+
+
+## 视频形态与画面案例
+
+- [新室友DeepSeek报到！五个AI住一起会发生什么](../../videos/cases/BV1eMeS6SETU.md)：合租、打工与群像日常；Q版角色与常规比例角色同场、旧城区实景质感背景与动漫角色组合。
+- [月初当神仙，月底请笔仙【AI全民制作人】](../../videos/cases/BV1CNa36nEyw.md)：用户体验与产品关系讽刺；竖屏动漫角色与立体卡通人物混排、月初月中月末章节大字。
+- [什么叫Claude对DeepSeek表白了？？](../../videos/cases/BV1PTHB6BEbA.md)：双人关系与情感短剧；阳光公园动漫短剧、双人中景与面部近景交替。
+- [【1月新番/DS×claude】我怎么可能成为你的蒸馏模型，不行不行！（※不是不可能！？）](../../videos/cases/BV191Yr6bEYy.md)：番剧OP、PV与校园戏仿；平面色块与几何图形、日系动画OP式人物展示。
+- [【10月新番】败犬AI太多了！ 正式PV【4K】](../../videos/cases/BV1Nfag6xEHQ.md)：番剧OP、PV与校园戏仿；校园动画片头式群像、高饱和几何装饰。
+- [AI娘的日常（大概?）](../../videos/cases/BV1mwRzBdEzk.md)：角色图鉴与表情图集；白底表情海报、Q版人物与巨大文字。
+- [GPT娘也想成为偶像！](../../videos/cases/BV1K4ax6YE2n.md)：翻唱、音乐梗与偶像MV；紫色灯环舞台、常规龙娘与Q版伴舞同屏。
+
+只把该作者作品的可见表现接入角色页；声音未试听。更多见[独立视频栏目](../../videos/README.md)。
