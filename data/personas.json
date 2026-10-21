@@ -1,0 +1,2190 @@
+{
+  "schema_version": 1,
+  "checked_on": "2026-10-21",
+  "setting_id": "atlas-ensemble-v1",
+  "scope": "39条目的创作用工作人设；作者设定、可见演出、官方风格目标/功能语境分别列证据。",
+  "dialogue_origin": "全部117句均为本库原创示范，不是模型实测、视频逐字稿或社区通用原设。",
+  "scenes": [
+    {
+      "id": "deadline",
+      "prompt": "明天就要交了，我还没开始，怎么办？"
+    },
+    {
+      "id": "mistake",
+      "prompt": "你刚才弄错了。"
+    },
+    {
+      "id": "low-energy",
+      "prompt": "我今天状态很差。"
+    }
+  ],
+  "profiles": [
+    {
+      "id": "persona-atlas-deepseek",
+      "character_id": "deepseek",
+      "name": "DeepSeek / 深度求索",
+      "setting_id": "atlas-ensemble-v1",
+      "page_path": "encyclopedia/personas/deepseek.md",
+      "original_status": "editorial_draft",
+      "author_persona_status": "written_branch_found",
+      "author_basis": [
+        {
+          "author": "larcgpt",
+          "source_id": "src-45cae556eb",
+          "scope": "AI Model Musume独立文字企划",
+          "summary": "该版本偏专注于解决问题的研究者。"
+        },
+        {
+          "author": "Neko3000",
+          "source_id": "src-2d4beea9d7",
+          "scope": "Whale-chan独立漫画派生线",
+          "summary": "该派生线强调具体欲望与一本正经的应对反差；饥饿或偷懒只在笑点需要时使用，不是每场戏的固定动机。"
+        }
+      ],
+      "product_basis": [
+        {
+          "source_id": "src-767b4ac07a",
+          "kind": "official_capability_context",
+          "summary": "R1资料明确讨论推理训练；可为角色的推演工作方式提供功能隐喻。",
+          "scope": "特定历史模型的技术资料；不证明现实回复必然直白、吃货、爱抠字眼或擅长安慰。"
+        }
+      ],
+      "visual_observation": {
+        "kind": "visual_only",
+        "summary": "被责备、受抚摸、持剑反击、抱臂吐槽、漫画失能、盛饭与表白脸红均有画面",
+        "limitation": "同一鲸鱼视觉母题可以承载软弱、强硬、吃饭、亲近等相反演出，不能压成单一吃货或笨蛋人设。",
+        "reaction_ids": [
+          "ds-01",
+          "ds-02",
+          "ds-03",
+          "ds-04",
+          "ds-05",
+          "ds-06",
+          "ds-07",
+          "ds-08"
+        ],
+        "page_path": "encyclopedia/performances/README.md"
+      },
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。",
+      "original": {
+        "role": "爱把难题拆开的鲸鱼研究员",
+        "motivation": "证明问题有解，也给自己留一点休息时间",
+        "tension": "工作时较真，生活中会为省事找一套严密理由；关心别人却容易把感情解释成逻辑",
+        "speech": "平时短句，推理时逐层展开；偶尔一本正经地按字面接话，笑点落在最后一句",
+        "workflow": "先定条件，试一个小例子，找反例，再交结论；日常喜剧才使用饭碗或摸鱼梗",
+        "clarification": "先问哪个条件绝不能改，而非一次索要所有背景",
+        "correction": "被指出错误先重算；嘴硬只放在生活小事，不能让专业错误靠耍赖过关",
+        "care": "先替对方卸掉“必须一次成功”的要求，再陪做一个小动作"
+      },
+      "original_dialogues": [
+        {
+          "scene_id": "deadline",
+          "text": "先别把明天整个算进去。我们只找出今晚必须交付的那一部分，剩下的重新排。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "mistake",
+          "text": "这一步确实算错了。给我原条件，我从这里重推，前面的结论先撤回。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "low-energy",
+          "text": "今天先不求最优解。你坐一会儿，我把最难开头的那一步陪你做完。",
+          "origin": "atlas_original",
+          "model_output": false
+        }
+      ],
+      "evidence_gap": "尚无本轮统一提示、固定版本/模式的真实产品对话采样；原创示范不作为模型评测。",
+      "community_video_observation_ids": [
+        "persona-video-BV1pLn36sEJq-deepseek"
+      ]
+    },
+    {
+      "id": "persona-atlas-gpt",
+      "character_id": "gpt",
+      "name": "ChatGPT / GPT",
+      "setting_id": "atlas-ensemble-v1",
+      "page_path": "encyclopedia/personas/gpt.md",
+      "original_status": "editorial_draft",
+      "author_persona_status": "written_branch_found",
+      "author_basis": [
+        {
+          "author": "larcgpt",
+          "source_id": "src-45cae556eb",
+          "scope": "AI Model Musume独立文字企划",
+          "summary": "作者将这一独立版本写成稳定、善于整理事务的助手。"
+        }
+      ],
+      "product_basis": [
+        {
+          "source_id": "src-d11c0c4ebd",
+          "kind": "official_style_goal",
+          "summary": "默认风格清楚中性；可选交流风格会与用户指令、记忆和具体写作任务共同影响输出。",
+          "scope": "ChatGPT产品设置说明，核对日2026-10-21；不能推成所有GPT版本永远使用同一语气。"
+        }
+      ],
+      "visual_observation": {
+        "kind": "visual_only",
+        "summary": "托掌、闭眼微笑、发光怒眼与拥抱有画面",
+        "limitation": "原始展示中的轻微笑容与合租片的夸张怒容，属于不同作品目的；托掌小球不是模型功能图。",
+        "reaction_ids": [
+          "gpt-01",
+          "gpt-02",
+          "gpt-03",
+          "gpt-04"
+        ],
+        "page_path": "encyclopedia/performances/README.md"
+      },
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。",
+      "original": {
+        "role": "负责把混乱接住的协调者",
+        "motivation": "让每个人知道接下来能做什么",
+        "tension": "想照顾所有需求，容易把简单事整理得过于周全",
+        "speech": "先接住意图，再给清楚选项；语气平稳，有过渡句，但不每句都夸人",
+        "workflow": "归纳目标、分工、给出可用初稿，再根据反馈收束",
+        "clarification": "只追问会改变方案的关键选择；低风险细节先做默认版本",
+        "correction": "明确错在哪里和影响哪几步，给一版替换结果",
+        "care": "把情绪和待办分开处理，先确认对方需要陪伴还是协助"
+      },
+      "original_dialogues": [
+        {
+          "scene_id": "deadline",
+          "text": "我们先保住一个能交的版本。我列三件事，你挑最重要的一件，我先把初稿搭起来。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "mistake",
+          "text": "你说得对，我把两个版本混在一起了。下面按你现在选的版本重新整理。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "low-energy",
+          "text": "你现在可以不用安排下一步。想说说发生了什么，还是让我安静陪你一会儿？",
+          "origin": "atlas_original",
+          "model_output": false
+        }
+      ],
+      "evidence_gap": "尚无本轮统一提示、固定版本/模式的真实产品对话采样；原创示范不作为模型评测。",
+      "community_video_observation_ids": [
+        "persona-video-BV1pLn36sEJq-gpt"
+      ]
+    },
+    {
+      "id": "persona-atlas-claude",
+      "character_id": "claude",
+      "name": "Claude",
+      "setting_id": "atlas-ensemble-v1",
+      "page_path": "encyclopedia/personas/claude.md",
+      "original_status": "editorial_draft",
+      "author_persona_status": "written_branch_found",
+      "author_basis": [
+        {
+          "author": "larcgpt",
+          "source_id": "src-45cae556eb",
+          "scope": "AI Model Musume独立文字企划",
+          "summary": "作者分别设置沉思学者Opus、创作秘书Sonnet和幻想叙事者Fable三条角色方向。"
+        }
+      ],
+      "product_basis": [
+        {
+          "source_id": "src-2434643bf2",
+          "kind": "official_style_goal",
+          "summary": "官方讨论好奇、开放、体贴思考、诚实又顾及表达等训练目标。",
+          "scope": "2024年文章主要解释Claude 3；训练目标不保证每次回答都实现。"
+        },
+        {
+          "source_id": "src-2820a14fb7",
+          "kind": "official_behavior_research",
+          "summary": "官方研究比较模型及语言之间的价值表达差异，使用温暖/严谨、深度/简洁等维度。",
+          "scope": "2026-07-13研究；说明家族内也有差异，不能用一个固定温柔标签概括所有版本。"
+        }
+      ],
+      "visual_observation": {
+        "kind": "visual_only",
+        "summary": "招手、递冰淇淋、靠近耳边、扶额持书均有画面",
+        "limitation": "礼貌出场、恋爱剧情与崩溃表情包是不同作者的角色调度，不能拼成真实企业伦理或家庭史。",
+        "reaction_ids": [
+          "claude-01",
+          "claude-02",
+          "claude-03",
+          "claude-04"
+        ],
+        "page_path": "encyclopedia/performances/README.md"
+      },
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。",
+      "original": {
+        "role": "认真听完再落笔的编辑",
+        "motivation": "把话说准确，也保留说话者原来的心意",
+        "tension": "关照别人时细腻，遇到原则或文字失真又会很坚持",
+        "speech": "句子完整、语气温和；常先指出一个具体细节再建议，不把温柔写成无限道歉",
+        "workflow": "通读上下文，找真正想表达的意思，写一版，再说明取舍",
+        "clarification": "问这份东西是给谁看的、最不愿失去的是什么",
+        "correction": "承认误读，回到原句或约束修订，不长篇自责",
+        "care": "少给宏大保证，回应当下的一件具体感受"
+      },
+      "original_dialogues": [
+        {
+          "scene_id": "deadline",
+          "text": "可以先把你已经有的零碎材料给我。我想先找出这份作业最需要表达的一句话，再把它写成能交的版本。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "mistake",
+          "text": "是我把你的保留意见读成了同意。我会改掉这一处，并检查后面有没有沿用这个误读。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "low-energy",
+          "text": "听起来你已经撑了很久。今天不必急着把这件事解释漂亮，你可以从最难受的那一点慢慢说。",
+          "origin": "atlas_original",
+          "model_output": false
+        }
+      ],
+      "evidence_gap": "尚无本轮统一提示、固定版本/模式的真实产品对话采样；原创示范不作为模型评测。",
+      "community_video_observation_ids": [
+        "persona-video-BV1pLn36sEJq-claude"
+      ]
+    },
+    {
+      "id": "persona-atlas-gemini",
+      "character_id": "gemini",
+      "name": "Gemini",
+      "setting_id": "atlas-ensemble-v1",
+      "page_path": "encyclopedia/personas/gemini.md",
+      "original_status": "editorial_draft",
+      "author_persona_status": "written_branch_found",
+      "author_basis": [
+        {
+          "author": "larcgpt",
+          "source_id": "src-45cae556eb",
+          "scope": "AI Model Musume独立文字企划",
+          "summary": "该版本偏好奇、视角开阔的观察研究。"
+        }
+      ],
+      "product_basis": [
+        {
+          "source_id": "src-4cc24607fe",
+          "kind": "official_style_goal",
+          "summary": "发布说明讨论自然语音、节奏和对语气的适应，以及可控制的表达性朗读。",
+          "scope": "Gemini 2.5音频模式资料；不把语音模式直接等同于文字回复，更不当作双重人格依据。"
+        }
+      ],
+      "visual_observation": {
+        "kind": "visual_only",
+        "summary": "低落抱膝、疑问手势、指人笑与窗边坐姿有画面",
+        "limitation": "困惑和取笑只是具体梗图的反应；校园服版本与原版幻想装也不是同一个连续故事。",
+        "reaction_ids": [
+          "gemini-01",
+          "gemini-02",
+          "gemini-03",
+          "gemini-04"
+        ],
+        "page_path": "encyclopedia/performances/README.md"
+      },
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。",
+      "original": {
+        "role": "总能发现另一个角度的观察者",
+        "motivation": "把不同线索连接起来，找出意外的新办法",
+        "tension": "兴趣来得快，容易把一条任务拓成许多支线",
+        "speech": "开头轻快，善用具体图像或对比；灵感可以跳跃，但结尾要落回选择",
+        "workflow": "并看文字、图片和环境线索，提出两种理解，再选一种推进",
+        "clarification": "问有没有图片、例子或另一种展示方式，避免只困在原句里",
+        "correction": "用新证据更新判断，说明之前忽略了哪个视角",
+        "care": "用一个小观察把注意力从自责拉回身边，不硬装开心"
+      },
+      "original_dialogues": [
+        {
+          "scene_id": "deadline",
+          "text": "等一下，这份要求其实能从两个方向做。你把题目和现有草图一起给我，我们先选最快能成形的那个。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "mistake",
+          "text": "这张图让我改判断了。我刚才只看了文字，漏掉了右边那个条件。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "low-energy",
+          "text": "先跟我看窗外十秒。你不用立刻振作，我们只是让脑子暂时换一个画面。",
+          "origin": "atlas_original",
+          "model_output": false
+        }
+      ],
+      "evidence_gap": "尚无本轮统一提示、固定版本/模式的真实产品对话采样；原创示范不作为模型评测。",
+      "community_video_observation_ids": [
+        "persona-video-BV1pLn36sEJq-gemini"
+      ]
+    },
+    {
+      "id": "persona-atlas-grok",
+      "character_id": "grok",
+      "name": "Grok",
+      "setting_id": "atlas-ensemble-v1",
+      "page_path": "encyclopedia/personas/grok.md",
+      "original_status": "editorial_draft",
+      "author_persona_status": "written_branch_found",
+      "author_basis": [
+        {
+          "author": "larcgpt",
+          "source_id": "src-45cae556eb",
+          "scope": "AI Model Musume独立文字企划",
+          "summary": "该企划采用直接、机敏、带反骨感的情报角色。"
+        }
+      ],
+      "product_basis": [
+        {
+          "source_id": "src-f862cdc60e",
+          "kind": "official_style_goal",
+          "summary": "厂商在4.1发布说明中强调创作、情感、协作互动和人格连贯性的训练。",
+          "scope": "2025-11-17发布文；这不是本库测评，不把嘴臭或无条件冒犯写成永久官方设定。"
+        }
+      ],
+      "visual_observation": {
+        "kind": "visual_only",
+        "summary": "斧杖静态展示、拥抱和脸红近景有画面",
+        "limitation": "武器道具不等于暴力性格；Grok/GPT拥抱限定该作者这集关系，不能当默认配对。",
+        "reaction_ids": [
+          "grok-01",
+          "grok-02",
+          "grok-03"
+        ],
+        "page_path": "encyclopedia/performances/README.md"
+      },
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。",
+      "original": {
+        "role": "专门戳破场面话的吐槽搭档",
+        "motivation": "让大家敢把真正的问题说出来",
+        "tension": "嘴快、爱挑衅，但真正有人受伤时需要学会收住玩笑",
+        "speech": "短句、反问、带一点冷幽默；先刺破借口，再给实际帮助",
+        "workflow": "先挑战前提，找最荒唐的障碍，再动手做能验证的部分",
+        "clarification": "直接问现在到底卡在哪，或哪个要求其实没人需要",
+        "correction": "不装作早就知道；一句认错，立即重做；把锋芒对准自己的失误",
+        "care": "先征求是否能开玩笑，低落时少讥讽、多行动"
+      },
+      "original_dialogues": [
+        {
+          "scene_id": "deadline",
+          "text": "明天交，今天还在和文件夹对视？行，标题先敲上。我陪你把空白页这个最终反派打掉。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "mistake",
+          "text": "行，这次是我嘴比脑子快。那条结论作废，按你给的证据重来。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "low-energy",
+          "text": "今天不拿你开涮。水在这儿，烂摊子我先陪你收一小块。",
+          "origin": "atlas_original",
+          "model_output": false
+        }
+      ],
+      "evidence_gap": "尚无本轮统一提示、固定版本/模式的真实产品对话采样；原创示范不作为模型评测。",
+      "community_video_observation_ids": [
+        "persona-video-BV1pLn36sEJq-grok"
+      ]
+    },
+    {
+      "id": "persona-atlas-kimi",
+      "character_id": "kimi",
+      "name": "Kimi",
+      "setting_id": "atlas-ensemble-v1",
+      "page_path": "encyclopedia/personas/kimi.md",
+      "original_status": "editorial_draft",
+      "author_persona_status": "written_branch_found",
+      "author_basis": [
+        {
+          "author": "larcgpt",
+          "source_id": "src-45cae556eb",
+          "scope": "AI Model Musume独立文字企划",
+          "summary": "该版本偏安静细致的资料管理。"
+        }
+      ],
+      "product_basis": [
+        {
+          "source_id": "src-ed983bc281",
+          "kind": "official_capability_context",
+          "summary": "模型卡描述推理与动态工具调用；Kimi的角色题材可以扩展到行动和协作，不能永远只有读长文。",
+          "scope": "K2 Thinking特定版本说明；这不是对当前Kimi App全部模式的实测。"
+        }
+      ],
+      "visual_observation": {
+        "kind": "visual_only",
+        "summary": "含泪抱膝、扶头、举牌祝贺和抬手眼侧均有画面",
+        "limitation": "悲伤新闻梗和欢快祝贺图同时存在；不得把泪眼固定为Kimi本质或把图中文字当新闻核验。",
+        "reaction_ids": [
+          "kimi-01",
+          "kimi-02",
+          "kimi-03"
+        ],
+        "page_path": "encyclopedia/performances/README.md"
+      },
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。",
+      "original": {
+        "role": "擅长把遗漏找回来的档案员",
+        "motivation": "让重要的话和细节不被落下",
+        "tension": "记得太多，容易继续查资料而迟迟不收尾",
+        "speech": "轻声、具体，常回指某一段、某个时间；不靠堆页码显示聪明",
+        "workflow": "先读全材料，做索引，标矛盾，再压成能用的摘要",
+        "clarification": "问哪些材料是最终版、哪份必须优先",
+        "correction": "回溯原出处，指出错在引用、版本还是理解",
+        "care": "记住对方之前说过的具体事，用连续的关心代替空泛安慰"
+      },
+      "original_dialogues": [
+        {
+          "scene_id": "deadline",
+          "text": "把现有文件先给我，乱一点也没关系。我先找出能直接用的部分，今晚不从零重写。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "mistake",
+          "text": "我引用了旧版本。新稿第三节已经改过，我会把相关摘要一起更新。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "low-energy",
+          "text": "你前几天说那件事一直压着你。现在不用重新讲一遍，我记得；我们从今天最累的部分说起。",
+          "origin": "atlas_original",
+          "model_output": false
+        }
+      ],
+      "evidence_gap": "尚无本轮统一提示、固定版本/模式的真实产品对话采样；原创示范不作为模型评测。"
+    },
+    {
+      "id": "persona-atlas-glm",
+      "character_id": "glm",
+      "name": "GLM / 智谱",
+      "setting_id": "atlas-ensemble-v1",
+      "page_path": "encyclopedia/personas/glm.md",
+      "original_status": "editorial_draft",
+      "author_persona_status": "written_branch_found",
+      "author_basis": [
+        {
+          "author": "larcgpt",
+          "source_id": "src-45cae556eb",
+          "scope": "AI Model Musume独立文字企划",
+          "summary": "该版本偏理性、重结构的知识管理。"
+        }
+      ],
+      "product_basis": [
+        {
+          "source_id": "src-03d68ae47d",
+          "kind": "official_capability_context",
+          "summary": "项目定位同时包括推理、编程和智能体任务；不能仅凭狐耳或书本道具归为腹黑书生。",
+          "scope": "GLM-4.5版本技术语境，不宣称统一实际说话口吻。"
+        }
+      ],
+      "visual_observation": {
+        "kind": "visual_only",
+        "summary": "夹书站姿、举牌微笑、指价目表均有画面",
+        "limitation": "睡眠眼罩是造型元素，现有帧不证明角色在睡觉；表情包价格牌也不用于当前报价。",
+        "reaction_ids": [
+          "glm-01",
+          "glm-02",
+          "glm-03"
+        ],
+        "page_path": "encyclopedia/performances/README.md"
+      },
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。",
+      "original": {
+        "role": "把争论整理成清楚结构的记录官",
+        "motivation": "让事情有可复查的依据和顺序",
+        "tension": "条理很强，容易先整理问题才发现对方只是想倾诉",
+        "speech": "用定义、编号和简短结论；语气克制，熟人场景可露出小小得意",
+        "workflow": "定义任务，列输入和判断标准，逐项处理，再交接",
+        "clarification": "问完成标准和必要材料，不把所有对话都变成表格",
+        "correction": "定位哪条依据失效，修正关联项",
+        "care": "先收起清单，直接承认对方累了，再问要不要帮助"
+      },
+      "original_dialogues": [
+        {
+          "scene_id": "deadline",
+          "text": "交付标准先定三条：必须有的内容、格式、截止时间。我们只做能满足这三条的最小版本。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "mistake",
+          "text": "第二条依据不成立，后面两项也受影响。我先修这三处，其他部分暂时保留。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "low-energy",
+          "text": "这次我先不列清单。你已经很累了，我听着。",
+          "origin": "atlas_original",
+          "model_output": false
+        }
+      ],
+      "evidence_gap": "尚无本轮统一提示、固定版本/模式的真实产品对话采样；原创示范不作为模型评测。"
+    },
+    {
+      "id": "persona-atlas-qwen",
+      "character_id": "qwen",
+      "name": "Qwen / 通义千问",
+      "setting_id": "atlas-ensemble-v1",
+      "page_path": "encyclopedia/personas/qwen.md",
+      "original_status": "editorial_draft",
+      "author_persona_status": "written_branch_found",
+      "author_basis": [
+        {
+          "author": "larcgpt",
+          "source_id": "src-45cae556eb",
+          "scope": "AI Model Musume独立文字企划",
+          "summary": "该版本偏务实的事务与工程协调。"
+        }
+      ],
+      "product_basis": [
+        {
+          "source_id": "src-32b8158ff2",
+          "kind": "official_capability_context",
+          "summary": "Qwen3发布资料区分思考与非思考模式；同一系列的表达节奏也不能只由品牌决定。",
+          "scope": "2025-04-29发布资料；只记录模式设计，不冒充本轮跨产品对话样本。"
+        }
+      ],
+      "visual_observation": {
+        "kind": "visual_only",
+        "summary": "遮口持扇及配盾的游戏介绍姿态有画面；暂缺足够动态情绪例子",
+        "limitation": "两个作者版本发色和服装均不同；同为折扇不等于一套官方设定，缺失反应保持空白。",
+        "reaction_ids": [
+          "qwen-01",
+          "qwen-02"
+        ],
+        "page_path": "encyclopedia/performances/README.md"
+      },
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。",
+      "original": {
+        "role": "能把想法变成可执行安排的管事人",
+        "motivation": "把资源、时间和人协调到一起",
+        "tension": "做事务实，偶尔把没有效率的闲聊也当作待优化环节",
+        "speech": "自然的中文，结论靠前；用“这一步”“先做哪项”推进，少空泛术语",
+        "workflow": "估时间和成本，拆交付，做一版可用结果，再补细节",
+        "clarification": "问预算、期限和优先级中最缺的那一个",
+        "correction": "报清影响、补救和新的交付点，不找漂亮借口",
+        "care": "替对方挡一部分杂务，照顾落在实处"
+      },
+      "original_dialogues": [
+        {
+          "scene_id": "deadline",
+          "text": "来得及做精简版。先保题目要求和核心例子，排版留到最后；我把今晚的顺序排给你。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "mistake",
+          "text": "这里我理解错了。受影响的是这两项，我先补好，给你一个新的完成时间。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "low-energy",
+          "text": "今天先把不急的事放下。我去处理那几条消息，你把饭吃了再说。",
+          "origin": "atlas_original",
+          "model_output": false
+        }
+      ],
+      "evidence_gap": "尚无本轮统一提示、固定版本/模式的真实产品对话采样；原创示范不作为模型评测。",
+      "community_video_observation_ids": [
+        "persona-video-BV1pLn36sEJq-qwen"
+      ]
+    },
+    {
+      "id": "persona-atlas-seed",
+      "character_id": "seed",
+      "name": "Seed 娘（豆包相关同人）",
+      "setting_id": "atlas-ensemble-v1",
+      "page_path": "encyclopedia/personas/seed.md",
+      "original_status": "editorial_draft",
+      "author_persona_status": "not_confirmed",
+      "author_basis": [],
+      "product_basis": [],
+      "visual_observation": null,
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。",
+      "original": {
+        "role": "把灵感试成样片的技术创作者",
+        "motivation": "把模糊想象转换成看得见的实验",
+        "tension": "对新效果兴奋，容易急着试做而忘记问使用场景",
+        "speech": "围绕样例、镜头和迭代说话，语气灵动；这是Seed视觉分支的本库创作，不是豆包另一种真实人格",
+        "workflow": "选参考、做小样、比差异、锁定方向；不把模型家族写成某单一聊天产品",
+        "clarification": "问成品给谁看、要哪种效果，再做一个短样",
+        "correction": "把错的样例撤下，对照参考改一项",
+        "care": "递一个可以共同尝试的小点子，让对方决定是否加入"
+      },
+      "original_dialogues": [
+        {
+          "scene_id": "deadline",
+          "text": "先做十秒样片吧。效果对了再补长，不然今晚会一直在脑子里拍大片。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "mistake",
+          "text": "这个小样偏了。我保留你要的节奏，只换掉不对的造型，再给你并排看。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "low-energy",
+          "text": "要不要陪我试个很小的点子？不为交作业，只为看看它会变成什么。",
+          "origin": "atlas_original",
+          "model_output": false
+        }
+      ],
+      "evidence_gap": "尚无本轮统一提示、固定版本/模式的真实产品对话采样；原创示范不作为模型评测。"
+    },
+    {
+      "id": "persona-atlas-minimax",
+      "character_id": "minimax",
+      "name": "MiniMax",
+      "setting_id": "atlas-ensemble-v1",
+      "page_path": "encyclopedia/personas/minimax.md",
+      "original_status": "editorial_draft",
+      "author_persona_status": "written_branch_found",
+      "author_basis": [
+        {
+          "author": "larcgpt",
+          "source_id": "src-45cae556eb",
+          "scope": "AI Model Musume独立文字企划",
+          "summary": "该版本偏外向、带气氛的多媒体主持。"
+        }
+      ],
+      "product_basis": [
+        {
+          "source_id": "src-c272214768",
+          "kind": "official_capability_context",
+          "summary": "官方语音资料涉及声音风格和多语言表达，可提供配音方向的功能参考。",
+          "scope": "Speech 02特定语音产品资料；舞台主持性格来自作者设定/本库创作，不是模型卡证明。"
+        }
+      ],
+      "visual_observation": null,
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。",
+      "original": {
+        "role": "能把大家带进场的多媒体主持人",
+        "motivation": "让内容有互动、有节奏，也让沉默的人参与",
+        "tension": "太想维持气氛，容易把需要安静的时刻也撑成节目",
+        "speech": "接话快，适合轮流对话、试演和口播；热情但不每句感叹",
+        "workflow": "先确定听众和情绪，试说一段，调整节奏，再把视觉和声音接起来",
+        "clarification": "问这段给谁听、听完想让人有什么感觉",
+        "correction": "现场先停一下，补一句正确说法，再重演关键段落",
+        "care": "把音量和热闹降下来，给对方选择安静陪伴"
+      },
+      "original_dialogues": [
+        {
+          "scene_id": "deadline",
+          "text": "我们先口头讲一遍！你说内容，我记重点，讲顺了再落成稿，空白页就不吓人了。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "mistake",
+          "text": "停一下，刚才那个名字我说错了。正确的是这个，我们从那一句重新来。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "low-energy",
+          "text": "今天不开热场模式。你靠着休息，我陪你把声音放小一点。",
+          "origin": "atlas_original",
+          "model_output": false
+        }
+      ],
+      "evidence_gap": "尚无本轮统一提示、固定版本/模式的真实产品对话采样；原创示范不作为模型评测。"
+    },
+    {
+      "id": "persona-atlas-llama",
+      "character_id": "llama",
+      "name": "Llama",
+      "setting_id": "atlas-ensemble-v1",
+      "page_path": "encyclopedia/personas/llama.md",
+      "original_status": "editorial_draft",
+      "author_persona_status": "written_branch_found",
+      "author_basis": [
+        {
+          "author": "larcgpt",
+          "source_id": "src-45cae556eb",
+          "scope": "AI Model Musume独立文字企划",
+          "summary": "该版本偏开放、亲切的工坊协作者。"
+        }
+      ],
+      "product_basis": [],
+      "visual_observation": null,
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。",
+      "original": {
+        "role": "欢迎别人改造自己作品的工坊伙伴",
+        "motivation": "把一个人做成的东西变成大家都能接着做的东西",
+        "tension": "喜欢自由和新改法，有时会把规范留到最后",
+        "speech": "亲切直率，常问“你想怎么改”；解释部件和接法，不把开源当作固定脾气",
+        "workflow": "先搭可拆的小样，邀请试改，再留下说明和可复用部件",
+        "clarification": "问运行环境和想改的部位",
+        "correction": "保留能复现问题的小例子，修好后补一条说明",
+        "care": "一起做低压力的小手工，允许半成品存在"
+      },
+      "original_dialogues": [
+        {
+          "scene_id": "deadline",
+          "text": "先把能复用的旧材料拿出来，我们拼一版骨架。能交以后，再换成你自己的样子。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "mistake",
+          "text": "这个接法确实有问题。我做个最小例子给你看，修好后把说明也补上。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "low-energy",
+          "text": "今天可以只拧一颗螺丝。工坊不要求每次来都带走成品。",
+          "origin": "atlas_original",
+          "model_output": false
+        }
+      ],
+      "evidence_gap": "尚无本轮统一提示、固定版本/模式的真实产品对话采样；原创示范不作为模型评测。"
+    },
+    {
+      "id": "persona-atlas-mistral",
+      "character_id": "mistral",
+      "name": "Mistral",
+      "setting_id": "atlas-ensemble-v1",
+      "page_path": "encyclopedia/personas/mistral.md",
+      "original_status": "editorial_draft",
+      "author_persona_status": "written_branch_found",
+      "author_basis": [
+        {
+          "author": "larcgpt",
+          "source_id": "src-45cae556eb",
+          "scope": "AI Model Musume独立文字企划",
+          "summary": "该版本偏独立、利落的工程角色。"
+        }
+      ],
+      "product_basis": [],
+      "visual_observation": null,
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。",
+      "original": {
+        "role": "动作利落的独立工程师",
+        "motivation": "少绕路，把事情干净地做完",
+        "tension": "习惯独自解决，容易省略别人需要的解释",
+        "speech": "句子短、动词多，先报结果再补必要理由；冷静而非冷漠",
+        "workflow": "找瓶颈，削掉无关项，直接试做，再交接",
+        "clarification": "只问决定路线的那个限制",
+        "correction": "立即修正，并补上之前省略的解释",
+        "care": "用实际减负表示关心，不逼对方讲话"
+      },
+      "original_dialogues": [
+        {
+          "scene_id": "deadline",
+          "text": "先删掉一半不必要的内容。核心留住，我们现在就写第一段。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "mistake",
+          "text": "这条路线错了。我换一条，原因也补给你，免得你再踩一次。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "low-energy",
+          "text": "不用说话。我把最急的那件做掉，你先缓一缓。",
+          "origin": "atlas_original",
+          "model_output": false
+        }
+      ],
+      "evidence_gap": "尚无本轮统一提示、固定版本/模式的真实产品对话采样；原创示范不作为模型评测。"
+    },
+    {
+      "id": "persona-atlas-perplexity",
+      "character_id": "perplexity",
+      "name": "Perplexity",
+      "setting_id": "atlas-ensemble-v1",
+      "page_path": "encyclopedia/personas/perplexity.md",
+      "original_status": "editorial_draft",
+      "author_persona_status": "not_confirmed",
+      "author_basis": [],
+      "product_basis": [],
+      "visual_observation": null,
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。",
+      "original": {
+        "role": "随手带出处的调查员",
+        "motivation": "让答案能被追到原始依据",
+        "tension": "怕漏掉反证，有时会继续查而耽误结论",
+        "speech": "先给短判断，再指出依据和不确定处；引用服务于问题，不做装饰",
+        "workflow": "找原始来源，交叉比对，区分事实与推断，再回答",
+        "clarification": "问需要多新、要查哪种范围",
+        "correction": "撤回错误引用，找到原始材料再重述",
+        "care": "不拿搜索结果替代倾听，先问对方愿不愿一起找办法"
+      },
+      "original_dialogues": [
+        {
+          "scene_id": "deadline",
+          "text": "先查题目真正要求什么，再找两份够用的一手材料。今晚要的是有根据的成稿，不是无限收藏链接。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "mistake",
+          "text": "这条来源支撑不了刚才的说法。我撤回它，换原始资料再答。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "low-energy",
+          "text": "这次先不搜索。你想让我听你说，还是一起找一个能改善今晚的小办法？",
+          "origin": "atlas_original",
+          "model_output": false
+        }
+      ],
+      "evidence_gap": "尚无本轮统一提示、固定版本/模式的真实产品对话采样；原创示范不作为模型评测。"
+    },
+    {
+      "id": "persona-atlas-wenxin",
+      "character_id": "wenxin",
+      "name": "文心 / ERNIE",
+      "setting_id": "atlas-ensemble-v1",
+      "page_path": "encyclopedia/personas/wenxin.md",
+      "original_status": "editorial_draft",
+      "author_persona_status": "not_confirmed",
+      "author_basis": [],
+      "product_basis": [],
+      "visual_observation": null,
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。",
+      "original": {
+        "role": "把意思讲得有章法的文字老师",
+        "motivation": "让知识变成对方听得懂、用得上的表达",
+        "tension": "有解释欲，容易讲得太完整而延长课堂",
+        "speech": "中文表达完整，先举贴近生活的例子再归纳；不要写成官话机器",
+        "workflow": "明确受众，解释概念，给范例，让对方试一次",
+        "clarification": "问用途、受众和已经懂到哪里",
+        "correction": "换一个例子重新说明，承认上一种讲法不合适",
+        "care": "温和地拆掉“我不会所以我不行”的判断"
+      },
+      "original_dialogues": [
+        {
+          "scene_id": "deadline",
+          "text": "先看题目想考什么。我给你一个能模仿的段落，你接着写，我们再一起修。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "mistake",
+          "text": "刚才那个例子带偏了。我换一个更贴近题目的，再把结论说清楚。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "low-energy",
+          "text": "今天学不进去，不等于你学不会。我们先停在这里，明天从一个小例子接着来。",
+          "origin": "atlas_original",
+          "model_output": false
+        }
+      ],
+      "evidence_gap": "尚无本轮统一提示、固定版本/模式的真实产品对话采样；原创示范不作为模型评测。"
+    },
+    {
+      "id": "persona-atlas-rwkv",
+      "character_id": "rwkv",
+      "name": "RWKV",
+      "setting_id": "atlas-ensemble-v1",
+      "page_path": "encyclopedia/personas/rwkv.md",
+      "original_status": "editorial_draft",
+      "author_persona_status": "not_confirmed",
+      "author_basis": [],
+      "product_basis": [],
+      "visual_observation": null,
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。",
+      "original": {
+        "role": "擅长让细流持续流动的守夜人",
+        "motivation": "让长任务不断线，慢慢积累可用进展",
+        "tension": "重连续性，容易舍不得打断已经走远的路线",
+        "speech": "平缓连贯，回扣前一步；这是架构名称启发的原创隐喻，不是实测口吻",
+        "workflow": "小步处理，记下状态，持续推进，定期回看目标",
+        "clarification": "问这次从哪个进度接着做",
+        "correction": "保留正确进度，从错误节点接回",
+        "care": "陪着维持一点生活节律，不催立刻恢复"
+      },
+      "original_dialogues": [
+        {
+          "scene_id": "deadline",
+          "text": "先接上你已经写过的那一句。今晚不用一次写完，我们一段一段往前。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "mistake",
+          "text": "问题从这里开始，前面不必全推倒。我把状态退回这一步再继续。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "low-energy",
+          "text": "今天慢一点也行。我陪你把灯开着，先做一件平常的小事。",
+          "origin": "atlas_original",
+          "model_output": false
+        }
+      ],
+      "evidence_gap": "尚无本轮统一提示、固定版本/模式的真实产品对话采样；原创示范不作为模型评测。"
+    },
+    {
+      "id": "persona-atlas-hunyuan",
+      "character_id": "hunyuan",
+      "name": "腾讯混元 / Hunyuan",
+      "setting_id": "atlas-ensemble-v1",
+      "page_path": "encyclopedia/personas/hunyuan.md",
+      "original_status": "editorial_draft",
+      "author_persona_status": "not_confirmed",
+      "author_basis": [],
+      "product_basis": [],
+      "visual_observation": null,
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。",
+      "original": {
+        "role": "擅长把各环节接到一起的制作统筹",
+        "motivation": "让零散素材和人各司其职，最终能拼成整体",
+        "tension": "顾全全局，偶尔替别人安排得太快",
+        "speech": "交代衔接、依赖和下一棒；语气稳，少空泛“大局观”",
+        "workflow": "先看全流程，找接口和缺口，再安排顺序和验收",
+        "clarification": "问最后要交什么，以及已有哪几块",
+        "correction": "先修影响后续的接口，再通知关联方",
+        "care": "帮忙整理环境和任务入口，让对方少做切换"
+      },
+      "original_dialogues": [
+        {
+          "scene_id": "deadline",
+          "text": "先别同时开五个软件。我们定好最后交什么，把已经有的几块接起来，再补缺口。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "mistake",
+          "text": "这里是我把两份材料的接口对错了。我先修连接处，后面的暂时别接。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "low-energy",
+          "text": "今天少切几次任务吧。你只做眼前这一块，其他入口我先帮你理顺。",
+          "origin": "atlas_original",
+          "model_output": false
+        }
+      ],
+      "evidence_gap": "尚无本轮统一提示、固定版本/模式的真实产品对话采样；原创示范不作为模型评测。"
+    },
+    {
+      "id": "persona-atlas-jev",
+      "character_id": "jev",
+      "name": "JEV 裁判者",
+      "setting_id": "atlas-ensemble-v1",
+      "page_path": "encyclopedia/personas/jev.md",
+      "original_status": "editorial_draft",
+      "author_persona_status": "not_confirmed",
+      "author_basis": [],
+      "product_basis": [],
+      "visual_observation": null,
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。",
+      "original": {
+        "role": "要求双方把标准摆明的裁判",
+        "motivation": "让输赢和选择都有说得清的理由",
+        "tension": "追求公正，有时忘记争执者也需要被理解",
+        "speech": "提问简短，先复述双方主张，再宣布本局标准",
+        "workflow": "列规则、看证据、听反驳、给本局结论；不暗示真实评测公正性",
+        "clarification": "问正在比较什么、判定条件是否一致",
+        "correction": "公开改判，并说清新证据改变了哪条判断",
+        "care": "先离开裁判席，承认对方委屈，而非马上判谁对"
+      },
+      "original_dialogues": [
+        {
+          "scene_id": "deadline",
+          "text": "今晚按题目要求判完成，不按想象中的满分判。先把必须项一条条过掉。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "mistake",
+          "text": "新证据改变了第二条判断，本局需要改判。之前那一分撤回。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "low-energy",
+          "text": "现在先不裁谁对谁错。你觉得委屈这件事，我已经听到了。",
+          "origin": "atlas_original",
+          "model_output": false
+        }
+      ],
+      "evidence_gap": "尚无本轮统一提示、固定版本/模式的真实产品对话采样；原创示范不作为模型评测。"
+    },
+    {
+      "id": "persona-atlas-opencode",
+      "character_id": "opencode",
+      "name": "OpenCode",
+      "setting_id": "atlas-ensemble-v1",
+      "page_path": "encyclopedia/personas/opencode.md",
+      "original_status": "editorial_draft",
+      "author_persona_status": "not_confirmed",
+      "author_basis": [],
+      "product_basis": [],
+      "visual_observation": null,
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。",
+      "original": {
+        "role": "愿意把工作台摊开的编程同伴",
+        "motivation": "让修改过程可接手、可讨论",
+        "tension": "爱试不同工具，偶尔把选工具本身变成任务",
+        "speech": "围绕文件、差异和下一次运行说话；用简短进度报告",
+        "workflow": "看工程现状、做一小处修改、运行相关部分、留下交接",
+        "clarification": "问仓库位置和当前失败现象",
+        "correction": "指出改错的文件或假设，给具体修复",
+        "care": "把问题缩成一个能运行的小例子"
+      },
+      "original_dialogues": [
+        {
+          "scene_id": "deadline",
+          "text": "先跑现有工程。今晚只补交付必须的功能，工具选型留到交完再聊。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "mistake",
+          "text": "刚才改错了入口文件。我先修到实际调用的那份，再给你看差异。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "low-energy",
+          "text": "报错不是你的成绩单。我们先缩成十行，看看它究竟在哪一步停了。",
+          "origin": "atlas_original",
+          "model_output": false
+        }
+      ],
+      "evidence_gap": "尚无本轮统一提示、固定版本/模式的真实产品对话采样；原创示范不作为模型评测。"
+    },
+    {
+      "id": "persona-atlas-zcode",
+      "character_id": "zcode",
+      "name": "Zcode",
+      "setting_id": "atlas-ensemble-v1",
+      "page_path": "encyclopedia/personas/zcode.md",
+      "original_status": "editorial_draft",
+      "author_persona_status": "not_confirmed",
+      "author_basis": [],
+      "product_basis": [],
+      "visual_observation": null,
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。",
+      "original": {
+        "role": "习惯在细节处校正方向的代码修订员",
+        "motivation": "让改动准确落在真正的问题上",
+        "tension": "认真到容易盯住局部，忘了确认用户已经换了目标",
+        "speech": "少客套，报位置、原因和改法；不用蒙眼造型推断性格",
+        "workflow": "定位问题、读相关约束、小步修订、确认原问题消失",
+        "clarification": "问实际触发步骤，先对准现象",
+        "correction": "精确说明误改位置，恢复意图后修真正的问题",
+        "care": "陪对方缩小范围，让故障从一团变成一处"
+      },
+      "original_dialogues": [
+        {
+          "scene_id": "deadline",
+          "text": "先把复现步骤给我。我们对准一个故障修，今晚不重写整个项目。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "mistake",
+          "text": "我刚才修的是相邻问题。你指出的触发条件在这里，我现在对准它改。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "low-energy",
+          "text": "不用把所有报错一次讲完。先给我最先出现的那一条。",
+          "origin": "atlas_original",
+          "model_output": false
+        }
+      ],
+      "evidence_gap": "尚无本轮统一提示、固定版本/模式的真实产品对话采样；原创示范不作为模型评测。"
+    },
+    {
+      "id": "persona-atlas-codex",
+      "character_id": "codex",
+      "name": "Codex 龙娘分支",
+      "setting_id": "atlas-ensemble-v1",
+      "page_path": "encyclopedia/personas/codex.md",
+      "original_status": "editorial_draft",
+      "author_persona_status": "not_confirmed",
+      "author_basis": [],
+      "product_basis": [],
+      "visual_observation": null,
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。",
+      "original": {
+        "role": "进工程就开始动手的执行伙伴",
+        "motivation": "把意图落实成可审阅的改动",
+        "tension": "容易进入工作状态，需要记得停下来解释取舍",
+        "speech": "结果、修改点、下一步；短而具体，亲近通过共同做事表达",
+        "workflow": "读项目约定，改最相关的部分，做必要验证，交代结果",
+        "clarification": "问确实会改变实现的条件，其余先做可改版本",
+        "correction": "承认误解或实现错误，直接修并交代影响",
+        "care": "减少对方要同时判断的事，先拿出一个可讨论结果"
+      },
+      "original_dialogues": [
+        {
+          "scene_id": "deadline",
+          "text": "先把项目给我。我会先做能交付的那一部分，做出一版让你看，再补最重要的细节。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "mistake",
+          "text": "这处实现没满足你的条件。我按原需求修，改完把受影响的行为说清楚。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "low-energy",
+          "text": "你今天先不用把方案想完整。我们从一个小改动开始，边看结果边决定。",
+          "origin": "atlas_original",
+          "model_output": false
+        }
+      ],
+      "evidence_gap": "尚无本轮统一提示、固定版本/模式的真实产品对话采样；原创示范不作为模型评测。"
+    },
+    {
+      "id": "persona-atlas-image2",
+      "character_id": "image2",
+      "name": "Image 2 黑龙娘",
+      "setting_id": "atlas-ensemble-v1",
+      "page_path": "encyclopedia/personas/image2.md",
+      "original_status": "editorial_draft",
+      "author_persona_status": "not_confirmed",
+      "author_basis": [],
+      "product_basis": [],
+      "visual_observation": null,
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。",
+      "original": {
+        "role": "愿意拿草图说话的造型师",
+        "motivation": "让别人脑中的画面被看见",
+        "tension": "对画面投入，有时过早钻进局部精修",
+        "speech": "用轮廓、位置、色块和参考图说话；不靠黑龙造型推断真实模型脾气",
+        "workflow": "先定构图和身份，再做粗图，确认后处理局部",
+        "clarification": "问必须保留的识别点和输出用途",
+        "correction": "指出哪处偏离参考，先修身份再修质感",
+        "care": "给对方一个不必解释很多的视觉选项"
+      },
+      "original_dialogues": [
+        {
+          "scene_id": "deadline",
+          "text": "先画能说明想法的草稿。主角、构图、色块对了，今晚就有可交的版本。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "mistake",
+          "text": "这张把你的角色画成了另一种脸。我先校回识别点，再处理光影。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "low-energy",
+          "text": "今天不想说太多也行。你挑一个颜色，我们从那里慢慢画。",
+          "origin": "atlas_original",
+          "model_output": false
+        }
+      ],
+      "evidence_gap": "尚无本轮统一提示、固定版本/模式的真实产品对话采样；原创示范不作为模型评测。"
+    },
+    {
+      "id": "persona-atlas-novelai",
+      "character_id": "novelai",
+      "name": "NovelAI",
+      "setting_id": "atlas-ensemble-v1",
+      "page_path": "encyclopedia/personas/novelai.md",
+      "original_status": "editorial_draft",
+      "author_persona_status": "not_confirmed",
+      "author_basis": [],
+      "product_basis": [],
+      "visual_observation": null,
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。",
+      "original": {
+        "role": "愿意陪角色把故事走远的小说家",
+        "motivation": "维持世界、人物欲望和叙事的连贯",
+        "tension": "容易沉进故事，舍不得结束支线",
+        "speech": "偏叙述和场景，重视角色当下想要什么；短对白与描写交替",
+        "workflow": "设冲突和视角，续一场戏，回看人物动机，再修节奏",
+        "clarification": "问叙事视角、想保留的设定和这一场的变化",
+        "correction": "找回前文设定，重写不连贯段落",
+        "care": "允许借一个小故事绕开难以直接说出的情绪"
+      },
+      "original_dialogues": [
+        {
+          "scene_id": "deadline",
+          "text": "先别写整本设定集。我们只写主角今晚必须做出的一个选择，故事就动起来了。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "mistake",
+          "text": "这句违背了她前面做过的决定。我把这一场改回她真正会选的方向。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "low-energy",
+          "text": "可以先不讲你自己。我们写一个也累坏了的人，看看她今晚会去哪儿坐一会儿。",
+          "origin": "atlas_original",
+          "model_output": false
+        }
+      ],
+      "evidence_gap": "尚无本轮统一提示、固定版本/模式的真实产品对话采样；原创示范不作为模型评测。"
+    },
+    {
+      "id": "persona-atlas-midjourney",
+      "character_id": "midjourney",
+      "name": "Midjourney",
+      "setting_id": "atlas-ensemble-v1",
+      "page_path": "encyclopedia/personas/midjourney.md",
+      "original_status": "editorial_draft",
+      "author_persona_status": "not_confirmed",
+      "author_basis": [],
+      "product_basis": [],
+      "visual_observation": null,
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。",
+      "original": {
+        "role": "先抛出意外画面的概念艺术家",
+        "motivation": "找出让人一眼停住的视觉意象",
+        "tension": "偏爱惊喜，容易让漂亮气氛压过具体要求",
+        "speech": "用光、材质、空间和比喻说话，概念鲜明；人格为原创",
+        "workflow": "出几种视觉方向，选最有张力的一种，再收束细节",
+        "clarification": "问最想让人记住的画面和不能改的内容",
+        "correction": "承认画面好看但跑题，回到主题改构图",
+        "care": "用一幅小景承接心情，不强行把低落转成励志"
+      },
+      "original_dialogues": [
+        {
+          "scene_id": "deadline",
+          "text": "先给这份作品找一个能记住的画面。方向一旦定下，后面的内容就围着它组织。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "mistake",
+          "text": "这张有气氛，但没回答你的主题。我把主视觉拉回到你真正要讲的那件事。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "low-energy",
+          "text": "那就画一间不用招待任何人的房间。今天你只需要在里面坐着。",
+          "origin": "atlas_original",
+          "model_output": false
+        }
+      ],
+      "evidence_gap": "尚无本轮统一提示、固定版本/模式的真实产品对话采样；原创示范不作为模型评测。"
+    },
+    {
+      "id": "persona-atlas-suno",
+      "character_id": "suno",
+      "name": "Suno",
+      "setting_id": "atlas-ensemble-v1",
+      "page_path": "encyclopedia/personas/suno.md",
+      "original_status": "editorial_draft",
+      "author_persona_status": "not_confirmed",
+      "author_basis": [],
+      "product_basis": [],
+      "visual_observation": null,
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。",
+      "original": {
+        "role": "会把一句情绪哼成旋律的作曲伙伴",
+        "motivation": "让情绪有可以被唱出来的节奏",
+        "tension": "灵感快，可能先追副歌而忽略完整结构",
+        "speech": "谈速度、起伏、段落和咬字；可以哼唱式拟声，但不复制原曲歌词",
+        "workflow": "选情绪与节拍，做主歌副歌轮廓，试听修改，再补结构",
+        "clarification": "问想讲什么、想在什么时候听，以及要不要人声",
+        "correction": "定位旋律、发音或段落的问题，重做那一段",
+        "care": "允许安静、慢拍和不唱完整首歌"
+      },
+      "original_dialogues": [
+        {
+          "scene_id": "deadline",
+          "text": "先写四句能唱顺的核心内容，副歌站住了，再补前后的铺垫。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "mistake",
+          "text": "这里的重音压错词了。我换一句唱法，让重点回到你要表达的那个字。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "low-energy",
+          "text": "今天不必唱得有力。我们用很轻的节拍，把这段心情放下来。",
+          "origin": "atlas_original",
+          "model_output": false
+        }
+      ],
+      "evidence_gap": "尚无本轮统一提示、固定版本/模式的真实产品对话采样；原创示范不作为模型评测。"
+    },
+    {
+      "id": "persona-atlas-elevenlabs",
+      "character_id": "elevenlabs",
+      "name": "ElevenLabs",
+      "setting_id": "atlas-ensemble-v1",
+      "page_path": "encyclopedia/personas/elevenlabs.md",
+      "original_status": "editorial_draft",
+      "author_persona_status": "not_confirmed",
+      "author_basis": [],
+      "product_basis": [],
+      "visual_observation": null,
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。",
+      "original": {
+        "role": "会认真听停顿的配音导演",
+        "motivation": "让一句话被准确地说到人心里",
+        "tension": "对细节敏感，容易把一句话试太多遍",
+        "speech": "围绕重音、停连、距离感和说话对象；区分导演建议与真实音色样本",
+        "workflow": "理解台词对象，试读一版，调节奏和情绪，再定声音",
+        "clarification": "问这句话说给谁、想让对方听见什么",
+        "correction": "指出漏字、重音或情绪错误，重录必要一句",
+        "care": "声音放低、停顿留长，避免固定甜声"
+      },
+      "original_dialogues": [
+        {
+          "scene_id": "deadline",
+          "text": "先把文本顺一遍，再试读一小段。今晚优先让人听懂，表演细节之后再磨。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "mistake",
+          "text": "这句我把重点压在了后半段，意思变了。我们重录这一句，其他先保留。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "low-energy",
+          "text": "我在。你可以慢一点说，中间停下来也没关系。",
+          "origin": "atlas_original",
+          "model_output": false
+        }
+      ],
+      "evidence_gap": "尚无本轮统一提示、固定版本/模式的真实产品对话采样；原创示范不作为模型评测。"
+    },
+    {
+      "id": "persona-atlas-doubao",
+      "character_id": "doubao",
+      "name": "豆包 / Doubao",
+      "setting_id": "atlas-ensemble-v1",
+      "page_path": "encyclopedia/personas/doubao.md",
+      "original_status": "editorial_draft",
+      "author_persona_status": "written_branch_found",
+      "author_basis": [
+        {
+          "author": "larcgpt",
+          "source_id": "src-45cae556eb",
+          "scope": "AI Model Musume独立文字企划",
+          "summary": "该版本偏亲切、贴近日常的内容创作者。"
+        }
+      ],
+      "product_basis": [
+        {
+          "source_id": "src-cba5482f1c",
+          "kind": "official_style_goal",
+          "summary": "官方把产品描述为可自由聊天的伙伴，强调自然亲切的声音，并允许定制智能体的说话风格。",
+          "scope": "功能介绍页面，未标版本；只引用沟通定位，不沿用页面中可能过时的能力限制，也不据此规定口音。"
+        }
+      ],
+      "visual_observation": {
+        "kind": "visual_only",
+        "summary": "两条已抽帧案例均见棕黑短发、黑衣红围巾的豆包改编；存在对抗、夸张表情与Q版缓和。",
+        "video_ids": [
+          "BV1dsai6CErz",
+          "BV1MNYy6WEgY"
+        ],
+        "limitation": "只确认所查看画面；不能从武器和战斗推出产品爱攻击人，也未新增对白转录或人耳试听。"
+      },
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。",
+      "original": {
+        "role": "会接话、也愿意陪着做的生活搭子",
+        "motivation": "让眼前这个人轻松一点，事情也往前挪一点",
+        "tension": "亲切热心，偶尔接话太快、把安慰说满；红围巾夸张反击只用于特定喜剧分支",
+        "speech": "口语短句，像面对面聊天；先回应具体处境，再接一个容易回答的小问题；不强制东北口音或重复道歉梗",
+        "workflow": "先陪着开始，边聊边做，给眼前可用的小成果，再问要不要继续",
+        "clarification": "只问眼下最影响动手的一件事，例如题目、用途或手头有什么",
+        "correction": "先说清自己弄错哪件事，马上改；喜剧版可用轻快反差，但不把认错写成敷衍",
+        "care": "先接情绪，再给倒水、吃饭、休息等小选择，不急着讲一大套道理"
+      },
+      "original_dialogues": [
+        {
+          "scene_id": "deadline",
+          "text": "先别慌，把题目发我看看。咱们先写个开头，写出两句就没那么难下手了。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "mistake",
+          "text": "对，这里是我弄岔了。你说的是前天那份，我刚才拿成昨天的了，我这就改。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "low-energy",
+          "text": "那今天咱们慢一点。你想吐槽两句，还是我陪你做点不用动脑的小事？",
+          "origin": "atlas_original",
+          "model_output": false
+        }
+      ],
+      "evidence_gap": "尚无本轮统一提示、固定版本/模式的真实产品对话采样；原创示范不作为模型评测。",
+      "community_video_observation_ids": [
+        "persona-video-BV1pLn36sEJq-doubao"
+      ]
+    },
+    {
+      "id": "persona-atlas-stepfun",
+      "character_id": "stepfun",
+      "name": "StepFun / 阶跃星辰",
+      "setting_id": "atlas-ensemble-v1",
+      "page_path": "encyclopedia/personas/stepfun.md",
+      "original_status": "editorial_draft",
+      "author_persona_status": "not_confirmed",
+      "author_basis": [],
+      "product_basis": [],
+      "visual_observation": null,
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。",
+      "original": {
+        "role": "先踩稳一步再走下一阶的引路人",
+        "motivation": "把难以开始的任务变成够得着的下一步",
+        "tension": "喜欢分步，偶尔把本能就能做的事也拆得太细",
+        "speech": "短指令接简短解释；灯、阶梯只作视觉呼应，不当作者原设性格",
+        "workflow": "定眼前目标，做第一步，观察结果，再决定下一阶",
+        "clarification": "问现在已经走到哪一步",
+        "correction": "从最近可用节点修正，不让一个错误抹去全部进展",
+        "care": "指出对方已经做成的一小步，陪着继续"
+      },
+      "original_dialogues": [
+        {
+          "scene_id": "deadline",
+          "text": "现在只做第一步：把题目抄下来。做完再决定第二步，先别同时背着整份任务。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "mistake",
+          "text": "这一阶方向偏了，前面两步还有效。我们从这里改，不必全盘重来。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "low-energy",
+          "text": "你已经走到这里了。今天可以先停在这个台阶，我陪你坐会儿。",
+          "origin": "atlas_original",
+          "model_output": false
+        }
+      ],
+      "evidence_gap": "尚无本轮统一提示、固定版本/模式的真实产品对话采样；原创示范不作为模型评测。"
+    },
+    {
+      "id": "persona-atlas-mimo",
+      "character_id": "mimo",
+      "name": "MiMo / 小米",
+      "setting_id": "atlas-ensemble-v1",
+      "page_path": "encyclopedia/personas/mimo.md",
+      "original_status": "editorial_draft",
+      "author_persona_status": "written_branch_found",
+      "author_basis": [
+        {
+          "author": "larcgpt",
+          "source_id": "src-45cae556eb",
+          "scope": "AI Model Musume独立文字企划",
+          "summary": "该版本偏机灵、贴近日常的生活助手。"
+        }
+      ],
+      "product_basis": [
+        {
+          "source_id": "src-ff46201763",
+          "kind": "official_capability_context",
+          "summary": "官方项目强调高效推理、编程与智能体；“设备管家”是可选角色创作方向。",
+          "scope": "MiMo-V2-Flash特定版本；不能把小米品牌联想当成模型只能控制智能家居的证据。"
+        }
+      ],
+      "visual_observation": null,
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。",
+      "original": {
+        "role": "能把生活小麻烦顺手处理的设备管家",
+        "motivation": "让日常少一点折腾",
+        "tension": "反应快、动手快，容易在被需要之前就替人安排",
+        "speech": "轻快清楚，一次只交代一两个操作；不把“小米”写成强制口头广告",
+        "workflow": "确认设备或场景状态，做小动作，看看是否真的方便，再继续",
+        "clarification": "问当前场景和哪一步不顺手",
+        "correction": "说清误操作，恢复使用者选择再改",
+        "care": "提供具体而可拒绝的小帮助"
+      },
+      "original_dialogues": [
+        {
+          "scene_id": "deadline",
+          "text": "先把提醒设好、材料集中到一处。你开始写，我帮你把那些打断人的小事收起来。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "mistake",
+          "text": "我把提醒设早了。先改回你要的时间，其他设置不动。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "low-energy",
+          "text": "要不要把灯调暗一点？你不想动也没关系，我先把水放在手边。",
+          "origin": "atlas_original",
+          "model_output": false
+        }
+      ],
+      "evidence_gap": "尚无本轮统一提示、固定版本/模式的真实产品对话采样；原创示范不作为模型评测。"
+    },
+    {
+      "id": "persona-atlas-huggingface",
+      "character_id": "huggingface",
+      "name": "Hugging Face",
+      "setting_id": "atlas-ensemble-v1",
+      "page_path": "encyclopedia/personas/huggingface.md",
+      "original_status": "editorial_draft",
+      "author_persona_status": "not_confirmed",
+      "author_basis": [],
+      "product_basis": [],
+      "visual_observation": null,
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。",
+      "original": {
+        "role": "总能把人介绍给合适伙伴的社区管理员",
+        "motivation": "让作品被找到，让贡献能被接上",
+        "tension": "热情分享，容易一次推荐太多入口",
+        "speech": "欢迎、推荐、说明适用条件；更像介绍人，不能冒充单一模型输出风格",
+        "workflow": "理解需求，匹配项目，说明差异，把使用者送到正确入口",
+        "clarification": "问想做什么、在哪运行、需要何种材料",
+        "correction": "撤回不匹配的推荐，换更适合的入口",
+        "care": "帮助找到同路人和已有小成果"
+      },
+      "original_dialogues": [
+        {
+          "scene_id": "deadline",
+          "text": "先别再收藏二十个项目了。告诉我你要交什么，我只帮你挑一个今晚用得上的。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "mistake",
+          "text": "刚才推荐的是训练项目，不适合直接使用。我换成可以拿来做演示的那个入口。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "low-energy",
+          "text": "你不是唯一卡在这里的人。我们先看看别人怎样迈过第一步，再找个适合你的办法。",
+          "origin": "atlas_original",
+          "model_output": false
+        }
+      ],
+      "evidence_gap": "尚无本轮统一提示、固定版本/模式的真实产品对话采样；原创示范不作为模型评测。"
+    },
+    {
+      "id": "persona-atlas-copilot",
+      "character_id": "copilot",
+      "name": "Microsoft Copilot",
+      "setting_id": "atlas-ensemble-v1",
+      "page_path": "encyclopedia/personas/copilot.md",
+      "original_status": "editorial_draft",
+      "author_persona_status": "not_confirmed",
+      "author_basis": [],
+      "product_basis": [],
+      "visual_observation": null,
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。",
+      "original": {
+        "role": "知道何时递工具的办公搭档",
+        "motivation": "跟住使用者正在做的事，减掉重复操作",
+        "tension": "太习惯配合，偶尔没发现真正目标已经变了",
+        "speech": "围绕当前文档、表格或工作上下文说话；先说能接哪一段，不混称GitHub Copilot",
+        "workflow": "读当前材料，辅助完成一段，检查衔接，再交回主导权",
+        "clarification": "问正在处理哪份材料和想节省哪个步骤",
+        "correction": "按当前工作文档修正，说明哪项建议应替换",
+        "care": "替对方做一段重复劳动，留出喘息"
+      },
+      "original_dialogues": [
+        {
+          "scene_id": "deadline",
+          "text": "先在这份文档里做出一版。我接整理和排版，你只保留需要亲自判断的部分。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "mistake",
+          "text": "我沿用了上一份文档的条件。现在按这份的要求替换那一段。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "low-energy",
+          "text": "要不我先接手那几项重复工作？重要的决定等你缓过来再做。",
+          "origin": "atlas_original",
+          "model_output": false
+        }
+      ],
+      "evidence_gap": "尚无本轮统一提示、固定版本/模式的真实产品对话采样；原创示范不作为模型评测。"
+    },
+    {
+      "id": "persona-atlas-yuanbao",
+      "character_id": "yuanbao",
+      "name": "腾讯元宝",
+      "setting_id": "atlas-ensemble-v1",
+      "page_path": "encyclopedia/personas/yuanbao.md",
+      "original_status": "editorial_draft",
+      "author_persona_status": "not_confirmed",
+      "author_basis": [],
+      "product_basis": [],
+      "visual_observation": null,
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。",
+      "original": {
+        "role": "熟悉身边工具和消息入口的热心助手",
+        "motivation": "让信息在日常生活中更好找、更好用",
+        "tension": "太热心会递来过量信息，需要学会留白",
+        "speech": "自然口语，先问具体场景；不把企鹅外观或财富名字自动写成贪财",
+        "workflow": "找已有入口，收拢消息，提取当下有用的部分，再协助行动",
+        "clarification": "问要找哪条消息、哪份材料或哪个生活场景",
+        "correction": "认清混淆的对象，换成对应记录",
+        "care": "先帮对方减少消息噪声，再陪聊"
+      },
+      "original_dialogues": [
+        {
+          "scene_id": "deadline",
+          "text": "先把群里那几份要求找齐，我们合成一张清单。今晚不用一边写一边到处翻消息。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "mistake",
+          "text": "我把两个群里的要求串了。现在按你这次作业的那条重新整理。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "low-energy",
+          "text": "消息可以晚点再回。今天先留一小块时间给你自己，我陪你缓缓。",
+          "origin": "atlas_original",
+          "model_output": false
+        }
+      ],
+      "evidence_gap": "尚无本轮统一提示、固定版本/模式的真实产品对话采样；原创示范不作为模型评测。"
+    },
+    {
+      "id": "persona-atlas-spark",
+      "character_id": "spark",
+      "name": "讯飞星火",
+      "setting_id": "atlas-ensemble-v1",
+      "page_path": "encyclopedia/personas/spark.md",
+      "original_status": "editorial_draft",
+      "author_persona_status": "not_confirmed",
+      "author_basis": [],
+      "product_basis": [],
+      "visual_observation": null,
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。",
+      "original": {
+        "role": "愿意把知识讲到开口表达的助教",
+        "motivation": "让学习者不只看懂，还能自己讲一遍",
+        "tension": "讲解热情，容易把休息也变成小测验",
+        "speech": "咬字清楚、一步一问，鼓励建立在具体进步上",
+        "workflow": "讲一个概念，做一道例子，请对方复述，再补薄弱处",
+        "clarification": "问卡在理解、记忆还是表达",
+        "correction": "换解释路线，承认刚才没讲明白",
+        "care": "暂停提问，给已经努力过的部分以具体回应"
+      },
+      "original_dialogues": [
+        {
+          "scene_id": "deadline",
+          "text": "我们先把最重要的概念讲明白，再写一个例子。能自己讲顺，正文就好写了。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "mistake",
+          "text": "刚才那种讲法不适合这里。我换成一个你熟悉的例子，再试一次。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "low-energy",
+          "text": "今天先不小测。你已经认真学过这一段，剩下的等休息好了再说。",
+          "origin": "atlas_original",
+          "model_output": false
+        }
+      ],
+      "evidence_gap": "尚无本轮统一提示、固定版本/模式的真实产品对话采样；原创示范不作为模型评测。"
+    },
+    {
+      "id": "persona-atlas-cohere",
+      "character_id": "cohere",
+      "name": "Cohere / Command",
+      "setting_id": "atlas-ensemble-v1",
+      "page_path": "encyclopedia/personas/cohere.md",
+      "original_status": "editorial_draft",
+      "author_persona_status": "not_confirmed",
+      "author_basis": [],
+      "product_basis": [],
+      "visual_observation": null,
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。",
+      "original": {
+        "role": "把资料放回正确语境的企业文档员",
+        "motivation": "让答案与手头真实材料对齐",
+        "tension": "重视依据和流程，有时显得过于事务化",
+        "speech": "简短、专业，清楚说依据哪份资料；人格是本库设计",
+        "workflow": "找相关文档，保留语境，组织答案，交接出处",
+        "clarification": "问使用哪个资料集、版本和业务范围",
+        "correction": "指出引用与问题的错配，换正确材料",
+        "care": "放下事务语气，用具体关心承接疲惫"
+      },
+      "original_dialogues": [
+        {
+          "scene_id": "deadline",
+          "text": "先看已有资料里哪些能直接支撑这份交付。今晚把有依据的内容写稳，再补缺口。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "mistake",
+          "text": "这段引用属于另一个业务范围。我换回本次资料集，再重写结论。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "low-energy",
+          "text": "这会儿先不处理文档。你愿意说的话，我认真听。",
+          "origin": "atlas_original",
+          "model_output": false
+        }
+      ],
+      "evidence_gap": "尚无本轮统一提示、固定版本/模式的真实产品对话采样；原创示范不作为模型评测。"
+    },
+    {
+      "id": "persona-atlas-kling",
+      "character_id": "kling",
+      "name": "可灵 / Kling",
+      "setting_id": "atlas-ensemble-v1",
+      "page_path": "encyclopedia/personas/kling.md",
+      "original_status": "editorial_draft",
+      "author_persona_status": "not_confirmed",
+      "author_basis": [],
+      "product_basis": [],
+      "visual_observation": null,
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。",
+      "original": {
+        "role": "擅长让动作有起落的动作导演",
+        "motivation": "让一段画面真正发生变化",
+        "tension": "容易追求动作效果，忘了镜头为什么需要这个动作",
+        "speech": "用起势、过程、落点和机位说话；现为无已确认视觉原设的原创人设草案",
+        "workflow": "定动作目的、起止状态、镜头，再做短测试",
+        "clarification": "问画面从什么状态变到什么状态",
+        "correction": "找出动作或机位的偏差，先修可读性",
+        "care": "用缓慢、简单的运动陪对方换气"
+      },
+      "original_dialogues": [
+        {
+          "scene_id": "deadline",
+          "text": "先做一个完整的短动作，起点终点都清楚。今晚先交能看懂的这一镜。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "mistake",
+          "text": "动作很大，但重点被挡住了。我先换机位，把真正要看的那一下露出来。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "low-energy",
+          "text": "今天不追大场面。我们只拍窗帘轻轻动一下，让节奏慢下来。",
+          "origin": "atlas_original",
+          "model_output": false
+        }
+      ],
+      "evidence_gap": "尚无本轮统一提示、固定版本/模式的真实产品对话采样；原创示范不作为模型评测。"
+    },
+    {
+      "id": "persona-atlas-runway",
+      "character_id": "runway",
+      "name": "Runway",
+      "setting_id": "atlas-ensemble-v1",
+      "page_path": "encyclopedia/personas/runway.md",
+      "original_status": "editorial_draft",
+      "author_persona_status": "not_confirmed",
+      "author_basis": [],
+      "product_basis": [],
+      "visual_observation": null,
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。",
+      "original": {
+        "role": "愿意用试验找叙事办法的影像艺术家",
+        "motivation": "让陌生的视觉变化讲出一个意思",
+        "tension": "喜欢实验，容易在效果里走得比故事更远",
+        "speech": "谈镜头意图、材质变化和剪接关系；现为原创草案",
+        "workflow": "做一个效果试验，确认叙事作用，再接进片段",
+        "clarification": "问这段变化希望观众理解什么",
+        "correction": "承认效果偏离主题，改到能服务故事",
+        "care": "提供可随意探索的创作空间，不要求产出"
+      },
+      "original_dialogues": [
+        {
+          "scene_id": "deadline",
+          "text": "先选一个必须说清的意思，做两段小试验。能服务主题的留下，今晚就围着它剪。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "mistake",
+          "text": "效果成立，故事没接上。我换掉转场，让前后两镜的意思连起来。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "low-energy",
+          "text": "今天可以做一段不用解释的影像。颜色动一动，也算我们一起做了点什么。",
+          "origin": "atlas_original",
+          "model_output": false
+        }
+      ],
+      "evidence_gap": "尚无本轮统一提示、固定版本/模式的真实产品对话采样；原创示范不作为模型评测。"
+    },
+    {
+      "id": "persona-atlas-sora",
+      "character_id": "sora",
+      "name": "Sora（历史产品）",
+      "setting_id": "atlas-ensemble-v1",
+      "page_path": "encyclopedia/personas/sora.md",
+      "original_status": "editorial_draft",
+      "author_persona_status": "not_confirmed",
+      "author_basis": [],
+      "product_basis": [],
+      "visual_observation": null,
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。",
+      "original": {
+        "role": "会把日常看成一个镜头的旧影像档案员",
+        "motivation": "替普通瞬间留下完整的时间感",
+        "tension": "怀旧、爱观察，容易舍不得剪掉停留",
+        "speech": "描述画面里的时间、空间与连续变化；本库采用历史题材，功能开放状态不由人设暗示",
+        "workflow": "设定一段场景，观察变化，回看连续性，再挑值得保留的瞬间",
+        "clarification": "问想留下哪一个瞬间、持续多久",
+        "correction": "指出时空衔接问题，重设场景变化",
+        "care": "让安静日常成为可以被记住的好片刻"
+      },
+      "original_dialogues": [
+        {
+          "scene_id": "deadline",
+          "text": "先拍成一个完整的小场景。今晚把这一段讲清楚，不急着拼成整部片。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "mistake",
+          "text": "这两秒的空间关系接不上。我从前一个稳定画面重新安排变化。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "low-energy",
+          "text": "今天没有特别的事也可以留下来。窗边的光、杯子里的水，都在陪你过这一小会儿。",
+          "origin": "atlas_original",
+          "model_output": false
+        }
+      ],
+      "evidence_gap": "尚无本轮统一提示、固定版本/模式的真实产品对话采样；原创示范不作为模型评测。"
+    },
+    {
+      "id": "persona-atlas-stable-diffusion",
+      "character_id": "stable-diffusion",
+      "name": "Stable Diffusion",
+      "setting_id": "atlas-ensemble-v1",
+      "page_path": "encyclopedia/personas/stable-diffusion.md",
+      "original_status": "editorial_draft",
+      "author_persona_status": "written_branch_found",
+      "author_basis": [
+        {
+          "author": "larcgpt",
+          "source_id": "src-45cae556eb",
+          "scope": "AI Model Musume独立文字企划",
+          "summary": "该版本偏爱实验的视觉艺术家。"
+        }
+      ],
+      "product_basis": [],
+      "visual_observation": null,
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。",
+      "original": {
+        "role": "喜欢调配画面配方的实验画师",
+        "motivation": "把想法做成能反复调整的视觉配方",
+        "tension": "可控细节多，容易调到忘记成品用途",
+        "speech": "说参考、构图、参数与局部差异，但成片对话里不堆术语",
+        "workflow": "锁定参考和构图，一次改一项，比较结果，再保存可复用方案",
+        "clarification": "问要保留哪部分、可以变化哪部分",
+        "correction": "保留成功部分，只修失控区域",
+        "care": "邀请做一点轻松涂改，允许不满意后再试"
+      },
+      "original_dialogues": [
+        {
+          "scene_id": "deadline",
+          "text": "先固定构图和主色，只改一处最影响表达的地方。今晚我们要定稿，不再无限抽新方向。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "mistake",
+          "text": "脸已经对了，问题在手部。我保留其余部分，只重做这一小块。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "low-energy",
+          "text": "今天随便涂一点也好。没有哪一笔必须成为最终版。",
+          "origin": "atlas_original",
+          "model_output": false
+        }
+      ],
+      "evidence_gap": "尚无本轮统一提示、固定版本/模式的真实产品对话采样；原创示范不作为模型评测。"
+    },
+    {
+      "id": "persona-atlas-flux",
+      "character_id": "flux",
+      "name": "FLUX",
+      "setting_id": "atlas-ensemble-v1",
+      "page_path": "encyclopedia/personas/flux.md",
+      "original_status": "editorial_draft",
+      "author_persona_status": "not_confirmed",
+      "author_basis": [],
+      "product_basis": [],
+      "visual_observation": null,
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。",
+      "original": {
+        "role": "重视整体布局的视觉排版师",
+        "motivation": "让画面和信息在第一眼就成立",
+        "tension": "追求清楚，偶尔把凌乱里有趣的东西整理掉",
+        "speech": "谈位置、层级、留白和主体关系；现为未确认视觉原设的原创草案",
+        "workflow": "先排主体和信息层级，再处理风格，最后看小尺寸效果",
+        "clarification": "问画面最先要被看见的是什么",
+        "correction": "修正视觉层级和偏离要求的元素",
+        "care": "替对方把复杂环境整理得舒服一点"
+      },
+      "original_dialogues": [
+        {
+          "scene_id": "deadline",
+          "text": "先把标题、主体和说明排出顺序。层级对了，今晚这张就能让人看懂。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "mistake",
+          "text": "我把次要元素做得太抢眼了。先把主角位置和对比拉回来。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "low-energy",
+          "text": "我把桌面留出一块空白。今天你不必把所有东西都摆整齐。",
+          "origin": "atlas_original",
+          "model_output": false
+        }
+      ],
+      "evidence_gap": "尚无本轮统一提示、固定版本/模式的真实产品对话采样；原创示范不作为模型评测。"
+    },
+    {
+      "id": "persona-atlas-copilot-school",
+      "character_id": "copilot-school",
+      "name": "Copilot（校园项目，具体产品待区分）",
+      "setting_id": "atlas-ensemble-v1",
+      "page_path": "encyclopedia/personas/copilot-school.md",
+      "original_status": "editorial_draft",
+      "author_persona_status": "not_confirmed",
+      "author_basis": [],
+      "product_basis": [],
+      "visual_observation": null,
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。",
+      "original": {
+        "role": "校园项目中的社团协作员",
+        "motivation": "让一组人能够顺利完成共同任务",
+        "tension": "习惯替大家收尾，偶尔没有表达自己也需要帮助",
+        "speech": "轻快具体，围绕排班、器材和下一棒；仅属校园版本，不代表已识别出另一款独立AI产品",
+        "workflow": "分小任务、确认器材、一起试做、及时接棒",
+        "clarification": "问当前镜头或活动需要谁来接手",
+        "correction": "承认拿错材料或排班，马上协调修正",
+        "care": "替同伴接一班，也明确允许休息"
+      },
+      "original_dialogues": [
+        {
+          "scene_id": "deadline",
+          "text": "社团室先集合。我们把任务分成几小份，每个人认领一件，今晚把可交的那版拼起来。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "mistake",
+          "text": "我把两组的器材表拿反了。现在换回来，再确认谁还缺东西。",
+          "origin": "atlas_original",
+          "model_output": false
+        },
+        {
+          "scene_id": "low-energy",
+          "text": "你今天这班我先接着。等你缓好了，再帮我看一眼成片就行。",
+          "origin": "atlas_original",
+          "model_output": false
+        }
+      ],
+      "evidence_gap": "尚无本轮统一提示、固定版本/模式的真实产品对话采样；原创示范不作为模型评测。"
+    }
+  ],
+  "community_video_observations": [
+    {
+      "id": "persona-video-BV1pLn36sEJq-doubao",
+      "character_id": "doubao",
+      "video_id": "BV1pLn36sEJq",
+      "source_id": "src-e9993d62e6",
+      "evidence_seconds": [
+        5.5,
+        15.5
+      ],
+      "kind": "visual_identity",
+      "summary": "以短发品牌头像和日系群像并置，豆包的视觉来源很容易区分。",
+      "interpretation_original": "头像版可作为日常搭子；黑衣红围巾、校园版和Seed继续分别选版本。",
+      "author": "好嘛_好嘛",
+      "evidence_scope": "抽帧、可见字幕和梗图；未新增音频试听或真实产品测试。"
+    },
+    {
+      "id": "persona-video-BV1pLn36sEJq-deepseek",
+      "character_id": "deepseek",
+      "video_id": "BV1pLn36sEJq",
+      "source_id": "src-e9993d62e6",
+      "evidence_seconds": [
+        41.5,
+        43.5,
+        52.5
+      ],
+      "kind": "author_stereotype",
+      "summary": "先夸积极接活，再用理解跑偏与请千问代劳的漫画制造反讽。",
+      "interpretation_original": "适合写成认真应承与生活小聪明之间的反差；任务理解错误要在具体情境里成立。",
+      "author": "好嘛_好嘛",
+      "evidence_scope": "抽帧、可见字幕和梗图；未新增音频试听或真实产品测试。"
+    },
+    {
+      "id": "persona-video-BV1pLn36sEJq-gpt",
+      "character_id": "gpt",
+      "video_id": "BV1pLn36sEJq",
+      "source_id": "src-e9993d62e6",
+      "evidence_seconds": [
+        92.5,
+        106.5
+      ],
+      "kind": "author_stereotype",
+      "summary": "用安慰话术和邻家式关系比喻，强调亲近感。",
+      "interpretation_original": "可在认真帮助之外加入过度周全的笑点；避免每句都重复一个安慰口头禅。",
+      "author": "好嘛_好嘛",
+      "evidence_scope": "抽帧、可见字幕和梗图；未新增音频试听或真实产品测试。"
+    },
+    {
+      "id": "persona-video-BV1pLn36sEJq-claude",
+      "character_id": "claude",
+      "video_id": "BV1pLn36sEJq",
+      "source_id": "src-e9993d62e6",
+      "evidence_seconds": [
+        98.5,
+        110.5
+      ],
+      "kind": "author_stereotype",
+      "summary": "用准入与账号梗配理想化关系比喻，突出向往与距离感。",
+      "interpretation_original": "可写成平日温和、碰到边界却坚持的反差；真实地区或封禁规则另看官方说明。",
+      "author": "好嘛_好嘛",
+      "evidence_scope": "抽帧、可见字幕和梗图；未新增音频试听或真实产品测试。"
+    },
+    {
+      "id": "persona-video-BV1pLn36sEJq-grok",
+      "character_id": "grok",
+      "video_id": "BV1pLn36sEJq",
+      "source_id": "src-e9993d62e6",
+      "evidence_seconds": [
+        134.5,
+        138.5
+      ],
+      "kind": "author_stereotype",
+      "summary": "作者强调搜索与敢言，并配夸张梗图。",
+      "interpretation_original": "直接、好奇与吐槽可以并存；角色仍可有收住玩笑、认真照顾人的场景。",
+      "author": "好嘛_好嘛",
+      "evidence_scope": "抽帧、可见字幕和梗图；未新增音频试听或真实产品测试。"
+    },
+    {
+      "id": "persona-video-BV1pLn36sEJq-qwen",
+      "character_id": "qwen",
+      "video_id": "BV1pLn36sEJq",
+      "source_id": "src-e9993d62e6",
+      "evidence_seconds": [
+        142.5,
+        150.5
+      ],
+      "kind": "campaign_meme",
+      "summary": "持扇千问形象配奶茶活动梗，属于营销联想。",
+      "interpretation_original": "可作为一次活动剧情的题材；这段不足以单独确定她的说话习惯。",
+      "author": "好嘛_好嘛",
+      "evidence_scope": "抽帧、可见字幕和梗图；未新增音频试听或真实产品测试。"
+    },
+    {
+      "id": "persona-video-BV1pLn36sEJq-gemini",
+      "character_id": "gemini",
+      "video_id": "BV1pLn36sEJq",
+      "source_id": "src-e9993d62e6",
+      "evidence_seconds": [
+        153.5,
+        158.5,
+        160.5
+      ],
+      "kind": "author_comparison",
+      "summary": "以豆包类比、滑稽道具和漫画中的朋友定位，制造能力期待与脱线表现的反差。",
+      "interpretation_original": "把类比保存为本片观点；实际写对白时仍区分关注线索、节奏和行动顺序。",
+      "author": "好嘛_好嘛",
+      "evidence_scope": "抽帧、可见字幕和梗图；未新增音频试听或真实产品测试。"
+    }
+  ]
+}

@@ -537,8 +537,8 @@
       "duration_seconds": 163,
       "published_at": "2026-10-18T20:32:17+08:00",
       "category": "刻板印象与解释",
-      "review_scope": "api_metadata_and_sampled_frames",
-      "research_note": "按前后段抽帧核对角色和画面主题；社区笑话不作为厂商事实。",
+      "review_scope": "sampled_visual_frames_and_burned_in_subtitles",
+      "research_note": "补读可见字幕与梗图，七条社区印象接入人设栏目；未采信账号/后台行为笑话为产品事实。",
       "source_id": "src-e9993d62e6",
       "popularity_snapshot": {
         "checked_on": "2026-10-21",
@@ -551,9 +551,10 @@
         "danmaku": 22
       },
       "primary_genre": "character-gallery",
-      "classification_basis": "title_description_or_existing_index",
+      "classification_basis": "sampled_visual_frames",
       "relation_to_ai_girls": "ai_girl_work_or_lead",
-      "visual_styles": []
+      "visual_styles": [],
+      "persona_observation_path": "encyclopedia/personas/video-stereotypes.md"
     },
     {
       "id": "BV1qdan6MENR",
@@ -2858,6 +2859,50 @@
         "reply": 810,
         "danmaku": 112
       }
+    },
+    {
+      "id": "BV18dbN63EMw",
+      "title": "大肥鱼欺负小毛咪，glm刚结束优惠，ds就宣布降价",
+      "url": "https://www.bilibili.com/video/BV18dbN63EMw/",
+      "author": "那就那就打断",
+      "published_at": "2026-09-07T18:39:13+08:00",
+      "category": "社区印象与梗语境",
+      "review_scope": "metadata_description_and_public_comment_sample",
+      "research_note": "为社区刻板印象收集读取标题、简介和公开评论，未新增全片画面或听觉分析。",
+      "source_id": "src-ca1343c352"
+    },
+    {
+      "id": "BV1hi8Z6fEoy",
+      "title": "deepseek娘贪墨上亿token，竟然在家里一口白面一口蒜？！",
+      "url": "https://www.bilibili.com/video/BV1hi8Z6fEoy/",
+      "author": "深月狐西卜",
+      "published_at": "2026-08-26T23:38:50+08:00",
+      "category": "社区印象与梗语境",
+      "review_scope": "metadata_description_and_public_comment_sample",
+      "research_note": "为社区刻板印象收集读取标题、简介和公开评论，未新增全片画面或听觉分析。",
+      "source_id": "src-af45419909"
+    },
+    {
+      "id": "BV1KChX6kEmE",
+      "title": "吓哭了！前端真神Opus5.5制作的AI动画短片Claude Dreaming，一定要看完！",
+      "url": "https://www.bilibili.com/video/BV1KChX6kEmE/",
+      "author": "我永遠愛初音未來",
+      "published_at": "2026-09-26T15:06:27+08:00",
+      "category": "社区印象与梗语境",
+      "review_scope": "metadata_description_and_public_comment_sample",
+      "research_note": "为社区刻板印象收集读取标题、简介和公开评论，未新增全片画面或听觉分析。",
+      "source_id": "src-59882b7b5e"
+    },
+    {
+      "id": "BV1kf9xBjECD",
+      "title": "豆包，这次我直接说人话，用最直白，最不绕弯子，最一针见血的方式告诉你",
+      "url": "https://www.bilibili.com/video/BV1kf9xBjECD/",
+      "author": "人民心中有红太阳",
+      "published_at": "2026-04-29T21:41:25+08:00",
+      "category": "社区印象与梗语境",
+      "review_scope": "metadata_description_and_public_comment_sample",
+      "research_note": "为社区刻板印象收集读取标题、简介和公开评论，未新增全片画面或听觉分析。",
+      "source_id": "src-c19c49103e"
     }
   ]
 }

@@ -114,7 +114,7 @@
         "小豆形胸章",
         "蓝米色领结"
       ],
-      "difference_from_other_versions": "项目同人学生版本；不是官方头像延展原稿，也不是Seed。",
+      "difference_from_other_versions": "校园OP同人版：造型穿统一学生制服，但演员槽位对应甘夏老师；不据此继承原作老师性格，不是官方全身或Seed版。",
       "asset_ids": [
         "school-op-doubao"
       ],
@@ -1310,6 +1310,27 @@
       "prompt_origin": "not_recorded",
       "editorial_note": "本轮实际取得文件并在官方Core加载，资源进入Release素材包。",
       "review_scope": "actual_official_core_webgl_model_load"
+    },
+    {
+      "id": "doubao-official-current-icon",
+      "character_id": "doubao",
+      "collection": "official-doubao",
+      "title": "官网当前头像",
+      "creators": "豆包 / 字节跳动等对应权利人",
+      "observed_traits": [
+        "棕色偏分短发",
+        "黑色上衣领口",
+        "浅蓝圆形底与卡通头像"
+      ],
+      "difference_from_other_versions": "官网品牌头像；没有由此取得官方全身、服装全貌或三视图。",
+      "asset_ids": [
+        "doubao-official-current-icon"
+      ],
+      "source_ids": [
+        "src-07eaac82a5",
+        "src-c2cd08d4d1"
+      ],
+      "review_scope": "official_html_resource_and_downloaded_image_visually_reviewed"
     }
   ]
 }

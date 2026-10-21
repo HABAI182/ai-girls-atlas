@@ -104,7 +104,17 @@
         "pet-deepseek-whalechan--qimi",
         "andersen-liuqing-whale-live2d",
         "7l-whale-live2d-source"
-      ]
+      ],
+      "persona_profile_id": "persona-atlas-deepseek",
+      "persona_profile_path": "encyclopedia/personas/deepseek.md",
+      "community_impression_record_ids": [
+        "community-deepseek-01",
+        "community-deepseek-02",
+        "community-deepseek-03",
+        "community-deepseek-04",
+        "community-deepseek-05"
+      ],
+      "community_impressions_path": "encyclopedia/personas/community-impressions.md#deepseek"
     },
     {
       "id": "gpt",
@@ -166,7 +176,16 @@
         "apprentice-chatgpt",
         "pet-gpt-dragon-girl--legeling",
         "pet-gpt-dragon-girl--tenghuan123"
-      ]
+      ],
+      "persona_profile_id": "persona-atlas-gpt",
+      "persona_profile_path": "encyclopedia/personas/gpt.md",
+      "community_impression_record_ids": [
+        "community-gpt-01",
+        "community-gpt-02",
+        "community-gpt-03",
+        "community-gpt-04"
+      ],
+      "community_impressions_path": "encyclopedia/personas/community-impressions.md#gpt"
     },
     {
       "id": "claude",
@@ -220,7 +239,18 @@
         "school-op-claude",
         "apprentice-claude",
         "priority-zipzippipe-pixiv-150718881-p04-variant"
-      ]
+      ],
+      "persona_profile_id": "persona-atlas-claude",
+      "persona_profile_path": "encyclopedia/personas/claude.md",
+      "community_impression_record_ids": [
+        "community-claude-01",
+        "community-claude-02",
+        "community-claude-03",
+        "community-claude-04",
+        "community-claude-05",
+        "community-claude-06"
+      ],
+      "community_impressions_path": "encyclopedia/personas/community-impressions.md#claude"
     },
     {
       "id": "gemini",
@@ -270,7 +300,17 @@
       "variant_ids": [
         "school-op-gemini",
         "apprentice-gemini"
-      ]
+      ],
+      "persona_profile_id": "persona-atlas-gemini",
+      "persona_profile_path": "encyclopedia/personas/gemini.md",
+      "community_impression_record_ids": [
+        "community-gemini-01",
+        "community-gemini-02",
+        "community-gemini-03",
+        "community-gemini-04",
+        "community-gemini-05"
+      ],
+      "community_impressions_path": "encyclopedia/personas/community-impressions.md#gemini"
     },
     {
       "id": "grok",
@@ -316,7 +356,14 @@
       "variant_ids": [
         "school-op-grok",
         "apprentice-grok"
-      ]
+      ],
+      "persona_profile_id": "persona-atlas-grok",
+      "persona_profile_path": "encyclopedia/personas/grok.md",
+      "community_impression_record_ids": [
+        "community-grok-01",
+        "community-grok-02"
+      ],
+      "community_impressions_path": "encyclopedia/personas/community-impressions.md#grok"
     },
     {
       "id": "kimi",
@@ -365,7 +412,14 @@
       "variant_ids": [
         "school-op-kimi",
         "apprentice-kimi"
-      ]
+      ],
+      "persona_profile_id": "persona-atlas-kimi",
+      "persona_profile_path": "encyclopedia/personas/kimi.md",
+      "community_impression_record_ids": [
+        "community-kimi-01",
+        "community-kimi-02"
+      ],
+      "community_impressions_path": "encyclopedia/personas/community-impressions.md#kimi"
     },
     {
       "id": "glm",
@@ -416,7 +470,14 @@
         "school-op-glm",
         "apprentice-glm",
         "apprentice-glm-fox"
-      ]
+      ],
+      "persona_profile_id": "persona-atlas-glm",
+      "persona_profile_path": "encyclopedia/personas/glm.md",
+      "community_impression_record_ids": [
+        "community-glm-01",
+        "community-glm-02"
+      ],
+      "community_impressions_path": "encyclopedia/personas/community-impressions.md#glm"
     },
     {
       "id": "qwen",
@@ -466,7 +527,14 @@
       "variant_ids": [
         "school-op-qwen",
         "apprentice-qwen"
-      ]
+      ],
+      "persona_profile_id": "persona-atlas-qwen",
+      "persona_profile_path": "encyclopedia/personas/qwen.md",
+      "community_impression_record_ids": [
+        "community-qwen-01",
+        "community-qwen-02"
+      ],
+      "community_impressions_path": "encyclopedia/personas/community-impressions.md#qwen"
     },
     {
       "id": "seed",
@@ -499,7 +567,9 @@
         "当前能力排名",
         "所有版本均开放商用"
       ],
-      "variant_ids": []
+      "variant_ids": [],
+      "persona_profile_id": "persona-atlas-seed",
+      "persona_profile_path": "encyclopedia/personas/seed.md"
     },
     {
       "id": "minimax",
@@ -547,7 +617,13 @@
       "variant_ids": [
         "school-op-minimax",
         "apprentice-minimax"
-      ]
+      ],
+      "persona_profile_id": "persona-atlas-minimax",
+      "persona_profile_path": "encyclopedia/personas/minimax.md",
+      "community_impression_record_ids": [
+        "community-minimax-01"
+      ],
+      "community_impressions_path": "encyclopedia/personas/community-impressions.md#minimax"
     },
     {
       "id": "llama",
@@ -591,7 +667,9 @@
       "variant_ids": [
         "school-op-llama",
         "priority-zipzippipe-pixiv-148186519-p14-variant"
-      ]
+      ],
+      "persona_profile_id": "persona-atlas-llama",
+      "persona_profile_path": "encyclopedia/personas/llama.md"
     },
     {
       "id": "mistral",
@@ -633,7 +711,9 @@
       "variant_ids": [
         "school-op-mistral",
         "priority-zipzippipe-pixiv-148186519-p09"
-      ]
+      ],
+      "persona_profile_id": "persona-atlas-mistral",
+      "persona_profile_path": "encyclopedia/personas/mistral.md"
     },
     {
       "id": "perplexity",
@@ -671,7 +751,9 @@
       ],
       "variant_ids": [
         "school-op-perplexity"
-      ]
+      ],
+      "persona_profile_id": "persona-atlas-perplexity",
+      "persona_profile_path": "encyclopedia/personas/perplexity.md"
     },
     {
       "id": "wenxin",
@@ -711,7 +793,9 @@
       ],
       "variant_ids": [
         "school-op-wenxin"
-      ]
+      ],
+      "persona_profile_id": "persona-atlas-wenxin",
+      "persona_profile_path": "encyclopedia/personas/wenxin.md"
     },
     {
       "id": "rwkv",
@@ -744,7 +828,9 @@
         "当前能力排名",
         "所有版本均开放商用"
       ],
-      "variant_ids": []
+      "variant_ids": [],
+      "persona_profile_id": "persona-atlas-rwkv",
+      "persona_profile_path": "encyclopedia/personas/rwkv.md"
     },
     {
       "id": "hunyuan",
@@ -785,7 +871,9 @@
       "variant_ids": [
         "school-op-hunyuan",
         "priority-zipzippipe-pixiv-150718881-p03"
-      ]
+      ],
+      "persona_profile_id": "persona-atlas-hunyuan",
+      "persona_profile_path": "encyclopedia/personas/hunyuan.md"
     },
     {
       "id": "jev",
@@ -815,7 +903,9 @@
         "当前能力排名",
         "所有版本均开放商用"
       ],
-      "variant_ids": []
+      "variant_ids": [],
+      "persona_profile_id": "persona-atlas-jev",
+      "persona_profile_path": "encyclopedia/personas/jev.md"
     },
     {
       "id": "opencode",
@@ -844,7 +934,9 @@
         "当前能力排名",
         "所有版本均开放商用"
       ],
-      "variant_ids": []
+      "variant_ids": [],
+      "persona_profile_id": "persona-atlas-opencode",
+      "persona_profile_path": "encyclopedia/personas/opencode.md"
     },
     {
       "id": "zcode",
@@ -873,7 +965,9 @@
         "当前能力排名",
         "所有版本均开放商用"
       ],
-      "variant_ids": []
+      "variant_ids": [],
+      "persona_profile_id": "persona-atlas-zcode",
+      "persona_profile_path": "encyclopedia/personas/zcode.md"
     },
     {
       "id": "codex",
@@ -904,7 +998,9 @@
       ],
       "variant_ids": [
         "pet-codex-dragon-girl--orient37"
-      ]
+      ],
+      "persona_profile_id": "persona-atlas-codex",
+      "persona_profile_path": "encyclopedia/personas/codex.md"
     },
     {
       "id": "image2",
@@ -932,7 +1028,9 @@
         "当前能力排名",
         "所有版本均开放商用"
       ],
-      "variant_ids": []
+      "variant_ids": [],
+      "persona_profile_id": "persona-atlas-image2",
+      "persona_profile_path": "encyclopedia/personas/image2.md"
     },
     {
       "id": "novelai",
@@ -958,7 +1056,9 @@
         "当前能力排名",
         "所有版本均开放商用"
       ],
-      "variant_ids": []
+      "variant_ids": [],
+      "persona_profile_id": "persona-atlas-novelai",
+      "persona_profile_path": "encyclopedia/personas/novelai.md"
     },
     {
       "id": "midjourney",
@@ -985,7 +1085,9 @@
         "当前能力排名",
         "所有版本均开放商用"
       ],
-      "variant_ids": []
+      "variant_ids": [],
+      "persona_profile_id": "persona-atlas-midjourney",
+      "persona_profile_path": "encyclopedia/personas/midjourney.md"
     },
     {
       "id": "suno",
@@ -1011,7 +1113,9 @@
         "当前能力排名",
         "所有版本均开放商用"
       ],
-      "variant_ids": []
+      "variant_ids": [],
+      "persona_profile_id": "persona-atlas-suno",
+      "persona_profile_path": "encyclopedia/personas/suno.md"
     },
     {
       "id": "elevenlabs",
@@ -1037,34 +1141,42 @@
         "当前能力排名",
         "所有版本均开放商用"
       ],
-      "variant_ids": []
+      "variant_ids": [],
+      "persona_profile_id": "persona-atlas-elevenlabs",
+      "persona_profile_path": "encyclopedia/personas/elevenlabs.md"
     },
     {
       "id": "doubao",
-      "name": "豆包官方头像及其他版本",
+      "name": "豆包 / Doubao",
       "entity_kind": "product",
       "status": "local_assets",
       "design_family": "multiple_or_pending",
-      "creators": "豆包/字节跳动（官方头像）；其他版本各自署名",
+      "creators": "官网头像：豆包 / 字节跳动等对应权利人；校园同人：lshhhhhhh",
       "aliases": [
         "豆包",
         "Doubao",
         "豆包娘"
       ],
       "observed_traits": [
-        "官方短发头像有来源",
-        "同人造型存在多个分支"
+        "官网头像为棕色偏分短发、黑色领口、浅蓝圆底",
+        "红围巾为所收录短片的改编造型",
+        "校园版另有小丸子与豆形胸章"
       ],
-      "identity_rules": "Seed娘不是所有豆包形象的同义词；官方头像、ZipZipPipe的Seed版、OpenPet版、网络夸张梗图应并列。",
+      "identity_rules": "官方头像、红围巾短片改编、校园OP版、OpenPet版与ZipZipPipe的Seed娘分别编目；Seed是相关同人命名，不是所有豆包形象的统一原设。",
       "creative_options_original": "选择某一分支后固定身份；不能把官方头像补全生成的全身图称作官方全身立绘。",
       "sources": [
         "src-3f04c64f7e",
         "src-7d6d1d5015",
         "src-863473febf",
         "src-dafaefb17c",
-        "src-f7d330c3ae"
+        "src-f7d330c3ae",
+        "src-07eaac82a5",
+        "src-c2cd08d4d1",
+        "src-de4db0cf5c",
+        "src-cba5482f1c"
       ],
       "local_asset_ids": [
+        "doubao-official-current-icon",
         "school-op-doubao"
       ],
       "not_claimed": [
@@ -1073,8 +1185,19 @@
         "所有版本均开放商用"
       ],
       "variant_ids": [
+        "doubao-official-current-icon",
         "school-op-doubao"
-      ]
+      ],
+      "persona_profile_id": "persona-atlas-doubao",
+      "persona_profile_path": "encyclopedia/personas/doubao.md",
+      "community_impression_record_ids": [
+        "community-doubao-01",
+        "community-doubao-02",
+        "community-doubao-03",
+        "community-doubao-04",
+        "community-doubao-05"
+      ],
+      "community_impressions_path": "encyclopedia/personas/community-impressions.md#doubao"
     },
     {
       "id": "stepfun",
@@ -1114,7 +1237,9 @@
       ],
       "variant_ids": [
         "fuh-stepfun-lamp-and-umbrella"
-      ]
+      ],
+      "persona_profile_id": "persona-atlas-stepfun",
+      "persona_profile_path": "encyclopedia/personas/stepfun.md"
     },
     {
       "id": "mimo",
@@ -1155,7 +1280,9 @@
         "priority-mimo-adult-01",
         "priority-mimo-turnaround-02",
         "larcgpt-mimo-digital-city"
-      ]
+      ],
+      "persona_profile_id": "persona-atlas-mimo",
+      "persona_profile_path": "encyclopedia/personas/mimo.md"
     },
     {
       "id": "huggingface",
@@ -1182,7 +1309,9 @@
         "当前能力排名",
         "所有版本均开放商用"
       ],
-      "variant_ids": []
+      "variant_ids": [],
+      "persona_profile_id": "persona-atlas-huggingface",
+      "persona_profile_path": "encyclopedia/personas/huggingface.md"
     },
     {
       "id": "copilot",
@@ -1215,7 +1344,9 @@
       ],
       "variant_ids": [
         "hkr-copilot-pink-affection-card"
-      ]
+      ],
+      "persona_profile_id": "persona-atlas-copilot",
+      "persona_profile_path": "encyclopedia/personas/copilot.md"
     },
     {
       "id": "yuanbao",
@@ -1252,7 +1383,9 @@
         "yuanbao-fanchuan-short-hoodie",
         "yuanbao-fanchuan-long-formal-v3",
         "yuanbao-fanchuan-long-sport-v3"
-      ]
+      ],
+      "persona_profile_id": "persona-atlas-yuanbao",
+      "persona_profile_path": "encyclopedia/personas/yuanbao.md"
     },
     {
       "id": "spark",
@@ -1287,7 +1420,9 @@
       ],
       "variant_ids": [
         "school-op-spark"
-      ]
+      ],
+      "persona_profile_id": "persona-atlas-spark",
+      "persona_profile_path": "encyclopedia/personas/spark.md"
     },
     {
       "id": "cohere",
@@ -1322,7 +1457,9 @@
       ],
       "variant_ids": [
         "school-op-cohere"
-      ]
+      ],
+      "persona_profile_id": "persona-atlas-cohere",
+      "persona_profile_path": "encyclopedia/personas/cohere.md"
     },
     {
       "id": "kling",
@@ -1346,7 +1483,9 @@
         "已有图片可下载",
         "官方授权同人"
       ],
-      "variant_ids": []
+      "variant_ids": [],
+      "persona_profile_id": "persona-atlas-kling",
+      "persona_profile_path": "encyclopedia/personas/kling.md"
     },
     {
       "id": "runway",
@@ -1370,7 +1509,9 @@
         "已有图片可下载",
         "官方授权同人"
       ],
-      "variant_ids": []
+      "variant_ids": [],
+      "persona_profile_id": "persona-atlas-runway",
+      "persona_profile_path": "encyclopedia/personas/runway.md"
     },
     {
       "id": "sora",
@@ -1407,7 +1548,9 @@
         "raika-sora-imagine-bluegray",
         "raika-sora-musashino",
         "raika-sora-geidai"
-      ]
+      ],
+      "persona_profile_id": "persona-atlas-sora",
+      "persona_profile_path": "encyclopedia/personas/sora.md"
     },
     {
       "id": "stable-diffusion",
@@ -1440,7 +1583,9 @@
       ],
       "variant_ids": [
         "larcgpt-sd-alchemy-painter"
-      ]
+      ],
+      "persona_profile_id": "persona-atlas-stable-diffusion",
+      "persona_profile_path": "encyclopedia/personas/stable-diffusion.md"
     },
     {
       "id": "flux",
@@ -1464,7 +1609,9 @@
         "已有图片可下载",
         "官方授权同人"
       ],
-      "variant_ids": []
+      "variant_ids": [],
+      "persona_profile_id": "persona-atlas-flux",
+      "persona_profile_path": "encyclopedia/personas/flux.md"
     },
     {
       "id": "copilot-school",
@@ -1498,7 +1645,9 @@
       ],
       "variant_ids": [
         "school-op-copilot-school"
-      ]
+      ],
+      "persona_profile_id": "persona-atlas-copilot-school",
+      "persona_profile_path": "encyclopedia/personas/copilot-school.md"
     }
   ]
 }

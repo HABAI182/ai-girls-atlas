@@ -1,5 +1,7 @@
 # Stable Diffusion
 
+[人设、说话与做事风格](../../encyclopedia/personas/stable-diffusion.md)：含证据范围和本库创作版对白。
+
 资料日期：2026-10-21。状态：`external_work_lead`。
 
 署名：larcgpt（仓库维护者；项目自述图像由ChatGPT生成）。

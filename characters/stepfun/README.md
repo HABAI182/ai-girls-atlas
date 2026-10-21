@@ -1,5 +1,7 @@
 # StepFun / 阶跃星辰
 
+[人设、说话与做事风格](../../encyclopedia/personas/stepfun.md)：含证据范围和本库创作版对白。
+
 资料日期：2026-10-21。状态：`local_assets`。
 
 署名：甶丶，原作者投稿表明确使用AI辅助创作。

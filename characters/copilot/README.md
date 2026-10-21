@@ -1,5 +1,7 @@
 # Microsoft Copilot
 
+[人设、说话与做事风格](../../encyclopedia/personas/copilot.md)：含证据范围和本库创作版对白。
+
 资料日期：2026-10-21。状态：`external_work_lead`。
 
 署名：HKR+ビール2はい（作者；文章自述由GPT生成图像）。

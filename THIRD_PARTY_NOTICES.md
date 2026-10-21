@@ -780,3 +780,9 @@ HABAI182为整理者。原图、派生图、预览各保留作者与来源；本
 `evidence/materials/maid-blend-quarter.png`是本次Blender渲染：SelinLee / AI Moe Atlas，MaidAtelier派生线，CC BY-NC-SA 4.0。`liuqing-*.png`是本次官方SDK采样：上善无形 / ZipZipPipe / 氵六青，Andersen216整理，保留CC BY-NC-SA 4.0署名链。`7l-*.png`来自7l-ui独立模型的SDK采样，作者项目对art和运行模型明确提供MIT；不把其他鲸鱼娘作品并入该许可。
 
 Release的14组素材按各自目录保留原许可、逐文件摘要和来源，未包含官方专有SDK/Core、音轨或其他未确认再分发的模型包。
+
+## 官网豆包头像与人设文字来源
+
+`assets/official-doubao/doubao/doubao-current-icon.png`直接来自[官网](https://www.doubao.com/chat/)所链接的[官方CDN](https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/favicon/new-doubao/192x192.png)，34367 bytes，SHA-256 `dabb2abd94e3a6c11e7f1a42c9343839b6ef643c086751b71afbc68f615aec38`。权利归豆包/字节跳动等对应权利人，未确认开放许可，不纳入素材下载包。
+
+人设栏目对larcgpt与Neko3000的独立文字企划仅作简短归纳并链接固定原文；不复制完整设定表，也不把其原创设定并入其他作者角色。39份工作人设的详细行为与117句示范对白是AI Girls Atlas本轮原创，按本库原创研究/模板条款使用；不改变所配第三方图像和角色的权利。

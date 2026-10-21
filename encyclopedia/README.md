@@ -1,13 +1,22 @@
 # AI娘创作百科与演出资料
 
+[社区刻板印象与流传人设](personas/community-impressions.md)：评论、论坛和作品中的现成说法，另与原创创作档案分开。
+
+[《各个ai刻板印象》七角色补读](personas/video-stereotypes.md)
+
 [返回形象仓库](../README.md) · [视频品类与案例](../videos/README.md)
 
-## 本轮把入口补成可用文件
+## 新增人设与对白
+
+[39份人设与做事风格](personas/README.md) · [117句同题原创对白](personas/dialogue-comparison.md) · [作者与产品依据](personas/sources.md) · [豆包形象纠正](personas/doubao-correction.md)
+
+## 可用文件
 
 [14组实际素材下载](ready-packages.md) · [模型与文件检查](runtime-materials.md) · [直接音轨分析](audio-performances.md) · [薄弱角色补齐记录](gap-character-update.md)
 
 | 栏目 | 本轮内容 | 打开 |
 | --- | --- | --- |
+| 各AI怎样说话和做事 | 39份创作档案，作者设定与官方资料分层；117句原创对白 | [人设栏目](personas/README.md) |
 | AI娘都在玩什么梗 | 10个梗、具体作品和变体 | [梗百科](memes/README.md) |
 | 同一个情境，八位AI怎样反应 | 8位档案、31条实际观察、32格原创演出点子 | [角色演出](performances/README.md) |
 | 从立绘到能演的角色 | 16个关联包、15条文件/工程入口，另有14组实际下载包 | [素材关联](production/README.md) |

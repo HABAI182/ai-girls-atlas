@@ -1,5 +1,7 @@
 # Copilot（校园项目，具体产品待区分）
 
+[人设、说话与做事风格](../../encyclopedia/personas/copilot-school.md)：含证据范围和本库创作版对白。
+
 资料日期：2026-10-21。类型：`ambiguous-product-reference`；状态：`local_assets`。
 
 ## 形象与版本

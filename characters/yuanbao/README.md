@@ -1,5 +1,7 @@
 # 腾讯元宝
 
+[人设、说话与做事风格](../../encyclopedia/personas/yuanbao.md)：含证据范围和本库创作版对白。
+
 资料日期：2026-10-21。类型：`product`；状态：`external_work_lead`。
 
 ## 这次补到什么

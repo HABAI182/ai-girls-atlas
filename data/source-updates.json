@@ -111,5 +111,43 @@
       "evidence": "followed English homepage navigation",
       "action": "确认实际社区项目页；沿用已有四个项目入口。History导航为首页内的沿革段落，不把此前猜测的中文/history404当作缺失内容。"
     }
-  ]
+  ],
+  "persona_followup": {
+    "checked_on": "2026-10-21",
+    "setting_id": "atlas-ensemble-v1",
+    "profiles": 39,
+    "original_dialogues": 117,
+    "written_author_branch_entities": 14,
+    "official_context_entities": 11,
+    "reused_visual_observation_entities": 9,
+    "real_product_dialogue_samples": 0,
+    "page_path": "encyclopedia/personas/README.md",
+    "community_video_observations": 7,
+    "original_user_video_reused": "BV1pLn36sEJq"
+  },
+  "doubao_followup": {
+    "checked_on": "2026-10-21",
+    "upstream_commit": "dcd69f5f4f2dff1a9c0031e82deb49e0fe949c76",
+    "new_asset_ids": [
+      "doubao-official-current-icon"
+    ],
+    "official_resource_url": "https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/favicon/new-doubao/192x192.png",
+    "upstream_generated_references": "linked_only_not_official",
+    "action": "官方主图与校园同人分开，修正校园教师槽位；复用已有视频观察，不重新下载或分析全片。"
+  },
+  "community_followup": {
+    "checked_on": "2026-10-21",
+    "records": 34,
+    "characters": 10,
+    "bilibili_comment_videos": 7,
+    "public_comment_samples": 21,
+    "new_video_metadata_ids": [
+      "BV18dbN63EMw",
+      "BV1hi8Z6fEoy",
+      "BV1KChX6kEmE",
+      "BV1kf9xBjECD"
+    ],
+    "original_dialogues_counted_as_collected_stereotypes": 0,
+    "page_path": "encyclopedia/personas/community-impressions.md"
+  }
 }

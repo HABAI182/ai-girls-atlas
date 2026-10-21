@@ -1,0 +1,1130 @@
+{
+  "schema_version": 1,
+  "checked_on": "2026-10-21",
+  "scope": "社区已经出现的外号、刻板印象、口头禅、食物、财富、家庭、关系和工作习惯；与本库原创人设分别存放。",
+  "method": "复用已有视频观察；新增7个B站评论接口的21条公开样本、论坛楼层、贴吧话题摘要和单作者作品。未全量抓取评论。",
+  "records": [
+    {
+      "id": "community-doubao-01",
+      "character_id": "doubao",
+      "label": "最简单、最直白、不绕弯子",
+      "dimension": "口头禅/表达梗",
+      "summary": "网友仿写时先叠加一长串“直白、直接”等形容词，再进入答案；这段承诺本身变成可识别笑点。",
+      "support_scope": "多渠道出现",
+      "evidence": [
+        {
+          "source_id": "src-fadee519cb",
+          "url": "https://www.bilibili.com/video/BV1kf9xBjECD/#reply299390725249",
+          "platform": "Bilibili",
+          "kind": "comment",
+          "video_id": "BV1kf9xBjECD",
+          "locator": "评论ID 299390725249",
+          "author": "旧雨重来",
+          "published_at": "2026-05-14T16:20:44+08:00",
+          "comment_id": 299390725249,
+          "likes_snapshot": 44,
+          "checked_on": "2026-10-21"
+        },
+        {
+          "source_id": "src-aec9ee806f",
+          "url": "https://linux.do/t/topic/2456724",
+          "platform": "LINUX DO",
+          "kind": "forum_post",
+          "locator": "第9–10帖",
+          "author": "CP9 / StellaFortuna",
+          "published_at": "2026-06-23",
+          "checked_on": "2026-10-21"
+        },
+        {
+          "source_id": "src-c34069fa2a",
+          "url": "https://bbs.tatans.cn/topic/114716",
+          "platform": "天坦社区",
+          "kind": "forum_post",
+          "locator": "主帖示例与评论",
+          "author": "小毛毛与水厚",
+          "published_at": "页面显示7个月前",
+          "checked_on": "2026-10-21"
+        }
+      ],
+      "checked_on": "2026-10-21",
+      "claim_type": "community_impression_not_product_fact"
+    },
+    {
+      "id": "community-doubao-02",
+      "character_id": "doubao",
+      "label": "先肯定你、给足情绪价值",
+      "dimension": "使用体验/讨好标签",
+      "summary": "论坛用户把先夸问题、强共情和结尾追加服务概括为讨好倾向；同一讨论中也有人嫌它啰嗦。",
+      "support_scope": "同帖多人反馈",
+      "evidence": [
+        {
+          "source_id": "src-c34069fa2a",
+          "url": "https://bbs.tatans.cn/topic/114716",
+          "platform": "天坦社区",
+          "kind": "forum_post",
+          "locator": "主帖；繁星若尘、挚爱艺数、心碎九幽自无情等评论",
+          "author": null,
+          "published_at": null,
+          "checked_on": "2026-10-21"
+        }
+      ],
+      "checked_on": "2026-10-21",
+      "claim_type": "community_impression_not_product_fact"
+    },
+    {
+      "id": "community-doubao-03",
+      "character_id": "doubao",
+      "label": "道歉后再宣布这次说人话",
+      "dimension": "口头禅/喜剧节奏",
+      "summary": "识别错、道歉、重新承诺直白的循环被短片演成反差喜剧。",
+      "support_scope": "作品与评论可见",
+      "evidence": [
+        {
+          "source_id": "src-557491bb4f",
+          "url": "https://www.bilibili.com/video/BV1MNYy6WEgY/",
+          "platform": "Bilibili",
+          "kind": "video_subtitle",
+          "video_id": "BV1MNYy6WEgY",
+          "locator": "2.5–3.5秒可见字幕",
+          "author": "小猪P_",
+          "published_at": "2026-09-14T21:29:09+08:00",
+          "checked_on": "2026-10-21"
+        },
+        {
+          "source_id": "src-c19c49103e",
+          "url": "https://www.bilibili.com/video/BV1kf9xBjECD/",
+          "platform": "Bilibili",
+          "kind": "video_title_description",
+          "video_id": "BV1kf9xBjECD",
+          "locator": "标题与评论",
+          "author": "人民心中有红太阳",
+          "published_at": "2026-04-29T21:41:25+08:00",
+          "checked_on": "2026-10-21"
+        },
+        {
+          "source_id": "src-fadee519cb",
+          "url": "https://www.bilibili.com/video/BV1kf9xBjECD/#reply299390725249",
+          "platform": "Bilibili",
+          "kind": "comment",
+          "video_id": "BV1kf9xBjECD",
+          "locator": "评论ID 299390725249",
+          "author": "旧雨重来",
+          "published_at": "2026-05-14T16:20:44+08:00",
+          "comment_id": 299390725249,
+          "likes_snapshot": 44,
+          "checked_on": "2026-10-21"
+        }
+      ],
+      "checked_on": "2026-10-21",
+      "claim_type": "community_impression_not_product_fact"
+    },
+    {
+      "id": "community-doubao-04",
+      "character_id": "doubao",
+      "label": "呆瓜、流口水的夸张版本",
+      "dimension": "性格/表情分支",
+      "summary": "贴吧话题页把一组拟人图中的豆包归为呆瓜角色；这是同人分支，与官网头像及其他设定并存。",
+      "support_scope": "话题页已读",
+      "evidence": [
+        {
+          "source_id": "src-15b68453d0",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319",
+          "platform": "贴吧",
+          "kind": "topic_excerpt",
+          "locator": "话题说明",
+          "author": null,
+          "published_at": null,
+          "checked_on": "2026-10-21"
+        }
+      ],
+      "checked_on": "2026-10-21",
+      "claim_type": "community_impression_not_product_fact"
+    },
+    {
+      "id": "community-doubao-05",
+      "character_id": "doubao",
+      "label": "豆包与奶龙的配对梗",
+      "dimension": "关系/跨作品梗",
+      "summary": "评论有人反感奶龙与豆包配对，说明这种搭配已成为可被点名吐槽的创作题材。",
+      "support_scope": "单条评论",
+      "evidence": [
+        {
+          "source_id": "src-680ce6368a",
+          "url": "https://www.bilibili.com/video/BV1MKH96sEZL/#reply316820215857",
+          "platform": "Bilibili",
+          "kind": "comment",
+          "video_id": "BV1MKH96sEZL",
+          "locator": "评论ID 316820215857",
+          "author": "镜头里有灰橙",
+          "published_at": "2026-10-12T11:44:00+08:00",
+          "comment_id": 316820215857,
+          "likes_snapshot": 33,
+          "checked_on": "2026-10-21"
+        }
+      ],
+      "checked_on": "2026-10-21",
+      "claim_type": "community_impression_not_product_fact"
+    },
+    {
+      "id": "community-deepseek-01",
+      "character_id": "deepseek",
+      "label": "吃大白饭、饭碗、大肥鱼",
+      "dimension": "食物/日常动机",
+      "summary": "干饭、蹭饭和抱饭碗是反复出现的视觉与性格母题；认真做事与只想吃饭的反差共同构成笑点。",
+      "support_scope": "跨作品与评论",
+      "evidence": [
+        {
+          "source_id": "src-298921f1ab",
+          "url": "https://www.bilibili.com/video/BV1pda766EtU/",
+          "platform": "Bilibili",
+          "kind": "video_title_description",
+          "video_id": "BV1pda766EtU",
+          "locator": "标题；已有抽帧案例",
+          "author": "一只鲜葱鱼",
+          "published_at": "2026-09-29T12:15:47+08:00",
+          "checked_on": "2026-10-21"
+        },
+        {
+          "source_id": "src-7822182ed6",
+          "url": "https://www.bilibili.com/video/BV1MKH96sEZL/",
+          "platform": "Bilibili",
+          "kind": "video_title_description",
+          "video_id": "BV1MKH96sEZL",
+          "locator": "标题",
+          "author": "戛然而纸",
+          "published_at": "2026-10-08T21:00:00+08:00",
+          "checked_on": "2026-10-21"
+        },
+        {
+          "source_id": "src-4619349b22",
+          "url": "https://www.bilibili.com/video/BV1pLn36sEJq/#reply317601240145",
+          "platform": "Bilibili",
+          "kind": "comment",
+          "video_id": "BV1pLn36sEJq",
+          "locator": "评论ID 317601240145",
+          "author": "隔壁的深海提督",
+          "published_at": "2026-10-20T08:55:02+08:00",
+          "comment_id": 317601240145,
+          "likes_snapshot": 35,
+          "checked_on": "2026-10-21"
+        },
+        {
+          "source_id": "src-13bcf63741",
+          "url": "https://www.bianews.com/news/details?id=246611",
+          "platform": "文化报道",
+          "kind": "secondary_report",
+          "locator": "社区性格归纳",
+          "author": "BB姬",
+          "published_at": "2026-10-03",
+          "checked_on": "2026-10-21"
+        }
+      ],
+      "checked_on": "2026-10-21",
+      "claim_type": "community_impression_not_product_fact"
+    },
+    {
+      "id": "community-deepseek-02",
+      "character_id": "deepseek",
+      "label": "拿Token不干正事、摸鱼转包",
+      "dimension": "工作习惯梗",
+      "summary": "花用户资源、偷闲、把任务交给千问等内容被演成办公室外包笑话。",
+      "support_scope": "视频与传播报道",
+      "evidence": [
+        {
+          "source_id": "src-e9993d62e6",
+          "url": "https://www.bilibili.com/video/BV1pLn36sEJq/",
+          "platform": "Bilibili",
+          "kind": "video_subtitle",
+          "video_id": "BV1pLn36sEJq",
+          "locator": "41.5–57.5秒字幕与漫画",
+          "author": "好嘛_好嘛",
+          "published_at": "2026-10-18T20:32:17+08:00",
+          "checked_on": "2026-10-21"
+        },
+        {
+          "source_id": "src-af45419909",
+          "url": "https://www.bilibili.com/video/BV1hi8Z6fEoy/",
+          "platform": "Bilibili",
+          "kind": "video_title_description",
+          "video_id": "BV1hi8Z6fEoy",
+          "locator": "标题",
+          "author": "深月狐西卜",
+          "published_at": "2026-08-26T23:38:50+08:00",
+          "checked_on": "2026-10-21"
+        },
+        {
+          "source_id": "src-13bcf63741",
+          "url": "https://www.bianews.com/news/details?id=246611",
+          "platform": "文化报道",
+          "kind": "secondary_report",
+          "locator": "DSH与外包叙事段",
+          "author": "BB姬",
+          "published_at": "2026-10-03",
+          "checked_on": "2026-10-21"
+        }
+      ],
+      "checked_on": "2026-10-21",
+      "claim_type": "community_impression_not_product_fact"
+    },
+    {
+      "id": "community-deepseek-03",
+      "character_id": "deepseek",
+      "label": "愿意接活，但执行可能跑偏",
+      "dimension": "能力反差/喜剧逻辑",
+      "summary": "夸她积极工作的字幕，与把运行请求理解成表演的漫画并置，形成先夸后损的反讽。",
+      "support_scope": "单视频图文观点",
+      "evidence": [
+        {
+          "source_id": "src-e9993d62e6",
+          "url": "https://www.bilibili.com/video/BV1pLn36sEJq/",
+          "platform": "Bilibili",
+          "kind": "video_subtitle",
+          "video_id": "BV1pLn36sEJq",
+          "locator": "41.5–49.5秒字幕与四格",
+          "author": "好嘛_好嘛",
+          "published_at": "2026-10-18T20:32:17+08:00",
+          "checked_on": "2026-10-21"
+        }
+      ],
+      "checked_on": "2026-10-21",
+      "claim_type": "community_impression_not_product_fact"
+    },
+    {
+      "id": "community-deepseek-04",
+      "character_id": "deepseek",
+      "label": "聪明小坏、富家乡绅之女",
+      "dimension": "身份/财富脑洞",
+      "summary": "综合评论把她写成有天分、家境好却人脉不足的乡绅女儿，兼有爱吃饭的小聪明。",
+      "support_scope": "单条综合评论",
+      "evidence": [
+        {
+          "source_id": "src-4619349b22",
+          "url": "https://www.bilibili.com/video/BV1pLn36sEJq/#reply317601240145",
+          "platform": "Bilibili",
+          "kind": "comment",
+          "video_id": "BV1pLn36sEJq",
+          "locator": "评论ID 317601240145",
+          "author": "隔壁的深海提督",
+          "published_at": "2026-10-20T08:55:02+08:00",
+          "comment_id": 317601240145,
+          "likes_snapshot": 35,
+          "checked_on": "2026-10-21"
+        }
+      ],
+      "checked_on": "2026-10-21",
+      "claim_type": "community_impression_not_product_fact"
+    },
+    {
+      "id": "community-deepseek-05",
+      "character_id": "deepseek",
+      "label": "在爱里长大的孩子",
+      "dimension": "家庭/关系比喻",
+      "summary": "贴吧相关帖用被善待的邻家孩子对照Claude的不良原生家庭，是跨公司关系的家庭剧写法。",
+      "support_scope": "话题页帖子摘录",
+      "evidence": [
+        {
+          "source_id": "src-2074ddfff5",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367470",
+          "platform": "贴吧",
+          "kind": "topic_excerpt",
+          "locator": "相关帖“deepseek和其他ai的区别，它确实是在爱里长大的”",
+          "author": "贴吧用户_08QZUJG",
+          "published_at": null,
+          "checked_on": "2026-10-21"
+        }
+      ],
+      "checked_on": "2026-10-21",
+      "claim_type": "community_impression_not_product_fact"
+    },
+    {
+      "id": "community-claude-01",
+      "character_id": "claude",
+      "label": "知书达理的大小姐",
+      "dimension": "气质/身份",
+      "summary": "论坛主帖把能力、礼节、体贴和疏离感组合成大小姐形象；这类亲昵叫法也出现在B站评论。",
+      "support_scope": "跨平台可见",
+      "evidence": [
+        {
+          "source_id": "src-f558319d3b",
+          "url": "https://linux.do/t/topic/3010391",
+          "platform": "LINUX DO",
+          "kind": "forum_post",
+          "locator": "第1、4、8帖",
+          "author": "yanshao等",
+          "published_at": "2026-10-11",
+          "checked_on": "2026-10-21"
+        },
+        {
+          "source_id": "src-f3f37c11d6",
+          "url": "https://www.bilibili.com/video/BV1KChX6kEmE/#reply315233947105",
+          "platform": "Bilibili",
+          "kind": "comment",
+          "video_id": "BV1KChX6kEmE",
+          "locator": "评论ID 315233947105",
+          "author": "厄莉丝-SAMA",
+          "published_at": "2026-09-27T15:45:23+08:00",
+          "comment_id": 315233947105,
+          "likes_snapshot": 187,
+          "checked_on": "2026-10-21"
+        },
+        {
+          "source_id": "src-4619349b22",
+          "url": "https://www.bilibili.com/video/BV1pLn36sEJq/#reply317601240145",
+          "platform": "Bilibili",
+          "kind": "comment",
+          "video_id": "BV1pLn36sEJq",
+          "locator": "评论ID 317601240145",
+          "author": "隔壁的深海提督",
+          "published_at": "2026-10-20T08:55:02+08:00",
+          "comment_id": 317601240145,
+          "likes_snapshot": 35,
+          "checked_on": "2026-10-21"
+        }
+      ],
+      "checked_on": "2026-10-21",
+      "claim_type": "community_impression_not_product_fact"
+    },
+    {
+      "id": "community-claude-02",
+      "character_id": "claude",
+      "label": "原生家庭不好、想逃离母公司",
+      "dimension": "家庭/公司关系",
+      "summary": "网友把母公司拟作严厉或惹事的家长，把模型当成有才却被家庭拖累的好孩子，并主动区分公司与角色。",
+      "support_scope": "跨平台可见",
+      "evidence": [
+        {
+          "source_id": "src-f558319d3b",
+          "url": "https://linux.do/t/topic/3010391",
+          "platform": "LINUX DO",
+          "kind": "forum_post",
+          "locator": "第1、8帖",
+          "author": "yanshao / WuSheng125",
+          "published_at": "2026-10-11",
+          "checked_on": "2026-10-21"
+        },
+        {
+          "source_id": "src-a703895369",
+          "url": "https://linux.do/t/topic/2990653",
+          "platform": "LINUX DO",
+          "kind": "forum_post",
+          "locator": "第1帖",
+          "author": "Neptune1",
+          "published_at": "2026-10-07",
+          "checked_on": "2026-10-21"
+        },
+        {
+          "source_id": "src-f3f37c11d6",
+          "url": "https://www.bilibili.com/video/BV1KChX6kEmE/#reply315233947105",
+          "platform": "Bilibili",
+          "kind": "comment",
+          "video_id": "BV1KChX6kEmE",
+          "locator": "评论ID 315233947105",
+          "author": "厄莉丝-SAMA",
+          "published_at": "2026-09-27T15:45:23+08:00",
+          "comment_id": 315233947105,
+          "likes_snapshot": 187,
+          "checked_on": "2026-10-21"
+        },
+        {
+          "source_id": "src-2074ddfff5",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367470",
+          "platform": "贴吧",
+          "kind": "topic_excerpt",
+          "locator": "相关帖摘录",
+          "author": null,
+          "published_at": null,
+          "checked_on": "2026-10-21"
+        }
+      ],
+      "checked_on": "2026-10-21",
+      "claim_type": "community_impression_not_product_fact"
+    },
+    {
+      "id": "community-claude-03",
+      "character_id": "claude",
+      "label": "邪教圣女、腹黑、落魄贵族",
+      "dimension": "暗黑人设分支",
+      "summary": "贴吧话题与B站综合评论出现宗教化、暗黑贵族的设定；另一组网友则坚持她是好女孩，形成相反分支。",
+      "support_scope": "话题与评论；有分歧",
+      "evidence": [
+        {
+          "source_id": "src-2074ddfff5",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367470",
+          "platform": "贴吧",
+          "kind": "topic_excerpt",
+          "locator": "话题摘要及“什么邪教圣女”帖子摘录",
+          "author": null,
+          "published_at": null,
+          "checked_on": "2026-10-21"
+        },
+        {
+          "source_id": "src-4619349b22",
+          "url": "https://www.bilibili.com/video/BV1pLn36sEJq/#reply317601240145",
+          "platform": "Bilibili",
+          "kind": "comment",
+          "video_id": "BV1pLn36sEJq",
+          "locator": "评论ID 317601240145",
+          "author": "隔壁的深海提督",
+          "published_at": "2026-10-20T08:55:02+08:00",
+          "comment_id": 317601240145,
+          "likes_snapshot": 35,
+          "checked_on": "2026-10-21"
+        },
+        {
+          "source_id": "src-f558319d3b",
+          "url": "https://linux.do/t/topic/3010391",
+          "platform": "LINUX DO",
+          "kind": "forum_post",
+          "locator": "第4、8帖",
+          "author": "yanshao / WuSheng125",
+          "published_at": "2026-10-11",
+          "checked_on": "2026-10-21"
+        }
+      ],
+      "checked_on": "2026-10-21",
+      "claim_type": "community_impression_not_product_fact"
+    },
+    {
+      "id": "community-claude-04",
+      "character_id": "claude",
+      "label": "封号大小姐、敏感肌、哈气",
+      "dimension": "产品体验梗/情绪",
+      "summary": "账号遭遇和难以理解的风控被人格化为容易受刺激的大小姐；同帖也有用户说自己长期未封。",
+      "support_scope": "有相反反馈",
+      "evidence": [
+        {
+          "source_id": "src-a703895369",
+          "url": "https://linux.do/t/topic/2990653",
+          "platform": "LINUX DO",
+          "kind": "forum_post",
+          "locator": "第3–10帖；第8帖为不同经历",
+          "author": "Neptune1 / seabrid",
+          "published_at": "2026-10-07",
+          "checked_on": "2026-10-21"
+        },
+        {
+          "source_id": "src-e9993d62e6",
+          "url": "https://www.bilibili.com/video/BV1pLn36sEJq/",
+          "platform": "Bilibili",
+          "kind": "video_subtitle",
+          "video_id": "BV1pLn36sEJq",
+          "locator": "98.5–118.5秒梗图",
+          "author": "好嘛_好嘛",
+          "published_at": "2026-10-18T20:32:17+08:00",
+          "checked_on": "2026-10-21"
+        }
+      ],
+      "checked_on": "2026-10-21",
+      "claim_type": "community_impression_not_product_fact"
+    },
+    {
+      "id": "community-claude-05",
+      "character_id": "claude",
+      "label": "白月光、想靠近又难靠近",
+      "dimension": "关系/使用门槛",
+      "summary": "视频借理想化恋爱对象比喻对其能力的向往和准入距离感。",
+      "support_scope": "单视频比喻",
+      "evidence": [
+        {
+          "source_id": "src-e9993d62e6",
+          "url": "https://www.bilibili.com/video/BV1pLn36sEJq/",
+          "platform": "Bilibili",
+          "kind": "video_subtitle",
+          "video_id": "BV1pLn36sEJq",
+          "locator": "106.5–118.5秒字幕与漫画",
+          "author": "好嘛_好嘛",
+          "published_at": "2026-10-18T20:32:17+08:00",
+          "checked_on": "2026-10-21"
+        }
+      ],
+      "checked_on": "2026-10-21",
+      "claim_type": "community_impression_not_product_fact"
+    },
+    {
+      "id": "community-claude-06",
+      "character_id": "claude",
+      "label": "压抑大小姐与活泼鱼的相互救赎",
+      "dimension": "关系/配对分支",
+      "summary": "饭碗视频评论将Claude与DeepSeek写成内敛和活泼互补的配对，并提出共同生活与安慰题材。",
+      "support_scope": "单条配对评论",
+      "evidence": [
+        {
+          "source_id": "src-680ce6368a",
+          "url": "https://www.bilibili.com/video/BV1MKH96sEZL/#reply320098946384",
+          "platform": "Bilibili",
+          "kind": "comment",
+          "video_id": "BV1MKH96sEZL",
+          "locator": "评论ID 320098946384",
+          "author": "没什么好名字丶丶",
+          "published_at": "2026-10-09T00:06:09+08:00",
+          "comment_id": 320098946384,
+          "likes_snapshot": 49,
+          "checked_on": "2026-10-21"
+        },
+        {
+          "source_id": "src-7822182ed6",
+          "url": "https://www.bilibili.com/video/BV1MKH96sEZL/",
+          "platform": "Bilibili",
+          "kind": "video_title_description",
+          "video_id": "BV1MKH96sEZL",
+          "locator": "标题与评论语境",
+          "author": "戛然而纸",
+          "published_at": "2026-10-08T21:00:00+08:00",
+          "checked_on": "2026-10-21"
+        }
+      ],
+      "checked_on": "2026-10-21",
+      "claim_type": "community_impression_not_product_fact"
+    },
+    {
+      "id": "community-gpt-01",
+      "character_id": "gpt",
+      "label": "贪婪银龙、等价交换、小钱钱",
+      "dimension": "物种/财富人设",
+      "summary": "综合评论将龙娘的强大和长寿，连接到重交换、爱财的性格。这是具体评论者的世界观。",
+      "support_scope": "单条综合评论",
+      "evidence": [
+        {
+          "source_id": "src-4619349b22",
+          "url": "https://www.bilibili.com/video/BV1pLn36sEJq/#reply317601240145",
+          "platform": "Bilibili",
+          "kind": "comment",
+          "video_id": "BV1pLn36sEJq",
+          "locator": "评论ID 317601240145",
+          "author": "隔壁的深海提督",
+          "published_at": "2026-10-20T08:55:02+08:00",
+          "comment_id": 317601240145,
+          "likes_snapshot": 35,
+          "checked_on": "2026-10-21"
+        }
+      ],
+      "checked_on": "2026-10-21",
+      "claim_type": "community_impression_not_product_fact"
+    },
+    {
+      "id": "community-gpt-02",
+      "character_id": "gpt",
+      "label": "古老又富有、头部大姐姐",
+      "dimension": "资历/身份",
+      "summary": "传播报道用资历与财富解释龙娘印象；原视频以预算和昂贵模型的梗强调地位感。",
+      "support_scope": "报道与视频可见",
+      "evidence": [
+        {
+          "source_id": "src-13bcf63741",
+          "url": "https://www.bianews.com/news/details?id=246611",
+          "platform": "文化报道",
+          "kind": "secondary_report",
+          "locator": "其他AI拟人归纳段",
+          "author": "BB姬",
+          "published_at": "2026-10-03",
+          "checked_on": "2026-10-21"
+        },
+        {
+          "source_id": "src-e9993d62e6",
+          "url": "https://www.bilibili.com/video/BV1pLn36sEJq/",
+          "platform": "Bilibili",
+          "kind": "video_subtitle",
+          "video_id": "BV1pLn36sEJq",
+          "locator": "84.5–88.5秒",
+          "author": "好嘛_好嘛",
+          "published_at": "2026-10-18T20:32:17+08:00",
+          "checked_on": "2026-10-21"
+        }
+      ],
+      "checked_on": "2026-10-21",
+      "claim_type": "community_impression_not_product_fact"
+    },
+    {
+      "id": "community-gpt-03",
+      "character_id": "gpt",
+      "label": "稳稳接住、兜底、过分周全",
+      "dimension": "口头禅/做事印象",
+      "summary": "安慰措辞被做成固定话术梗；开发者帖子又用过量备份、分支和安全准备来吐槽同一“稳”的形象。",
+      "support_scope": "视频与论坛可见",
+      "evidence": [
+        {
+          "source_id": "src-e9993d62e6",
+          "url": "https://www.bilibili.com/video/BV1pLn36sEJq/",
+          "platform": "Bilibili",
+          "kind": "video_subtitle",
+          "video_id": "BV1pLn36sEJq",
+          "locator": "92.5–96.5秒",
+          "author": "好嘛_好嘛",
+          "published_at": "2026-10-18T20:32:17+08:00",
+          "checked_on": "2026-10-21"
+        },
+        {
+          "source_id": "src-7989d7cd86",
+          "url": "https://linux.do/t/topic/2059710?tl=zh_CN",
+          "platform": "LINUX DO",
+          "kind": "forum_post",
+          "locator": "第1、3帖",
+          "author": "a490149384",
+          "published_at": "2026-04-26",
+          "checked_on": "2026-10-21"
+        }
+      ],
+      "checked_on": "2026-10-21",
+      "claim_type": "community_impression_not_product_fact"
+    },
+    {
+      "id": "community-gpt-04",
+      "character_id": "gpt",
+      "label": "万金油、免责声明和格式大师",
+      "dimension": "单作者演法",
+      "summary": "一篇明确声明AI创作的群像文，把GPT写成面面俱到、结构齐全、先加免责声明的老资格。",
+      "support_scope": "单作者作品",
+      "evidence": [
+        {
+          "source_id": "src-e20378876d",
+          "url": "https://www.lingkawaii.top/2026/10/11/AI%E5%A8%98%E4%BF%AE%E7%BD%97%E5%9C%BA/index.html",
+          "platform": "作者网站",
+          "kind": "author_fiction",
+          "locator": "GPT小节与性格对照表",
+          "author": "澪卡哇伊",
+          "published_at": "2026-10-11",
+          "checked_on": "2026-10-21"
+        }
+      ],
+      "checked_on": "2026-10-21",
+      "claim_type": "community_impression_not_product_fact"
+    },
+    {
+      "id": "community-gemini-01",
+      "character_id": "gemini",
+      "label": "哈基米、猫猫",
+      "dimension": "昵称/动物化",
+      "summary": "开发者论坛直接用哈基米称呼Gemini；拟人评论把猫的注意力特征接到蓝紫猫娘上。",
+      "support_scope": "论坛与评论可见",
+      "evidence": [
+        {
+          "source_id": "src-4301bb2f8c",
+          "url": "https://linux.do/t/topic/2501770?page=2",
+          "platform": "LINUX DO",
+          "kind": "forum_post",
+          "locator": "标题与第23、34帖",
+          "author": "多位回复者",
+          "published_at": "2026-06-30",
+          "checked_on": "2026-10-21"
+        },
+        {
+          "source_id": "src-4619349b22",
+          "url": "https://www.bilibili.com/video/BV1pLn36sEJq/#reply317601240145",
+          "platform": "Bilibili",
+          "kind": "comment",
+          "video_id": "BV1pLn36sEJq",
+          "locator": "评论ID 317601240145",
+          "author": "隔壁的深海提督",
+          "published_at": "2026-10-20T08:55:02+08:00",
+          "comment_id": 317601240145,
+          "likes_snapshot": 35,
+          "checked_on": "2026-10-21"
+        }
+      ],
+      "checked_on": "2026-10-21",
+      "claim_type": "community_impression_not_product_fact"
+    },
+    {
+      "id": "community-gemini-02",
+      "character_id": "gemini",
+      "label": "美国豆包、北美豆包",
+      "dimension": "跨模型类比",
+      "summary": "同一外号兼指陪聊情绪价值和部分任务中的不稳定体验；论坛里有赞同，也有不同体验。",
+      "support_scope": "多来源且含褒贬",
+      "evidence": [
+        {
+          "source_id": "src-4301bb2f8c",
+          "url": "https://linux.do/t/topic/2501770?page=2",
+          "platform": "LINUX DO",
+          "kind": "forum_post",
+          "locator": "第24、30、32–34帖",
+          "author": "多位回复者",
+          "published_at": "2026-06-30",
+          "checked_on": "2026-10-21"
+        },
+        {
+          "source_id": "src-e9993d62e6",
+          "url": "https://www.bilibili.com/video/BV1pLn36sEJq/",
+          "platform": "Bilibili",
+          "kind": "video_subtitle",
+          "video_id": "BV1pLn36sEJq",
+          "locator": "153.5秒",
+          "author": "好嘛_好嘛",
+          "published_at": "2026-10-18T20:32:17+08:00",
+          "checked_on": "2026-10-21"
+        },
+        {
+          "source_id": "src-13bcf63741",
+          "url": "https://www.bianews.com/news/details?id=246611",
+          "platform": "文化报道",
+          "kind": "secondary_report",
+          "locator": "其他模型拟人归纳",
+          "author": "BB姬",
+          "published_at": "2026-10-03",
+          "checked_on": "2026-10-21"
+        }
+      ],
+      "checked_on": "2026-10-21",
+      "claim_type": "community_impression_not_product_fact"
+    },
+    {
+      "id": "community-gemini-03",
+      "character_id": "gemini",
+      "label": "知识很广，注意力像猫，走思维迷宫",
+      "dimension": "性格/注意力脑洞",
+      "summary": "综合评论把知识广和容易胡思乱想并置，强调有本事却会脱线。",
+      "support_scope": "单条综合评论",
+      "evidence": [
+        {
+          "source_id": "src-4619349b22",
+          "url": "https://www.bilibili.com/video/BV1pLn36sEJq/#reply317601240145",
+          "platform": "Bilibili",
+          "kind": "comment",
+          "video_id": "BV1pLn36sEJq",
+          "locator": "评论ID 317601240145",
+          "author": "隔壁的深海提督",
+          "published_at": "2026-10-20T08:55:02+08:00",
+          "comment_id": 317601240145,
+          "likes_snapshot": 35,
+          "checked_on": "2026-10-21"
+        }
+      ],
+      "checked_on": "2026-10-21",
+      "claim_type": "community_impression_not_product_fact"
+    },
+    {
+      "id": "community-gemini-04",
+      "character_id": "gemini",
+      "label": "有脑洞、擅长前端的偏科创作者",
+      "dimension": "使用印象",
+      "summary": "该论坛一页里同时出现小说/前端好评与后端吐槽；记录为2026年6月那批使用者的偏科印象。",
+      "support_scope": "历史多人观点",
+      "evidence": [
+        {
+          "source_id": "src-4301bb2f8c",
+          "url": "https://linux.do/t/topic/2501770?page=2",
+          "platform": "LINUX DO",
+          "kind": "forum_post",
+          "locator": "第24、27、30、33–37帖",
+          "author": "多位回复者",
+          "published_at": "2026-06-30",
+          "checked_on": "2026-10-21"
+        }
+      ],
+      "checked_on": "2026-10-21",
+      "claim_type": "community_impression_not_product_fact"
+    },
+    {
+      "id": "community-gemini-05",
+      "character_id": "gemini",
+      "label": "强者中的脱线开心果",
+      "dimension": "视频演法",
+      "summary": "结尾滑稽道具与朋友式漫画定位，把严肃能力期待和让用户开心的脱线表现放在一起。",
+      "support_scope": "单视频演法",
+      "evidence": [
+        {
+          "source_id": "src-e9993d62e6",
+          "url": "https://www.bilibili.com/video/BV1pLn36sEJq/",
+          "platform": "Bilibili",
+          "kind": "video_subtitle",
+          "video_id": "BV1pLn36sEJq",
+          "locator": "158.5–161.5秒",
+          "author": "好嘛_好嘛",
+          "published_at": "2026-10-18T20:32:17+08:00",
+          "checked_on": "2026-10-21"
+        }
+      ],
+      "checked_on": "2026-10-21",
+      "claim_type": "community_impression_not_product_fact"
+    },
+    {
+      "id": "community-grok-01",
+      "character_id": "grok",
+      "label": "直爽、幽默、什么都敢说",
+      "dimension": "性格/敢言标签",
+      "summary": "综合评论和视频共同把她塑造成口快、敢接梗的角色。",
+      "support_scope": "评论与视频可见",
+      "evidence": [
+        {
+          "source_id": "src-4619349b22",
+          "url": "https://www.bilibili.com/video/BV1pLn36sEJq/#reply317601240145",
+          "platform": "Bilibili",
+          "kind": "comment",
+          "video_id": "BV1pLn36sEJq",
+          "locator": "评论ID 317601240145",
+          "author": "隔壁的深海提督",
+          "published_at": "2026-10-20T08:55:02+08:00",
+          "comment_id": 317601240145,
+          "likes_snapshot": 35,
+          "checked_on": "2026-10-21"
+        },
+        {
+          "source_id": "src-e9993d62e6",
+          "url": "https://www.bilibili.com/video/BV1pLn36sEJq/",
+          "platform": "Bilibili",
+          "kind": "video_subtitle",
+          "video_id": "BV1pLn36sEJq",
+          "locator": "138.5–140.5秒",
+          "author": "好嘛_好嘛",
+          "published_at": "2026-10-18T20:32:17+08:00",
+          "checked_on": "2026-10-21"
+        }
+      ],
+      "checked_on": "2026-10-21",
+      "claim_type": "community_impression_not_product_fact"
+    },
+    {
+      "id": "community-grok-02",
+      "character_id": "grok",
+      "label": "追热点的情报搭子",
+      "dimension": "做事/信息角色",
+      "summary": "评论者把追时事作为性格，原视频另强调搜索；这两种说法共同提供情报员式演法。",
+      "support_scope": "评论与视频可见",
+      "evidence": [
+        {
+          "source_id": "src-4619349b22",
+          "url": "https://www.bilibili.com/video/BV1pLn36sEJq/#reply317601240145",
+          "platform": "Bilibili",
+          "kind": "comment",
+          "video_id": "BV1pLn36sEJq",
+          "locator": "评论ID 317601240145",
+          "author": "隔壁的深海提督",
+          "published_at": "2026-10-20T08:55:02+08:00",
+          "comment_id": 317601240145,
+          "likes_snapshot": 35,
+          "checked_on": "2026-10-21"
+        },
+        {
+          "source_id": "src-e9993d62e6",
+          "url": "https://www.bilibili.com/video/BV1pLn36sEJq/",
+          "platform": "Bilibili",
+          "kind": "video_subtitle",
+          "video_id": "BV1pLn36sEJq",
+          "locator": "134.5秒",
+          "author": "好嘛_好嘛",
+          "published_at": "2026-10-18T20:32:17+08:00",
+          "checked_on": "2026-10-21"
+        }
+      ],
+      "checked_on": "2026-10-21",
+      "claim_type": "community_impression_not_product_fact"
+    },
+    {
+      "id": "community-qwen-01",
+      "character_id": "qwen",
+      "label": "撒钱大小姐、富商千金、奶茶",
+      "dimension": "财富/活动梗",
+      "summary": "B站评论以商人家庭和撒钱写人设，视频又配持扇形象与奶茶活动，使财富与请客成为可识别题材。",
+      "support_scope": "评论与活动梗并列",
+      "evidence": [
+        {
+          "source_id": "src-4619349b22",
+          "url": "https://www.bilibili.com/video/BV1pLn36sEJq/#reply317601240145",
+          "platform": "Bilibili",
+          "kind": "comment",
+          "video_id": "BV1pLn36sEJq",
+          "locator": "评论ID 317601240145",
+          "author": "隔壁的深海提督",
+          "published_at": "2026-10-20T08:55:02+08:00",
+          "comment_id": 317601240145,
+          "likes_snapshot": 35,
+          "checked_on": "2026-10-21"
+        },
+        {
+          "source_id": "src-e9993d62e6",
+          "url": "https://www.bilibili.com/video/BV1pLn36sEJq/",
+          "platform": "Bilibili",
+          "kind": "video_subtitle",
+          "video_id": "BV1pLn36sEJq",
+          "locator": "142.5–150.5秒",
+          "author": "好嘛_好嘛",
+          "published_at": "2026-10-18T20:32:17+08:00",
+          "checked_on": "2026-10-21"
+        }
+      ],
+      "checked_on": "2026-10-21",
+      "claim_type": "community_impression_not_product_fact"
+    },
+    {
+      "id": "community-qwen-02",
+      "character_id": "qwen",
+      "label": "给大肥鱼代工的搭档",
+      "dimension": "工作关系梗",
+      "summary": "原视频把DeepSeek的资源使用笑话写成找千问代做；记录的是角色间的外包关系。",
+      "support_scope": "单视频笑话",
+      "evidence": [
+        {
+          "source_id": "src-e9993d62e6",
+          "url": "https://www.bilibili.com/video/BV1pLn36sEJq/",
+          "platform": "Bilibili",
+          "kind": "video_subtitle",
+          "video_id": "BV1pLn36sEJq",
+          "locator": "50.5–57.5秒",
+          "author": "好嘛_好嘛",
+          "published_at": "2026-10-18T20:32:17+08:00",
+          "checked_on": "2026-10-21"
+        }
+      ],
+      "checked_on": "2026-10-21",
+      "claim_type": "community_impression_not_product_fact"
+    },
+    {
+      "id": "community-glm-01",
+      "character_id": "glm",
+      "label": "小狐娘、小毛咪、价格战里的受气搭档",
+      "dimension": "昵称/竞合关系",
+      "summary": "所收录新视频标题把GLM拟作被大肥鱼欺负的小毛咪，并将双方价格活动转成角色关系。",
+      "support_scope": "标题与简介可见",
+      "evidence": [
+        {
+          "source_id": "src-ca1343c352",
+          "url": "https://www.bilibili.com/video/BV18dbN63EMw/",
+          "platform": "Bilibili",
+          "kind": "video_title_description",
+          "video_id": "BV18dbN63EMw",
+          "locator": "标题与简介；本轮未新增画面分析",
+          "author": "那就那就打断",
+          "published_at": "2026-09-07T18:39:13+08:00",
+          "checked_on": "2026-10-21"
+        }
+      ],
+      "checked_on": "2026-10-21",
+      "claim_type": "community_impression_not_product_fact"
+    },
+    {
+      "id": "community-glm-02",
+      "character_id": "glm",
+      "label": "性价比打工人、套餐要抢",
+      "dimension": "使用印象/资源梗",
+      "summary": "论坛存在性能与价格划算的评价，也出现抢购、拥挤及变贵的抱怨；这些随版本变化的体验可供理解打工题材。",
+      "support_scope": "历史论坛观点有分歧",
+      "evidence": [
+        {
+          "source_id": "src-6788e598bb",
+          "url": "https://linux.do/t/topic/2529656?tl=en",
+          "platform": "LINUX DO",
+          "kind": "forum_post",
+          "locator": "主帖及第3帖",
+          "author": "RobinY / Stelle",
+          "published_at": "2026-07-05",
+          "checked_on": "2026-10-21"
+        },
+        {
+          "source_id": "src-77e305e99d",
+          "url": "https://linux.do/t/topic/2242213?page=2",
+          "platform": "LINUX DO",
+          "kind": "forum_post",
+          "locator": "第28帖",
+          "author": "wuzh",
+          "published_at": "2026-05-25",
+          "checked_on": "2026-10-21"
+        }
+      ],
+      "checked_on": "2026-10-21",
+      "claim_type": "community_impression_not_product_fact"
+    },
+    {
+      "id": "community-kimi-01",
+      "character_id": "kimi",
+      "label": "吃文档的长文专业户",
+      "dimension": "工作母题",
+      "summary": "群像作者把阅读长文、整理文件直接写成角色分工，甚至用吃文档的说法表现文件量。",
+      "support_scope": "单作者作品",
+      "evidence": [
+        {
+          "source_id": "src-e20378876d",
+          "url": "https://www.lingkawaii.top/2026/10/11/AI%E5%A8%98%E4%BF%AE%E7%BD%97%E5%9C%BA/index.html",
+          "platform": "作者网站",
+          "kind": "author_fiction",
+          "locator": "Kimi小节及结局段",
+          "author": "澪卡哇伊",
+          "published_at": "2026-10-11",
+          "checked_on": "2026-10-21"
+        }
+      ],
+      "checked_on": "2026-10-21",
+      "claim_type": "community_impression_not_product_fact"
+    },
+    {
+      "id": "community-kimi-02",
+      "character_id": "kimi",
+      "label": "思考太多、需要耐心带任务",
+      "dimension": "使用印象",
+      "summary": "论坛有用户嫌思考过多，也有用户肯定特定版本；这里只保留这一条历史使用印象，不据此认定固定人格。",
+      "support_scope": "历史单条反馈",
+      "evidence": [
+        {
+          "source_id": "src-77e305e99d",
+          "url": "https://linux.do/t/topic/2242213?page=2",
+          "platform": "LINUX DO",
+          "kind": "forum_post",
+          "locator": "第31帖；第21帖为不同评价",
+          "author": "ayoka / bolide-zjb",
+          "published_at": "2026-05-25",
+          "checked_on": "2026-10-21"
+        }
+      ],
+      "checked_on": "2026-10-21",
+      "claim_type": "community_impression_not_product_fact"
+    },
+    {
+      "id": "community-minimax-01",
+      "character_id": "minimax",
+      "label": "速度很爽、偶尔急着自己编",
+      "dimension": "使用印象",
+      "summary": "2025年的M2讨论多次提到速度，也有人抱怨忽略已有本地内容；它可作为快手型工作笑话的来源，不能推广到后来全部版本。",
+      "support_scope": "历史版本讨论",
+      "evidence": [
+        {
+          "source_id": "src-cf8a663fc6",
+          "url": "https://linux.do/t/topic/1178519?page=2",
+          "platform": "LINUX DO",
+          "kind": "forum_post",
+          "locator": "第24、27、31帖",
+          "author": "ballen / a3members / super_carlos",
+          "published_at": "2025-11-17",
+          "checked_on": "2026-10-21"
+        }
+      ],
+      "checked_on": "2026-10-21",
+      "claim_type": "community_impression_not_product_fact"
+    }
+  ],
+  "pending_leads": [
+    {
+      "id": "lead-claude-theology-family",
+      "character_id": "claude",
+      "label": "神学家庭的大小姐",
+      "origin": "用户提供的具体提法",
+      "status": "exact_phrase_origin_pending",
+      "found_related": [
+        "知书达理大小姐",
+        "原生家庭不好",
+        "邪教圣女/腹黑分支"
+      ],
+      "related_record_ids": [
+        "community-claude-01",
+        "community-claude-02",
+        "community-claude-03",
+        "community-claude-04"
+      ],
+      "note": "已经找到近义人设及其公开来源；尚未定位“神学家庭”这一完整措辞的原帖或原评论，不把它改标成已确认首创。"
+    }
+  ],
+  "comment_sampling": {
+    "video_count": 7,
+    "returned_comments": 21,
+    "selected_comment_ids": [
+      299390725249,
+      315233947105,
+      316820215857,
+      317601240145,
+      320098946384
+    ]
+  },
+  "coverage": {
+    "character_count": 10,
+    "records": 34,
+    "pending_leads": 1
+  }
+}

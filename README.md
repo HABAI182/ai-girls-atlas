@@ -2,7 +2,13 @@
 
 整理AI拟人角色的立绘、Q版、三视图、表情、视频与声音：看形象、选作者版本、找原图与制作来源。资料更新至 **2026-10-21**。
 
-## 本轮继续补齐：可用文件、声音与薄弱角色
+## 社区刻板印象与人设补充
+
+- **[社区里已经流传的人设与梗](encyclopedia/personas/community-impressions.md)**：10个角色、34条记录；B站评论、论坛楼层、贴吧话题分别注明出处。
+- **[39份原创创作参考](encyclopedia/personas/README.md)**：动机、反差、接任务、追问、纠错、关心方式；117句同题原创对白，作者与产品资料依据分别列明。
+- **[豆包形象纠正](encyclopedia/personas/doubao-correction.md)**：官网当前头像设为主图，红围巾短片、校园同人和Seed娘分开展示。
+
+## 可用文件、声音与薄弱角色
 
 - **[直接下载14组素材包](encyclopedia/ready-packages.md)**：11组静态图、1组三维源文件、2组Live2D，附原许可、来源和文件清单。
 - **[原文件实际运行结果](encyclopedia/runtime-materials.md)**：Blend/GLB渲染、两套Live2D加载与动作/表情采样、三张图集播放。
@@ -12,9 +18,9 @@
 ## 这次新增
 
 - **[AI娘创作百科](encyclopedia/README.md)**：梗、角色演出、动作道具、关系地图、声音、衣装、作者、版本沿革和新作品形态。
-- **三个完整专题**：[10个梗](encyclopedia/memes/README.md)、[八位角色反应与32格原创点子](encyclopedia/performances/README.md)、[16组素材关联包](encyclopedia/production/README.md)。
+- **三个既有专题**：[10个梗](encyclopedia/memes/README.md)、[八位角色反应与32格原创点子](encyclopedia/performances/README.md)、[16组素材关联包](encyclopedia/production/README.md)。
 - **具体来源继续扩充**：12条新补明的模型/工程入口、16张图像观察、6段音轨分析、6个跨语种入口。
-- **视频与声音索引**：现有92条视频、19条声音来源；原有图片与版本档案沿用。
+- **视频与声音索引**：现有96条视频、19条声音来源；原有图片与版本档案沿用。
 
 - **用户新补充视频已接入**：[TreapGoGo网站、参考图、工作流和投稿路径](encyclopedia/focus-treap.md)；[元宝娘](characters/yuanbao/README.md)补到三个作者造型分支。
 
@@ -37,15 +43,17 @@
 | 条目 | 39 | 产品、模型、工具、平台及历史/待区分项目命名 |
 | 有形象资料或线索 | 36 | 本地图片、档案与外部作品线索分别标注 |
 | 有本地图片的角色条目 | 21 | 不同作者版本可共存 |
-| 本地原图/派生图/参考文件 | 85 | 保留供应方原字节，含首轮视频展示截帧 |
+| 本地原图/派生图/参考文件 | 86 | 保留供应方原字节，含首轮视频展示截帧 |
 | 轻量预览 | 11 | 单独计数，不当作新作品 |
 | 外部参考 | 49 | 图库原帖与独立宠物版本 |
-| 视频记录 | 92 | 含声音上游与关联方法，观察范围逐条注明 |
+| 视频记录 | 96 | 含声音上游与关联方法，观察范围逐条注明 |
 | 视频画面案例 | 23 | 18类；21篇AI娘作品、2篇相关方法 |
 | 声音来源 | 19 | 原作品与版本链，不是音频下载包 |
 | 表情/作品导航 | 36 | 外链导航与情绪用途 |
 | 本地表情语境 | 11 | 对应已有图片的索引 |
-| 来源入口 | 319 | 正文、目录、元数据和作者声明分层记录 |
+| 来源入口 | 360 | 正文、目录、元数据和作者声明分层记录 |
+| 社区印象记录 / 涉及角色 | 34 / 10 | 来源观点、具体评论、单作者作品分别标注 |
+| 人设创作档案 / 原创对白 | 39 / 117 | 作者文字分支14条目；官方风格/功能语境11条目；未冒充真实模型采样 |
 | 待补条目 | 3 | 未找到明确方案的档位继续保留 |
 
 首轮重点来源保留，新增部分按原文件和作品版本去重。两个重点来源的本次变化见[source-updates.json](data/source-updates.json)。
@@ -94,7 +102,7 @@
 | [Midjourney](characters/midjourney/README.md) | image-product | 作品线索 | 本次仅确认生成式模型合照中的形象线索 |
 | [Suno](characters/suno/README.md) | music-product | 作品线索 | 本次仅确认生成式模型合照中的形象线索 |
 | [ElevenLabs](characters/elevenlabs/README.md) | audio-product | 作品线索 | 本次仅确认生成式模型合照中的形象线索 |
-| [豆包官方头像及其他版本](characters/doubao/README.md) | product | 本地图片 | 官方短发头像有来源；同人造型存在多个分支 |
+| [豆包 / Doubao](characters/doubao/README.md) | product | 本地图片 | 官网棕色短发头像；红围巾短片与校园同人分列 |
 | [StepFun / 阶跃星辰](characters/stepfun/README.md) | model-family | 本地图片 | 浅蓝长发、蓝眼、环状呆毛；黑白不对称裙装/披风、阶梯方块装饰；立方灯与方格面板伞两件专武 |
 | [MiMo / 小米](characters/mimo/README.md) | model-family | 本地图片 | 银白双马尾；橙黑服装、mi/MiMo标识；兔子与黑白不对称袜 |
 | [Hugging Face](characters/huggingface/README.md) | platform | 作品线索 | 站点条目描述黄色笑脸玩偶与海军蓝外套 |

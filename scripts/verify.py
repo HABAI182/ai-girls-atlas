@@ -74,7 +74,7 @@ for a in assets:
     require(a['character_id'] in char_ids, f'Unknown asset character: {a["id"]}')
     require(bool(a['creators']), f'Missing asset attribution: {a["id"]}')
     require(bool(a['license'].get('evidence_url')), f'Missing license evidence: {a["id"]}')
-    require(a['license']['status'] in ('author_declared', 'author_sharing_statement', 'maintainer_declared'), f'Unexpected local license status: {a["id"]}')
+    require(a['license']['status'] in ('author_declared', 'author_sharing_statement', 'maintainer_declared', 'official_copyright'), f'Unexpected local license status: {a["id"]}')
     check_file(a)
     expected_files.add(a['path'])
     if a.get('preview_receipt'):
@@ -152,7 +152,7 @@ for filename in ['meme-encyclopedia.json', 'performances.json', 'actions-props.j
                  'relationships.json', 'production-kits.json', 'creators.json',
                  'design-history.json', 'cross-media.json', 'audio-observations.json',
                  'video-observations.json', 'ready-packages.json',
-                 'audio-performances.json', 'material-checks.json']:
+                 'audio-performances.json', 'material-checks.json', 'personas.json', 'community-impressions.json']:
     editorial_joins(read(filename), filename)
 for label, records in [('encyclopedia meme', encyclopedia_memes),
                        ('action', actions), ('relationship', relationships),
@@ -192,6 +192,13 @@ for p in ROOT.rglob('*'):
     if not p.is_file() or '.git' in p.parts:
         continue
     require(p.suffix.lower() not in ('.mp3', '.mp4', '.wav', '.exe', '.dll', '.env'), f'Unexpected binary or private config: {p.relative_to(ROOT)}')
+personas = read('personas.json')['profiles']
+require({p['character_id'] for p in personas} == char_ids and len(personas) == len(chars), 'Persona coverage mismatch')
+for p in personas:
+    require((ROOT / p['page_path']).is_file(), f'Missing persona page: {p["id"]}')
+    require(len(p['original_dialogues']) == 3, f'Missing persona dialogue: {p["id"]}')
+    require(all(d['origin'] == 'atlas_original' and d['model_output'] is False for d in p['original_dialogues']), f'Unclear dialogue origin: {p["id"]}')
+community = read('community-impressions.json')
 checks = {
     'entity_records': len(chars),
     'entities_with_visual_evidence_or_leads': sum(c['status'] != 'wanted' for c in chars),
@@ -226,6 +233,16 @@ checks = {
     'ready_material_packages': len(ready_packages),
     'direct_audio_performance_records': len(direct_audio),
     'actual_material_checks': len(material_checks),
+    'persona_profiles': len(personas),
+    'original_persona_dialogues': sum(len(p['original_dialogues']) for p in personas),
+    'written_persona_branch_entities': sum(bool(p['author_basis']) for p in personas),
+    'persona_official_context_entities': sum(bool(p['product_basis']) for p in personas),
+    'real_product_dialogue_samples': sum(p['real_model_dialogue_measurement'] is not None for p in personas),
+    'persona_community_video_observations': len(read('personas.json')['community_video_observations']),
+    'community_impression_records': len(community['records']),
+    'community_impression_characters': len({r['character_id'] for r in community['records']}),
+    'community_pending_leads': len(community['pending_leads']),
+    'public_comment_samples': community['comment_sampling']['returned_comments'],
 }
 for key, value in checks.items():
     require(coverage[key] == value, f'Coverage mismatch: {key}')

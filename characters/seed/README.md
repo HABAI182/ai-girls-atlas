@@ -1,5 +1,7 @@
 # Seed 娘（豆包相关同人）
 
+[人设、说话与做事风格](../../encyclopedia/personas/seed.md)：含证据范围和本库创作版对白。
+
 资料日期：2026-10-21。类型：`model-family`；状态：`local_assets`。
 
 ## 形象与版本
