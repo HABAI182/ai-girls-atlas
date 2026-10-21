@@ -1,0 +1,1535 @@
+{
+  "schema_version": 1,
+  "checked_on": "2026-10-21",
+  "availability_labels": {
+    "local_file": "本库已有原文件；以asset许可记录为准",
+    "external_file_available": "固定提交含文件，本次不复制媒体",
+    "creator_package_listed": "作者分发页列出包、名称或规格，本轮未领取",
+    "external_distribution_entry": "可回作者平台查看/订阅/领取的入口",
+    "external_work_reference": "作品演示/来源关系，未取得对应制作文件",
+    "unknown": "未登记同作者同系列可用文件"
+  },
+  "kits": [
+    {
+      "id": "kit-apprentice-gpt",
+      "title": "ApprenTice gpt 常规与Q版制作包",
+      "character_ids": [
+        "gpt"
+      ],
+      "series": "ApprenTice / AI-Girls-and-Chibis",
+      "series_author": "ApprenTice",
+      "relationship": "same_author_same_directory",
+      "variant_ids": [
+        "apprentice-chatgpt"
+      ],
+      "project_ids": [
+        "project-apprentice-geo"
+      ],
+      "source_ids": [
+        "src-22fa810a0e",
+        "src-57ada90d6d"
+      ],
+      "components": [
+        {
+          "kind": "portrait",
+          "availability": "local_file",
+          "asset_id": "apprentice-chatgpt-girl",
+          "path": "assets/apprentice/gpt/apprentice-chatgpt-girl.png",
+          "creator_chain": [
+            "ApprenTice（AI辅助派生图）",
+            "ZipZipPipe（参考角色设计）"
+          ],
+          "source_url": "https://github.com/Apprentice-Geo/AI-Fanworks/blob/ee1f5176710f3bcfd60ee5cb0af00f77ed96748e/ApprenTice/AI-Girls-and-Chibis/ChatGPT-Girl.png",
+          "rights_as_recorded": "CC-BY-NC-SA-4.0"
+        },
+        {
+          "kind": "chibi",
+          "availability": "local_file",
+          "asset_id": "apprentice-chatgpt-chibi",
+          "path": "assets/apprentice/gpt/apprentice-chatgpt-chibi.png",
+          "creator_chain": [
+            "ApprenTice（AI辅助派生图）",
+            "ZipZipPipe（参考角色设计）"
+          ],
+          "source_url": "https://github.com/Apprentice-Geo/AI-Fanworks/blob/ee1f5176710f3bcfd60ee5cb0af00f77ed96748e/ApprenTice/AI-Girls-and-Chibis/ChatGPT-Chibi.png",
+          "rights_as_recorded": "CC-BY-NC-SA-4.0"
+        },
+        {
+          "kind": "prompt",
+          "availability": "external_file_available",
+          "url": "https://github.com/Apprentice-Geo/AI-Fanworks/blob/ee1f5176710f3bcfd60ee5cb0af00f77ed96748e/ApprenTice/AI-Girls-and-Chibis/Prompts.md",
+          "title": "ApprenTice角色常规/Q版提示词",
+          "source_ids": [
+            "src-22fa810a0e",
+            "src-57ada90d6d"
+          ]
+        },
+        {
+          "kind": "expressions",
+          "availability": "unknown",
+          "note": "本系列已登记常规和Q版，不把两种比例误算成表情差分。"
+        },
+        {
+          "kind": "turnaround",
+          "availability": "unknown",
+          "note": "同作者同系列中未登记到该项；不拿其他版本填充。"
+        },
+        {
+          "kind": "voice",
+          "availability": "unknown",
+          "note": "同作者同系列中未登记到该项；不拿其他版本填充。"
+        },
+        {
+          "kind": "layered_source",
+          "availability": "unknown",
+          "note": "同作者同系列中未登记到该项；不拿其他版本填充。"
+        },
+        {
+          "kind": "live2d_or_3d_model",
+          "availability": "unknown",
+          "note": "同作者同系列中未登记到该项；不拿其他版本填充。"
+        }
+      ],
+      "ready_for": [
+        "常规立绘与Q版对照页",
+        "静态视频角色卡",
+        "沿作者提示词继续制作同系列图片"
+      ],
+      "missing_for": [
+        "逐层角色动画所需的分层源文件",
+        "同作者明确的多角度、表情与声音包"
+      ],
+      "do_not_merge": "ApprenTice图是重新制作的派生版本；不能标成ZipZipPipe原始Q版，也不与其他作者桌宠或音色拼成原厂套装。"
+    },
+    {
+      "id": "kit-apprentice-claude",
+      "title": "ApprenTice claude 常规与Q版制作包",
+      "character_ids": [
+        "claude"
+      ],
+      "series": "ApprenTice / AI-Girls-and-Chibis",
+      "series_author": "ApprenTice",
+      "relationship": "same_author_same_directory",
+      "variant_ids": [
+        "apprentice-claude"
+      ],
+      "project_ids": [
+        "project-apprentice-geo"
+      ],
+      "source_ids": [
+        "src-22fa810a0e",
+        "src-57ada90d6d"
+      ],
+      "components": [
+        {
+          "kind": "portrait",
+          "availability": "local_file",
+          "asset_id": "apprentice-claude-girl",
+          "path": "assets/apprentice/claude/apprentice-claude-girl.png",
+          "creator_chain": [
+            "ApprenTice（AI辅助派生图）",
+            "ZipZipPipe（参考角色设计）"
+          ],
+          "source_url": "https://github.com/Apprentice-Geo/AI-Fanworks/blob/ee1f5176710f3bcfd60ee5cb0af00f77ed96748e/ApprenTice/AI-Girls-and-Chibis/Claude-Girl.png",
+          "rights_as_recorded": "CC-BY-NC-SA-4.0"
+        },
+        {
+          "kind": "chibi",
+          "availability": "local_file",
+          "asset_id": "apprentice-claude-chibi",
+          "path": "assets/apprentice/claude/apprentice-claude-chibi.png",
+          "creator_chain": [
+            "ApprenTice（AI辅助派生图）",
+            "ZipZipPipe（参考角色设计）"
+          ],
+          "source_url": "https://github.com/Apprentice-Geo/AI-Fanworks/blob/ee1f5176710f3bcfd60ee5cb0af00f77ed96748e/ApprenTice/AI-Girls-and-Chibis/Claude-Chibi.png",
+          "rights_as_recorded": "CC-BY-NC-SA-4.0"
+        },
+        {
+          "kind": "prompt",
+          "availability": "external_file_available",
+          "url": "https://github.com/Apprentice-Geo/AI-Fanworks/blob/ee1f5176710f3bcfd60ee5cb0af00f77ed96748e/ApprenTice/AI-Girls-and-Chibis/Prompts.md",
+          "title": "ApprenTice角色常规/Q版提示词",
+          "source_ids": [
+            "src-22fa810a0e",
+            "src-57ada90d6d"
+          ]
+        },
+        {
+          "kind": "expressions",
+          "availability": "unknown",
+          "note": "本系列已登记常规和Q版，不把两种比例误算成表情差分。"
+        },
+        {
+          "kind": "turnaround",
+          "availability": "unknown",
+          "note": "同作者同系列中未登记到该项；不拿其他版本填充。"
+        },
+        {
+          "kind": "voice",
+          "availability": "unknown",
+          "note": "同作者同系列中未登记到该项；不拿其他版本填充。"
+        },
+        {
+          "kind": "layered_source",
+          "availability": "unknown",
+          "note": "同作者同系列中未登记到该项；不拿其他版本填充。"
+        },
+        {
+          "kind": "live2d_or_3d_model",
+          "availability": "unknown",
+          "note": "同作者同系列中未登记到该项；不拿其他版本填充。"
+        }
+      ],
+      "ready_for": [
+        "常规立绘与Q版对照页",
+        "静态视频角色卡",
+        "沿作者提示词继续制作同系列图片"
+      ],
+      "missing_for": [
+        "逐层角色动画所需的分层源文件",
+        "同作者明确的多角度、表情与声音包"
+      ],
+      "do_not_merge": "ApprenTice图是重新制作的派生版本；不能标成ZipZipPipe原始Q版，也不与其他作者桌宠或音色拼成原厂套装。"
+    },
+    {
+      "id": "kit-apprentice-deepseek",
+      "title": "ApprenTice deepseek 常规与Q版制作包",
+      "character_ids": [
+        "deepseek"
+      ],
+      "series": "ApprenTice / AI-Girls-and-Chibis",
+      "series_author": "ApprenTice",
+      "relationship": "same_author_same_directory",
+      "variant_ids": [
+        "apprentice-deepseek"
+      ],
+      "project_ids": [
+        "project-apprentice-geo"
+      ],
+      "source_ids": [
+        "src-22fa810a0e",
+        "src-57ada90d6d"
+      ],
+      "components": [
+        {
+          "kind": "portrait",
+          "availability": "local_file",
+          "asset_id": "apprentice-deepseek-girl",
+          "path": "assets/apprentice/deepseek/apprentice-deepseek-girl.png",
+          "creator_chain": [
+            "ApprenTice（AI辅助派生图）",
+            "上善无形（原始鲸鱼娘）",
+            "ZipZipPipe（参考角色设计）"
+          ],
+          "source_url": "https://github.com/Apprentice-Geo/AI-Fanworks/blob/ee1f5176710f3bcfd60ee5cb0af00f77ed96748e/ApprenTice/AI-Girls-and-Chibis/DeepSeek-Girl.png",
+          "rights_as_recorded": "CC-BY-NC-SA-4.0"
+        },
+        {
+          "kind": "chibi",
+          "availability": "local_file",
+          "asset_id": "apprentice-deepseek-chibi",
+          "path": "assets/apprentice/deepseek/apprentice-deepseek-chibi.png",
+          "creator_chain": [
+            "ApprenTice（AI辅助派生图）",
+            "上善无形（原始鲸鱼娘）",
+            "ZipZipPipe（参考角色设计）"
+          ],
+          "source_url": "https://github.com/Apprentice-Geo/AI-Fanworks/blob/ee1f5176710f3bcfd60ee5cb0af00f77ed96748e/ApprenTice/AI-Girls-and-Chibis/DeepSeek-Chibi.png",
+          "rights_as_recorded": "CC-BY-NC-SA-4.0"
+        },
+        {
+          "kind": "prompt",
+          "availability": "external_file_available",
+          "url": "https://github.com/Apprentice-Geo/AI-Fanworks/blob/ee1f5176710f3bcfd60ee5cb0af00f77ed96748e/ApprenTice/AI-Girls-and-Chibis/Prompts.md",
+          "title": "ApprenTice角色常规/Q版提示词",
+          "source_ids": [
+            "src-22fa810a0e",
+            "src-57ada90d6d"
+          ]
+        },
+        {
+          "kind": "expressions",
+          "availability": "unknown",
+          "note": "本系列已登记常规和Q版，不把两种比例误算成表情差分。"
+        },
+        {
+          "kind": "turnaround",
+          "availability": "unknown",
+          "note": "同作者同系列中未登记到该项；不拿其他版本填充。"
+        },
+        {
+          "kind": "voice",
+          "availability": "unknown",
+          "note": "同作者同系列中未登记到该项；不拿其他版本填充。"
+        },
+        {
+          "kind": "layered_source",
+          "availability": "unknown",
+          "note": "同作者同系列中未登记到该项；不拿其他版本填充。"
+        },
+        {
+          "kind": "live2d_or_3d_model",
+          "availability": "unknown",
+          "note": "同作者同系列中未登记到该项；不拿其他版本填充。"
+        }
+      ],
+      "ready_for": [
+        "常规立绘与Q版对照页",
+        "静态视频角色卡",
+        "沿作者提示词继续制作同系列图片"
+      ],
+      "missing_for": [
+        "逐层角色动画所需的分层源文件",
+        "同作者明确的多角度、表情与声音包"
+      ],
+      "do_not_merge": "ApprenTice图是重新制作的派生版本；不能标成ZipZipPipe原始Q版，也不与其他作者桌宠或音色拼成原厂套装。"
+    },
+    {
+      "id": "kit-apprentice-glm",
+      "title": "ApprenTice glm 常规与Q版制作包",
+      "character_ids": [
+        "glm"
+      ],
+      "series": "ApprenTice / AI-Girls-and-Chibis",
+      "series_author": "ApprenTice",
+      "relationship": "same_author_same_directory",
+      "variant_ids": [
+        "apprentice-glm"
+      ],
+      "project_ids": [
+        "project-apprentice-geo"
+      ],
+      "source_ids": [
+        "src-22fa810a0e",
+        "src-57ada90d6d"
+      ],
+      "components": [
+        {
+          "kind": "portrait",
+          "availability": "local_file",
+          "asset_id": "apprentice-glm-girl",
+          "path": "assets/apprentice/glm/apprentice-glm-girl.png",
+          "creator_chain": [
+            "ApprenTice（AI辅助派生图）",
+            "ZipZipPipe（参考角色设计）"
+          ],
+          "source_url": "https://github.com/Apprentice-Geo/AI-Fanworks/blob/ee1f5176710f3bcfd60ee5cb0af00f77ed96748e/ApprenTice/AI-Girls-and-Chibis/GLM-Girl.png",
+          "rights_as_recorded": "CC-BY-NC-SA-4.0"
+        },
+        {
+          "kind": "chibi",
+          "availability": "local_file",
+          "asset_id": "apprentice-glm-chibi",
+          "path": "assets/apprentice/glm/apprentice-glm-chibi.png",
+          "creator_chain": [
+            "ApprenTice（AI辅助派生图）",
+            "ZipZipPipe（参考角色设计）"
+          ],
+          "source_url": "https://github.com/Apprentice-Geo/AI-Fanworks/blob/ee1f5176710f3bcfd60ee5cb0af00f77ed96748e/ApprenTice/AI-Girls-and-Chibis/GLM-Chibi.png",
+          "rights_as_recorded": "CC-BY-NC-SA-4.0"
+        },
+        {
+          "kind": "prompt",
+          "availability": "external_file_available",
+          "url": "https://github.com/Apprentice-Geo/AI-Fanworks/blob/ee1f5176710f3bcfd60ee5cb0af00f77ed96748e/ApprenTice/AI-Girls-and-Chibis/Prompts.md",
+          "title": "ApprenTice角色常规/Q版提示词",
+          "source_ids": [
+            "src-22fa810a0e",
+            "src-57ada90d6d"
+          ]
+        },
+        {
+          "kind": "expressions",
+          "availability": "unknown",
+          "note": "本系列已登记常规和Q版，不把两种比例误算成表情差分。"
+        },
+        {
+          "kind": "turnaround",
+          "availability": "unknown",
+          "note": "同作者同系列中未登记到该项；不拿其他版本填充。"
+        },
+        {
+          "kind": "voice",
+          "availability": "unknown",
+          "note": "同作者同系列中未登记到该项；不拿其他版本填充。"
+        },
+        {
+          "kind": "layered_source",
+          "availability": "unknown",
+          "note": "同作者同系列中未登记到该项；不拿其他版本填充。"
+        },
+        {
+          "kind": "live2d_or_3d_model",
+          "availability": "unknown",
+          "note": "同作者同系列中未登记到该项；不拿其他版本填充。"
+        }
+      ],
+      "ready_for": [
+        "常规立绘与Q版对照页",
+        "静态视频角色卡",
+        "沿作者提示词继续制作同系列图片"
+      ],
+      "missing_for": [
+        "逐层角色动画所需的分层源文件",
+        "同作者明确的多角度、表情与声音包"
+      ],
+      "do_not_merge": "ApprenTice图是重新制作的派生版本；不能标成ZipZipPipe原始Q版，也不与其他作者桌宠或音色拼成原厂套装。"
+    },
+    {
+      "id": "kit-apprentice-gemini",
+      "title": "ApprenTice gemini 常规与Q版制作包",
+      "character_ids": [
+        "gemini"
+      ],
+      "series": "ApprenTice / AI-Girls-and-Chibis",
+      "series_author": "ApprenTice",
+      "relationship": "same_author_same_directory",
+      "variant_ids": [
+        "apprentice-gemini"
+      ],
+      "project_ids": [
+        "project-apprentice-geo"
+      ],
+      "source_ids": [
+        "src-22fa810a0e",
+        "src-57ada90d6d"
+      ],
+      "components": [
+        {
+          "kind": "portrait",
+          "availability": "local_file",
+          "asset_id": "apprentice-gemini-girl",
+          "path": "assets/apprentice/gemini/apprentice-gemini-girl.png",
+          "creator_chain": [
+            "ApprenTice（AI辅助派生图）",
+            "ZipZipPipe（参考角色设计）"
+          ],
+          "source_url": "https://github.com/Apprentice-Geo/AI-Fanworks/blob/ee1f5176710f3bcfd60ee5cb0af00f77ed96748e/ApprenTice/AI-Girls-and-Chibis/Gemini-Girl.png",
+          "rights_as_recorded": "CC-BY-NC-SA-4.0"
+        },
+        {
+          "kind": "chibi",
+          "availability": "local_file",
+          "asset_id": "apprentice-gemini-chibi",
+          "path": "assets/apprentice/gemini/apprentice-gemini-chibi.png",
+          "creator_chain": [
+            "ApprenTice（AI辅助派生图）",
+            "ZipZipPipe（参考角色设计）"
+          ],
+          "source_url": "https://github.com/Apprentice-Geo/AI-Fanworks/blob/ee1f5176710f3bcfd60ee5cb0af00f77ed96748e/ApprenTice/AI-Girls-and-Chibis/Gemini-Chibi.png",
+          "rights_as_recorded": "CC-BY-NC-SA-4.0"
+        },
+        {
+          "kind": "prompt",
+          "availability": "external_file_available",
+          "url": "https://github.com/Apprentice-Geo/AI-Fanworks/blob/ee1f5176710f3bcfd60ee5cb0af00f77ed96748e/ApprenTice/AI-Girls-and-Chibis/Prompts.md",
+          "title": "ApprenTice角色常规/Q版提示词",
+          "source_ids": [
+            "src-22fa810a0e",
+            "src-57ada90d6d"
+          ]
+        },
+        {
+          "kind": "expressions",
+          "availability": "unknown",
+          "note": "本系列已登记常规和Q版，不把两种比例误算成表情差分。"
+        },
+        {
+          "kind": "turnaround",
+          "availability": "unknown",
+          "note": "同作者同系列中未登记到该项；不拿其他版本填充。"
+        },
+        {
+          "kind": "voice",
+          "availability": "unknown",
+          "note": "同作者同系列中未登记到该项；不拿其他版本填充。"
+        },
+        {
+          "kind": "layered_source",
+          "availability": "unknown",
+          "note": "同作者同系列中未登记到该项；不拿其他版本填充。"
+        },
+        {
+          "kind": "live2d_or_3d_model",
+          "availability": "unknown",
+          "note": "同作者同系列中未登记到该项；不拿其他版本填充。"
+        }
+      ],
+      "ready_for": [
+        "常规立绘与Q版对照页",
+        "静态视频角色卡",
+        "沿作者提示词继续制作同系列图片"
+      ],
+      "missing_for": [
+        "逐层角色动画所需的分层源文件",
+        "同作者明确的多角度、表情与声音包"
+      ],
+      "do_not_merge": "ApprenTice图是重新制作的派生版本；不能标成ZipZipPipe原始Q版，也不与其他作者桌宠或音色拼成原厂套装。"
+    },
+    {
+      "id": "kit-apprentice-grok",
+      "title": "ApprenTice grok 常规与Q版制作包",
+      "character_ids": [
+        "grok"
+      ],
+      "series": "ApprenTice / AI-Girls-and-Chibis",
+      "series_author": "ApprenTice",
+      "relationship": "same_author_same_directory",
+      "variant_ids": [
+        "apprentice-grok"
+      ],
+      "project_ids": [
+        "project-apprentice-geo"
+      ],
+      "source_ids": [
+        "src-22fa810a0e",
+        "src-57ada90d6d"
+      ],
+      "components": [
+        {
+          "kind": "portrait",
+          "availability": "local_file",
+          "asset_id": "apprentice-grok-girl",
+          "path": "assets/apprentice/grok/apprentice-grok-girl.png",
+          "creator_chain": [
+            "ApprenTice（AI辅助派生图）",
+            "ZipZipPipe（参考角色设计）"
+          ],
+          "source_url": "https://github.com/Apprentice-Geo/AI-Fanworks/blob/ee1f5176710f3bcfd60ee5cb0af00f77ed96748e/ApprenTice/AI-Girls-and-Chibis/Grok-Girl.png",
+          "rights_as_recorded": "CC-BY-NC-SA-4.0"
+        },
+        {
+          "kind": "chibi",
+          "availability": "local_file",
+          "asset_id": "apprentice-grok-chibi",
+          "path": "assets/apprentice/grok/apprentice-grok-chibi.png",
+          "creator_chain": [
+            "ApprenTice（AI辅助派生图）",
+            "ZipZipPipe（参考角色设计）"
+          ],
+          "source_url": "https://github.com/Apprentice-Geo/AI-Fanworks/blob/ee1f5176710f3bcfd60ee5cb0af00f77ed96748e/ApprenTice/AI-Girls-and-Chibis/Grok-Chibi.png",
+          "rights_as_recorded": "CC-BY-NC-SA-4.0"
+        },
+        {
+          "kind": "prompt",
+          "availability": "external_file_available",
+          "url": "https://github.com/Apprentice-Geo/AI-Fanworks/blob/ee1f5176710f3bcfd60ee5cb0af00f77ed96748e/ApprenTice/AI-Girls-and-Chibis/Prompts.md",
+          "title": "ApprenTice角色常规/Q版提示词",
+          "source_ids": [
+            "src-22fa810a0e",
+            "src-57ada90d6d"
+          ]
+        },
+        {
+          "kind": "expressions",
+          "availability": "unknown",
+          "note": "本系列已登记常规和Q版，不把两种比例误算成表情差分。"
+        },
+        {
+          "kind": "turnaround",
+          "availability": "unknown",
+          "note": "同作者同系列中未登记到该项；不拿其他版本填充。"
+        },
+        {
+          "kind": "voice",
+          "availability": "unknown",
+          "note": "同作者同系列中未登记到该项；不拿其他版本填充。"
+        },
+        {
+          "kind": "layered_source",
+          "availability": "unknown",
+          "note": "同作者同系列中未登记到该项；不拿其他版本填充。"
+        },
+        {
+          "kind": "live2d_or_3d_model",
+          "availability": "unknown",
+          "note": "同作者同系列中未登记到该项；不拿其他版本填充。"
+        }
+      ],
+      "ready_for": [
+        "常规立绘与Q版对照页",
+        "静态视频角色卡",
+        "沿作者提示词继续制作同系列图片"
+      ],
+      "missing_for": [
+        "逐层角色动画所需的分层源文件",
+        "同作者明确的多角度、表情与声音包"
+      ],
+      "do_not_merge": "ApprenTice图是重新制作的派生版本；不能标成ZipZipPipe原始Q版，也不与其他作者桌宠或音色拼成原厂套装。"
+    },
+    {
+      "id": "kit-apprentice-kimi",
+      "title": "ApprenTice kimi 常规与Q版制作包",
+      "character_ids": [
+        "kimi"
+      ],
+      "series": "ApprenTice / AI-Girls-and-Chibis",
+      "series_author": "ApprenTice",
+      "relationship": "same_author_same_directory",
+      "variant_ids": [
+        "apprentice-kimi"
+      ],
+      "project_ids": [
+        "project-apprentice-geo"
+      ],
+      "source_ids": [
+        "src-22fa810a0e",
+        "src-57ada90d6d"
+      ],
+      "components": [
+        {
+          "kind": "portrait",
+          "availability": "local_file",
+          "asset_id": "apprentice-kimi-girl",
+          "path": "assets/apprentice/kimi/apprentice-kimi-girl.png",
+          "creator_chain": [
+            "ApprenTice（AI辅助派生图）",
+            "ZipZipPipe（参考角色设计）"
+          ],
+          "source_url": "https://github.com/Apprentice-Geo/AI-Fanworks/blob/ee1f5176710f3bcfd60ee5cb0af00f77ed96748e/ApprenTice/AI-Girls-and-Chibis/Kimi-Girl.png",
+          "rights_as_recorded": "CC-BY-NC-SA-4.0"
+        },
+        {
+          "kind": "chibi",
+          "availability": "local_file",
+          "asset_id": "apprentice-kimi-chibi",
+          "path": "assets/apprentice/kimi/apprentice-kimi-chibi.png",
+          "creator_chain": [
+            "ApprenTice（AI辅助派生图）",
+            "ZipZipPipe（参考角色设计）"
+          ],
+          "source_url": "https://github.com/Apprentice-Geo/AI-Fanworks/blob/ee1f5176710f3bcfd60ee5cb0af00f77ed96748e/ApprenTice/AI-Girls-and-Chibis/Kimi-Chibi.png",
+          "rights_as_recorded": "CC-BY-NC-SA-4.0"
+        },
+        {
+          "kind": "prompt",
+          "availability": "external_file_available",
+          "url": "https://github.com/Apprentice-Geo/AI-Fanworks/blob/ee1f5176710f3bcfd60ee5cb0af00f77ed96748e/ApprenTice/AI-Girls-and-Chibis/Prompts.md",
+          "title": "ApprenTice角色常规/Q版提示词",
+          "source_ids": [
+            "src-22fa810a0e",
+            "src-57ada90d6d"
+          ]
+        },
+        {
+          "kind": "expressions",
+          "availability": "unknown",
+          "note": "本系列已登记常规和Q版，不把两种比例误算成表情差分。"
+        },
+        {
+          "kind": "turnaround",
+          "availability": "unknown",
+          "note": "同作者同系列中未登记到该项；不拿其他版本填充。"
+        },
+        {
+          "kind": "voice",
+          "availability": "unknown",
+          "note": "同作者同系列中未登记到该项；不拿其他版本填充。"
+        },
+        {
+          "kind": "layered_source",
+          "availability": "unknown",
+          "note": "同作者同系列中未登记到该项；不拿其他版本填充。"
+        },
+        {
+          "kind": "live2d_or_3d_model",
+          "availability": "unknown",
+          "note": "同作者同系列中未登记到该项；不拿其他版本填充。"
+        }
+      ],
+      "ready_for": [
+        "常规立绘与Q版对照页",
+        "静态视频角色卡",
+        "沿作者提示词继续制作同系列图片"
+      ],
+      "missing_for": [
+        "逐层角色动画所需的分层源文件",
+        "同作者明确的多角度、表情与声音包"
+      ],
+      "do_not_merge": "ApprenTice图是重新制作的派生版本；不能标成ZipZipPipe原始Q版，也不与其他作者桌宠或音色拼成原厂套装。"
+    },
+    {
+      "id": "kit-apprentice-minimax",
+      "title": "ApprenTice minimax 常规与Q版制作包",
+      "character_ids": [
+        "minimax"
+      ],
+      "series": "ApprenTice / AI-Girls-and-Chibis",
+      "series_author": "ApprenTice",
+      "relationship": "same_author_same_directory",
+      "variant_ids": [
+        "apprentice-minimax"
+      ],
+      "project_ids": [
+        "project-apprentice-geo"
+      ],
+      "source_ids": [
+        "src-22fa810a0e",
+        "src-57ada90d6d"
+      ],
+      "components": [
+        {
+          "kind": "portrait",
+          "availability": "local_file",
+          "asset_id": "apprentice-minimax-girl",
+          "path": "assets/apprentice/minimax/apprentice-minimax-girl.png",
+          "creator_chain": [
+            "ApprenTice（AI辅助派生图）",
+            "ZipZipPipe（参考角色设计）"
+          ],
+          "source_url": "https://github.com/Apprentice-Geo/AI-Fanworks/blob/ee1f5176710f3bcfd60ee5cb0af00f77ed96748e/ApprenTice/AI-Girls-and-Chibis/MiniMax-Girl.png",
+          "rights_as_recorded": "CC-BY-NC-SA-4.0"
+        },
+        {
+          "kind": "chibi",
+          "availability": "local_file",
+          "asset_id": "apprentice-minimax-chibi",
+          "path": "assets/apprentice/minimax/apprentice-minimax-chibi.png",
+          "creator_chain": [
+            "ApprenTice（AI辅助派生图）",
+            "ZipZipPipe（参考角色设计）"
+          ],
+          "source_url": "https://github.com/Apprentice-Geo/AI-Fanworks/blob/ee1f5176710f3bcfd60ee5cb0af00f77ed96748e/ApprenTice/AI-Girls-and-Chibis/MiniMax-Chibi.png",
+          "rights_as_recorded": "CC-BY-NC-SA-4.0"
+        },
+        {
+          "kind": "prompt",
+          "availability": "external_file_available",
+          "url": "https://github.com/Apprentice-Geo/AI-Fanworks/blob/ee1f5176710f3bcfd60ee5cb0af00f77ed96748e/ApprenTice/AI-Girls-and-Chibis/Prompts.md",
+          "title": "ApprenTice角色常规/Q版提示词",
+          "source_ids": [
+            "src-22fa810a0e",
+            "src-57ada90d6d"
+          ]
+        },
+        {
+          "kind": "expressions",
+          "availability": "unknown",
+          "note": "本系列已登记常规和Q版，不把两种比例误算成表情差分。"
+        },
+        {
+          "kind": "turnaround",
+          "availability": "unknown",
+          "note": "同作者同系列中未登记到该项；不拿其他版本填充。"
+        },
+        {
+          "kind": "voice",
+          "availability": "unknown",
+          "note": "同作者同系列中未登记到该项；不拿其他版本填充。"
+        },
+        {
+          "kind": "layered_source",
+          "availability": "unknown",
+          "note": "同作者同系列中未登记到该项；不拿其他版本填充。"
+        },
+        {
+          "kind": "live2d_or_3d_model",
+          "availability": "unknown",
+          "note": "同作者同系列中未登记到该项；不拿其他版本填充。"
+        }
+      ],
+      "ready_for": [
+        "常规立绘与Q版对照页",
+        "静态视频角色卡",
+        "沿作者提示词继续制作同系列图片"
+      ],
+      "missing_for": [
+        "逐层角色动画所需的分层源文件",
+        "同作者明确的多角度、表情与声音包"
+      ],
+      "do_not_merge": "ApprenTice图是重新制作的派生版本；不能标成ZipZipPipe原始Q版，也不与其他作者桌宠或音色拼成原厂套装。"
+    },
+    {
+      "id": "kit-apprentice-qwen",
+      "title": "ApprenTice qwen 常规与Q版制作包",
+      "character_ids": [
+        "qwen"
+      ],
+      "series": "ApprenTice / AI-Girls-and-Chibis",
+      "series_author": "ApprenTice",
+      "relationship": "same_author_same_directory",
+      "variant_ids": [
+        "apprentice-qwen"
+      ],
+      "project_ids": [
+        "project-apprentice-geo"
+      ],
+      "source_ids": [
+        "src-22fa810a0e",
+        "src-57ada90d6d"
+      ],
+      "components": [
+        {
+          "kind": "portrait",
+          "availability": "local_file",
+          "asset_id": "apprentice-qwen-girl",
+          "path": "assets/apprentice/qwen/apprentice-qwen-girl.png",
+          "creator_chain": [
+            "ApprenTice（AI辅助派生图）",
+            "ZipZipPipe（参考角色设计）"
+          ],
+          "source_url": "https://github.com/Apprentice-Geo/AI-Fanworks/blob/ee1f5176710f3bcfd60ee5cb0af00f77ed96748e/ApprenTice/AI-Girls-and-Chibis/Qwen-Girl.png",
+          "rights_as_recorded": "CC-BY-NC-SA-4.0"
+        },
+        {
+          "kind": "chibi",
+          "availability": "local_file",
+          "asset_id": "apprentice-qwen-chibi",
+          "path": "assets/apprentice/qwen/apprentice-qwen-chibi.png",
+          "creator_chain": [
+            "ApprenTice（AI辅助派生图）",
+            "ZipZipPipe（参考角色设计）"
+          ],
+          "source_url": "https://github.com/Apprentice-Geo/AI-Fanworks/blob/ee1f5176710f3bcfd60ee5cb0af00f77ed96748e/ApprenTice/AI-Girls-and-Chibis/Qwen-Chibi.png",
+          "rights_as_recorded": "CC-BY-NC-SA-4.0"
+        },
+        {
+          "kind": "prompt",
+          "availability": "external_file_available",
+          "url": "https://github.com/Apprentice-Geo/AI-Fanworks/blob/ee1f5176710f3bcfd60ee5cb0af00f77ed96748e/ApprenTice/AI-Girls-and-Chibis/Prompts.md",
+          "title": "ApprenTice角色常规/Q版提示词",
+          "source_ids": [
+            "src-22fa810a0e",
+            "src-57ada90d6d"
+          ]
+        },
+        {
+          "kind": "expressions",
+          "availability": "unknown",
+          "note": "本系列已登记常规和Q版，不把两种比例误算成表情差分。"
+        },
+        {
+          "kind": "turnaround",
+          "availability": "unknown",
+          "note": "同作者同系列中未登记到该项；不拿其他版本填充。"
+        },
+        {
+          "kind": "voice",
+          "availability": "unknown",
+          "note": "同作者同系列中未登记到该项；不拿其他版本填充。"
+        },
+        {
+          "kind": "layered_source",
+          "availability": "unknown",
+          "note": "同作者同系列中未登记到该项；不拿其他版本填充。"
+        },
+        {
+          "kind": "live2d_or_3d_model",
+          "availability": "unknown",
+          "note": "同作者同系列中未登记到该项；不拿其他版本填充。"
+        }
+      ],
+      "ready_for": [
+        "常规立绘与Q版对照页",
+        "静态视频角色卡",
+        "沿作者提示词继续制作同系列图片"
+      ],
+      "missing_for": [
+        "逐层角色动画所需的分层源文件",
+        "同作者明确的多角度、表情与声音包"
+      ],
+      "do_not_merge": "ApprenTice图是重新制作的派生版本；不能标成ZipZipPipe原始Q版，也不与其他作者桌宠或音色拼成原厂套装。"
+    },
+    {
+      "id": "kit-fuh-mimo",
+      "title": "甶丶 MiMo 正常比例+作者三视图",
+      "character_ids": [
+        "mimo"
+      ],
+      "series": "甶丶《娘化mimo》",
+      "series_author": "甶丶",
+      "relationship": "same_author_same_post",
+      "variant_ids": [
+        "priority-mimo-adult-01",
+        "priority-mimo-turnaround-02"
+      ],
+      "project_ids": [],
+      "source_ids": [
+        "src-64550de9e4",
+        "src-b9006a9bef",
+        "src-09cee6cfdb"
+      ],
+      "components": [
+        {
+          "kind": "portrait",
+          "availability": "local_file",
+          "asset_id": "mimo-adult-01",
+          "path": "assets/fuh-mimo/mimo/mimo-adult-01.png",
+          "creator_chain": [
+            "甶丶"
+          ],
+          "source_url": "https://www.bilibili.com/opus/1242097128919007239",
+          "rights_as_recorded": "CC-BY-NC"
+        },
+        {
+          "kind": "turnaround",
+          "availability": "local_file",
+          "asset_id": "mimo-turnaround-02",
+          "path": "assets/fuh-mimo/mimo/mimo-turnaround-02.png",
+          "creator_chain": [
+            "甶丶"
+          ],
+          "source_url": "https://www.bilibili.com/opus/1242097128919007239",
+          "rights_as_recorded": "CC-BY-NC"
+        },
+        {
+          "kind": "chibi",
+          "availability": "unknown",
+          "note": "同作者同系列中未登记到该项；不拿其他版本填充。"
+        },
+        {
+          "kind": "expressions",
+          "availability": "unknown",
+          "note": "同作者同系列中未登记到该项；不拿其他版本填充。"
+        },
+        {
+          "kind": "voice",
+          "availability": "unknown",
+          "note": "同作者同系列中未登记到该项；不拿其他版本填充。"
+        },
+        {
+          "kind": "layered_source",
+          "availability": "unknown",
+          "note": "同作者同系列中未登记到该项；不拿其他版本填充。"
+        },
+        {
+          "kind": "live2d_or_3d_model",
+          "availability": "unknown",
+          "note": "同作者同系列中未登记到该项；不拿其他版本填充。"
+        }
+      ],
+      "ready_for": [
+        "形象档案与正侧背设计对照",
+        "依据作者多视图制定建模brief"
+      ],
+      "missing_for": [
+        "独立Q版与表情差分",
+        "可编辑分层或绑定工程"
+      ],
+      "do_not_merge": "正侧背来自同一作者同一动态；八AI游戏演绎的重新生成立绘仅是应用参考，不并入作者原图包。"
+    },
+    {
+      "id": "kit-maid-atelier-model-line",
+      "title": "MaidAtelier表情 → AI Moe Atlas多视图与静态3D",
+      "character_ids": [
+        "deepseek"
+      ],
+      "series": "MaidAtelier派生建模线",
+      "series_author": "Small-tailqwq → AI Moe Atlas",
+      "relationship": "explicit_derivative_chain_not_one_creator",
+      "variant_ids": [
+        "maid-atelier-delighted",
+        "maid-atelier-determined",
+        "maid-atelier-sleepy"
+      ],
+      "project_ids": [
+        "project-small-tailqwq",
+        "project-selinlee"
+      ],
+      "source_ids": [
+        "src-29d06f544b",
+        "src-45e43a9f10",
+        "src-039abc2413",
+        "src-267bb366e0",
+        "src-a544f0cc8b"
+      ],
+      "components": [
+        {
+          "kind": "expression",
+          "availability": "local_file",
+          "asset_id": "maid-atelier-delighted",
+          "path": "assets/maid-atelier/deepseek/maid-atelier-delighted.png",
+          "creator_chain": [
+            "上善无形（原始角色）",
+            "ZipZipPipe（二次设计）",
+            "Small-tailqwq（素材再设计与抠图）"
+          ],
+          "source_url": "https://github.com/Small-tailqwq/dsh-deep-whale/blob/e74fa8439b8584ed16113920894491b5e0e1e4a0/maid-atelier/assets/icons/delighted-cutout.png",
+          "rights_as_recorded": "CC-BY-NC-SA-4.0"
+        },
+        {
+          "kind": "expression",
+          "availability": "local_file",
+          "asset_id": "maid-atelier-determined",
+          "path": "assets/maid-atelier/deepseek/maid-atelier-determined.png",
+          "creator_chain": [
+            "上善无形（原始角色）",
+            "ZipZipPipe（二次设计）",
+            "Small-tailqwq（素材再设计与抠图）"
+          ],
+          "source_url": "https://github.com/Small-tailqwq/dsh-deep-whale/blob/e74fa8439b8584ed16113920894491b5e0e1e4a0/maid-atelier/assets/icons/determined-cutout.png",
+          "rights_as_recorded": "CC-BY-NC-SA-4.0"
+        },
+        {
+          "kind": "expression",
+          "availability": "local_file",
+          "asset_id": "maid-atelier-sleepy",
+          "path": "assets/maid-atelier/deepseek/maid-atelier-sleepy.png",
+          "creator_chain": [
+            "上善无形（原始角色）",
+            "ZipZipPipe（二次设计）",
+            "Small-tailqwq（素材再设计与抠图）"
+          ],
+          "source_url": "https://github.com/Small-tailqwq/dsh-deep-whale/blob/e74fa8439b8584ed16113920894491b5e0e1e4a0/maid-atelier/assets/icons/sleepy-cutout.png",
+          "rights_as_recorded": "CC-BY-NC-SA-4.0"
+        },
+        {
+          "kind": "turnaround",
+          "availability": "external_file_available",
+          "url": "https://github.com/SelinLee/ai-moe-atlas/blob/018bc3ca6c8d946006dacfc0bca7bf65a6dff4d6/public/models/deep-whale-maid/references/whale-maid-multiview-reference-v2.png",
+          "title": "AI生成四个全身视角+三个脸部研究",
+          "note": "独立AI建模参考，非原设校准三视图。"
+        },
+        {
+          "kind": "static_3d",
+          "availability": "external_file_available",
+          "url": "https://github.com/SelinLee/ai-moe-atlas/blob/018bc3ca6c8d946006dacfc0bca7bf65a6dff4d6/public/models/deep-whale-maid/v0.5.0/deep-whale-maid.glb",
+          "title": "v0.5 GLB静态全身模型",
+          "rigged": false,
+          "animated": false
+        },
+        {
+          "kind": "editable_3d_source",
+          "availability": "external_file_available",
+          "url": "https://github.com/SelinLee/ai-moe-atlas/blob/018bc3ca6c8d946006dacfc0bca7bf65a6dff4d6/public/models/deep-whale-maid/v0.5.0/deep-whale-maid.blend",
+          "title": "v0.5 Blender工程",
+          "rigged": false,
+          "animated": false
+        },
+        {
+          "kind": "chibi",
+          "availability": "unknown",
+          "note": "同作者同系列中未登记到该项；不拿其他版本填充。"
+        },
+        {
+          "kind": "voice",
+          "availability": "unknown",
+          "note": "同作者同系列中未登记到该项；不拿其他版本填充。"
+        },
+        {
+          "kind": "live2d_or_rigged_3d",
+          "availability": "unknown",
+          "note": "本条有静态3D工程，没有绑定或动画，不冒充可直接面捕的模型。"
+        }
+      ],
+      "ready_for": [
+        "三张透明表情头像",
+        "静态3D体积与侧后视角研究",
+        "编辑Blender网格后自行推进绑定"
+      ],
+      "missing_for": [
+        "骨骼、表情驱动、动作",
+        "可直接导入直播软件的运行模型"
+      ],
+      "do_not_merge": "该静态工程明确未使用现成MMD/Warudo网格；不能与水原镜模型当成同一工程不同格式。"
+    },
+    {
+      "id": "kit-mzkagami-whale-models",
+      "title": "水原镜/Mzkagami 蓝色大肥鱼模型分支",
+      "character_ids": [
+        "deepseek"
+      ],
+      "series": "Big Fat Blue Fish",
+      "series_author": "水原镜 / Mzkagami",
+      "relationship": "same_model_creator_multiple_adaptations",
+      "variant_ids": [],
+      "project_ids": [],
+      "video_material_source_ids": [
+        "mmd-whale"
+      ],
+      "source_ids": [
+        "src-fe3817add9",
+        "src-bb561d0cf5",
+        "src-7179c9bf0a",
+        "src-ad553eafa7",
+        "src-7e6373881a",
+        "src-3e75bf5c70"
+      ],
+      "components": [
+        {
+          "kind": "mmd_model",
+          "availability": "external_work_reference",
+          "url": "https://www.bilibili.com/video/BV1tD4X6AE7Q/",
+          "title": "MMD配布视频",
+          "note": "作者公开评论要求私信获取，尚未找到可直接取用包。"
+        },
+        {
+          "kind": "warudo_model",
+          "availability": "creator_package_listed",
+          "url": "https://booth.pm/en/items/8777527",
+          "title": "Warudo免费ZIP 10.3 MB",
+          "filename": "BigFatBlueFish-Warudo_Mzkagami.zip",
+          "price_as_listed": "0 JPY",
+          "note": "包页列ARKit/15表情，未取包。"
+        },
+        {
+          "kind": "vrc_model",
+          "availability": "creator_package_listed",
+          "url": "https://booth.pm/en/items/8777527",
+          "title": "VRC v1.1免费ZIP 20.8 MB",
+          "filename": "BigFatBlueFish_v1.1_Mzkagami.zip",
+          "price_as_listed": "0 JPY",
+          "note": "页面列UnityPackage和ReadME，非Blender原始工程。"
+        },
+        {
+          "kind": "warudo_subscription",
+          "availability": "external_distribution_entry",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3792169576",
+          "title": "作者Warudo工坊入口"
+        },
+        {
+          "kind": "vrc_avatar",
+          "availability": "external_distribution_entry",
+          "url": "https://vrchat.com/home/avatar/avtr_ca087814-344b-4855-9984-1f41dbd4125f",
+          "title": "作者免费公开Avatar入口"
+        },
+        {
+          "kind": "motion_camera",
+          "availability": "external_work_reference",
+          "url": "https://www.bilibili.com/video/BV1tD4X6AE7Q/",
+          "title": "借物表：tencha.3d动作/镜头",
+          "note": "仅署名链；未找到对应动作文件，不能说动作随模型包附送。"
+        },
+        {
+          "kind": "portrait",
+          "availability": "unknown",
+          "note": "2D源设在ZipZipPipe/上善无形线；此处不将别的作者原图伪装为模型作者随包PSD。"
+        },
+        {
+          "kind": "voice",
+          "availability": "unknown",
+          "note": "同作者同系列中未登记到该项；不拿其他版本填充。"
+        },
+        {
+          "kind": "layered_or_mesh_original",
+          "availability": "unknown",
+          "note": "BOOTH明确列UnityPackage；未见PSD、cmo3或水原镜可编辑网格源文件。"
+        }
+      ],
+      "ready_for": [
+        "按作者入口获取Warudo/VRC成品",
+        "研究同一模型向MMD、Warudo、VRC适配的署名分工"
+      ],
+      "missing_for": [
+        "公开直链MMD原包",
+        "2D分层和原始建模工程"
+      ],
+      "credits_by_role": {
+        "original_2d": [
+          "上善无形",
+          "ZipZipPipe"
+        ],
+        "model": [
+          "水原镜 / Mzkagami"
+        ],
+        "mmd_conversion": [
+          "耶栗Yaki"
+        ],
+        "render": [
+          "夏紫瞳_Hitomi"
+        ],
+        "vrc_conversion": [
+          "Surcen"
+        ],
+        "vrc_expressions": [
+          "vsmmvs"
+        ]
+      },
+      "rights_as_recorded": "分发页另列非商、禁止文件重分发等具体条件；只链接作者入口，不将包镜像至本库。",
+      "do_not_merge": "Warudo专用包、VRC UnityPackage、MMD配布为不同发布分支；动作/相机/舞台/BGM均是独立借物，不跟随模型声明一并授权。"
+    },
+    {
+      "id": "kit-hugongjing-whale-live2d",
+      "title": "狐宫静蓝色大肥鱼公皮与歌曲引用链",
+      "character_ids": [
+        "deepseek"
+      ],
+      "series": "狐宫静免费公皮",
+      "series_author": "狐宫静",
+      "relationship": "creator_model_release_with_separate_music_references",
+      "variant_ids": [],
+      "project_ids": [],
+      "video_material_source_ids": [
+        "live2d-variable"
+      ],
+      "source_ids": [
+        "src-e1698ab832",
+        "src-1f9dcff501",
+        "src-bd6fa03dc9"
+      ],
+      "components": [
+        {
+          "kind": "live2d",
+          "availability": "external_distribution_entry",
+          "url": "https://mall.bilibili.com/neul-next/index.html?page=mall-up_itemDetail&itemsId=1109888056",
+          "title": "作者评论中的工房领取入口"
+        },
+        {
+          "kind": "expressions",
+          "availability": "external_work_reference",
+          "url": "https://www.bilibili.com/video/BV1yvaT65EGk/",
+          "title": "TOKEN、钢盆、表情与比例演示",
+          "note": "本轮新增15张抽帧目视；不是独立PNG差分包。"
+        },
+        {
+          "kind": "video_music",
+          "availability": "external_work_reference",
+          "url": "https://www.bilibili.com/video/BV1XbY66nEWr/",
+          "title": "片中原曲：罐装毕加索改编版",
+          "audio_id": "audio-let-me-go-remix",
+          "relationship": "video_music_only_not_voicebank"
+        },
+        {
+          "kind": "upstream_music",
+          "availability": "external_work_reference",
+          "url": "https://www.bilibili.com/video/BV13SYr6dEiQ/",
+          "title": "原曲的上游：星落落_oi对唱版",
+          "audio_id": "audio-let-me-go-duet",
+          "relationship": "creator_description_upstream_song"
+        },
+        {
+          "kind": "layered_source",
+          "availability": "unknown",
+          "note": "未见PSD或Cubism cmo3源文件；工房条目内实际格式未领取核对。"
+        },
+        {
+          "kind": "voice",
+          "availability": "unknown",
+          "note": "视频配乐来源不等于Live2D人物音色模型。"
+        },
+        {
+          "kind": "turnaround",
+          "availability": "unknown",
+          "note": "右侧演示出现侧背角度，但没有取得作者多视图原文件。"
+        }
+      ],
+      "ready_for": [
+        "从作者公开入口查看公皮获取方式",
+        "将这条模型展示与独立歌曲版本建立出处关系"
+      ],
+      "missing_for": [
+        "包内文件清单",
+        "分层原稿与可编辑绑定工程"
+      ],
+      "do_not_merge": "不能把星落落音色自动绑定到狐宫静模型；此处只有视频音乐的作者回链。"
+    }
+  ],
+  "download_entries": [
+    {
+      "id": "download-maid-blend-v05",
+      "title": "鲸鱼娘静态3D可编辑Blend",
+      "kind": "editable_3d_project",
+      "url": "https://github.com/SelinLee/ai-moe-atlas/blob/018bc3ca6c8d946006dacfc0bca7bf65a6dff4d6/public/models/deep-whale-maid/v0.5.0/deep-whale-maid.blend",
+      "new_information_this_round": true,
+      "local_copy": false,
+      "source_ids": [
+        "src-039abc2413",
+        "src-267bb366e0",
+        "src-a544f0cc8b"
+      ],
+      "project_ids": [
+        "project-selinlee"
+      ],
+      "availability": "file_in_pinned_tree",
+      "format": "blend",
+      "rigged": false,
+      "animated": false,
+      "rights_as_recorded": "CC BY-NC-SA 4.0；完整署名链见NOTICE。",
+      "use_note": "编辑源文件，含网格和材质；不是Live2D或即用面捕模型。",
+      "repository": "SelinLee/ai-moe-atlas",
+      "commit_sha": "018bc3ca6c8d946006dacfc0bca7bf65a6dff4d6",
+      "git_blob_sha": "f8679c818c6e596be3b81e13b5b9e07b2459af91",
+      "file_bytes_as_tree": 9625580,
+      "raw_url": "https://raw.githubusercontent.com/SelinLee/ai-moe-atlas/018bc3ca6c8d946006dacfc0bca7bf65a6dff4d6/public/models/deep-whale-maid/v0.5.0/deep-whale-maid.blend"
+    },
+    {
+      "id": "download-maid-glb-v05",
+      "title": "鲸鱼娘静态全身GLB",
+      "kind": "static_3d_model",
+      "url": "https://github.com/SelinLee/ai-moe-atlas/blob/018bc3ca6c8d946006dacfc0bca7bf65a6dff4d6/public/models/deep-whale-maid/v0.5.0/deep-whale-maid.glb",
+      "new_information_this_round": true,
+      "local_copy": false,
+      "source_ids": [
+        "src-039abc2413",
+        "src-267bb366e0",
+        "src-a544f0cc8b"
+      ],
+      "project_ids": [
+        "project-selinlee"
+      ],
+      "availability": "file_in_pinned_tree",
+      "format": "glb",
+      "rigged": false,
+      "animated": false,
+      "rights_as_recorded": "CC BY-NC-SA 4.0",
+      "use_note": "独立静态模型，非水原镜MMD/Warudo转换。",
+      "repository": "SelinLee/ai-moe-atlas",
+      "commit_sha": "018bc3ca6c8d946006dacfc0bca7bf65a6dff4d6",
+      "git_blob_sha": "e2e2658a70293ca4e17ba19df478f5a2347b3c1d",
+      "file_bytes_as_tree": 9478676,
+      "raw_url": "https://raw.githubusercontent.com/SelinLee/ai-moe-atlas/018bc3ca6c8d946006dacfc0bca7bf65a6dff4d6/public/models/deep-whale-maid/v0.5.0/deep-whale-maid.glb"
+    },
+    {
+      "id": "download-maid-reference-v2",
+      "title": "AI生成四全身/三脸部多视图PNG",
+      "kind": "multiview_reference",
+      "url": "https://github.com/SelinLee/ai-moe-atlas/blob/018bc3ca6c8d946006dacfc0bca7bf65a6dff4d6/public/models/deep-whale-maid/references/whale-maid-multiview-reference-v2.png",
+      "new_information_this_round": true,
+      "local_copy": false,
+      "source_ids": [
+        "src-039abc2413",
+        "src-267bb366e0",
+        "src-a544f0cc8b"
+      ],
+      "project_ids": [
+        "project-selinlee"
+      ],
+      "availability": "file_in_pinned_tree",
+      "format": "png",
+      "rights_as_recorded": "CC BY-NC-SA 4.0",
+      "use_note": "AI补充的建模参考，不能当成原作者完整设定或测量正交图。",
+      "repository": "SelinLee/ai-moe-atlas",
+      "commit_sha": "018bc3ca6c8d946006dacfc0bca7bf65a6dff4d6",
+      "git_blob_sha": "df2c44141c9db4d4d872ba231b51a67a2f036926",
+      "file_bytes_as_tree": 2310093,
+      "raw_url": "https://raw.githubusercontent.com/SelinLee/ai-moe-atlas/018bc3ca6c8d946006dacfc0bca7bf65a6dff4d6/public/models/deep-whale-maid/references/whale-maid-multiview-reference-v2.png"
+    },
+    {
+      "id": "download-comfyui-whale-pack",
+      "title": "6份API JSON及投稿说明ZIP",
+      "kind": "generation_workflow",
+      "url": "https://github.com/TreapGoGo/deepseek-whale-girl/blob/99fdf6e419a4097cc9b2d6a8a808f7b96a412e38/site/assets/workflows/comfyui-issue-2.zip",
+      "new_information_this_round": true,
+      "local_copy": false,
+      "source_ids": [
+        "src-b85ef42b11"
+      ],
+      "project_ids": [
+        "project-treapgogo"
+      ],
+      "availability": "file_in_pinned_tree",
+      "format": "zip",
+      "author": "hyq13886640（投稿）/TreapGoGo（归档）",
+      "contents_as_documented": [
+        "Q版与正常比例各三种种子JSON",
+        "submit.py",
+        "原投稿说明"
+      ],
+      "use_note": "API格式而非带布局的编辑器图；需自备Qwen Image模型、编码器、VAE和匹配节点；未运行。",
+      "rights_as_recorded": "投稿与上游模型分别按来源说明；网站MIT不覆盖全部素材。",
+      "repository": "TreapGoGo/deepseek-whale-girl",
+      "commit_sha": "99fdf6e419a4097cc9b2d6a8a808f7b96a412e38",
+      "git_blob_sha": "fab8cb244967ec54b9fe71d554025ac3167bd03d",
+      "file_bytes_as_tree": 18231,
+      "raw_url": "https://raw.githubusercontent.com/TreapGoGo/deepseek-whale-girl/99fdf6e419a4097cc9b2d6a8a808f7b96a412e38/site/assets/workflows/comfyui-issue-2.zip"
+    },
+    {
+      "id": "download-comfyui-whale-q42",
+      "title": "Q版seed42 API工作流JSON",
+      "kind": "generation_workflow",
+      "url": "https://github.com/TreapGoGo/deepseek-whale-girl/blob/99fdf6e419a4097cc9b2d6a8a808f7b96a412e38/site/assets/workflows/comfyui-issue-2/chibi-seed42.json",
+      "new_information_this_round": true,
+      "local_copy": false,
+      "source_ids": [
+        "src-b85ef42b11"
+      ],
+      "project_ids": [
+        "project-treapgogo"
+      ],
+      "availability": "text_file_read",
+      "format": "json",
+      "use_note": "已读取节点名和依赖：1024×1536采样再缩放；不执行脚本。",
+      "rights_as_recorded": "保留投稿来源与依赖条件。",
+      "repository": "TreapGoGo/deepseek-whale-girl",
+      "commit_sha": "99fdf6e419a4097cc9b2d6a8a808f7b96a412e38",
+      "git_blob_sha": "65ad1a84cd58254ba8f41a61169f224bb786129a",
+      "file_bytes_as_tree": 2995,
+      "raw_url": "https://raw.githubusercontent.com/TreapGoGo/deepseek-whale-girl/99fdf6e419a4097cc9b2d6a8a808f7b96a412e38/site/assets/workflows/comfyui-issue-2/chibi-seed42.json"
+    },
+    {
+      "id": "download-maid-icons",
+      "title": "MaidAtelier三枚Windows多分辨率ICO",
+      "kind": "desktop_icon",
+      "url": "https://github.com/Small-tailqwq/dsh-deep-whale/blob/e74fa8439b8584ed16113920894491b5e0e1e4a0/maid-atelier/assets/icons/delighted.ico",
+      "new_information_this_round": true,
+      "local_copy": false,
+      "source_ids": [
+        "src-29d06f544b",
+        "src-45e43a9f10"
+      ],
+      "project_ids": [
+        "project-small-tailqwq"
+      ],
+      "availability": "file_in_pinned_tree",
+      "format": "ico",
+      "related_files": [
+        "https://github.com/Small-tailqwq/dsh-deep-whale/blob/e74fa8439b8584ed16113920894491b5e0e1e4a0/maid-atelier/assets/icons/determined.ico",
+        "https://github.com/Small-tailqwq/dsh-deep-whale/blob/e74fa8439b8584ed16113920894491b5e0e1e4a0/maid-atelier/assets/icons/sleepy.ico"
+      ],
+      "sizes_as_readme": [
+        16,
+        24,
+        32,
+        48,
+        64,
+        128,
+        256
+      ],
+      "use_note": "与本库delighted/determined/sleepy透明PNG同一目录的图标导出。",
+      "rights_as_recorded": "美术CC BY-NC-SA 4.0，与代码分开。",
+      "repository": "Small-tailqwq/dsh-deep-whale",
+      "commit_sha": "e74fa8439b8584ed16113920894491b5e0e1e4a0",
+      "git_blob_sha": "2a5e61d20808195bb85dc8384dbb3cee18856346",
+      "file_bytes_as_tree": 150523,
+      "raw_url": "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/e74fa8439b8584ed16113920894491b5e0e1e4a0/maid-atelier/assets/icons/delighted.ico"
+    },
+    {
+      "id": "download-tq-whale-sprites",
+      "title": "DeepSeek鲸娘透明精灵图+动画布局",
+      "kind": "animated_spritesheet",
+      "url": "https://github.com/tqlearning/ai-girl-chatgpt-pets/blob/3afe14603b40e24c75e87e097cbfee1bfc10290d/assets/deepseek-whale/spritesheet.png",
+      "new_information_this_round": true,
+      "local_copy": false,
+      "source_ids": [
+        "src-c0f4e78bb7"
+      ],
+      "project_ids": [
+        "project-tqlearning"
+      ],
+      "availability": "file_in_pinned_tree",
+      "format": "png",
+      "metadata_url": "https://github.com/tqlearning/ai-girl-chatgpt-pets/blob/3afe14603b40e24c75e87e097cbfee1bfc10290d/assets/deepseek-whale/pet.json",
+      "spec_as_readme": "1536×2288，8列11行，9状态+16方向",
+      "rights_as_recorded": "PNG/GIF美术不在MIT内，统一开放授权未确认；只链接。",
+      "use_note": "不是Live2D或分层PSD；pet.json为自描述布局。",
+      "repository": "tqlearning/ai-girl-chatgpt-pets",
+      "commit_sha": "3afe14603b40e24c75e87e097cbfee1bfc10290d",
+      "git_blob_sha": "3789fb25155d8ccc5046743e0235208ec1364d90",
+      "file_bytes_as_tree": 2608893,
+      "raw_url": "https://raw.githubusercontent.com/tqlearning/ai-girl-chatgpt-pets/3afe14603b40e24c75e87e097cbfee1bfc10290d/assets/deepseek-whale/spritesheet.png"
+    },
+    {
+      "id": "download-tq-gpt-sprites",
+      "title": "GPT龙娘透明精灵图+动画布局",
+      "kind": "animated_spritesheet",
+      "url": "https://github.com/tqlearning/ai-girl-chatgpt-pets/blob/3afe14603b40e24c75e87e097cbfee1bfc10290d/assets/gpt-dragon/spritesheet.png",
+      "new_information_this_round": true,
+      "local_copy": false,
+      "source_ids": [
+        "src-c0f4e78bb7"
+      ],
+      "project_ids": [
+        "project-tqlearning"
+      ],
+      "availability": "file_in_pinned_tree",
+      "format": "png",
+      "metadata_url": "https://github.com/tqlearning/ai-girl-chatgpt-pets/blob/3afe14603b40e24c75e87e097cbfee1bfc10290d/assets/gpt-dragon/pet.json",
+      "spec_as_readme": "1536×2288，9状态+16方向",
+      "rights_as_recorded": "PNG/GIF美术不在MIT内，统一开放授权未确认；只链接。",
+      "use_note": "tqlearning独立生成演绎，与legeling/tenghuan123图集区分。",
+      "repository": "tqlearning/ai-girl-chatgpt-pets",
+      "commit_sha": "3afe14603b40e24c75e87e097cbfee1bfc10290d",
+      "git_blob_sha": "cb59dfb94bafe38fefd9e4fc84ebb52bc137845b",
+      "file_bytes_as_tree": 2602295,
+      "raw_url": "https://raw.githubusercontent.com/tqlearning/ai-girl-chatgpt-pets/3afe14603b40e24c75e87e097cbfee1bfc10290d/assets/gpt-dragon/spritesheet.png"
+    },
+    {
+      "id": "download-mzkagami-warudo",
+      "title": "Mzkagami Warudo免费模型包",
+      "kind": "warudo_model",
+      "url": "https://booth.pm/en/items/8777527",
+      "new_information_this_round": true,
+      "local_copy": false,
+      "source_ids": [
+        "src-bb561d0cf5",
+        "src-7179c9bf0a",
+        "src-7e6373881a"
+      ],
+      "availability": "creator_package_listed",
+      "filename": "BigFatBlueFish-Warudo_Mzkagami.zip",
+      "file_size_as_page": "10.3 MB",
+      "price_as_page": "0 JPY",
+      "features_as_page": [
+        "ARKit/Perfect SYNC",
+        "15表情",
+        "liltoon"
+      ],
+      "distribution_entry": "https://steamcommunity.com/sharedfiles/filedetails/?id=3792169576",
+      "rights_as_recorded": "分发页另列非商、禁止文件重分发等具体条件；只链接作者入口，不将包镜像至本库。",
+      "use_note": "专用于Warudo；不是MMD动作包。"
+    },
+    {
+      "id": "download-mzkagami-vrc",
+      "title": "Mzkagami VRC v1.1免费UnityPackage",
+      "kind": "vrc_model",
+      "url": "https://booth.pm/en/items/8777527",
+      "new_information_this_round": true,
+      "local_copy": false,
+      "source_ids": [
+        "src-bb561d0cf5",
+        "src-ad553eafa7",
+        "src-3e75bf5c70"
+      ],
+      "availability": "creator_package_listed",
+      "filename": "BigFatBlueFish_v1.1_Mzkagami.zip",
+      "file_size_as_page": "20.8 MB",
+      "price_as_page": "0 JPY",
+      "contents_as_page": [
+        "UnityPackage",
+        "ReadME.txt"
+      ],
+      "use_note": "作者列Unity2022.3.22f1与MToon等依赖，基础转换版；不是原始网格工程。",
+      "distribution_entry": "https://vrchat.com/home/avatar/avtr_ca087814-344b-4855-9984-1f41dbd4125f",
+      "rights_as_recorded": "分发页另列非商、禁止文件重分发等具体条件；只链接作者入口，不将包镜像至本库。"
+    },
+    {
+      "id": "download-hugongjing-live2d-entry",
+      "title": "狐宫静公皮工房领取入口",
+      "kind": "live2d_distribution",
+      "url": "https://mall.bilibili.com/neul-next/index.html?page=mall-up_itemDetail&itemsId=1109888056",
+      "new_information_this_round": true,
+      "local_copy": false,
+      "source_ids": [
+        "src-e1698ab832",
+        "src-1f9dcff501",
+        "src-bd6fa03dc9"
+      ],
+      "video_material_source_ids": [
+        "live2d-variable"
+      ],
+      "availability": "resolved_creator_distribution_entry",
+      "filename": null,
+      "format": null,
+      "use_note": "作者公开评论直链经b23解析，未领取或读取包内说明；原视频支持表情/道具/比例变化。",
+      "rights_as_recorded": "具体使用范围按模型附带说明；没有确认PSD/cmo3可编辑源。"
+    },
+    {
+      "id": "download-legeling-gpt-sprites",
+      "title": "legeling GPT龙娘WebP图集+pet配置",
+      "kind": "animated_spritesheet",
+      "url": "https://github.com/legeling/awesome-codex-pet/blob/022aea52f75841d31f57b7596479ebb425480a50/pets/gpt-dragon-girl--legeling/spritesheet.webp",
+      "new_information_this_round": true,
+      "local_copy": false,
+      "source_ids": [
+        "src-ddf6cc3468"
+      ],
+      "project_ids": [
+        "project-legeling"
+      ],
+      "variant_ids": [
+        "pet-gpt-dragon-girl--legeling"
+      ],
+      "availability": "file_in_pinned_tree",
+      "metadata_url": "https://github.com/legeling/awesome-codex-pet/blob/022aea52f75841d31f57b7596479ebb425480a50/pets/gpt-dragon-girl--legeling/pet.json",
+      "format": "webp",
+      "rights_as_recorded": "该submission声明非商业，角色设计ZipZipPipe；不套用鲸鱼娘CC到GPT龙。",
+      "use_note": "9动作+16方向的独立生成版本，不与tenghuan123同名版本混包。",
+      "repository": "legeling/awesome-codex-pet",
+      "commit_sha": "022aea52f75841d31f57b7596479ebb425480a50",
+      "git_blob_sha": "fcc2babc715ef8e3098debf4db164c152c6aefcc",
+      "file_bytes_as_tree": 2540576,
+      "raw_url": "https://raw.githubusercontent.com/legeling/awesome-codex-pet/022aea52f75841d31f57b7596479ebb425480a50/pets/gpt-dragon-girl--legeling/spritesheet.webp"
+    }
+  ]
+}

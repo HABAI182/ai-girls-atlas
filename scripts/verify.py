@@ -43,6 +43,16 @@ expressions = read('expressions.json')['expressions']
 video_studies = read('video-studies.json')['studies']
 video_categories = read('video-categories.json')['categories']
 video_materials = read('video-material-sources.json')['materials']
+encyclopedia_memes = read('meme-encyclopedia.json')['memes']
+performances = read('performances.json')
+actions = read('actions-props.json')['actions']
+relationships = read('relationships.json')['relations']
+production = read('production-kits.json')
+creators = read('creators.json')['creators']
+history = read('design-history.json')['events']
+cross_media = read('cross-media.json')
+audio_samples = read('audio-observations.json')['samples']
+supplementary_reviews = read('video-observations.json')['observations']
 char_ids = unique(chars, 'character')
 asset_ids = unique(assets, 'asset')
 source_ids = unique(sources, 'source')
@@ -115,6 +125,43 @@ for s in sources:
     parsed = urlsplit(s['url'])
     require(parsed.scheme in ('http', 'https') and parsed.hostname, f'Invalid source URL: {s["id"]}')
     require(not parsed.username and not parsed.password, f'Credential-bearing URL: {s["id"]}')
+
+# Only check joins and published artifacts for the new editorial collections.
+project_ids = {p['id'] for p in projects}
+def editorial_joins(obj, location):
+    if isinstance(obj, list):
+        for i, item in enumerate(obj):
+            editorial_joins(item, f'{location}[{i}]')
+    elif isinstance(obj, dict):
+        for key, value in obj.items():
+            sets = {'source_ids': source_ids, 'asset_ids': asset_ids,
+                    'variant_ids': variant_ids, 'project_ids': project_ids,
+                    'character_ids': char_ids}
+            if key in sets:
+                require(set(value).issubset(sets[key]), f'Unknown {key}: {location}')
+            singles = {'source_id': source_ids, 'asset_id': asset_ids,
+                       'audio_id': audio_ids, 'character_id': char_ids,
+                       'video_id': video_ids}
+            if key in singles and value is not None:
+                require(value in singles[key], f'Unknown {key}: {location}/{value}')
+            editorial_joins(value, f'{location}.{key}')
+for filename in ['meme-encyclopedia.json', 'performances.json', 'actions-props.json',
+                 'relationships.json', 'production-kits.json', 'creators.json',
+                 'design-history.json', 'cross-media.json', 'audio-observations.json',
+                 'video-observations.json']:
+    editorial_joins(read(filename), filename)
+for label, records in [('encyclopedia meme', encyclopedia_memes),
+                       ('action', actions), ('relationship', relationships),
+                       ('kit', production['kits']), ('creator', creators),
+                       ('history', history), ('cross media', cross_media['works']),
+                       ('audio observation', audio_samples),
+                       ('supplementary review', supplementary_reviews)]:
+    unique(records, label)
+require(len({p['character_id'] for p in performances['profiles']}) == len(performances['profiles']), 'Duplicate performance profile')
+for sample in audio_samples:
+    require(sample['segment_duration'] > 0 and sample['sample_rate'] == 16000, f'Invalid measured audio sample: {sample["id"]}')
+for review in supplementary_reviews:
+    require((ROOT / review['page_path']).is_file(), f'Missing supplementary video page: {review["id"]}')
 actual_files = {p.relative_to(ROOT).as_posix() for p in (ROOT / 'assets').rglob('*') if p.is_file()}
 require(actual_files == expected_files, 'Uncatalogued or absent asset files')
 for p in ROOT.rglob('*.md'):
@@ -156,6 +203,19 @@ checks = {
     'video_study_cases': len(video_studies),
     'video_content_categories': len(video_categories),
     'video_material_source_records': len(video_materials),
+    'encyclopedia_meme_records': len(encyclopedia_memes),
+    'performance_profiles': len(performances['profiles']),
+    'performance_observations': len(performances['reactions']),
+    'action_prop_records': len(actions),
+    'relationship_records': len(relationships),
+    'production_kits': len(production['kits']),
+    'creator_records': len(creators),
+    'design_history_events': len(history),
+    'download_entry_records': len(production['download_entries']),
+    'cross_media_image_observations': len(cross_media['works']),
+    'audio_observation_samples': len(audio_samples),
+    'international_source_records': len(cross_media['international']),
+    'supplementary_video_reviews': len(supplementary_reviews),
 }
 for key, value in checks.items():
     require(coverage[key] == value, f'Coverage mismatch: {key}')

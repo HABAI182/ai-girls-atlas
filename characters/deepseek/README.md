@@ -190,3 +190,8 @@ An independent qimi variant of the existing DeepSeek whale-girl entry: a super-d
 - [琵琶曲 | 大肥鱼 vs 豆包](../../videos/cases/BV1MNYy6WEgY.md)：翻唱、音乐梗与偶像MV；三维卡通观感、室内景深与低机位。
 
 只把该作者作品的可见表现接入角色页；声音未试听。更多见[独立视频栏目](../../videos/README.md)。
+
+
+## 演出与创作关联
+
+[作品限定反应档案](../../encyclopedia/performances/deepseek.md) · [同情境原创对照](../../encyclopedia/performances/same-situation.md) · [素材关联包](../../encyclopedia/production/README.md)

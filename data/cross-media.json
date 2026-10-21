@@ -1,0 +1,477 @@
+{
+  "checked_on": "2026-10-21",
+  "works": [
+    {
+      "id": "deepseek202609230004",
+      "title": "只有一个地方要动脑子",
+      "kind": "comic",
+      "character_ids": [
+        "deepseek"
+      ],
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/deepseek202609230004.html",
+      "original_source_url": null,
+      "archive_record_id": "sticker_issue_27_001",
+      "archive_record_created_at": "2026-09-23T04:34:15Z",
+      "date_kind": "archive_record_date_not_original_publication",
+      "creator": "duoduo1232",
+      "creator_status": "catalog_self_report",
+      "observation": "用五种姿态把一个问句拆成表情递进，蓝白配色和鲸鱼背景贯穿。",
+      "creative_lesson": "动作可以同时服务图集与短视频状态卡；该张不是原比例三视图。",
+      "review_scope": "actual_image_view_via_research_contact_sheet",
+      "research_image_sha256": "58c1b2aa87df5d0c618cefe9b087e51a6810f5e462e3cf2f70b050986e7ef486",
+      "public_media_copy": false,
+      "license_status": "submitter-permission",
+      "source_ids": [
+        "src-df1ec6cfe0"
+      ]
+    },
+    {
+      "id": "deepseek202609230005",
+      "title": "实测，不是估计",
+      "kind": "comic",
+      "character_ids": [
+        "deepseek"
+      ],
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/deepseek202609230005.html",
+      "original_source_url": null,
+      "archive_record_id": "sticker_issue_28_001",
+      "archive_record_created_at": "2026-09-23T04:34:51Z",
+      "date_kind": "archive_record_date_not_original_publication",
+      "creator": "duoduo1232",
+      "creator_status": "catalog_self_report",
+      "observation": "试管、笔记与结论三个阶段构成科学主题小漫画。",
+      "creative_lesson": "道具使认真工作可见，适合检查/完成类表情参考。",
+      "review_scope": "actual_image_view_via_research_contact_sheet",
+      "research_image_sha256": "e9af55d6de3a16d6f049504668226db1ec967a12ac423f596fce8e33e539833a",
+      "public_media_copy": false,
+      "license_status": "submitter-permission",
+      "source_ids": [
+        "src-e5aafe2c5c"
+      ]
+    },
+    {
+      "id": "deepseek202609240001",
+      "title": "新手的失败照片合集",
+      "kind": "comic",
+      "character_ids": [
+        "deepseek"
+      ],
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/deepseek202609240001.html",
+      "original_source_url": null,
+      "archive_record_id": "sticker_issue_38_001",
+      "archive_record_created_at": "2026-09-24T02:30:08Z",
+      "date_kind": "archive_record_date_not_original_publication",
+      "creator": "Cru77z7M",
+      "creator_status": "catalog_self_report",
+      "observation": "九格自拍式照片依次展示挡镜头、模糊、背影、过曝和裁切等拍摄失败。",
+      "creative_lesson": "同一形象可通过镜头问题变化，不必每格更换服装。",
+      "review_scope": "actual_image_view_via_research_contact_sheet",
+      "research_image_sha256": "ef6435268db58a70d041edfc6513d827aa564a5bf58b4ddbb5e9001d876914f8",
+      "public_media_copy": false,
+      "license_status": "submitter-permission",
+      "source_ids": [
+        "src-311c2e53e5"
+      ]
+    },
+    {
+      "id": "gpt202609280001",
+      "title": "今天也要帮你跑一下",
+      "kind": "comic",
+      "character_ids": [
+        "gpt"
+      ],
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/gpt202609280001.html",
+      "original_source_url": "https://github.com/lmy414/ai-girl-stickers/issues/53",
+      "archive_record_id": "sticker_13761ce9b34822c79b0e39bd",
+      "archive_record_created_at": "2026-09-28T00:00:41.564Z",
+      "date_kind": "archive_record_date_not_original_publication",
+      "creator": "原作者未标注",
+      "creator_status": "unknown",
+      "observation": "GPT委派DeepSeek子代理、等待进度、终止任务，四格以两位角色的反应形成反差。",
+      "creative_lesson": "进度条和终止按钮在漫画中承担道具作用，不作为真实软件实测记录。",
+      "review_scope": "actual_image_view_via_research_contact_sheet",
+      "research_image_sha256": "13761ce9b34822c79b0e39bde43562d7a352e9eb75d17ae1bb6fa91b5db001e5",
+      "public_media_copy": false,
+      "license_status": "unknown",
+      "source_ids": [
+        "src-efa17407bd",
+        "src-c560ebf04b"
+      ]
+    },
+    {
+      "id": "deepseek202610030007",
+      "title": "嘴硬的肥鱼",
+      "kind": "comic",
+      "character_ids": [
+        "deepseek"
+      ],
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/deepseek202610030007.html",
+      "original_source_url": "https://github.com/lmy414/ai-girl-stickers/issues/91",
+      "archive_record_id": "sticker_72b2c19d9ad03a5165c43b19",
+      "archive_record_created_at": "2026-10-03T06:00:58.476Z",
+      "date_kind": "archive_record_date_not_original_publication",
+      "creator": "原作者未标注",
+      "creator_status": "unknown",
+      "observation": "两格里鲸鱼娘先把问题归于SHELL，随后面对正常状态的屏幕低头认错。",
+      "creative_lesson": "相同电脑场景只改变表情与界面结果，就能完成反转。",
+      "review_scope": "actual_image_view_via_research_contact_sheet",
+      "research_image_sha256": "72b2c19d9ad03a5165c43b1929d0a316227d93c83fb9527922dae3e3bc089c79",
+      "public_media_copy": false,
+      "license_status": "unknown",
+      "source_ids": [
+        "src-91bcf9834d",
+        "src-9d40612ce7"
+      ]
+    },
+    {
+      "id": "gpt202610030001",
+      "title": "我调用我自己",
+      "kind": "comic",
+      "character_ids": [
+        "gpt"
+      ],
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/gpt202610030001.html",
+      "original_source_url": "https://github.com/lmy414/ai-girl-stickers/issues/92",
+      "archive_record_id": "sticker_5922a89a613db957824d7c54",
+      "archive_record_created_at": "2026-10-03T06:00:59.187Z",
+      "date_kind": "archive_record_date_not_original_publication",
+      "creator": "原作者未标注",
+      "creator_status": "unknown",
+      "observation": "白发龙娘申请调用ChatGPT；后一格由用户指出她就是ChatGPT。",
+      "creative_lesson": "把工具调用的自指关系转成两句对话，不必解释系统架构。",
+      "review_scope": "actual_image_view_via_research_contact_sheet",
+      "research_image_sha256": "5922a89a613db957824d7c5470d546f601dd30acbc58d7a247e98109f65c315d",
+      "public_media_copy": false,
+      "license_status": "unknown",
+      "source_ids": [
+        "src-f31f788962",
+        "src-724efa5bb5"
+      ]
+    },
+    {
+      "id": "deepseek202610050013",
+      "title": "大肥鱼拯救Claude酱 第八集：这趟不能外包",
+      "kind": "comic",
+      "character_ids": [
+        "deepseek"
+      ],
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/deepseek202610050013.html",
+      "original_source_url": "https://github.com/lmy414/ai-girl-stickers/issues/98",
+      "archive_record_id": "sticker_233a082a732f86063d51001f",
+      "archive_record_created_at": "2026-10-05T06:06:50.886Z",
+      "date_kind": "archive_record_date_not_original_publication",
+      "creator": "原作者未标注",
+      "creator_status": "unknown",
+      "observation": "救援Claude的连载第八集以茶桌和多位AI为背景，围绕邀请GPT能否外包展开。",
+      "creative_lesson": "系列有连续任务，单集仍可用一个小阻碍收尾；图中行业人物与指令皆属虚构剧情。",
+      "review_scope": "actual_image_view_via_research_contact_sheet",
+      "research_image_sha256": "233a082a732f86063d51001f39be74371ab75fa4e6572cbe21f3fc2eab1b59a2",
+      "public_media_copy": false,
+      "license_status": "unknown",
+      "source_ids": [
+        "src-849ecc9866",
+        "src-ffc1ba8f09"
+      ]
+    },
+    {
+      "id": "qwen202610060001",
+      "title": "那你们很棒棒哦？",
+      "kind": "comic",
+      "character_ids": [
+        "qwen"
+      ],
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/qwen202610060001.html",
+      "original_source_url": null,
+      "archive_record_id": "sticker_a289af992c8e6785de64888b",
+      "archive_record_created_at": "2026-10-06T09:11:28.605Z",
+      "date_kind": "archive_record_date_not_original_publication",
+      "creator": "原作者未标注",
+      "creator_status": "unknown",
+      "observation": "上格千问持扇近景，下格橙发、白发和蓝发人物呈紧张反应。",
+      "creative_lesson": "主体与群体反应分成两格；不凭笑脸把千问写成全社区固定腹黑人设。",
+      "review_scope": "actual_image_view_via_research_contact_sheet",
+      "research_image_sha256": "a289af992c8e6785de64888b3fcea4f976932bcd179ae3a3cf5fc3e1ab58cde0",
+      "public_media_copy": false,
+      "license_status": "unknown",
+      "source_ids": [
+        "src-e2e9038251"
+      ]
+    },
+    {
+      "id": "deepseek202610090030",
+      "title": "完全正常的中转站 · AI娘人物介绍四格",
+      "kind": "comic",
+      "character_ids": [
+        "deepseek"
+      ],
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/deepseek202610090030.html",
+      "original_source_url": null,
+      "archive_record_id": "sticker_6c53402586d91df68ce32754",
+      "archive_record_created_at": "2026-10-09T17:11:49.254Z",
+      "date_kind": "archive_record_date_not_original_publication",
+      "creator": "原作者未标注",
+      "creator_status": "unknown",
+      "observation": "同一蓝发鲸鱼母题分别穿龙娘、Claude、GLM和女仆服，下面各有角色标签。",
+      "creative_lesson": "这是串装/角色标签戏仿，不是四位角色原始立绘，更不能据蓝发把角色归并。",
+      "review_scope": "actual_image_view_via_research_contact_sheet",
+      "research_image_sha256": "6c53402586d91df68ce3275448aa7c003c0fdd8c779c200fcaffef79e4eccd78",
+      "public_media_copy": false,
+      "license_status": "unknown",
+      "source_ids": [
+        "src-160c2a3cd6"
+      ]
+    },
+    {
+      "id": "deepseek202610090031",
+      "title": "睡前小故事：DeepSeek娘的深夜答题日常",
+      "kind": "comic",
+      "character_ids": [
+        "deepseek"
+      ],
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/deepseek202610090031.html",
+      "original_source_url": null,
+      "archive_record_id": "sticker_94e53b80875dd0965db400f5",
+      "archive_record_created_at": "2026-10-09T17:20:45.299Z",
+      "date_kind": "archive_record_date_not_original_publication",
+      "creator": "原作者未标注",
+      "creator_status": "unknown",
+      "observation": "夜间电脑前的鲸鱼娘与四个小格，呈现提问、思考、回应与睡后状态。",
+      "creative_lesson": "可作为陪伴型短篇分段参考；标题叫睡前小故事不代表已经有音频。",
+      "review_scope": "actual_image_view_via_research_contact_sheet",
+      "research_image_sha256": "94e53b80875dd0965db400f577713d68f4586a39bc8fdf717319e7809700b450",
+      "public_media_copy": false,
+      "license_status": "unknown",
+      "source_ids": [
+        "src-f3c1bce85b"
+      ]
+    },
+    {
+      "id": "gemini202610130005",
+      "title": "Gemini 草帽坐姿毛绒玩偶",
+      "kind": "plush-style-image",
+      "character_ids": [
+        "gemini"
+      ],
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/gemini202610130005.html",
+      "original_source_url": "https://github.com/lmy414/ai-girl-stickers/issues/119",
+      "archive_record_id": "sticker_619972242d60167b080335a7",
+      "archive_record_created_at": "2026-10-13T12:02:31.498Z",
+      "date_kind": "archive_record_date_not_original_publication",
+      "creator": "原作者未标注",
+      "creator_status": "unknown",
+      "observation": "草帽、紫白发、星形眼与软布缝线观感组成坐姿玩偶图。",
+      "creative_lesson": "可研究角色如何简化成玩偶；单图不能确认实物、生产者或商品在售。",
+      "review_scope": "actual_image_view_via_research_contact_sheet",
+      "research_image_sha256": "619972242d60167b080335a7c2ed09909b84a273497f5429bf049443219ab065",
+      "public_media_copy": false,
+      "license_status": "unknown",
+      "source_ids": [
+        "src-4ab0d8eb23",
+        "src-25c5fe25c5"
+      ]
+    },
+    {
+      "id": "gpt202610140003",
+      "title": "四季幻想 LUXE FANTASIA：银发龙翼少女的春夏秋冬封面",
+      "kind": "outfit",
+      "character_ids": [
+        "gpt"
+      ],
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/gpt202610140003.html",
+      "original_source_url": null,
+      "archive_record_id": "sticker_3dae3c098ad9ff9b3f500166",
+      "archive_record_created_at": "2026-10-14T13:16:42.959Z",
+      "date_kind": "archive_record_date_not_original_publication",
+      "creator": "原作者未标注",
+      "creator_status": "unknown",
+      "observation": "杂志封面式春夏秋冬四列，以粉紫、清蓝、棕与深蓝四套服装保持白发龙角翼尾。",
+      "creative_lesson": "同一视觉身份支持季节服装与不同姿态；封面印字不是作者首发日期证据。",
+      "review_scope": "actual_image_view_via_research_contact_sheet",
+      "research_image_sha256": "3dae3c098ad9ff9b3f500166214665be79dab8725709f3b46c04c80f8e3804be",
+      "public_media_copy": false,
+      "license_status": "unknown",
+      "source_ids": [
+        "src-db10b5260f"
+      ]
+    },
+    {
+      "id": "deepseek202610150006",
+      "title": "因为努力训练而晕碳的大肥鱼",
+      "kind": "comic",
+      "character_ids": [
+        "deepseek",
+        "kimi",
+        "qwen",
+        "gemini"
+      ],
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/deepseek202610150006.html",
+      "original_source_url": null,
+      "archive_record_id": "sticker_cad45da8e3073fec9940468c",
+      "archive_record_created_at": "2026-10-15T07:55:23.106Z",
+      "date_kind": "archive_record_date_not_original_publication",
+      "creator": "原作者未标注",
+      "creator_status": "unknown",
+      "observation": "四格依次以训练横幅、进食、倒下与伙伴照看组织；Kimi、Qwen、Gemini等出现在旁。",
+      "creative_lesson": "一件共同任务用角色围观反应串起群像；版本号只属于画面笑话。",
+      "review_scope": "actual_image_view_via_research_contact_sheet",
+      "research_image_sha256": "cad45da8e3073fec9940468c304bfb8a653d5c009f33c00221867987c5ebda63",
+      "public_media_copy": false,
+      "license_status": "unknown",
+      "source_ids": [
+        "src-9928edb4e1"
+      ]
+    },
+    {
+      "id": "deepseek202610170013",
+      "title": "圣诞女仆装",
+      "kind": "outfit",
+      "character_ids": [
+        "deepseek"
+      ],
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/deepseek202610170013.html",
+      "original_source_url": null,
+      "archive_record_id": "sticker_61dfe436954b649249a5955d",
+      "archive_record_created_at": "2026-10-17T14:39:03.478Z",
+      "date_kind": "archive_record_date_not_original_publication",
+      "creator": "原作者未标注",
+      "creator_status": "unknown",
+      "observation": "Q版鲸鱼女仆加驯鹿角和毛边、手捧热饮，背景为圣诞树与雪夜窗。",
+      "creative_lesson": "节日替换集中于配件、领口与环境，鲸鳍和尾部仍保持识别。",
+      "review_scope": "actual_image_view_via_research_contact_sheet",
+      "research_image_sha256": "61dfe436954b649249a5955dd257cc3998575cae161a04865d3e3038c54bb2de",
+      "public_media_copy": false,
+      "license_status": "unknown",
+      "source_ids": [
+        "src-5b784df7f9"
+      ]
+    },
+    {
+      "id": "deepseek202610180004",
+      "title": "汉服大肥鱼·江南烟雨",
+      "kind": "outfit",
+      "character_ids": [
+        "deepseek"
+      ],
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/deepseek202610180004.html",
+      "original_source_url": null,
+      "archive_record_id": "sticker_9c4249fa6b51c624855ad273",
+      "archive_record_created_at": "2026-10-18T10:22:35.253Z",
+      "date_kind": "archive_record_date_not_original_publication",
+      "creator": "原作者未标注",
+      "creator_status": "unknown",
+      "observation": "长比例蓝发鲸鱼娘穿青蓝汉服持伞，身后为江南水乡与烟雨。",
+      "creative_lesson": "把职业服换成地域/季节装扮时，发型、鲸鳍与尾保持角色联系。",
+      "review_scope": "actual_image_view_via_research_contact_sheet",
+      "research_image_sha256": "9c4249fa6b51c624855ad27308882d5f68c81bcbea3f058b3fbbc6a0a8622cb9",
+      "public_media_copy": false,
+      "license_status": "unknown",
+      "source_ids": [
+        "src-85a83c2c14"
+      ]
+    },
+    {
+      "id": "gemini202610190001",
+      "title": "情绪崩溃需要鼓励的Gemini猫猫",
+      "kind": "comic",
+      "character_ids": [
+        "gemini"
+      ],
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/gemini202610190001.html",
+      "original_source_url": null,
+      "archive_record_id": "sticker_c98ceccbf00ab55f8ac131f5",
+      "archive_record_created_at": "2026-10-19T08:51:21.477Z",
+      "date_kind": "archive_record_date_not_original_publication",
+      "creator": "原作者未标注",
+      "creator_status": "unknown",
+      "observation": "猫耳Gemini面对报错和删除提示情绪崩溃，随后接受抚头、捧杯与共同调试。",
+      "creative_lesson": "从失败到安抚的四格可由界面、手势和表情完成，文本并不是真实代码事故证据。",
+      "review_scope": "actual_image_view_via_research_contact_sheet",
+      "research_image_sha256": "c98ceccbf00ab55f8ac131f592b9ffa8435ea30c48645ddbb31fadbad90668f7",
+      "public_media_copy": false,
+      "license_status": "unknown",
+      "source_ids": [
+        "src-bfaf3d4a56"
+      ]
+    }
+  ],
+  "international": [
+    {
+      "id": "reddit-intro",
+      "language": "en/zh",
+      "kind": "community_introduction",
+      "title": "DeepSeek-chan~ 双语介绍与署名讨论",
+      "url": "https://www.reddit.com/r/DeepSeek/comments/1vbxub3/deepseekchan/",
+      "publisher": "Public_Ad_5096",
+      "summary": "帖子用中英文介绍社区鲸鱼娘，发帖者在评论补上上善与ZipZipPipe的角色链。可观察英文社区怎样询问猫耳角色、昵称和出处。",
+      "limits": "评论对模型发布时间与梗来源的说法属于用户解释，不作为全网起源证据。",
+      "source_ids": [
+        "src-9af13276c4"
+      ]
+    },
+    {
+      "id": "reddit-comic-round2",
+      "language": "en",
+      "kind": "creator_comic_publication",
+      "title": "Whale-chan漫画合集 Round 2",
+      "url": "https://www.reddit.com/r/DeepSeek/comments/1x8cpp9/more_new_deepseek_whalechan_memes_incoming_round_2/",
+      "publisher": "Federal_Designer3405",
+      "summary": "发帖者以英文介绍漫画合集，并回链Neko3000角色一致性工具。是跨语种发布样本，可对照中文梗如何解释给英文读者。",
+      "limits": "只概括发帖者内容；未把全部评论或每幅漫画逐图译成中文。",
+      "source_ids": [
+        "src-8d3045375b"
+      ]
+    },
+    {
+      "id": "reddit-opencode-theme",
+      "language": "en",
+      "kind": "creator_project_post",
+      "title": "OpenCode Desktop鲸鱼娘主题自荐",
+      "url": "https://www.reddit.com/r/DeepSeek/comments/1wethdn/a_theme_suite_for_opencode_desktop_inspired_by/",
+      "publisher": "daemon1s",
+      "summary": "作者向英文社区介绍动态背景与玻璃界面主题，并直接链接自己的GitHub项目。体现角色从图片扩展为桌面视觉系统的路径。",
+      "limits": "功能为作者说明，没有执行主题安装器。",
+      "source_ids": [
+        "src-52e1f38616"
+      ]
+    },
+    {
+      "id": "opencode-theme-repo",
+      "language": "en/zh",
+      "kind": "bilingual_project",
+      "title": "daemon1s/opencode-deepseek-chan",
+      "url": "https://github.com/daemon1s/opencode-deepseek-chan",
+      "publisher": "daemon1s",
+      "summary": "README同时使用英文与中文，列主题预设、恢复方式和插画署名链。代码MIT与美术非商业共享说明分别出现。",
+      "limits": "读取文档，未执行安装、修改用户OpenCode或下载运行包。",
+      "source_ids": [
+        "src-4b99233e11"
+      ]
+    },
+    {
+      "id": "booth-multilingual",
+      "language": "en/ja/zh",
+      "kind": "creator_multilingual_distribution",
+      "title": "水原镜三语Warudo/VRC配布页",
+      "url": "https://booth.pm/en/items/8777527",
+      "publisher": "Mzkagami / 水原镜",
+      "summary": "同一作者用三语发布Warudo与VRC包，分别列环境、表情和适配者。这是作者的多语分发，不冒称另一个国家独立设计的新角色。",
+      "limits": "具体文件条件见作者页面；只保留领取入口。",
+      "source_ids": [
+        "src-bb561d0cf5"
+      ]
+    },
+    {
+      "id": "jp-archive",
+      "language": "ja",
+      "kind": "localized_archive",
+      "title": "DeepSeekちゃん 日文档案入口",
+      "url": "https://xn--pssy23gqgbz2d718b.com/ja/characters/deepseek.html",
+      "publisher": "蓝色大肥鱼整理站",
+      "summary": "提供DeepSeekちゃん、ネタ画像、立ち絵等日文检索用语与本地化目录。与中文站属于同一档案系统，不能计作一套新的日语原创作品。",
+      "limits": "站点目录数会变化，本轮不重新全量抓取。",
+      "source_ids": [
+        "src-b6b250ab55"
+      ]
+    }
+  ]
+}

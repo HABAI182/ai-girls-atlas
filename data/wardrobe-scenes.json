@@ -1,0 +1,134 @@
+{
+  "checked_on": "2026-10-21",
+  "wardrobes": [
+    {
+      "id": "campus",
+      "title": "校园制服",
+      "character_ids": [
+        "deepseek",
+        "gpt",
+        "claude",
+        "gemini",
+        "grok",
+        "kimi",
+        "glm",
+        "qwen"
+      ],
+      "description": "已有校园项目18张作者人设与演员表",
+      "reference": "existing-school-project"
+    },
+    {
+      "id": "engineer",
+      "title": "工程服",
+      "character_ids": [
+        "claude"
+      ],
+      "description": "已有ZipZipPipe工程服变体",
+      "reference": "existing-variant"
+    },
+    {
+      "id": "short-maid",
+      "title": "短裙女仆",
+      "character_ids": [
+        "deepseek"
+      ],
+      "description": "已有作者短裙与常规女仆差异",
+      "reference": "existing-variant"
+    },
+    {
+      "id": "seasonal-dragon",
+      "title": "龙娘四季服装",
+      "character_ids": [
+        "gpt"
+      ],
+      "description": "春夏秋冬四列，保持角翼与长尾",
+      "reference": "gpt202610140003"
+    },
+    {
+      "id": "christmas-whale",
+      "title": "圣诞女仆",
+      "character_ids": [
+        "deepseek"
+      ],
+      "description": "鹿角、毛边、热饮与雪夜环境",
+      "reference": "deepseek202610170013"
+    },
+    {
+      "id": "hanfu-whale",
+      "title": "汉服与烟雨",
+      "character_ids": [
+        "deepseek"
+      ],
+      "description": "青蓝汉服、纸伞和江南环境",
+      "reference": "deepseek202610180004"
+    },
+    {
+      "id": "idol-stage",
+      "title": "偶像演出服",
+      "character_ids": [
+        "gpt"
+      ],
+      "description": "主唱常规与Q版同台、紫色灯环",
+      "reference": "BV1K4ax6YE2n"
+    },
+    {
+      "id": "dancing-costumes",
+      "title": "连续换装",
+      "character_ids": [
+        "deepseek"
+      ],
+      "description": "同一舞蹈参考中的服装变化",
+      "reference": "BV1LQ7j6WEyD"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "kitchen",
+      "title": "厨房与饭桌",
+      "description": "电饭锅、饭碗和勺提供任务与体型参照",
+      "reference": "BV1q1tv6iELX"
+    },
+    {
+      "id": "apartment",
+      "title": "合租住处",
+      "description": "车门、走廊和屋内空间构成角色进入世界的路线",
+      "reference": "BV1eMeS6SETU"
+    },
+    {
+      "id": "park",
+      "title": "公园双人戏",
+      "description": "长椅、树荫和冰淇淋让双人互动有共同道具",
+      "reference": "BV1PTHB6BEbA"
+    },
+    {
+      "id": "school",
+      "title": "校园与雨后街道",
+      "description": "统一服装背景与姓名卡构成群像",
+      "reference": "BV1Nfag6xEHQ"
+    },
+    {
+      "id": "battle-city",
+      "title": "都市战斗",
+      "description": "城市远景、红青光和眼睛近景形成尺度差",
+      "reference": "BV1dsai6CErz"
+    },
+    {
+      "id": "workbench",
+      "title": "用户工作桌",
+      "description": "电脑、文件和界面结果承载排错反应",
+      "reference": "deepseek202610030007"
+    },
+    {
+      "id": "undersea-channel",
+      "title": "海底栏目舞台",
+      "description": "背景固定、左侧信息卡、右侧角色反应，适合连续更新",
+      "reference": "BV1pGnn67EC2"
+    },
+    {
+      "id": "craft-table",
+      "title": "手工作台",
+      "description": "刻度垫、零件与工具给细小操作清楚参照",
+      "reference": "BV1B2Yw6sEVY"
+    }
+  ]
+}

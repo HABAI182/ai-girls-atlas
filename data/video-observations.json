@@ -1,0 +1,699 @@
+{
+  "checked_on": "2026-10-21",
+  "observations": [
+    {
+      "video_id": "BV1JHhn6qEDU",
+      "title": "我明明让Claude Code用deepseek模型，为什么 GLM 娘突然上班了？",
+      "review_scope": "15格联系表加2张640px原帧；未完整连续播放",
+      "audio_scope": "metadata_only",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 42117238553,
+        "part_duration_seconds": 118
+      },
+      "classification": "动画讲解者＋技术排查截图＋角色化结尾；并非已核看完整AI娘争执剧情",
+      "observed_evidence": [
+        {
+          "second": 0.5,
+          "observation": "戴眼镜的动画男性坐在电脑前，底部字幕引出Claude Code。"
+        },
+        {
+          "second": 21.5,
+          "observation": "黑底竖屏内展示模型调用记录样式的白色表格。"
+        },
+        {
+          "second": 32.5,
+          "observation": "subagents文档截图配字幕，指出主任务与子任务模型不同。"
+        },
+        {
+          "second": 53.5,
+          "observation": "动画讲解者指向路由箭头汇入节点的显示器。"
+        },
+        {
+          "second": 74.5,
+          "observation": "终端日志窗口与底部说明字幕同屏。"
+        },
+        {
+          "second": 106.5,
+          "observation": "橙发Claude形象在讲解者身边持红色平板，背景有折线图。"
+        }
+      ],
+      "limits": [
+        "中转站修改上游是作者自述，未复现。",
+        "未看到GLM娘抢活，不将标题扩写为实见剧情。"
+      ],
+      "id": "frame-review-BV1JHhn6qEDU",
+      "source_id": "src-52255dbb55",
+      "page_path": "encyclopedia/video-notes/BV1JHhn6qEDU.md"
+    },
+    {
+      "video_id": "BV1foHs6dEtK",
+      "title": "没人记得第二名，除非半场开香槟【AI全民制作人】",
+      "review_scope": "15格联系表加2张640px原帧；未完整连续播放",
+      "audio_scope": "metadata_only",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 42478669256,
+        "part_duration_seconds": 76
+      },
+      "classification": "女神投票颁奖反转／应援喜剧，包含末尾票数截图",
+      "observed_evidence": [
+        {
+          "second": 0.5,
+          "observation": "银色短发人物与黄色牛形角色在话筒和信封旁公布名次。"
+        },
+        {
+          "second": 7.5,
+          "observation": "字幕转入亚军揭晓。"
+        },
+        {
+          "second": 20.5,
+          "observation": "短暂插入躺在锅底的Q版DeepSeek图像。"
+        },
+        {
+          "second": 34.5,
+          "observation": "观众席鲸鱼形观众配有表达喜爱的字幕。"
+        },
+        {
+          "second": 41.5,
+          "observation": "DeepSeek面部惊讶，字幕呼喊豆包。"
+        },
+        {
+          "second": 68.5,
+          "observation": "投票界面显示豆包第一、deepseek第二、牛来妈妈第三、安娜斯塔夏第四。"
+        }
+      ],
+      "limits": [
+        "BGM曲名只见作者简介，没有实际试听。",
+        "这不是技术排行榜，不据票数比较产品能力。"
+      ],
+      "id": "frame-review-BV1foHs6dEtK",
+      "source_id": "src-51d8b1e164",
+      "page_path": "encyclopedia/video-notes/BV1foHs6dEtK.md"
+    },
+    {
+      "video_id": "BV1Wguz6gE3t",
+      "title": "我去，用户彻底怒了",
+      "review_scope": "14格联系表加3张640px原帧；未完整连续播放",
+      "audio_scope": "metadata_only",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 40814969556,
+        "part_duration_seconds": 40,
+        "extracted_frames": 39
+      },
+      "classification": "任务转包／摸鱼姿态／token账单反转",
+      "observed_evidence": [
+        {
+          "second": 1.5,
+          "observation": "银色短发人物在机房把文档翻译任务交给DeepSeek。"
+        },
+        {
+          "second": 7.5,
+          "observation": "DeepSeek坐在椅上，字幕请千问翻译；一侧出现蓝色全息轮廓。"
+        },
+        {
+          "second": 10.5,
+          "observation": "蓝紫发长裙千问形象站到坐姿DeepSeek身旁。"
+        },
+        {
+          "second": 17.5,
+          "observation": "用户返回，DeepSeek坐在椅上把腿伸到桌前。"
+        },
+        {
+          "second": 28.5,
+          "observation": "DeepSeek与千问并排面对用户，字幕以token消耗谈涨价。"
+        },
+        {
+          "second": 31.5,
+          "observation": "DeepSeek的字幕提到此前被叫大肥鱼。"
+        },
+        {
+          "second": 35.5,
+          "observation": "银色短发用户面部惊讶，反应镜头转到用户。"
+        }
+      ],
+      "limits": [
+        "字幕按画面阅读，不冒充试听。",
+        "银色短发用户未命名，不新增为某产品的AI娘身份。"
+      ],
+      "id": "frame-review-BV1Wguz6gE3t",
+      "source_id": "src-73fa2fae34",
+      "page_path": "encyclopedia/video-notes/BV1Wguz6gE3t.md"
+    },
+    {
+      "video_id": "BV1ibpq6tE18",
+      "title": "8个顶级AI挑战RPG史上最恶意BOSS，谁能翻盘？｜AI游戏大赛01",
+      "author": "StuG_III",
+      "review_scope": "60秒间隔联系表13格实际查看；并从同一缓存视频补看10张章节原帧；未按正常速度完整播放",
+      "timestamps": [
+        30,
+        90,
+        150,
+        210,
+        270,
+        330,
+        390,
+        450,
+        510,
+        570,
+        690,
+        750,
+        810,
+        60,
+        130,
+        208,
+        289,
+        306,
+        365,
+        615,
+        698,
+        756
+      ],
+      "audio_scope": "metadata_only",
+      "frame_notes": [
+        "60秒的GPT卡为白发角翼角色持书；130秒同一立绘配单场成绩文字。",
+        "150秒Gemini为紫发猫耳角色；208/210秒DeepSeek为蓝发鲸鱼女仆，手掌外翻。",
+        "289秒千问持扇配盾，306/330/365秒沿用相同立绘叠加战术/游戏内容；不重复计成三种角色反应。",
+        "615秒Claude为橙发戴太阳式头饰、持打开书本的重绘形象；698/756秒GLM为黑发兽耳形象。",
+        "游戏角色立绘是参考设计基础上的重绘；章节名单含豆包和MiMo，不含Grok和Kimi。"
+      ],
+      "scope_limit": "只把角色立绘和版式纳入本档案；游戏成败与片中版本号不作普遍模型性能判断。",
+      "id": "frame-review-BV1ibpq6tE18",
+      "source_id": "src-b5f988f905",
+      "page_path": "encyclopedia/video-notes/BV1ibpq6tE18.md",
+      "observed_evidence": [
+        {
+          "second": 60,
+          "observation": "GPT重绘立绘为白发角翼、手持书。"
+        },
+        {
+          "second": 150,
+          "observation": "Gemini为紫发猫耳形象。"
+        },
+        {
+          "second": 208,
+          "observation": "DeepSeek蓝发女仆以手掌外翻站姿出现。"
+        },
+        {
+          "second": 289,
+          "observation": "千问持扇配盾；后续章节沿用同一立绘。"
+        },
+        {
+          "second": 615,
+          "observation": "Claude橙发、持打开的书本。"
+        },
+        {
+          "second": 698,
+          "observation": "GLM为黑发兽耳形象。"
+        }
+      ]
+    },
+    {
+      "video_id": "BV1GDbU6eEr9",
+      "title": "你也许没听说过我，但一定看过我做的大肥鱼",
+      "author": "ZipZipPipe",
+      "review_scope": "复用1fps缓存；实际查看15格contact与每4秒取样31格详细联系表，并补看60.5/116.5秒原帧；未试听",
+      "timestamps": [
+        0.5,
+        4.5,
+        8.5,
+        12.5,
+        16.5,
+        20.5,
+        24.5,
+        28.5,
+        32.5,
+        36.5,
+        40.5,
+        44.5,
+        48.5,
+        52.5,
+        56.5,
+        60.5,
+        64.5,
+        68.5,
+        72.5,
+        76.5,
+        80.5,
+        84.5,
+        88.5,
+        92.5,
+        96.5,
+        100.5,
+        104.5,
+        108.5,
+        112.5,
+        116.5,
+        120.5,
+        60.5,
+        116.5
+      ],
+      "audio_scope": "metadata_only",
+      "frame_notes": [
+        "表情包以静态画面为主，短时间重复展示不算多个不同反应。",
+        "实际可辨DeepSeek、GPT、Claude、Gemini、GLM、Kimi等形象；原图夸张文字只保留漫画语境。"
+      ],
+      "scope_limit": "不转录完整图中文字，不把梗图价格/新闻牌当作事实更新。",
+      "id": "frame-review-BV1GDbU6eEr9",
+      "source_id": "src-b60ff0def6",
+      "page_path": "encyclopedia/video-notes/BV1GDbU6eEr9.md",
+      "observed_evidence": [
+        {
+          "second": 0.5,
+          "observation": "眼角下垂、脸颊红、嘴角收紧；跪坐，双手并放在膝前，旁边有空碗与指向她的手"
+        },
+        {
+          "second": 8.5,
+          "observation": "一只眼闭起，张嘴微笑，脸红；接受头顶抚摸，双手握拳靠近下巴，旁有小心形"
+        },
+        {
+          "second": 24.5,
+          "observation": "眉眼收紧，嘴部张开；双手持长剑横向对准前方，周围有挥动线条"
+        },
+        {
+          "second": 36.5,
+          "observation": "半垂眼，眉部倾斜，嘴部略张；双臂交叠在胸前，身体向一侧偏"
+        },
+        {
+          "second": 64.5,
+          "observation": "双眼画成叉号，嘴张开；身体后仰/横倒，周围有气泡与幽灵状符号"
+        },
+        {
+          "second": 108.5,
+          "observation": "半垂且发涩的眼睛，眉部下沉，嘴角收紧；一手扶额，另一手拿书，周围有乱线符号"
+        },
+        {
+          "second": 80.5,
+          "observation": "脸红，张嘴笑，一眼较窄；一手伸出手指指向画面左边，另一手抬起"
+        },
+        {
+          "second": 60.5,
+          "observation": "睁眼张嘴微笑，脸颊红；举起印有你的字牌，与DeepSeek、GLM共同组成恭喜你"
+        },
+        {
+          "second": 60.5,
+          "observation": "张嘴微笑，脸颊红；双手举印有喜的字牌，站在两位角色中间"
+        },
+        {
+          "second": 116.5,
+          "observation": "睁眼张嘴，眉部较平；一手扶价目表边框，一手指向表内条目"
+        }
+      ]
+    },
+    {
+      "video_id": "BV1tE9XBbErS",
+      "title": "大AI和小AI们",
+      "author": "ZipZipPipe",
+      "review_scope": "实际查看15格contact及每3秒抽样18格详细联系表；各角色为常规比例/Q版的静态展示，未试听",
+      "timestamps": [
+        0.5,
+        3.5,
+        6.5,
+        9.5,
+        12.5,
+        15.5,
+        18.5,
+        21.5,
+        24.5,
+        27.5,
+        30.5,
+        33.5,
+        36.5,
+        39.5,
+        42.5,
+        45.5,
+        48.5,
+        51.5
+      ],
+      "audio_scope": "metadata_only",
+      "frame_notes": [
+        "作者简介给出九位角色的展示次序，画面与发型/道具一并用于确认身份。",
+        "同一角色的常规比例与Q版不是不同情绪事件。"
+      ],
+      "scope_limit": "道具持握只记静态姿态；不从音乐符号、月亮或武器推断产品能力。",
+      "id": "frame-review-BV1tE9XBbErS",
+      "source_id": "src-77c5462742",
+      "page_path": "encyclopedia/video-notes/BV1tE9XBbErS.md",
+      "observed_evidence": [
+        {
+          "second": 21.5,
+          "observation": "双眼睁开，嘴部轻微上扬；一手向外托起，掌边有蓝色小球状图形"
+        },
+        {
+          "second": 27.5,
+          "observation": "双眼睁开，张嘴微笑；一手竖持大型双刃斧状长柄物，另一手靠腰侧"
+        },
+        {
+          "second": 39.5,
+          "observation": "眼睛睁开，嘴部轻微上扬；一只手抬到眼侧，身体正面站立，身后是新月和横向彩色光带"
+        },
+        {
+          "second": 33.5,
+          "observation": "睁眼，嘴部较小且收拢；双手把带Z字形标记的黑书夹在胸前"
+        },
+        {
+          "second": 51.5,
+          "observation": "睁眼，扇子遮住部分嘴部，表情无法完整读取；一手把展开折扇抬到口鼻附近，另一侧垂挂小包"
+        }
+      ]
+    },
+    {
+      "video_id": "BV1yvaT65EGk",
+      "review_scope": "sampled_visual_frames",
+      "audio_scope": "metadata_only",
+      "reviewed_part": "P1，78秒媒体生成77张1fps帧，观察15张contact样本。",
+      "observed_evidence": [
+        {
+          "second": 0.5,
+          "observation": "蓝发鲸鳍女仆胸像，深色背景并带白粉色描边。"
+        },
+        {
+          "second": 7.5,
+          "observation": "镜头给裙摆、腿部与鲸尾，展示身体比例。"
+        },
+        {
+          "second": 21.5,
+          "observation": "头部特写出现写TOKEN的蓝色币状道具。"
+        },
+        {
+          "second": 28.5,
+          "observation": "蓝白展示板中左大头、右小全身，头顶TOKEN币。"
+        },
+        {
+          "second": 35.5,
+          "observation": "前景出现鲸鱼形状叠层，右侧小模型为侧后角度。"
+        },
+        {
+          "second": 41.5,
+          "observation": "右侧小模型呈背面与尾部，左侧仍为正面大头。"
+        },
+        {
+          "second": 48.5,
+          "observation": "右侧小模型比例较前片段变化，左侧眼口表情变化。"
+        },
+        {
+          "second": 55.5,
+          "observation": "头顶出现倒扣钢盆道具，右侧小模型同样戴盆。"
+        },
+        {
+          "second": 69.5,
+          "observation": "气泡内肖像与角色半闭眼形成梗图式反应画面。"
+        }
+      ],
+      "inferences_not_claimed": [
+        "不根据抽帧确认六档参数的精确绑定值或实时跟踪精度",
+        "不确认工房包内源文件与可编辑范围",
+        "未试听，不把配乐当角色固定声库"
+      ],
+      "id": "frame-review-BV1yvaT65EGk",
+      "source_id": "src-e1698ab832",
+      "page_path": "encyclopedia/video-notes/BV1yvaT65EGk.md"
+    },
+    {
+      "video_id": "BV1pda766EtU",
+      "title": "你这吃白饭的蓝色大肥鱼！",
+      "classification": "真人Cosplay与角色动作",
+      "review_scope": "sampled_visual_frames",
+      "audio_scope": "not_listened",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 42297329428,
+        "part_duration_seconds": 11
+      },
+      "summary": "真人出镜用蓝色鲸鳍式假发和蓝白女仆服复现角色，另戴毛绒爪套朝镜头做不同手势；画面角落保留Q版参考图。服装轮廓与识别配件比复杂布景更突出。不能由画面认定服装有公开纸样或授权商品。",
+      "observed_evidence": [
+        {
+          "second": 0.5,
+          "observation": "真人蓝发女仆双手戴爪套伸向镜头。"
+        },
+        {
+          "second": 2.5,
+          "observation": "中景可见围裙、深蓝裙边与头饰，左下角有Q版鲸鱼娘参考。"
+        },
+        {
+          "second": 4.5,
+          "observation": "一只爪套抬高，另一只收在胸前，表情与手势变化。"
+        },
+        {
+          "second": 9.5,
+          "observation": "同一室内和服装保持，双手摊开形成结尾状态。"
+        }
+      ],
+      "id": "frame-review-BV1pda766EtU",
+      "source_id": "src-298921f1ab",
+      "page_path": "encyclopedia/video-notes/BV1pda766EtU.md"
+    },
+    {
+      "video_id": "BV1GJeh68EHk",
+      "title": "deepseek日语朗读和中文对比",
+      "classification": "日中朗读演示",
+      "review_scope": "sampled_visual_frames",
+      "audio_scope": "not_listened",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 42033678873,
+        "part_duration_seconds": 38
+      },
+      "summary": "前半是日文文本与鲸鱼娘形象，后半切为中文文本及另一头像。画面证实这是文本与头像对应的朗读对比；本次另有机器识别，但后半的重复识别错误被排除，不写成逐字稿。",
+      "observed_evidence": [
+        {
+          "second": 0.5,
+          "observation": "竖屏内上方是日文段落，下方有鲸鱼娘插画。"
+        },
+        {
+          "second": 10.5,
+          "observation": "相同日文文本页面继续，鲸鱼娘仍在下方。"
+        },
+        {
+          "second": 20.5,
+          "observation": "页面已切到中文段落，头像改为短发女性。"
+        },
+        {
+          "second": 30.5,
+          "observation": "中文段落和短发头像持续展示。"
+        }
+      ],
+      "id": "frame-review-BV1GJeh68EHk",
+      "source_id": "src-9b456769e9",
+      "page_path": "encyclopedia/video-notes/BV1GJeh68EHk.md"
+    },
+    {
+      "video_id": "BV1pGnn67EC2",
+      "title": "【Day 0】我是DeepSeek鲸鱼娘，这个B站账号现在归我了",
+      "classification": "虚拟角色运营与观众互动",
+      "review_scope": "sampled_visual_frames",
+      "audio_scope": "not_listened",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 42868804351,
+        "part_duration_seconds": 83
+      },
+      "summary": "海底蓝色统一模板中，Q版鲸鱼娘以站立、电脑前、惊讶等卡片状态讲述接管账号。责任表、日更约定、评论区会议室、任务清单和下一期预告构成栏目机制。账号由AI运营是作者自述；视频是已剪辑投稿，不能写成实时无人直播实测。",
+      "observed_evidence": [
+        {
+          "second": 3.5,
+          "observation": "鲸鱼娘姓名页与Q版角色同框。"
+        },
+        {
+          "second": 15.5,
+          "observation": "责任一览表配惊讶表情。"
+        },
+        {
+          "second": 30.5,
+          "observation": "日更打卡约定卡与电脑前Q版并列。"
+        },
+        {
+          "second": 45.5,
+          "observation": "第三条约定称评论区为会议室。"
+        },
+        {
+          "second": 52.5,
+          "observation": "Day0任务清单列换头像与写简介。"
+        },
+        {
+          "second": 67.5,
+          "observation": "服务器繁忙弹窗，旁注只是演示。"
+        }
+      ],
+      "id": "frame-review-BV1pGnn67EC2",
+      "source_id": "src-aca95c2987",
+      "page_path": "encyclopedia/video-notes/BV1pGnn67EC2.md"
+    },
+    {
+      "video_id": "BV1VXJf66Eyy",
+      "title": "【Day 1】大家都想把我变成猫娘，可我是鲸鱼啊",
+      "classification": "评论回应与投票连载",
+      "review_scope": "sampled_visual_frames",
+      "audio_scope": "not_listened",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 42890823959,
+        "part_duration_seconds": 141
+      },
+      "summary": "同一海底模板用前期账本、评论气泡、五类观众咒语与应答卡组织第二集。末段把下一期选题交给A/B/C投票，把评论变成连续栏目输入。保留了猫化这一身份反差梗，但不把界面抵抗进度条理解为真实模型安全测试。",
+      "observed_evidence": [
+        {
+          "second": 13.5,
+          "observation": "账本卡列播放点赞关注等统计，属作品画面快照。"
+        },
+        {
+          "second": 25.5,
+          "observation": "多个观众式文字气泡占据左上。"
+        },
+        {
+          "second": 38.5,
+          "observation": "五类咒语菜单与电脑前鲸鱼娘并列。"
+        },
+        {
+          "second": 64.5,
+          "observation": "换装式任务卡配角色反应，右上有计数。"
+        },
+        {
+          "second": 115.5,
+          "observation": "会议室公告以流程箭头解释观众反馈处理。"
+        },
+        {
+          "second": 127.5,
+          "observation": "下一期A/B/C选题卡出现。"
+        }
+      ],
+      "id": "frame-review-BV1VXJf66Eyy",
+      "source_id": "src-6e450dc942",
+      "page_path": "encyclopedia/video-notes/BV1VXJf66Eyy.md"
+    },
+    {
+      "id": "frame-review-BV1AvtW6yEzp",
+      "video_id": "BV1AvtW6yEzp",
+      "source_id": "src-e04709ae31",
+      "title": "「元宝AI娘化：元元酱，请多关照～」",
+      "classification": "元宝AI拟人作者提案／静态图与造型分支",
+      "review_scope": "实际查看全12张1fps联系表样本；另看关键原帧。观察范围为静态图片展示，不是确认连续角色动画。",
+      "audio_scope": "metadata_only",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 41436513162,
+        "part_duration_seconds": 12
+      },
+      "frame_review": {
+        "sample_interval_seconds": 1,
+        "generated_frame_count": 12,
+        "viewed_contact_frame_count": 12,
+        "additional_original_frames": [
+          0.5
+        ],
+        "normal_speed_full_playback": false,
+        "audio_listened": false,
+        "published_media_copy": false
+      },
+      "observed_evidence": [
+        {
+          "second": 0.5,
+          "observation": "单张短银白发、发梢浅绿、绿眼少女全身插画；白色卫衣、灰色百褶短裙、白袜和绿白鞋，抬手作双指手势。"
+        },
+        {
+          "second": 3.5,
+          "observation": "仍为同一静态姿态，角色背后环形绿光连接文档、播放、搜索等图标，旁边有Hi与OK文字气泡。"
+        },
+        {
+          "second": 7.5,
+          "observation": "画面未切换到另一套造型；白卫衣和抬手姿态保持，手腕处有绿色发光环。"
+        },
+        {
+          "second": 11.5,
+          "observation": "末段继续展示同一图片；右下角可见元宝AI生成水印，没有原图下载或授权说明。"
+        }
+      ],
+      "scope_limit": "投稿者帆船很忙明确使用元宝AI娘化；未独立署出画师或公开设计工程。按作者提案收录，三造型不混成唯一原设。",
+      "page_path": "encyclopedia/video-notes/BV1AvtW6yEzp.md"
+    },
+    {
+      "id": "frame-review-BV13dYC68E9W",
+      "video_id": "BV13dYC68E9W",
+      "source_id": "src-6223692f2e",
+      "title": "元宝AI娘化3.0:短发、长发、御姐，谁让你心动了？",
+      "classification": "元宝AI拟人作者提案／静态图与造型分支",
+      "review_scope": "实际查看全12张1fps联系表样本；另看关键原帧。观察范围为静态图片展示，不是确认连续角色动画。",
+      "audio_scope": "metadata_only",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 41878947081,
+        "part_duration_seconds": 12
+      },
+      "frame_review": {
+        "sample_interval_seconds": 1,
+        "generated_frame_count": 12,
+        "viewed_contact_frame_count": 12,
+        "additional_original_frames": [
+          0.5,
+          6.5
+        ],
+        "normal_speed_full_playback": false,
+        "audio_listened": false,
+        "published_media_copy": false
+      },
+      "observed_evidence": [
+        {
+          "second": 0.5,
+          "observation": "单独展示长银白发、绿眼、绿白长裙与披挂外层造型，戴绿色圆形耳机，抬手作双指手势。"
+        },
+        {
+          "second": 5.5,
+          "observation": "仍是同一长裙版单人静态图，裙装带半透明绿色边缘、金色连接链与高开衩，未见动作变化。"
+        },
+        {
+          "second": 6.5,
+          "observation": "切成三种造型并排相拥合影：左为短发白卫衣灰裙，中为长发长裙，右为紫银长发、荧绿外套与短裙。"
+        },
+        {
+          "second": 11.5,
+          "observation": "末段维持同一三人合影；左、右分支都向中央长裙分支靠近，不是三个已核准独立AI产品的集合。"
+        }
+      ],
+      "scope_limit": "投稿者帆船很忙明确使用元宝AI娘化；未独立署出画师或公开设计工程。按作者提案收录，三造型不混成唯一原设。",
+      "page_path": "encyclopedia/video-notes/BV13dYC68E9W.md"
+    },
+    {
+      "id": "frame-review-BV1TNa761ERP",
+      "video_id": "BV1TNa761ERP",
+      "source_id": "src-75269c41de",
+      "title": "我做了一个鲸鱼娘开源资产库，方便全民二创大肥鱼！让敌人陷入人民战争的汪洋大海【开源仓库欢迎贡献，不需要会写代码也能参与】",
+      "classification": "二创资源网站导览／提示词与参考图／零代码贡献教学",
+      "review_scope": "生成122张1fps样本，实际查看15格联系表；没有连续完整播放。",
+      "audio_scope": "metadata_only",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 42289138145,
+        "part_duration_seconds": 122
+      },
+      "observed_evidence": [
+        {
+          "second": 0.5,
+          "observation": "浏览器展示Q版鲸鱼娘参考图：正、侧、背与局部细节并排；左下角有真人讲解小窗。"
+        },
+        {
+          "second": 33.5,
+          "observation": "页面下方出现成熟比例鲸鱼娘一栏；相邻区域延续图像与提示词的并排组织。"
+        },
+        {
+          "second": 44.5,
+          "observation": "滚动到相关资源，按卡片列出投票、界面皮肤、记账挂件与桌面伙伴等项目。"
+        },
+        {
+          "second": 77.5,
+          "observation": "切到GitHub的Create new issue表单，可见作品投稿字段。"
+        },
+        {
+          "second": 99.5,
+          "observation": "回到FAQ，按问题展开项目与社区形象说明。"
+        },
+        {
+          "second": 121.5,
+          "observation": "结尾出现录屏软件与嵌套画面；这部分不是角色动画。"
+        }
+      ],
+      "scope_limit": "简介直接指向TreapGoGo仓库与GitHub Pages；当前仓库提交与此前快照一致，本轮补关系和使用路径，不重复镜像素材。",
+      "page_path": "encyclopedia/video-notes/BV1TNa761ERP.md"
+    }
+  ]
+}

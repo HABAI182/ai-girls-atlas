@@ -1194,25 +1194,38 @@
       "id": "yuanbao",
       "name": "腾讯元宝",
       "entity_kind": "product",
-      "status": "wanted",
-      "design_family": "unassigned",
-      "creators": null,
+      "status": "external_work_lead",
+      "design_family": "fanchuan-yuanbao",
+      "creators": "帆船很忙（投稿与AI拟人提案，具体原画作者未另署）",
       "aliases": [
-        "腾讯元宝"
+        "腾讯元宝",
+        "元宝娘",
+        "元元酱"
       ],
-      "observed_traits": [],
-      "identity_rules": "产品条目与混元模型角色分开，未指定同人作者。",
-      "creative_options_original": "先补作者、原帖、形象识别点和具体许可；自行设计时标记为新提案。",
+      "observed_traits": [
+        "银白或紫银头发与绿色眼睛",
+        "绿白配色与助手界面意象",
+        "短发卫衣、长发长裙、长发运动装三个分支"
+      ],
+      "identity_rules": "按帆船很忙两条元宝AI娘化投稿登记。作者提案与腾讯官方形象分开；短发、长裙、运动装分别存版本，不能把合影当三个不同产品。",
+      "creative_options_original": "先选一个造型分支，再参考绿色助手图标、双指手势等画面元素；性格与声线尚无可核对档案。",
       "sources": [
-        "src-e8163a5aed"
+        "src-e8163a5aed",
+        "src-e04709ae31",
+        "src-6223692f2e"
       ],
       "local_asset_ids": [],
       "not_claimed": [
-        "已经找到成熟娘化",
-        "已有图片可下载",
-        "官方授权同人"
+        "腾讯官方形象",
+        "全社区统一原设",
+        "已取得原图或可编辑工程",
+        "已确认再分发许可"
       ],
-      "variant_ids": []
+      "variant_ids": [
+        "yuanbao-fanchuan-short-hoodie",
+        "yuanbao-fanchuan-long-formal-v3",
+        "yuanbao-fanchuan-long-sport-v3"
+      ]
     },
     {
       "id": "spark",

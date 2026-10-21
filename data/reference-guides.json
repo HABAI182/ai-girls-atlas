@@ -1,0 +1,41 @@
+{
+  "checked_on": "2026-10-21",
+  "guides": [
+    {
+      "id": "guide-treap-community-assets",
+      "project_id": "project-treapgogo",
+      "video_id": "BV1TNa761ERP",
+      "source_ids": [
+        "src-75269c41de",
+        "src-38189fda5a",
+        "src-856817073a",
+        "src-d279545400",
+        "src-b4f3eee3f7",
+        "src-172a2c8e00",
+        "src-d245c7a44f",
+        "src-92b1ea1109",
+        "src-42ff0ecb09"
+      ],
+      "checked_on": "2026-10-21",
+      "repository_commit": "99fdf6e419a4097cc9b2d6a8a808f7b96a412e38",
+      "previous_repository_commit": "99fdf6e419a4097cc9b2d6a8a808f7b96a412e38",
+      "repository_changed": false,
+      "action": "复用已有项目评述、6份工作流与ZIP入口；补视频、网站、画廊元数据与投稿流程关联。",
+      "gallery_snapshot": {
+        "manifest_records": 128,
+        "homepage_displayed_count": 126,
+        "handmade_flag_records": 4,
+        "creation_type_counts": {
+          "使用了生成式 AI 或 AI 辅助": 79,
+          "投稿未说明": 7,
+          "历史收录，创作类型未说明": 38,
+          "纯人工创作": 3,
+          "纯人工创作（手绘、手写、手工制作等）": 1
+        },
+        "scope": "manifest_metadata_not_visual_review",
+        "count_note": "清单128条与页面展示126张有差异；不把任一数当去重后的原创角色数量。"
+      },
+      "page_path": "encyclopedia/focus-treap.md"
+    }
+  ]
+}

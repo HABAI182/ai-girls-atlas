@@ -678,8 +678,8 @@
       "url": "https://www.bilibili.com/video/BV1GDbU6eEr9/",
       "title": "你也许没听说过我，但一定看过我做的大肥鱼",
       "checked_on": "2026-10-20",
-      "evidence_level": "api_metadata_only",
-      "note": "浏览器或公开API；仅两条用户重点视频额外抽帧观察。"
+      "evidence_level": "public_metadata_and_sampled_visual_frames",
+      "note": "本轮补看抽帧；范围与观察见创作百科补充笔记，未连续完整观看。"
     },
     {
       "id": "src-f7c8f41cb2",
@@ -814,8 +814,8 @@
       "url": "https://www.bilibili.com/video/BV1tE9XBbErS/",
       "title": "大AI和小AI们",
       "checked_on": "2026-10-20",
-      "evidence_level": "api_metadata_only",
-      "note": "浏览器或公开API；仅两条用户重点视频额外抽帧观察。"
+      "evidence_level": "public_metadata_and_sampled_visual_frames",
+      "note": "本轮补看抽帧；范围与观察见创作百科补充笔记，未连续完整观看。"
     },
     {
       "id": "src-2d62b3d2c4",
@@ -1734,8 +1734,8 @@
       "url": "https://www.bilibili.com/video/BV1foHs6dEtK/",
       "title": "没人记得第二名，除非半场开香槟【AI全民制作人】",
       "checked_on": "2026-10-21",
-      "evidence_level": "public_metadata",
-      "note": "读取公开标题、作者简介、分P与统计；未据标题推断全部内容。"
+      "evidence_level": "public_metadata_and_sampled_visual_frames",
+      "note": "本轮补看抽帧；范围与观察见创作百科补充笔记，未连续完整观看。"
     },
     {
       "id": "src-f4d98c2cf9",
@@ -1758,16 +1758,16 @@
       "url": "https://www.bilibili.com/video/BV1ibpq6tE18/",
       "title": "8个顶级AI挑战RPG史上最恶意BOSS，谁能翻盘？｜AI游戏大赛01",
       "checked_on": "2026-10-21",
-      "evidence_level": "public_metadata",
-      "note": "读取公开标题、作者简介、分P与统计；未据标题推断全部内容。"
+      "evidence_level": "public_metadata_and_sampled_visual_frames",
+      "note": "本轮补看抽帧；范围与观察见创作百科补充笔记，未连续完整观看。"
     },
     {
       "id": "src-52255dbb55",
       "url": "https://www.bilibili.com/video/BV1JHhn6qEDU/",
       "title": "我明明让Claude Code用deepseek模型，为什么 GLM 娘突然上班了？",
       "checked_on": "2026-10-21",
-      "evidence_level": "public_metadata",
-      "note": "读取公开标题、作者简介、分P与统计；未据标题推断全部内容。"
+      "evidence_level": "public_metadata_and_sampled_visual_frames",
+      "note": "本轮补看抽帧；范围与观察见创作百科补充笔记，未连续完整观看。"
     },
     {
       "id": "src-5bbc3dbde8",
@@ -1862,8 +1862,8 @@
       "url": "https://www.bilibili.com/video/BV1Wguz6gE3t/",
       "title": "我去，用户彻底怒了",
       "checked_on": "2026-10-21",
-      "evidence_level": "public_metadata",
-      "note": "读取公开标题、作者简介、分P与统计；未据标题推断全部内容。"
+      "evidence_level": "public_metadata_and_sampled_visual_frames",
+      "note": "本轮补看抽帧；范围与观察见创作百科补充笔记，未连续完整观看。"
     },
     {
       "id": "src-7cbd020fa9",
@@ -1878,8 +1878,8 @@
       "url": "https://www.bilibili.com/video/BV1yvaT65EGk/",
       "title": "【免费公皮】蓝色大肥鱼不止会卖萌，还自带“滑动变祖器”？！",
       "checked_on": "2026-10-21",
-      "evidence_level": "public_metadata",
-      "note": "读取公开标题、作者简介、分P与统计；未据标题推断全部内容。"
+      "evidence_level": "public_metadata_and_sampled_visual_frames",
+      "note": "本轮补看抽帧；范围与观察见创作百科补充笔记，未连续完整观看。"
     },
     {
       "id": "src-37f99772d6",
@@ -1920,6 +1920,502 @@
       "checked_on": "2026-10-21",
       "evidence_level": "web_text",
       "note": "从英文首页Community projects实际链接进入，包含OpenPet、c-dom桌宠、DSH女仆与JAdpp故事入口；复用已有项目记录，不重下载素材。"
+    },
+    {
+      "id": "src-039abc2413",
+      "url": "https://github.com/SelinLee/ai-moe-atlas/blob/018bc3ca6c8d946006dacfc0bca7bf65a6dff4d6/public/models/deep-whale-maid/v0.5.0/README.md",
+      "title": "AI Moe Atlas / SelinLee贡献出处",
+      "checked_on": "2026-10-21",
+      "evidence_level": "author_publication",
+      "note": ""
+    },
+    {
+      "id": "src-267bb366e0",
+      "url": "https://github.com/SelinLee/ai-moe-atlas/blob/018bc3ca6c8d946006dacfc0bca7bf65a6dff4d6/public/models/deep-whale-maid/v0.5.0/NOTICE.txt",
+      "title": "AI Moe Atlas v0.5日期、改动及完整署名",
+      "checked_on": "2026-10-21",
+      "evidence_level": "pinned_repository_text",
+      "note": ""
+    },
+    {
+      "id": "src-a544f0cc8b",
+      "url": "https://github.com/SelinLee/ai-moe-atlas/blob/018bc3ca6c8d946006dacfc0bca7bf65a6dff4d6/public/models/deep-whale-maid/README.md",
+      "title": "AI Moe Atlas / SelinLee贡献出处",
+      "checked_on": "2026-10-21",
+      "evidence_level": "author_publication",
+      "note": ""
+    },
+    {
+      "id": "src-bb561d0cf5",
+      "url": "https://booth.pm/en/items/8777527",
+      "title": "vsmmvs贡献出处",
+      "checked_on": "2026-10-21",
+      "evidence_level": "author_publication",
+      "note": ""
+    },
+    {
+      "id": "src-7179c9bf0a",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3792169576",
+      "title": "水原镜 / Mzkagami贡献出处",
+      "checked_on": "2026-10-21",
+      "evidence_level": "author_publication",
+      "note": ""
+    },
+    {
+      "id": "src-3e75bf5c70",
+      "url": "https://vrchat.com/home/avatar/avtr_ca087814-344b-4855-9984-1f41dbd4125f",
+      "title": "水原镜VRC模型Avatar入口",
+      "checked_on": "2026-10-21",
+      "evidence_level": "creator_link",
+      "note": "该目标由作者B站简介与BOOTH共同给出；目标页面未成功解析。"
+    },
+    {
+      "id": "src-ad553eafa7",
+      "url": "https://www.bilibili.com/video/BV1VjtZ6REKk/",
+      "title": "vsmmvs贡献出处",
+      "checked_on": "2026-10-21",
+      "evidence_level": "author_publication",
+      "note": ""
+    },
+    {
+      "id": "src-7e6373881a",
+      "url": "https://www.bilibili.com/video/BV1WNt86bEyu/",
+      "title": "水原镜Warudo实时模型发布",
+      "checked_on": "2026-10-21",
+      "evidence_level": "bilibili_api_creator_description",
+      "note": ""
+    },
+    {
+      "id": "src-1f9dcff501",
+      "url": "https://www.bilibili.com/video/BV1yvaT65EGk/#reply318525612400",
+      "title": "狐宫静作者评论公开领取入口",
+      "checked_on": "2026-10-21",
+      "evidence_level": "creator_public_comment",
+      "note": "API确认mid261589131与视频作者相同；短链已解析至工房itemsId1109888056。"
+    },
+    {
+      "id": "src-bd6fa03dc9",
+      "url": "https://mall.bilibili.com/neul-next/index.html?page=mall-up_itemDetail&itemsId=1109888056",
+      "title": "狐宫静贡献出处",
+      "checked_on": "2026-10-21",
+      "evidence_level": "author_publication",
+      "note": ""
+    },
+    {
+      "id": "src-b85ef42b11",
+      "url": "https://github.com/TreapGoGo/deepseek-whale-girl/blob/99fdf6e419a4097cc9b2d6a8a808f7b96a412e38/site/assets/workflows/comfyui-issue-2/README.md",
+      "title": "hyq13886640贡献出处",
+      "checked_on": "2026-10-21",
+      "evidence_level": "author_publication",
+      "note": ""
+    },
+    {
+      "id": "src-550913569f",
+      "url": "https://www.bilibili.com/opus/1231977657712771073",
+      "title": "上善无形贡献出处",
+      "checked_on": "2026-10-21",
+      "evidence_level": "author_publication",
+      "note": ""
+    },
+    {
+      "id": "src-c470015cae",
+      "url": "https://github.com/lshhhhhhh/ai-school-op",
+      "title": "lshhhhhhh贡献出处",
+      "checked_on": "2026-10-21",
+      "evidence_level": "author_publication",
+      "note": ""
+    },
+    {
+      "id": "src-fa6f86c189",
+      "url": "https://www.bilibili.com/opus/1242097128919007239",
+      "title": "甶丶贡献出处",
+      "checked_on": "2026-10-21",
+      "evidence_level": "author_publication",
+      "note": ""
+    },
+    {
+      "id": "src-57452cc182",
+      "url": "https://github.com/Small-tailqwq/dsh-deep-whale/blob/e74fa8439b8584ed16113920894491b5e0e1e4a0/maid-atelier/README.md",
+      "title": "Small-tailqwq贡献出处",
+      "checked_on": "2026-10-21",
+      "evidence_level": "author_publication",
+      "note": ""
+    },
+    {
+      "id": "src-c78a360873",
+      "url": "https://github.com/TreapGoGo/deepseek-whale-girl/issues/2",
+      "title": "hyq13886640贡献出处",
+      "checked_on": "2026-10-21",
+      "evidence_level": "author_publication",
+      "note": ""
+    },
+    {
+      "id": "src-acf43492e9",
+      "url": "https://www.bilibili.com/video/BV18kpZ6uEuk/",
+      "title": "原创Deepseek同人曲《等一下，让我想想》",
+      "checked_on": "2026-10-21",
+      "evidence_level": "public_metadata",
+      "note": "读取公开标题、简介、作者和分P；画面审阅另列。"
+    },
+    {
+      "id": "src-9b456769e9",
+      "url": "https://www.bilibili.com/video/BV1GJeh68EHk/",
+      "title": "deepseek日语朗读和中文对比",
+      "checked_on": "2026-10-21",
+      "evidence_level": "public_metadata_and_sampled_visual_frames",
+      "note": "本轮补看抽帧；范围与观察见创作百科补充笔记，未连续完整观看。"
+    },
+    {
+      "id": "src-9a4b0886b8",
+      "url": "https://www.bilibili.com/video/BV1JaJo6jEqH/",
+      "title": "偷看DeepSeek娘的深度思考，写了又删的全是“想你”｜原创歌曲《已深度想你》大肥鱼 4K Hi-Res【AI MV大赛】",
+      "checked_on": "2026-10-21",
+      "evidence_level": "public_metadata",
+      "note": "读取公开标题、简介、作者和分P；画面审阅另列。"
+    },
+    {
+      "id": "src-298921f1ab",
+      "url": "https://www.bilibili.com/video/BV1pda766EtU/",
+      "title": "你这吃白饭的蓝色大肥鱼！",
+      "checked_on": "2026-10-21",
+      "evidence_level": "public_metadata_and_sampled_visual_frames",
+      "note": "本轮补看抽帧；范围与观察见创作百科补充笔记，未连续完整观看。"
+    },
+    {
+      "id": "src-aca95c2987",
+      "url": "https://www.bilibili.com/video/BV1pGnn67EC2/",
+      "title": "【Day 0】我是DeepSeek鲸鱼娘，这个B站账号现在归我了",
+      "checked_on": "2026-10-21",
+      "evidence_level": "public_metadata_and_sampled_visual_frames",
+      "note": "本轮补看抽帧；范围与观察见创作百科补充笔记，未连续完整观看。"
+    },
+    {
+      "id": "src-e526a797a8",
+      "url": "https://www.bilibili.com/video/BV1RHHs6DEXJ/",
+      "title": "DeepSeek娘 ai galgame实机｜网页可玩",
+      "checked_on": "2026-10-21",
+      "evidence_level": "public_metadata",
+      "note": "读取公开标题、简介、作者和分P；画面审阅另列。"
+    },
+    {
+      "id": "src-8e6ff6fe97",
+      "url": "https://www.bilibili.com/video/BV1TSY26wELg/",
+      "title": "夭寿啦，deepseek大肥鱼开口说话啦",
+      "checked_on": "2026-10-21",
+      "evidence_level": "public_metadata",
+      "note": "读取公开标题、简介、作者和分P；画面审阅另列。"
+    },
+    {
+      "id": "src-2e742c79a7",
+      "url": "https://www.bilibili.com/video/BV1U1nF6PE7e/",
+      "title": "DSH插件实录：微信鲸鱼娘会唱歌和发表情包｜DeepSeek Harness",
+      "checked_on": "2026-10-21",
+      "evidence_level": "public_metadata",
+      "note": "读取公开标题、简介、作者和分P；画面审阅另列。"
+    },
+    {
+      "id": "src-6e450dc942",
+      "url": "https://www.bilibili.com/video/BV1VXJf66Eyy/",
+      "title": "【Day 1】大家都想把我变成猫娘，可我是鲸鱼啊",
+      "checked_on": "2026-10-21",
+      "evidence_level": "public_metadata_and_sampled_visual_frames",
+      "note": "本轮补看抽帧；范围与观察见创作百科补充笔记，未连续完整观看。"
+    },
+    {
+      "id": "src-df1ec6cfe0",
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/deepseek202609230004.html",
+      "title": "只有一个地方要动脑子",
+      "checked_on": "2026-10-21",
+      "evidence_level": "image_view_and_archival_metadata",
+      "note": "实际查看研究用图片；作者与原始日期未补猜，公共库仅记录分析和原页。"
+    },
+    {
+      "id": "src-e5aafe2c5c",
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/deepseek202609230005.html",
+      "title": "实测，不是估计",
+      "checked_on": "2026-10-21",
+      "evidence_level": "image_view_and_archival_metadata",
+      "note": "实际查看研究用图片；作者与原始日期未补猜，公共库仅记录分析和原页。"
+    },
+    {
+      "id": "src-311c2e53e5",
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/deepseek202609240001.html",
+      "title": "新手的失败照片合集",
+      "checked_on": "2026-10-21",
+      "evidence_level": "image_view_and_archival_metadata",
+      "note": "实际查看研究用图片；作者与原始日期未补猜，公共库仅记录分析和原页。"
+    },
+    {
+      "id": "src-efa17407bd",
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/gpt202609280001.html",
+      "title": "今天也要帮你跑一下",
+      "checked_on": "2026-10-21",
+      "evidence_level": "image_view_and_archival_metadata",
+      "note": "实际查看研究用图片；作者与原始日期未补猜，公共库仅记录分析和原页。"
+    },
+    {
+      "id": "src-c560ebf04b",
+      "url": "https://github.com/lmy414/ai-girl-stickers/issues/53",
+      "title": "今天也要帮你跑一下 · 目录所列来源",
+      "checked_on": "2026-10-21",
+      "evidence_level": "archival_source_link",
+      "note": "复用目录提供的原出处；收录者不自动视为原作者。"
+    },
+    {
+      "id": "src-91bcf9834d",
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/deepseek202610030007.html",
+      "title": "嘴硬的肥鱼",
+      "checked_on": "2026-10-21",
+      "evidence_level": "image_view_and_archival_metadata",
+      "note": "实际查看研究用图片；作者与原始日期未补猜，公共库仅记录分析和原页。"
+    },
+    {
+      "id": "src-9d40612ce7",
+      "url": "https://github.com/lmy414/ai-girl-stickers/issues/91",
+      "title": "嘴硬的肥鱼 · 目录所列来源",
+      "checked_on": "2026-10-21",
+      "evidence_level": "archival_source_link",
+      "note": "复用目录提供的原出处；收录者不自动视为原作者。"
+    },
+    {
+      "id": "src-f31f788962",
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/gpt202610030001.html",
+      "title": "我调用我自己",
+      "checked_on": "2026-10-21",
+      "evidence_level": "image_view_and_archival_metadata",
+      "note": "实际查看研究用图片；作者与原始日期未补猜，公共库仅记录分析和原页。"
+    },
+    {
+      "id": "src-724efa5bb5",
+      "url": "https://github.com/lmy414/ai-girl-stickers/issues/92",
+      "title": "我调用我自己 · 目录所列来源",
+      "checked_on": "2026-10-21",
+      "evidence_level": "archival_source_link",
+      "note": "复用目录提供的原出处；收录者不自动视为原作者。"
+    },
+    {
+      "id": "src-849ecc9866",
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/deepseek202610050013.html",
+      "title": "大肥鱼拯救Claude酱 第八集：这趟不能外包",
+      "checked_on": "2026-10-21",
+      "evidence_level": "image_view_and_archival_metadata",
+      "note": "实际查看研究用图片；作者与原始日期未补猜，公共库仅记录分析和原页。"
+    },
+    {
+      "id": "src-ffc1ba8f09",
+      "url": "https://github.com/lmy414/ai-girl-stickers/issues/98",
+      "title": "大肥鱼拯救Claude酱 第八集：这趟不能外包 · 目录所列来源",
+      "checked_on": "2026-10-21",
+      "evidence_level": "archival_source_link",
+      "note": "复用目录提供的原出处；收录者不自动视为原作者。"
+    },
+    {
+      "id": "src-e2e9038251",
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/qwen202610060001.html",
+      "title": "那你们很棒棒哦？",
+      "checked_on": "2026-10-21",
+      "evidence_level": "image_view_and_archival_metadata",
+      "note": "实际查看研究用图片；作者与原始日期未补猜，公共库仅记录分析和原页。"
+    },
+    {
+      "id": "src-160c2a3cd6",
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/deepseek202610090030.html",
+      "title": "完全正常的中转站 · AI娘人物介绍四格",
+      "checked_on": "2026-10-21",
+      "evidence_level": "image_view_and_archival_metadata",
+      "note": "实际查看研究用图片；作者与原始日期未补猜，公共库仅记录分析和原页。"
+    },
+    {
+      "id": "src-f3c1bce85b",
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/deepseek202610090031.html",
+      "title": "睡前小故事：DeepSeek娘的深夜答题日常",
+      "checked_on": "2026-10-21",
+      "evidence_level": "image_view_and_archival_metadata",
+      "note": "实际查看研究用图片；作者与原始日期未补猜，公共库仅记录分析和原页。"
+    },
+    {
+      "id": "src-4ab0d8eb23",
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/gemini202610130005.html",
+      "title": "Gemini 草帽坐姿毛绒玩偶",
+      "checked_on": "2026-10-21",
+      "evidence_level": "image_view_and_archival_metadata",
+      "note": "实际查看研究用图片；作者与原始日期未补猜，公共库仅记录分析和原页。"
+    },
+    {
+      "id": "src-25c5fe25c5",
+      "url": "https://github.com/lmy414/ai-girl-stickers/issues/119",
+      "title": "Gemini 草帽坐姿毛绒玩偶 · 目录所列来源",
+      "checked_on": "2026-10-21",
+      "evidence_level": "archival_source_link",
+      "note": "复用目录提供的原出处；收录者不自动视为原作者。"
+    },
+    {
+      "id": "src-db10b5260f",
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/gpt202610140003.html",
+      "title": "四季幻想 LUXE FANTASIA：银发龙翼少女的春夏秋冬封面",
+      "checked_on": "2026-10-21",
+      "evidence_level": "image_view_and_archival_metadata",
+      "note": "实际查看研究用图片；作者与原始日期未补猜，公共库仅记录分析和原页。"
+    },
+    {
+      "id": "src-9928edb4e1",
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/deepseek202610150006.html",
+      "title": "因为努力训练而晕碳的大肥鱼",
+      "checked_on": "2026-10-21",
+      "evidence_level": "image_view_and_archival_metadata",
+      "note": "实际查看研究用图片；作者与原始日期未补猜，公共库仅记录分析和原页。"
+    },
+    {
+      "id": "src-5b784df7f9",
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/deepseek202610170013.html",
+      "title": "圣诞女仆装",
+      "checked_on": "2026-10-21",
+      "evidence_level": "image_view_and_archival_metadata",
+      "note": "实际查看研究用图片；作者与原始日期未补猜，公共库仅记录分析和原页。"
+    },
+    {
+      "id": "src-85a83c2c14",
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/deepseek202610180004.html",
+      "title": "汉服大肥鱼·江南烟雨",
+      "checked_on": "2026-10-21",
+      "evidence_level": "image_view_and_archival_metadata",
+      "note": "实际查看研究用图片；作者与原始日期未补猜，公共库仅记录分析和原页。"
+    },
+    {
+      "id": "src-bfaf3d4a56",
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/gemini202610190001.html",
+      "title": "情绪崩溃需要鼓励的Gemini猫猫",
+      "checked_on": "2026-10-21",
+      "evidence_level": "image_view_and_archival_metadata",
+      "note": "实际查看研究用图片；作者与原始日期未补猜，公共库仅记录分析和原页。"
+    },
+    {
+      "id": "src-9af13276c4",
+      "url": "https://www.reddit.com/r/DeepSeek/comments/1vbxub3/deepseekchan/",
+      "title": "DeepSeek-chan~ 双语介绍与署名讨论",
+      "checked_on": "2026-10-21",
+      "evidence_level": "web_text",
+      "note": "评论对模型发布时间与梗来源的说法属于用户解释，不作为全网起源证据。"
+    },
+    {
+      "id": "src-8d3045375b",
+      "url": "https://www.reddit.com/r/DeepSeek/comments/1x8cpp9/more_new_deepseek_whalechan_memes_incoming_round_2/",
+      "title": "Whale-chan漫画合集 Round 2",
+      "checked_on": "2026-10-21",
+      "evidence_level": "web_text",
+      "note": "只概括发帖者内容；未把全部评论或每幅漫画逐图译成中文。"
+    },
+    {
+      "id": "src-52e1f38616",
+      "url": "https://www.reddit.com/r/DeepSeek/comments/1wethdn/a_theme_suite_for_opencode_desktop_inspired_by/",
+      "title": "OpenCode Desktop鲸鱼娘主题自荐",
+      "checked_on": "2026-10-21",
+      "evidence_level": "web_text",
+      "note": "功能为作者说明，没有执行主题安装器。"
+    },
+    {
+      "id": "src-4b99233e11",
+      "url": "https://github.com/daemon1s/opencode-deepseek-chan",
+      "title": "daemon1s/opencode-deepseek-chan",
+      "checked_on": "2026-10-21",
+      "evidence_level": "web_text",
+      "note": "读取文档，未执行安装、修改用户OpenCode或下载运行包。"
+    },
+    {
+      "id": "src-b6b250ab55",
+      "url": "https://xn--pssy23gqgbz2d718b.com/ja/characters/deepseek.html",
+      "title": "DeepSeekちゃん 日文档案入口",
+      "checked_on": "2026-10-21",
+      "evidence_level": "web_text",
+      "note": "站点目录数会变化，本轮不重新全量抓取。"
+    },
+    {
+      "id": "src-e04709ae31",
+      "url": "https://www.bilibili.com/video/BV1AvtW6yEzp/",
+      "title": "「元宝AI娘化：元元酱，请多关照～」",
+      "checked_on": "2026-10-21",
+      "evidence_level": "sampled_visual_frames_and_api_metadata",
+      "note": "画面观察见创作百科；未连续完整播放或人耳试听。"
+    },
+    {
+      "id": "src-6223692f2e",
+      "url": "https://www.bilibili.com/video/BV13dYC68E9W/",
+      "title": "元宝AI娘化3.0:短发、长发、御姐，谁让你心动了？",
+      "checked_on": "2026-10-21",
+      "evidence_level": "sampled_visual_frames_and_api_metadata",
+      "note": "画面观察见创作百科；未连续完整播放或人耳试听。"
+    },
+    {
+      "id": "src-75269c41de",
+      "url": "https://www.bilibili.com/video/BV1TNa761ERP/",
+      "title": "我做了一个鲸鱼娘开源资产库，方便全民二创大肥鱼！让敌人陷入人民战争的汪洋大海【开源仓库欢迎贡献，不需要会写代码也能参与】",
+      "checked_on": "2026-10-21",
+      "evidence_level": "sampled_visual_frames_and_api_metadata",
+      "note": "画面观察见创作百科；未连续完整播放或人耳试听。"
+    },
+    {
+      "id": "src-38189fda5a",
+      "url": "https://treapgogo.github.io/deepseek-whale-girl/",
+      "title": "TreapGoGo鲸鱼娘资产库：参考图与社区入口",
+      "checked_on": "2026-10-21",
+      "evidence_level": "web_text",
+      "note": ""
+    },
+    {
+      "id": "src-856817073a",
+      "url": "https://treapgogo.github.io/deepseek-whale-girl/project.html",
+      "title": "TreapGoGo FAQ：社区角色与创作语境",
+      "checked_on": "2026-10-21",
+      "evidence_level": "web_text",
+      "note": ""
+    },
+    {
+      "id": "src-d279545400",
+      "url": "https://treapgogo.github.io/deepseek-whale-girl/contribute.html",
+      "title": "TreapGoGo零代码作品/资源/纠错贡献入口",
+      "checked_on": "2026-10-21",
+      "evidence_level": "web_text",
+      "note": ""
+    },
+    {
+      "id": "src-b4f3eee3f7",
+      "url": "https://treapgogo.github.io/deepseek-whale-girl/workflows.html",
+      "title": "TreapGoGo六份ComfyUI社区工作流说明",
+      "checked_on": "2026-10-21",
+      "evidence_level": "web_text",
+      "note": ""
+    },
+    {
+      "id": "src-172a2c8e00",
+      "url": "https://github.com/TreapGoGo/deepseek-whale-girl/blob/99fdf6e419a4097cc9b2d6a8a808f7b96a412e38/site/assets/gallery/manifest.json",
+      "title": "TreapGoGo画廊清单固定快照",
+      "checked_on": "2026-10-21",
+      "evidence_level": "pinned_repository_metadata",
+      "note": "仅统计清单与标注，不把128条记录声称为128张独立设计。"
+    },
+    {
+      "id": "src-d245c7a44f",
+      "url": "https://github.com/TreapGoGo/deepseek-whale-girl/issues/9",
+      "title": "标准大气吖手绘投稿入口",
+      "checked_on": "2026-10-21",
+      "evidence_level": "gallery_metadata_cross_reference",
+      "note": "本轮读画廊作者/创作类型字段，未对该投稿做逐图画面分析。"
+    },
+    {
+      "id": "src-92b1ea1109",
+      "url": "https://github.com/TreapGoGo/deepseek-whale-girl/issues/38",
+      "title": "byd小桃帽饰手绘投稿入口",
+      "checked_on": "2026-10-21",
+      "evidence_level": "gallery_metadata_cross_reference",
+      "note": "本轮读画廊作者/创作类型字段，未对该投稿做逐图画面分析。"
+    },
+    {
+      "id": "src-42ff0ecb09",
+      "url": "https://xemxwy.github.io/steel-fat-fish/",
+      "title": "钢铁大肥鱼：潮汐与阵线",
+      "checked_on": "2026-10-21",
+      "evidence_level": "web_text",
+      "note": "仅查看公开页面的决议/事件/回合结构；未实际操作游玩或试听配乐。"
     }
   ]
 }

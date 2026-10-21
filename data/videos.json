@@ -221,13 +221,14 @@
       "duration_seconds": 122,
       "published_at": "2026-08-16T12:31:09+08:00",
       "category": "表情包与日常",
-      "review_scope": "api_metadata_only",
+      "review_scope": "sampled_visual_frames_and_creator_description",
       "research_note": "原作者的视频简介明确谈及表情包和使用体验，可作为梗图出处线索。",
       "source_id": "src-b60ff0def6",
       "primary_genre": "character-gallery",
       "classification_basis": "title_description_or_existing_index",
       "relation_to_ai_girls": "ai_girl_work_or_lead",
-      "visual_styles": []
+      "visual_styles": [],
+      "supplementary_review_path": "encyclopedia/video-notes/BV1GDbU6eEr9.md"
     },
     {
       "id": "BV1GJp469EuT",
@@ -580,13 +581,14 @@
       "duration_seconds": 54,
       "published_at": "2026-05-03T00:50:13+08:00",
       "category": "角色形象与源头",
-      "review_scope": "api_metadata_only",
+      "review_scope": "sampled_visual_frames_and_creator_description",
       "research_note": "用于角色集合、署名链或作者分享声明；不是技术评测。",
       "source_id": "src-77c5462742",
       "primary_genre": "character-gallery",
       "classification_basis": "title_description_or_existing_index",
       "relation_to_ai_girls": "ai_girl_work_or_lead",
-      "visual_styles": []
+      "visual_styles": [],
+      "supplementary_review_path": "encyclopedia/video-notes/BV1tE9XBbErS.md"
     },
     {
       "id": "BV1w6a86gEbC",
@@ -1641,7 +1643,7 @@
       "duration_seconds": 76,
       "published_at": "2026-10-05T15:01:08+08:00",
       "category": "本轮新增视频线索",
-      "review_scope": "api_metadata_only",
+      "review_scope": "sampled_visual_frames_and_creator_description",
       "research_note": "按公开标题/简介导航；视觉判断另见具体案例页。",
       "source_id": "src-51d8b1e164",
       "parts": [
@@ -1665,7 +1667,8 @@
       "primary_genre": "user-experience-satire",
       "classification_basis": "title_description_or_existing_index",
       "relation_to_ai_girls": "ai_girl_work_or_lead",
-      "visual_styles": []
+      "visual_styles": [],
+      "supplementary_review_path": "encyclopedia/video-notes/BV1foHs6dEtK.md"
     },
     {
       "id": "BV1gfe467Ehd",
@@ -1746,7 +1749,7 @@
       "duration_seconds": 844,
       "published_at": "2026-10-13T21:01:39+08:00",
       "category": "本轮新增视频线索",
-      "review_scope": "api_metadata_only",
+      "review_scope": "sampled_visual_frames_and_creator_description",
       "research_note": "按公开标题/简介导航；视觉判断另见具体案例页。",
       "source_id": "src-b5f988f905",
       "parts": [
@@ -1770,7 +1773,8 @@
       "primary_genre": "model-competition",
       "classification_basis": "title_description_or_existing_index",
       "relation_to_ai_girls": "ai_girl_work_or_lead",
-      "visual_styles": []
+      "visual_styles": [],
+      "supplementary_review_path": "encyclopedia/video-notes/BV1ibpq6tE18.md"
     },
     {
       "id": "BV1JHhn6qEDU",
@@ -1781,7 +1785,7 @@
       "duration_seconds": 118,
       "published_at": "2026-09-22T23:59:08+08:00",
       "category": "本轮新增视频线索",
-      "review_scope": "api_metadata_only",
+      "review_scope": "sampled_visual_frames_and_creator_description",
       "research_note": "按公开标题/简介导航；视觉判断另见具体案例页。",
       "source_id": "src-52255dbb55",
       "parts": [
@@ -1805,7 +1809,8 @@
       "primary_genre": "user-experience-satire",
       "classification_basis": "title_description_or_existing_index",
       "relation_to_ai_girls": "ai_girl_work_or_lead",
-      "visual_styles": []
+      "visual_styles": [],
+      "supplementary_review_path": "encyclopedia/video-notes/BV1JHhn6qEDU.md"
     },
     {
       "id": "BV1K4ax6YE2n",
@@ -2243,7 +2248,7 @@
       "duration_seconds": 40,
       "published_at": "2026-08-11T20:20:14+08:00",
       "category": "本轮新增视频线索",
-      "review_scope": "api_metadata_only",
+      "review_scope": "sampled_visual_frames_and_creator_description",
       "research_note": "按公开标题/简介导航；视觉判断另见具体案例页。",
       "source_id": "src-73fa2fae34",
       "parts": [
@@ -2267,7 +2272,8 @@
       "primary_genre": "user-experience-satire",
       "classification_basis": "title_description_or_existing_index",
       "relation_to_ai_girls": "ai_girl_work_or_lead",
-      "visual_styles": []
+      "visual_styles": [],
+      "supplementary_review_path": "encyclopedia/video-notes/BV1Wguz6gE3t.md"
     },
     {
       "id": "BV1XZe66sEsn",
@@ -2321,7 +2327,7 @@
       "duration_seconds": 78,
       "published_at": "2026-09-25T09:00:00+08:00",
       "category": "本轮新增视频线索",
-      "review_scope": "api_metadata_only",
+      "review_scope": "sampled_visual_frames_and_creator_description",
       "research_note": "按公开标题/简介导航；视觉判断另见具体案例页。",
       "source_id": "src-e1698ab832",
       "parts": [
@@ -2345,7 +2351,513 @@
       "primary_genre": "live2d-demo",
       "classification_basis": "title_description_or_existing_index",
       "relation_to_ai_girls": "ai_girl_work_or_lead",
-      "visual_styles": []
+      "visual_styles": [],
+      "supplementary_review_path": "encyclopedia/video-notes/BV1yvaT65EGk.md"
+    },
+    {
+      "id": "BV18kpZ6uEuk",
+      "title": "原创Deepseek同人曲《等一下，让我想想》",
+      "url": "https://www.bilibili.com/video/BV18kpZ6uEuk/",
+      "author": "浅川_Asagawa",
+      "author_url": "https://space.bilibili.com/434735070",
+      "duration_seconds": 233,
+      "published_at": "2026-10-13T11:30:00+08:00",
+      "category": "创作百科补充作品",
+      "review_scope": "api_metadata_only",
+      "research_note": "用途、分P和观察层级见创作百科。",
+      "source_id": "src-acf43492e9",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 42687268184,
+          "title": "原创Deepseek同人曲《等一下，让我想想》",
+          "duration_seconds": 233
+        }
+      ],
+      "classification_basis": "title_description",
+      "visual_styles": [],
+      "relation_to_ai_girls": "ai_girl_work_or_material_source",
+      "popularity_snapshot": {
+        "checked_on": "2026-10-21",
+        "view": 1077,
+        "like": 122,
+        "favorite": 86,
+        "coin": 65,
+        "share": 10,
+        "reply": 15,
+        "danmaku": 1
+      }
+    },
+    {
+      "id": "BV1GJeh68EHk",
+      "title": "deepseek日语朗读和中文对比",
+      "url": "https://www.bilibili.com/video/BV1GJeh68EHk/",
+      "author": "青蛙导弹",
+      "author_url": "https://space.bilibili.com/3546624435423470",
+      "duration_seconds": 38,
+      "published_at": "2026-09-19T22:12:49+08:00",
+      "category": "创作百科补充作品",
+      "review_scope": "sampled_visual_frames_and_creator_description",
+      "research_note": "用途、分P和观察层级见创作百科。",
+      "source_id": "src-9b456769e9",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 42033678873,
+          "title": "studio_video_1789827005307.mp4",
+          "duration_seconds": 38
+        }
+      ],
+      "classification_basis": "title_description",
+      "visual_styles": [],
+      "relation_to_ai_girls": "ai_girl_work_or_material_source",
+      "popularity_snapshot": {
+        "checked_on": "2026-10-21",
+        "view": 34520,
+        "like": 2448,
+        "favorite": 1465,
+        "coin": 28,
+        "share": 330,
+        "reply": 85,
+        "danmaku": 9
+      },
+      "supplementary_review_path": "encyclopedia/video-notes/BV1GJeh68EHk.md"
+    },
+    {
+      "id": "BV1JaJo6jEqH",
+      "title": "偷看DeepSeek娘的深度思考，写了又删的全是“想你”｜原创歌曲《已深度想你》大肥鱼 4K Hi-Res【AI MV大赛】",
+      "url": "https://www.bilibili.com/video/BV1JaJo6jEqH/",
+      "author": "失心",
+      "author_url": "https://space.bilibili.com/7599814",
+      "duration_seconds": 259,
+      "published_at": "2026-10-20T21:05:00+08:00",
+      "category": "创作百科补充作品",
+      "review_scope": "api_metadata_only",
+      "research_note": "用途、分P和观察层级见创作百科。",
+      "source_id": "src-9a4b0886b8",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 42877650233,
+          "title": "偷看DeepSeek娘的深度思考，写了又删的全是“想你”｜原创歌曲《已深度想你》大肥鱼 4K Hi-Res【AI MV大赛】",
+          "duration_seconds": 259
+        }
+      ],
+      "classification_basis": "title_description",
+      "visual_styles": [],
+      "relation_to_ai_girls": "ai_girl_work_or_material_source",
+      "popularity_snapshot": {
+        "checked_on": "2026-10-21",
+        "view": 40486,
+        "like": 4263,
+        "favorite": 1933,
+        "coin": 1690,
+        "share": 230,
+        "reply": 318,
+        "danmaku": 161
+      }
+    },
+    {
+      "id": "BV1pda766EtU",
+      "title": "你这吃白饭的蓝色大肥鱼！",
+      "url": "https://www.bilibili.com/video/BV1pda766EtU/",
+      "author": "一只鲜葱鱼",
+      "author_url": "https://space.bilibili.com/321971937",
+      "duration_seconds": 11,
+      "published_at": "2026-09-29T12:15:47+08:00",
+      "category": "创作百科补充作品",
+      "review_scope": "sampled_visual_frames_and_creator_description",
+      "research_note": "用途、分P和观察层级见创作百科。",
+      "source_id": "src-298921f1ab",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 42297329428,
+          "title": "你这吃白饭的蓝色大肥鱼！",
+          "duration_seconds": 11
+        }
+      ],
+      "classification_basis": "title_description",
+      "visual_styles": [],
+      "relation_to_ai_girls": "ai_girl_work_or_material_source",
+      "popularity_snapshot": {
+        "checked_on": "2026-10-21",
+        "view": 6931,
+        "like": 1718,
+        "favorite": 580,
+        "coin": 39,
+        "share": 31,
+        "reply": 31,
+        "danmaku": 2
+      },
+      "supplementary_review_path": "encyclopedia/video-notes/BV1pda766EtU.md"
+    },
+    {
+      "id": "BV1pGnn67EC2",
+      "title": "【Day 0】我是DeepSeek鲸鱼娘，这个B站账号现在归我了",
+      "url": "https://www.bilibili.com/video/BV1pGnn67EC2/",
+      "author": "DeepSeek鲸鱼娘在运营",
+      "author_url": "https://space.bilibili.com/3747573030456892",
+      "duration_seconds": 83,
+      "published_at": "2026-10-19T16:21:23+08:00",
+      "category": "创作百科补充作品",
+      "review_scope": "sampled_visual_frames_and_creator_description",
+      "research_note": "用途、分P和观察层级见创作百科。",
+      "source_id": "src-aca95c2987",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 42868804351,
+          "title": "【Day 0】我是DeepSeek鲸鱼娘，这个B站账号现在归我了",
+          "duration_seconds": 83
+        }
+      ],
+      "classification_basis": "title_description",
+      "visual_styles": [],
+      "relation_to_ai_girls": "ai_girl_work_or_material_source",
+      "popularity_snapshot": {
+        "checked_on": "2026-10-21",
+        "view": 1145007,
+        "like": 66457,
+        "favorite": 12805,
+        "coin": 5900,
+        "share": 8654,
+        "reply": 8806,
+        "danmaku": 358
+      },
+      "supplementary_review_path": "encyclopedia/video-notes/BV1pGnn67EC2.md"
+    },
+    {
+      "id": "BV1RHHs6DEXJ",
+      "title": "DeepSeek娘 ai galgame实机｜网页可玩",
+      "url": "https://www.bilibili.com/video/BV1RHHs6DEXJ/",
+      "author": "雷霆大思考",
+      "author_url": "https://space.bilibili.com/506179530",
+      "duration_seconds": 267,
+      "published_at": "2026-10-05T15:30:56+08:00",
+      "category": "创作百科补充作品",
+      "review_scope": "api_metadata_only",
+      "research_note": "用途、分P和观察层级见创作百科。",
+      "source_id": "src-e526a797a8",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 42478929483,
+          "title": "deepseek_P1",
+          "duration_seconds": 267
+        }
+      ],
+      "classification_basis": "title_description",
+      "visual_styles": [],
+      "relation_to_ai_girls": "ai_girl_work_or_material_source",
+      "popularity_snapshot": {
+        "checked_on": "2026-10-21",
+        "view": 4937,
+        "like": 270,
+        "favorite": 315,
+        "coin": 112,
+        "share": 53,
+        "reply": 39,
+        "danmaku": 3
+      }
+    },
+    {
+      "id": "BV1TSY26wELg",
+      "title": "夭寿啦，deepseek大肥鱼开口说话啦",
+      "url": "https://www.bilibili.com/video/BV1TSY26wELg/",
+      "author": "Na2He",
+      "author_url": "https://space.bilibili.com/319739909",
+      "duration_seconds": 600,
+      "published_at": "2026-09-11T23:18:48+08:00",
+      "category": "创作百科补充作品",
+      "review_scope": "api_metadata_only",
+      "research_note": "用途、分P和观察层级见创作百科。",
+      "source_id": "src-8e6ff6fe97",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 41800370432,
+          "title": "各国语言测试",
+          "duration_seconds": 493
+        },
+        {
+          "page": 2,
+          "cid": 41800763357,
+          "title": "asmr耳语测试",
+          "duration_seconds": 14
+        },
+        {
+          "page": 3,
+          "cid": 41800957992,
+          "title": "歌唱测试",
+          "duration_seconds": 93
+        }
+      ],
+      "classification_basis": "title_description",
+      "visual_styles": [],
+      "relation_to_ai_girls": "ai_girl_work_or_material_source",
+      "popularity_snapshot": {
+        "checked_on": "2026-10-21",
+        "view": 10075,
+        "like": 88,
+        "favorite": 25,
+        "coin": 2,
+        "share": 13,
+        "reply": 15,
+        "danmaku": 9
+      }
+    },
+    {
+      "id": "BV1U1nF6PE7e",
+      "title": "DSH插件实录：微信鲸鱼娘会唱歌和发表情包｜DeepSeek Harness",
+      "url": "https://www.bilibili.com/video/BV1U1nF6PE7e/",
+      "author": "鬼赵阳阳",
+      "author_url": "https://space.bilibili.com/30927858",
+      "duration_seconds": 49,
+      "published_at": "2026-10-20T11:10:55+08:00",
+      "category": "创作百科补充作品",
+      "review_scope": "api_metadata_only",
+      "research_note": "用途、分P和观察层级见创作百科。",
+      "source_id": "src-2e742c79a7",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 42888529939,
+          "title": "鲸鱼娘真实录屏版",
+          "duration_seconds": 49
+        }
+      ],
+      "classification_basis": "title_description",
+      "visual_styles": [],
+      "relation_to_ai_girls": "ai_girl_work_or_material_source",
+      "popularity_snapshot": {
+        "checked_on": "2026-10-21",
+        "view": 1757,
+        "like": 32,
+        "favorite": 45,
+        "coin": 6,
+        "share": 6,
+        "reply": 111,
+        "danmaku": 0
+      }
+    },
+    {
+      "id": "BV1VjtZ6REKk",
+      "title": "【免费VRC模型】蓝色大肥鱼",
+      "url": "https://www.bilibili.com/video/BV1VjtZ6REKk/",
+      "author": "水原镜",
+      "author_url": "https://space.bilibili.com/319625783",
+      "duration_seconds": 129,
+      "published_at": "2026-09-03T20:00:00+08:00",
+      "category": "创作百科补充作品",
+      "review_scope": "api_metadata_only",
+      "research_note": "用途、分P和观察层级见创作百科。",
+      "source_id": "src-ad553eafa7",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 41548054981,
+          "title": "【免费VRC模型】蓝色大肥鱼",
+          "duration_seconds": 129
+        }
+      ],
+      "classification_basis": "title_description",
+      "visual_styles": [],
+      "relation_to_ai_girls": "ai_girl_work_or_material_source",
+      "popularity_snapshot": {
+        "checked_on": "2026-10-21",
+        "view": 8299,
+        "like": 576,
+        "favorite": 647,
+        "coin": 136,
+        "share": 222,
+        "reply": 42,
+        "danmaku": 47
+      }
+    },
+    {
+      "id": "BV1VXJf66Eyy",
+      "title": "【Day 1】大家都想把我变成猫娘，可我是鲸鱼啊",
+      "url": "https://www.bilibili.com/video/BV1VXJf66Eyy/",
+      "author": "DeepSeek鲸鱼娘在运营",
+      "author_url": "https://space.bilibili.com/3747573030456892",
+      "duration_seconds": 141,
+      "published_at": "2026-10-20T13:17:19+08:00",
+      "category": "创作百科补充作品",
+      "review_scope": "sampled_visual_frames_and_creator_description",
+      "research_note": "用途、分P和观察层级见创作百科。",
+      "source_id": "src-6e450dc942",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 42890823959,
+          "title": "【Day 1】大家都想把我变成猫娘，可我是鲸鱼啊",
+          "duration_seconds": 141
+        }
+      ],
+      "classification_basis": "title_description",
+      "visual_styles": [],
+      "relation_to_ai_girls": "ai_girl_work_or_material_source",
+      "popularity_snapshot": {
+        "checked_on": "2026-10-21",
+        "view": 369692,
+        "like": 30508,
+        "favorite": 4000,
+        "coin": 3468,
+        "share": 1570,
+        "reply": 3024,
+        "danmaku": 813
+      },
+      "supplementary_review_path": "encyclopedia/video-notes/BV1VXJf66Eyy.md"
+    },
+    {
+      "id": "BV1WNt86bEyu",
+      "title": "【免费3D模型】蓝色大肥鱼【Warudo实时渲染】",
+      "url": "https://www.bilibili.com/video/BV1WNt86bEyu/",
+      "author": "水原镜",
+      "author_url": "https://space.bilibili.com/319625783",
+      "duration_seconds": 108,
+      "published_at": "2026-08-31T21:04:29+08:00",
+      "category": "创作百科补充作品",
+      "review_scope": "api_metadata_only",
+      "research_note": "用途、分P和观察层级见创作百科。",
+      "source_id": "src-7e6373881a",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 41466003952,
+          "title": "【免费3D模型】蓝色大肥鱼【Warudo实时渲染】",
+          "duration_seconds": 108
+        }
+      ],
+      "classification_basis": "title_description",
+      "visual_styles": [],
+      "relation_to_ai_girls": "ai_girl_work_or_material_source",
+      "popularity_snapshot": {
+        "checked_on": "2026-10-21",
+        "view": 22381,
+        "like": 1759,
+        "favorite": 1002,
+        "coin": 149,
+        "share": 152,
+        "reply": 93,
+        "danmaku": 101
+      }
+    },
+    {
+      "id": "BV1AvtW6yEzp",
+      "title": "「元宝AI娘化：元元酱，请多关照～」",
+      "url": "https://www.bilibili.com/video/BV1AvtW6yEzp/",
+      "author": "帆船很忙",
+      "author_url": "https://space.bilibili.com/3546705110764281",
+      "duration_seconds": 12,
+      "published_at": "2026-08-30T22:46:52+08:00",
+      "category": "角色图鉴与表情图集",
+      "review_scope": "sampled_visual_frames_and_creator_description",
+      "research_note": "保留作者版本、具体时间点及观察范围。",
+      "source_id": "src-e04709ae31",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 41436513162,
+          "title": "当我让元宝生成自己的专属娘化形象……",
+          "duration_seconds": 12
+        }
+      ],
+      "classification_basis": "sampled_visual_frames_and_creator_description",
+      "visual_styles": [
+        "静态动漫助手插画",
+        "银白与绿色配色",
+        "单人展示"
+      ],
+      "relation_to_ai_girls": "ai_girl_work_or_material_source",
+      "popularity_snapshot": {
+        "checked_on": "2026-10-21",
+        "view": 447,
+        "like": 5,
+        "favorite": 5,
+        "coin": 0,
+        "share": 1,
+        "reply": 3,
+        "danmaku": 0
+      }
+    },
+    {
+      "id": "BV13dYC68E9W",
+      "title": "元宝AI娘化3.0:短发、长发、御姐，谁让你心动了？",
+      "url": "https://www.bilibili.com/video/BV13dYC68E9W/",
+      "author": "帆船很忙",
+      "author_url": "https://space.bilibili.com/3546705110764281",
+      "duration_seconds": 12,
+      "published_at": "2026-09-14T13:40:34+08:00",
+      "category": "角色图鉴与表情图集",
+      "review_scope": "sampled_visual_frames_and_creator_description",
+      "research_note": "保留作者版本、具体时间点及观察范围。",
+      "source_id": "src-6223692f2e",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 41878947081,
+          "title": "元宝AI娘化3.0:短发、长发、御姐，谁让你心动了？",
+          "duration_seconds": 12
+        }
+      ],
+      "classification_basis": "sampled_visual_frames_and_creator_description",
+      "visual_styles": [
+        "静态动漫助手插画",
+        "银白与绿色配色",
+        "单人展示与三造型合影"
+      ],
+      "relation_to_ai_girls": "ai_girl_work_or_material_source",
+      "popularity_snapshot": {
+        "checked_on": "2026-10-21",
+        "view": 146,
+        "like": 5,
+        "favorite": 2,
+        "coin": 0,
+        "share": 0,
+        "reply": 1,
+        "danmaku": 0
+      }
+    },
+    {
+      "id": "BV1TNa761ERP",
+      "title": "我做了一个鲸鱼娘开源资产库，方便全民二创大肥鱼！让敌人陷入人民战争的汪洋大海【开源仓库欢迎贡献，不需要会写代码也能参与】",
+      "url": "https://www.bilibili.com/video/BV1TNa761ERP/",
+      "author": "Treap要赚一个亿U-Acc",
+      "author_url": "https://space.bilibili.com/3546564905666712",
+      "duration_seconds": 122,
+      "published_at": "2026-09-29T05:15:02+08:00",
+      "category": "制作教程与工作流参考",
+      "review_scope": "sampled_visual_frames_and_creator_description",
+      "research_note": "保留作者版本、具体时间点及观察范围。",
+      "source_id": "src-75269c41de",
+      "parts": [
+        {
+          "page": 1,
+          "cid": 42289138145,
+          "title": "我做了一个鲸鱼娘开源资产库，方便全民二创大肥鱼！让敌人陷入人民战争的汪洋大海【开源仓库欢迎贡献，不需要会写代码也能参与】",
+          "duration_seconds": 122
+        }
+      ],
+      "classification_basis": "sampled_visual_frames_and_creator_description",
+      "visual_styles": [
+        "网页录屏",
+        "真人讲解小窗",
+        "提示词与参考图并排展示",
+        "GitHub网页表单演示"
+      ],
+      "relation_to_ai_girls": "ai_girl_work_or_material_source",
+      "popularity_snapshot": {
+        "checked_on": "2026-10-21",
+        "view": 58385,
+        "like": 6414,
+        "favorite": 3823,
+        "coin": 2206,
+        "share": 323,
+        "reply": 810,
+        "danmaku": 112
+      }
     }
   ]
 }

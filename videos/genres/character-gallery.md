@@ -38,3 +38,8 @@
 | [【DeepSeek】我 推 的 蓝 色 大 肥 鱼 🐋](https://www.bilibili.com/video/BV1jw8w6yESY/) | 暗影神秘使 | 2:38 |
 | [各个ai刻板印象](https://www.bilibili.com/video/BV1pLn36sEJq/) | 好嘛_好嘛 | 2:43 |
 | [大AI和小AI们](https://www.bilibili.com/video/BV1tE9XBbErS/) | ZipZipPipe | 0:54 |
+
+## 创作百科补充观察
+
+- [「元宝AI娘化：元元酱，请多关照～」](../../encyclopedia/video-notes/BV1AvtW6yEzp.md) · 帆船很忙
+- [元宝AI娘化3.0:短发、长发、御姐，谁让你心动了？](../../encyclopedia/video-notes/BV13dYC68E9W.md) · 帆船很忙

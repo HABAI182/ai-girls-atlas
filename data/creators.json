@@ -1,0 +1,506 @@
+{
+  "checked_on": "2026-10-21",
+  "creators": [
+    {
+      "id": "author-shangshan",
+      "name": "上善无形",
+      "roles": [
+        "character_original"
+      ],
+      "character_ids": [
+        "deepseek"
+      ],
+      "source_ids": [
+        "src-550913569f",
+        "src-dc878d9d62"
+      ],
+      "source_urls": [
+        "https://www.bilibili.com/opus/1231977657712771073",
+        "https://t.bilibili.com/1231980045693616162"
+      ],
+      "contribution": "鲸鱼角色原型；原设与ZipZipPipe加入DeepSeek/女仆元素的二次设计分开。",
+      "date_note": "不从DeepSeek产品发布日推定角色诞生日。"
+    },
+    {
+      "id": "author-zipzippipe",
+      "name": "ZipZipPipe",
+      "roles": [
+        "character_redesign",
+        "multi_character_design",
+        "original_art_publisher"
+      ],
+      "character_ids": [
+        "deepseek",
+        "gpt",
+        "claude",
+        "gemini",
+        "grok",
+        "glm",
+        "kimi",
+        "minimax",
+        "qwen",
+        "llama",
+        "hunyuan",
+        "mistral"
+      ],
+      "source_ids": [
+        "src-77c5462742",
+        "src-65f86eaf69",
+        "src-db192dfd35"
+      ],
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1tE9XBbErS/",
+        "https://www.bilibili.com/video/BV1bARXBYEZz/",
+        "https://www.pixiv.net/artworks/148186519"
+      ],
+      "contribution": "DeepSeek女仆二创与多AI娘系列；其他作者重绘、模型、声音不归为其同一原包。"
+    },
+    {
+      "id": "author-apprentice",
+      "name": "ApprenTice",
+      "roles": [
+        "derived_character_art",
+        "chibi_design",
+        "prompt_publication"
+      ],
+      "character_ids": [
+        "deepseek",
+        "gpt",
+        "claude",
+        "gemini",
+        "grok",
+        "glm",
+        "kimi",
+        "minimax",
+        "qwen"
+      ],
+      "source_ids": [
+        "src-22fa810a0e"
+      ],
+      "source_urls": [
+        "https://github.com/Apprentice-Geo/AI-Fanworks/blob/ee1f5176710f3bcfd60ee5cb0af00f77ed96748e/ApprenTice/AI-Girls-and-Chibis/README.md"
+      ],
+      "contribution": "常规与Q版重新制作配对图，另发布提示词；保留第三方参考署名。"
+    },
+    {
+      "id": "author-lsh",
+      "name": "lshhhhhhh",
+      "roles": [
+        "school_variant_design",
+        "prompt_publication",
+        "video_cast_archive"
+      ],
+      "character_ids": [
+        "claude",
+        "cohere",
+        "copilot-school",
+        "deepseek",
+        "doubao",
+        "wenxin",
+        "gemini",
+        "glm",
+        "gpt",
+        "grok",
+        "hunyuan",
+        "kimi",
+        "llama",
+        "minimax",
+        "mistral",
+        "perplexity",
+        "qwen",
+        "spark"
+      ],
+      "source_ids": [
+        "src-c470015cae"
+      ],
+      "source_urls": [
+        "https://github.com/lshhhhhhh/ai-school-op"
+      ],
+      "contribution": "18位校园演员设定与逐角色提示词；部分为原创方案，不能都归成ZipZipPipe换装。"
+    },
+    {
+      "id": "author-fuh",
+      "name": "甶丶",
+      "roles": [
+        "character_design",
+        "turnaround"
+      ],
+      "character_ids": [
+        "mimo"
+      ],
+      "source_ids": [
+        "src-fa6f86c189"
+      ],
+      "source_urls": [
+        "https://www.bilibili.com/opus/1242097128919007239"
+      ],
+      "contribution": "同一《娘化mimo》动态中的正常比例立绘与正侧背图。"
+    },
+    {
+      "id": "author-small-tail",
+      "name": "Small-tailqwq",
+      "roles": [
+        "artwork_adaptation",
+        "transparent_cutout",
+        "desktop_icon",
+        "ui_skin"
+      ],
+      "character_ids": [
+        "deepseek"
+      ],
+      "source_ids": [
+        "src-29d06f544b",
+        "src-57452cc182"
+      ],
+      "source_urls": [
+        "https://github.com/Small-tailqwq/dsh-deep-whale/blob/e74fa8439b8584ed16113920894491b5e0e1e4a0/maid-atelier/NOTICE",
+        "https://github.com/Small-tailqwq/dsh-deep-whale/blob/e74fa8439b8584ed16113920894491b5e0e1e4a0/maid-atelier/README.md"
+      ],
+      "contribution": "MaidAtelier表情加工、透明图与ICO；不是原始鲸鱼角色作者。"
+    },
+    {
+      "id": "author-selin",
+      "name": "AI Moe Atlas / SelinLee",
+      "roles": [
+        "ai_assisted_multiview",
+        "static_3d_reconstruction",
+        "editable_project_publication"
+      ],
+      "character_ids": [
+        "deepseek"
+      ],
+      "source_ids": [
+        "src-039abc2413",
+        "src-a544f0cc8b"
+      ],
+      "source_urls": [
+        "https://github.com/SelinLee/ai-moe-atlas/blob/018bc3ca6c8d946006dacfc0bca7bf65a6dff4d6/public/models/deep-whale-maid/v0.5.0/README.md",
+        "https://github.com/SelinLee/ai-moe-atlas/blob/018bc3ca6c8d946006dacfc0bca7bf65a6dff4d6/public/models/deep-whale-maid/README.md"
+      ],
+      "contribution": "沿MaidAtelier明确派生链制作AI多视图和静态3D，可编辑Blend公开；没有骨骼和动画。"
+    },
+    {
+      "id": "author-jadpp",
+      "name": "JAdpp",
+      "roles": [
+        "project_original_design",
+        "expressions",
+        "visual_novel_assets"
+      ],
+      "character_ids": [
+        "deepseek",
+        "gpt",
+        "claude",
+        "gemini",
+        "grok",
+        "kimi"
+      ],
+      "source_ids": [
+        "src-931bc613fb"
+      ],
+      "source_urls": [
+        "https://github.com/JAdpp/dsh-whale-galgame"
+      ],
+      "contribution": "项目内DeepSeek表情与其他角色独立AI辅助设计；五位非DeepSeek项目原创建模方向和ZipZipPipe原图分开。"
+    },
+    {
+      "id": "author-xingluoluo",
+      "name": "星落落_oi",
+      "roles": [
+        "voice_experiment",
+        "song_version",
+        "music_video"
+      ],
+      "character_ids": [
+        "deepseek"
+      ],
+      "source_ids": [
+        "src-132f96a0f8",
+        "src-829a8497f5",
+        "src-57565e8781"
+      ],
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1PPYM6EEUR/",
+        "https://www.bilibili.com/video/BV16NYS6ZE8H/",
+        "https://www.bilibili.com/video/BV1vSYe6kESU/"
+      ],
+      "contribution": "早期音色、十音色比较及熔炼版本连续投稿；不等于已提供可下载统一声库。"
+    },
+    {
+      "id": "author-guan",
+      "name": "罐装毕加索",
+      "roles": [
+        "song_adaptation"
+      ],
+      "character_ids": [
+        "deepseek"
+      ],
+      "source_ids": [
+        "src-ae2e90a404"
+      ],
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1XbY66nEWr/"
+      ],
+      "contribution": "Let Me Go改编版本被狐宫静公皮视频明确回链；属于歌曲来源而非模型作者。"
+    },
+    {
+      "id": "author-liuqing",
+      "name": "氵六青",
+      "roles": [
+        "live2d_release",
+        "q_chibi_model_demo"
+      ],
+      "character_ids": [
+        "deepseek"
+      ],
+      "source_ids": [
+        "src-6e20f2e644"
+      ],
+      "source_urls": [
+        "https://www.bilibili.com/video/BV16yYi69EQT/"
+      ],
+      "contribution": "免费Q版Live2D模型发布；展示鼠控、发型、眼镜、桌宠和表情。",
+      "access_note": "公开画面提示私信或评论区工房；本轮未私信。"
+    },
+    {
+      "id": "author-hugongjing",
+      "name": "狐宫静",
+      "roles": [
+        "live2d_modeling",
+        "free_model_release"
+      ],
+      "character_ids": [
+        "deepseek"
+      ],
+      "source_ids": [
+        "src-e1698ab832",
+        "src-bd6fa03dc9"
+      ],
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1yvaT65EGk/",
+        "https://mall.bilibili.com/neul-next/index.html?page=mall-up_itemDetail&itemsId=1109888056"
+      ],
+      "contribution": "公皮建模与公开领取入口；简介分别署AI绘图、建模、原曲及上游原曲。"
+    },
+    {
+      "id": "author-mzkagami",
+      "name": "水原镜 / Mzkagami",
+      "roles": [
+        "3d_modeling",
+        "warudo_model",
+        "model_distribution"
+      ],
+      "character_ids": [
+        "deepseek"
+      ],
+      "source_ids": [
+        "src-fe3817add9",
+        "src-bb561d0cf5",
+        "src-7179c9bf0a"
+      ],
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1tD4X6AE7Q/",
+        "https://booth.pm/en/items/8777527",
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3792169576"
+      ],
+      "contribution": "蓝色大肥鱼3D模型制作与Warudo/VRC发行；工坊同页明确中英署名关系。"
+    },
+    {
+      "id": "author-yaki",
+      "name": "耶栗Yaki",
+      "roles": [
+        "mmd_conversion",
+        "mmd_rigging"
+      ],
+      "character_ids": [
+        "deepseek"
+      ],
+      "source_ids": [
+        "src-fe3817add9"
+      ],
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1tD4X6AE7Q/"
+      ],
+      "contribution": "负责MMD转换绑定，与水原镜制模、夏紫瞳渲染分开。"
+    },
+    {
+      "id": "author-hitomi",
+      "name": "夏紫瞳_Hitomi",
+      "roles": [
+        "rendering"
+      ],
+      "character_ids": [
+        "deepseek"
+      ],
+      "source_ids": [
+        "src-fe3817add9"
+      ],
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1tD4X6AE7Q/"
+      ],
+      "contribution": "MMD配布片渲染贡献，不记为角色原设、制模或音色作者。"
+    },
+    {
+      "id": "author-surcen",
+      "name": "Surcen",
+      "roles": [
+        "vrc_conversion"
+      ],
+      "character_ids": [
+        "deepseek"
+      ],
+      "source_ids": [
+        "src-ad553eafa7",
+        "src-bb561d0cf5"
+      ],
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1VjtZ6REKk/",
+        "https://booth.pm/en/items/8777527"
+      ],
+      "contribution": "负责水原镜模型VRC适配；BOOTH同时链接其个人店铺。"
+    },
+    {
+      "id": "author-vsmmvs",
+      "name": "vsmmvs",
+      "roles": [
+        "vrc_expressions",
+        "vrc_adaptation"
+      ],
+      "character_ids": [
+        "deepseek"
+      ],
+      "source_ids": [
+        "src-ad553eafa7",
+        "src-bb561d0cf5"
+      ],
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1VjtZ6REKk/",
+        "https://booth.pm/en/items/8777527"
+      ],
+      "contribution": "BOOTH细分为VRC表情制作，B站简介共同署适配。"
+    },
+    {
+      "id": "author-elti",
+      "name": "Elti青空",
+      "roles": [
+        "pixel_art",
+        "cursor_set"
+      ],
+      "character_ids": [
+        "deepseek"
+      ],
+      "source_ids": [
+        "src-7cbd020fa9"
+      ],
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1XZe66sEsn/"
+      ],
+      "contribution": "鼠标指针像素套件与夸克入口；不是Live2D模型或原设作者。"
+    },
+    {
+      "id": "author-xy",
+      "name": "XY蓝Z",
+      "roles": [
+        "game_mod",
+        "character_integration"
+      ],
+      "character_ids": [
+        "deepseek"
+      ],
+      "source_ids": [
+        "src-1764181130"
+      ],
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1Foez6TE9K/"
+      ],
+      "contribution": "Aiko’s world将鲸鱼娘接入Terraria角色与对话展示；未把视频当本机游戏测试。"
+    },
+    {
+      "id": "author-hyq",
+      "name": "hyq13886640",
+      "roles": [
+        "generation_workflow_submission"
+      ],
+      "character_ids": [
+        "deepseek"
+      ],
+      "source_ids": [
+        "src-c78a360873",
+        "src-b85ef42b11"
+      ],
+      "source_urls": [
+        "https://github.com/TreapGoGo/deepseek-whale-girl/issues/2",
+        "https://github.com/TreapGoGo/deepseek-whale-girl/blob/99fdf6e419a4097cc9b2d6a8a808f7b96a412e38/site/assets/workflows/comfyui-issue-2/README.md"
+      ],
+      "contribution": "投稿Qwen Image文生图API JSON；TreapGoGo归档，二者不是同一贡献角色。"
+    },
+    {
+      "id": "author-legeling",
+      "name": "legeling",
+      "roles": [
+        "independent_pet_animation",
+        "runtime_sheet_assembly"
+      ],
+      "character_ids": [
+        "deepseek",
+        "gpt"
+      ],
+      "source_ids": [
+        "src-5cf24a4fd0",
+        "src-ddf6cc3468"
+      ],
+      "source_urls": [
+        "https://github.com/legeling/awesome-codex-pet/blob/022aea52f75841d31f57b7596479ebb425480a50/pets/deepseek-girl--legeling/submission.json",
+        "https://github.com/legeling/awesome-codex-pet/blob/022aea52f75841d31f57b7596479ebb425480a50/pets/gpt-dragon-girl--legeling/submission.json"
+      ],
+      "contribution": "DeepSeek独立解释版本与GPT龙娘派生版本来源路径不同；分别按submission声明记录。"
+    },
+    {
+      "id": "author-fanchuan",
+      "name": "帆船很忙",
+      "roles": [
+        "personification_proposal",
+        "video_publisher"
+      ],
+      "character_ids": [
+        "yuanbao"
+      ],
+      "source_ids": [
+        "src-e04709ae31",
+        "src-6223692f2e"
+      ],
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1AvtW6yEzp/",
+        "https://www.bilibili.com/video/BV13dYC68E9W/"
+      ],
+      "contribution": "元宝AI娘化短发与3.0造型投稿；确认投稿与提案署名，未另署具体原画作者。",
+      "date_note": "两条公开视频为版本时间锚，不称官方角色诞生日。"
+    },
+    {
+      "id": "author-treapgogo",
+      "name": "TreapGoGo / Treap要赚一个亿U-Acc",
+      "roles": [
+        "community_archive_maintainer",
+        "resource_navigation",
+        "contribution_workflow"
+      ],
+      "character_ids": [
+        "deepseek"
+      ],
+      "source_ids": [
+        "src-75269c41de",
+        "src-38189fda5a",
+        "src-856817073a",
+        "src-d279545400",
+        "src-b4f3eee3f7"
+      ],
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1TNa761ERP/",
+        "https://treapgogo.github.io/deepseek-whale-girl/",
+        "https://github.com/TreapGoGo/deepseek-whale-girl"
+      ],
+      "contribution": "社区参考图、提示词、二创作品与项目导航维护；演示零代码投稿流程，不把全部投稿的绘画作者合并成维护者。",
+      "date_note": "视频简介直连仓库与网站，作为投稿账号到项目的关联依据。"
+    }
+  ]
+}

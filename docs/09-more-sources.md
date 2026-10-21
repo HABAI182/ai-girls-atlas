@@ -53,3 +53,7 @@
 ## 站点导航补记
 
 从GenderSwapAI英文首页实际进入[社区项目页](https://genderswapai.com/ai-gijinka/projects)，可见OpenPet、c-dom桌宠、skylar-fei女仆和JAdpp故事四个方向。它们与本库原有入口关联，未重复下载。History为首页沿革段落；此前猜测中文/history路由的404不代表该站没有沿革内容。视频部分已扩成[独立品类与案例栏目](../videos/README.md)。
+
+## 用户补充：鲸鱼娘开源资产库导览
+
+[TreapGoGo视频与站点专题](../encyclopedia/focus-treap.md)已补齐作者录屏、参考图/提示词、社区画廊、六份工作流和网页投稿之间的关系。固定提交与先前相同，已有项目材料继续使用，没有重抓整库。

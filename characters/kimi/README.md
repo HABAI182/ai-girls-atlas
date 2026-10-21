@@ -83,3 +83,8 @@
 - [AI娘的日常（大概?）](../../videos/cases/BV1mwRzBdEzk.md)：角色图鉴与表情图集；白底表情海报、Q版人物与巨大文字。
 
 只把该作者作品的可见表现接入角色页；声音未试听。更多见[独立视频栏目](../../videos/README.md)。
+
+
+## 演出与创作关联
+
+[作品限定反应档案](../../encyclopedia/performances/kimi.md) · [同情境原创对照](../../encyclopedia/performances/same-situation.md) · [素材关联包](../../encyclopedia/production/README.md)

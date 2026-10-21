@@ -4,14 +4,16 @@
 
 ## 这次新增
 
-- **[独立视频栏目](videos/README.md)**：78条视频导航、23篇有时间点的抽帧分析、18个品类、视觉风格比较与12条素材/流程入口。
+- **[AI娘创作百科](encyclopedia/README.md)**：梗、角色演出、动作道具、关系地图、声音、衣装、作者、版本沿革和新作品形态。
+- **三个完整专题**：[10个梗](encyclopedia/memes/README.md)、[八位角色反应与32格原创点子](encyclopedia/performances/README.md)、[13组素材关联包](encyclopedia/production/README.md)。
+- **具体来源继续扩充**：12条新补明的模型/工程入口、16张图像观察、6段音轨分析、6个跨语种入口。
+- **视频与声音索引**：现有92条视频、19条声音来源；原有图片与版本档案沿用。
 
-- **50张本地图片**：18张校园人设、20张常规/Q版派生、7张重点仓库新增图、MiniMax/Llama两张早期立绘、三张透明表情。
-- **已有角色继续扩写**：Claude工程服、DeepSeek短裙与表情、Llama变体、混元/Mistral原图、MiMo作者立绘与三视图，以及多角色校园版本。
-- **声音与热视频**：13条声音来源，整理音色、歌曲、翻唱、MV和原曲；为本轮候选保存播放快照。
-- **按作者版本查找**：43条扩写版本、14个项目评述、11张本地表情语境索引。没有把不同作者的同名角色合并。
+- **用户新补充视频已接入**：[TreapGoGo网站、参考图、工作流和投稿路径](encyclopedia/focus-treap.md)；[元宝娘](characters/yuanbao/README.md)补到三个作者造型分支。
 
 ## 从这里看
+
+- **[创作百科总入口](encyclopedia/README.md)** · [梗百科](encyclopedia/memes/README.md) · [角色演出](encyclopedia/performances/README.md) · [素材关联包](encyclopedia/production/README.md)
 
 - **[AI娘视频：品类、风格与案例库](videos/README.md)** · [风格比较](videos/styles.md) · [模型/桌面/手作素材入口](videos/materials.md)
 
@@ -26,18 +28,18 @@
 | 项目 | 数量 | 说明 |
 | --- | ---: | --- |
 | 条目 | 39 | 产品、模型、工具、平台及历史/待区分项目命名 |
-| 有形象资料或线索 | 32 | 本地图片、档案与外部作品线索分别标注 |
+| 有形象资料或线索 | 33 | 本地图片、档案与外部作品线索分别标注 |
 | 有本地图片的角色条目 | 20 | 不同作者版本可共存 |
 | 本地原图/派生图/参考文件 | 82 | 保留供应方原字节，含首轮视频展示截帧 |
 | 轻量预览 | 11 | 单独计数，不当作新作品 |
 | 外部参考 | 49 | 图库原帖与独立宠物版本 |
-| 视频记录 | 78 | 含声音上游与关联方法，观察范围逐条注明 |
+| 视频记录 | 92 | 含声音上游与关联方法，观察范围逐条注明 |
 | 视频画面案例 | 23 | 18类；21篇AI娘作品、2篇相关方法 |
-| 声音来源 | 13 | 原作品与版本链，不是音频下载包 |
+| 声音来源 | 19 | 原作品与版本链，不是音频下载包 |
 | 表情/作品导航 | 36 | 外链导航与情绪用途 |
 | 本地表情语境 | 11 | 对应已有图片的索引 |
-| 来源入口 | 240 | 正文、目录、元数据和作者声明分层记录 |
-| 待补条目 | 7 | 未找到明确方案的档位继续保留 |
+| 来源入口 | 302 | 正文、目录、元数据和作者声明分层记录 |
+| 待补条目 | 6 | 未找到明确方案的档位继续保留 |
 
 首轮重点来源保留，新增部分按原文件和作品版本去重。两个重点来源的本次变化见[source-updates.json](data/source-updates.json)。
 
@@ -90,7 +92,7 @@
 | [MiMo / 小米](characters/mimo/README.md) | model-family | 本地图片 | 银白双马尾；橙黑服装、mi/MiMo标识；兔子与黑白不对称袜 |
 | [Hugging Face](characters/huggingface/README.md) | platform | 作品线索 | 站点条目描述黄色笑脸玩偶与海军蓝外套 |
 | [Microsoft Copilot](characters/copilot/README.md) | product | 待补 | 与GitHub Copilot分开；本次未确认采用哪一套社区形象。 |
-| [腾讯元宝](characters/yuanbao/README.md) | product | 待补 | 产品条目与混元模型角色分开，未指定同人作者。 |
+| [腾讯元宝](characters/yuanbao/README.md) | product | 作品线索 | 帆船很忙的三个银白/绿白造型分支，见两条作者投稿 |
 | [讯飞星火](characters/spark/README.md) | model-family | 本地图片 | 酒红低侧马尾；眼镜与蓝眼；蓝色火焰发夹 |
 | [Cohere / Command](characters/cohere/README.md) | model-family | 本地图片 | 森林绿及肩卷发；浅色挑染；桃绿奶油色领结 |
 | [可灵 / Kling](characters/kling/README.md) | video-product | 待补 | 官方入口本次读取受限；没有补造角色图或厂商许可。 |

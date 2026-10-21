@@ -113,3 +113,8 @@ tenghuan123 独立制作的 V2 Q 版，包含九组动画和 16 个环视方向�
 - [GPT娘也想成为偶像！](../../videos/cases/BV1K4ax6YE2n.md)：翻唱、音乐梗与偶像MV；紫色灯环舞台、常规龙娘与Q版伴舞同屏。
 
 只把该作者作品的可见表现接入角色页；声音未试听。更多见[独立视频栏目](../../videos/README.md)。
+
+
+## 演出与创作关联
+
+[作品限定反应档案](../../encyclopedia/performances/gpt.md) · [同情境原创对照](../../encyclopedia/performances/same-situation.md) · [素材关联包](../../encyclopedia/production/README.md)

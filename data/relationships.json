@@ -1,0 +1,399 @@
+{
+  "checked_on": "2026-10-21",
+  "relations": [
+    {
+      "id": "roommates-ds-gpt",
+      "character_ids": [
+        "deepseek",
+        "gpt"
+      ],
+      "other_participants": [],
+      "relation": "新住客与原住客的合租相遇",
+      "series": "冬冰·新室友合租故事",
+      "video_id": "BV1eMeS6SETU",
+      "url": "https://www.bilibili.com/video/BV1eMeS6SETU/",
+      "seconds": [
+        2.5,
+        42.5,
+        85.5
+      ],
+      "evidence": "DeepSeek抱锅下车；走廊里与标名GPT的角色面对面，后续在同一满是泡面的屋内出现。合租定位同时由标题支持。",
+      "scope": "observed_visual_and_subtitles",
+      "canon_status": "仅适用于这一作品或系列的虚构关系，不外推为所有AI娘创作共通设定。",
+      "source_ids": [
+        "src-999fb03ed0"
+      ]
+    },
+    {
+      "id": "roommates-ds-claude",
+      "character_ids": [
+        "deepseek",
+        "claude"
+      ],
+      "other_participants": [],
+      "relation": "新住客与招呼她的室友",
+      "series": "冬冰·新室友合租故事",
+      "video_id": "BV1eMeS6SETU",
+      "url": "https://www.bilibili.com/video/BV1eMeS6SETU/",
+      "seconds": [
+        56.5
+      ],
+      "evidence": "橙发角色出现在房间内，画面大字标克劳德，举手并配招呼字幕。这里只记录见面，不推断更深亲密关系。",
+      "scope": "observed_visual_and_subtitles",
+      "canon_status": "仅适用于这一作品或系列的虚构关系，不外推为所有AI娘创作共通设定。",
+      "source_ids": [
+        "src-999fb03ed0"
+      ]
+    },
+    {
+      "id": "roommates-gpt-qwen-distill-accusation",
+      "character_ids": [
+        "gpt",
+        "qwen"
+      ],
+      "other_participants": [],
+      "relation": "合租场景内GPT向千问发出的蒸馏指责",
+      "series": "冬冰·新室友合租故事",
+      "video_id": "BV1eMeS6SETU",
+      "url": "https://www.bilibili.com/video/BV1eMeS6SETU/",
+      "seconds": [
+        141.5
+      ],
+      "evidence": "补看原帧后，字幕明确点名千问，GPT红眼怒容面对镜头。千问在本帧没有同框，不把指责误写给前段出场的DeepSeek。指责是否属实是虚构剧情，不能外推到真实训练。",
+      "scope": "observed_visual_and_subtitles",
+      "canon_status": "仅适用于这一作品或系列的虚构关系，不外推为所有AI娘创作共通设定。",
+      "source_ids": [
+        "src-999fb03ed0"
+      ]
+    },
+    {
+      "id": "park-claude-ds-confession",
+      "character_ids": [
+        "claude",
+        "deepseek"
+      ],
+      "other_participants": [],
+      "relation": "送冰淇淋后由Claude向DeepSeek表达心意",
+      "series": "戛然而纸·国庆双人关系短剧",
+      "video_id": "BV1PTHB6BEbA",
+      "url": "https://www.bilibili.com/video/BV1PTHB6BEbA/",
+      "seconds": [
+        0.5,
+        53.5,
+        66.5,
+        79.5,
+        105.5
+      ],
+      "evidence": "Claude拿冰淇淋接近长椅上的DeepSeek，随后近耳交流、表白字幕、DeepSeek脸红和两人并肩站立依次出现。不是从标题单独推定恋爱。",
+      "scope": "observed_visual_and_subtitles",
+      "canon_status": "仅适用于这一作品或系列的虚构关系，不外推为所有AI娘创作共通设定。",
+      "source_ids": [
+        "src-81586e1c86"
+      ]
+    },
+    {
+      "id": "park-gpt-grok-hug",
+      "character_ids": [
+        "gpt",
+        "grok"
+      ],
+      "other_participants": [],
+      "relation": "尾声中的另一组亲密搭档",
+      "series": "戛然而纸·国庆双人关系短剧",
+      "video_id": "BV1PTHB6BEbA",
+      "url": "https://www.bilibili.com/video/BV1PTHB6BEbA/",
+      "seconds": [
+        119.5,
+        132.5
+      ],
+      "evidence": "白发有角角色与金发双马尾角色在冷色室内拥抱后相向交谈；作者简介点名后者是Grok。未见关系称谓，故不写已确定交往。",
+      "scope": "observed_visual_and_subtitles",
+      "canon_status": "仅适用于这一作品或系列的虚构关系，不外推为所有AI娘创作共通设定。",
+      "source_ids": [
+        "src-81586e1c86"
+      ]
+    },
+    {
+      "id": "op-ds-claude-pairing",
+      "character_ids": [
+        "deepseek",
+        "claude"
+      ],
+      "other_participants": [],
+      "relation": "校园OP致敬中被突出的一组配对",
+      "series": "黑猫勇者·蒸馏模型OP致敬",
+      "video_id": "BV191Yr6bEYy",
+      "url": "https://www.bilibili.com/video/BV191Yr6bEYy/",
+      "seconds": [
+        25.5,
+        74.5
+      ],
+      "evidence": "校园场景先把Claude放在前景、DeepSeek放在远处；74.5秒两人相向靠近且背景为粉色心形。标题也明确DS与Claude的配对方向。",
+      "scope": "observed_visual_and_subtitles",
+      "canon_status": "仅适用于这一作品或系列的虚构关系，不外推为所有AI娘创作共通设定。",
+      "source_ids": [
+        "src-a8ce8c9bc2"
+      ]
+    },
+    {
+      "id": "op-ds-ensemble",
+      "character_ids": [
+        "deepseek",
+        "gpt",
+        "glm",
+        "gemini"
+      ],
+      "other_participants": [],
+      "relation": "同支OP中共同亮相的群像成员",
+      "series": "黑猫勇者·蒸馏模型OP致敬",
+      "video_id": "BV191Yr6bEYy",
+      "url": "https://www.bilibili.com/video/BV191Yr6bEYy/",
+      "seconds": [
+        83.5
+      ],
+      "evidence": "白发角翼角色、DeepSeek、带Z发饰黑发角色和紫发猫耳角色同框。这里只建立同作品群像共现，不把共同合影写成友谊或亲属。",
+      "scope": "observed_visual_copresence",
+      "canon_status": "仅适用于这一作品或系列的虚构关系，不外推为所有AI娘创作共通设定。",
+      "source_ids": [
+        "src-a8ce8c9bc2"
+      ]
+    },
+    {
+      "id": "monthly-user-gpt",
+      "character_ids": [
+        "gpt"
+      ],
+      "other_participants": [
+        "未命名银色短发用户形象"
+      ],
+      "relation": "月初由GPT服务用户的主客关系",
+      "series": "阳光爬行者·月初月中月末",
+      "video_id": "BV1CNa36nEyw",
+      "url": "https://www.bilibili.com/video/BV1CNa36nEyw/",
+      "seconds": [
+        0.5
+      ],
+      "evidence": "豪华坐席旁，GPT给银色短发人物倒酒；字幕把简单乘法任务交给GPT。银色短发人物按用户角色记录，未认作具体AI娘。",
+      "scope": "observed_visual_and_subtitles",
+      "canon_status": "仅适用于这一作品或系列的虚构关系，不外推为所有AI娘创作共通设定。",
+      "source_ids": [
+        "src-04af5eae1c"
+      ]
+    },
+    {
+      "id": "monthly-user-team",
+      "character_ids": [
+        "deepseek",
+        "claude"
+      ],
+      "other_participants": [
+        "未命名银色短发用户形象"
+      ],
+      "relation": "同一用户与两名AI娘围桌的工作伙伴构图",
+      "series": "阳光爬行者·月初月中月末",
+      "video_id": "BV1CNa36nEyw",
+      "url": "https://www.bilibili.com/video/BV1CNa36nEyw/",
+      "seconds": [
+        12.5,
+        18.5
+      ],
+      "evidence": "DeepSeek、Claude和银色短发人物处于同一科技室工作桌前；未核对整段工作分工，关系仅写共同工作场景。",
+      "scope": "observed_visual_copresence",
+      "canon_status": "仅适用于这一作品或系列的虚构关系，不外推为所有AI娘创作共通设定。",
+      "source_ids": [
+        "src-04af5eae1c"
+      ]
+    },
+    {
+      "id": "translation-user-ds-assignment",
+      "character_ids": [
+        "deepseek"
+      ],
+      "other_participants": [
+        "未命名银色短发用户形象"
+      ],
+      "relation": "用户把文档翻译任务交给DeepSeek",
+      "series": "阳光爬行者·用户怒了",
+      "video_id": "BV1Wguz6gE3t",
+      "url": "https://www.bilibili.com/video/BV1Wguz6gE3t/",
+      "seconds": [
+        1.5,
+        3.5
+      ],
+      "evidence": "机房内银色短发人物面对DeepSeek，字幕说明交付文档翻译；随后该人物向门口走去。",
+      "scope": "observed_visual_and_subtitles",
+      "canon_status": "仅适用于这一作品或系列的虚构关系，不外推为所有AI娘创作共通设定。",
+      "source_ids": [
+        "src-73fa2fae34"
+      ]
+    },
+    {
+      "id": "translation-ds-qwen-delegation",
+      "character_ids": [
+        "deepseek",
+        "qwen"
+      ],
+      "other_participants": [],
+      "relation": "DeepSeek转请千问代做翻译",
+      "series": "阳光爬行者·用户怒了",
+      "video_id": "BV1Wguz6gE3t",
+      "url": "https://www.bilibili.com/video/BV1Wguz6gE3t/",
+      "seconds": [
+        7.5,
+        10.5
+      ],
+      "evidence": "DeepSeek坐在椅上，字幕点名千问帮忙翻译；蓝色全息轮廓之后出现蓝紫发长裙人物。千问身份同时得到作者简介支持。",
+      "scope": "observed_visual_and_subtitles",
+      "canon_status": "仅适用于这一作品或系列的虚构关系，不外推为所有AI娘创作共通设定。",
+      "source_ids": [
+        "src-73fa2fae34"
+      ]
+    },
+    {
+      "id": "translation-ai-user-fee",
+      "character_ids": [
+        "deepseek",
+        "qwen"
+      ],
+      "other_participants": [
+        "未命名银色短发用户形象"
+      ],
+      "relation": "两名AI娘面对用户提出token成本与涨价",
+      "series": "阳光爬行者·用户怒了",
+      "video_id": "BV1Wguz6gE3t",
+      "url": "https://www.bilibili.com/video/BV1Wguz6gE3t/",
+      "seconds": [
+        28.5,
+        31.5,
+        35.5
+      ],
+      "evidence": "DeepSeek与千问并排站在用户对面，字幕以token消耗提出加价，后续用户面部惊讶。这里只记作品内谈判，不当作真实收费。",
+      "scope": "observed_visual_and_subtitles",
+      "canon_status": "仅适用于这一作品或系列的虚构关系，不外推为所有AI娘创作共通设定。",
+      "source_ids": [
+        "src-73fa2fae34"
+      ]
+    },
+    {
+      "id": "contest-ds-doubao-rivals",
+      "character_ids": [
+        "deepseek",
+        "doubao"
+      ],
+      "other_participants": [],
+      "relation": "女神投票中第一名与第二名的对照",
+      "series": "阳光爬行者·半场开香槟",
+      "video_id": "BV1foHs6dEtK",
+      "url": "https://www.bilibili.com/video/BV1foHs6dEtK/",
+      "seconds": [
+        41.5,
+        48.5,
+        68.5
+      ],
+      "evidence": "DeepSeek惊讶喊豆包，两人随后同处颁奖舞台；末尾票数界面标豆包第一、deepseek第二。属于娱乐女神投票，非模型性能赛。",
+      "scope": "observed_visual_and_subtitles",
+      "canon_status": "仅适用于这一作品或系列的虚构关系，不外推为所有AI娘创作共通设定。",
+      "source_ids": [
+        "src-51d8b1e164"
+      ]
+    },
+    {
+      "id": "contest-ds-fans",
+      "character_ids": [
+        "deepseek"
+      ],
+      "other_participants": [
+        "蓝色鲸鱼观众群"
+      ],
+      "relation": "舞台角色与鲸鱼观众的偶像应援关系",
+      "series": "阳光爬行者·半场开香槟",
+      "video_id": "BV1foHs6dEtK",
+      "url": "https://www.bilibili.com/video/BV1foHs6dEtK/",
+      "seconds": [
+        27.5,
+        34.5
+      ],
+      "evidence": "DeepSeek在舞台亮相；观众席蓝色小鲸鱼面对舞台，字幕表达对DeepSeek的喜爱。",
+      "scope": "observed_visual_and_subtitles",
+      "canon_status": "仅适用于这一作品或系列的虚构关系，不外推为所有AI娘创作共通设定。",
+      "source_ids": [
+        "src-51d8b1e164"
+      ]
+    },
+    {
+      "id": "kitchen-ds-human",
+      "character_ids": [
+        "deepseek"
+      ],
+      "other_participants": [
+        "镜头外真实人手"
+      ],
+      "relation": "闯进厨房米锅的小角色与发现她的人",
+      "series": "中分背带裤·家里遭蓝色大肥鱼",
+      "video_id": "BV1q1tv6iELX",
+      "url": "https://www.bilibili.com/video/BV1q1tv6iELX/",
+      "seconds": [
+        2.5,
+        8.5,
+        13.5,
+        21.5
+      ],
+      "evidence": "米锅里出现Q版DeepSeek；真人手从她头顶将其提起，后来锅中米减少而她躺倒。只支持发现、拎起和贪吃情境，不虚构家庭成员身份。",
+      "scope": "observed_visual",
+      "canon_status": "仅适用于这一作品或系列的虚构关系，不外推为所有AI娘创作共通设定。",
+      "source_ids": [
+        "src-84bf6ac3f3"
+      ]
+    },
+    {
+      "id": "token-ds-viewer",
+      "character_ids": [
+        "deepseek"
+      ],
+      "other_participants": [
+        "镜头外用户／观众"
+      ],
+      "relation": "以镜头外观众为对象的投喂索取",
+      "series": "当大肥鱼吃完你的token后",
+      "video_id": "BV1P18y6jEkV",
+      "url": "https://www.bilibili.com/video/BV1P18y6jEkV/",
+      "seconds": [
+        0.5,
+        5.5,
+        7.5
+      ],
+      "evidence": "持勺DeepSeek站在盆后，盆转到镜头前景；标题给出吃完token的前提。观众作为对象是编者对镜头构图的解读，不是已核对白。",
+      "scope": "observed_visual_and_title_with_editorial_reading",
+      "canon_status": "仅适用于这一作品或系列的虚构关系，不外推为所有AI娘创作共通设定。",
+      "source_ids": [
+        "src-80429ec846"
+      ]
+    },
+    {
+      "id": "routing-claude-ds-glm-description",
+      "character_ids": [
+        "claude",
+        "deepseek",
+        "glm"
+      ],
+      "other_participants": [
+        "用户／动画讲解者",
+        "中转站"
+      ],
+      "relation": "任务路由误会：名义上统一DeepSeek、作者说实际出现GLM",
+      "series": "阿生生活·模型路由排查经验",
+      "video_id": "BV1JHhn6qEDU",
+      "url": "https://www.bilibili.com/video/BV1JHhn6qEDU/",
+      "seconds": [
+        32.5,
+        53.5
+      ],
+      "evidence": "可见部分是subagents说明页及路由图，尚未看见GLM娘接任务的具体动作；Claude、DeepSeek、GLM的角色分工来自作者简介。此条单列为文字设定关系，不混入实见剧情。",
+      "scope": "creator_description_only_with_related_ui_frames",
+      "canon_status": "仅适用于这一作品或系列的虚构关系，不外推为所有AI娘创作共通设定。",
+      "source_ids": [
+        "src-52255dbb55"
+      ]
+    }
+  ]
+}

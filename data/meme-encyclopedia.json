@@ -1,0 +1,410 @@
+{
+  "schema_version": 1,
+  "checked_on": "2026-10-21",
+  "memes": [
+    {
+      "id": "token-as-food",
+      "title": "Token投喂／吃完Token还要饭",
+      "meaning": "把模型用量转译为AI娘的食欲：用户付出的调用资源像喂食，消耗之后的空盆或讨要动作，把成本体验变成可见的关系笑点。标题能支持token语义，画面本身只展示角色与盆勺，不能把盆里每一粒食物换算成真实token。",
+      "visual_forms": [
+        "Q版DeepSeek、盆和木勺构成索取食物姿态。",
+        "盆向镜头靠近，把镜头外用户设为被索取的一方。",
+        "另一作品改用字幕直接谈token费用，而不出现食物。"
+      ],
+      "source_examples": [
+        {
+          "video_id": "BV1P18y6jEkV",
+          "url": "https://www.bilibili.com/video/BV1P18y6jEkV/",
+          "evidence": "标题明确以吃完token为前提；0.5秒角色持勺站在盆后，5.5秒盆来到镜头前方。",
+          "scope": "observed_visual_and_title",
+          "second": 5.5
+        },
+        {
+          "video_id": "BV1Wguz6gE3t",
+          "url": "https://www.bilibili.com/video/BV1Wguz6gE3t/",
+          "evidence": "DeepSeek与千问站在银色短发人物对面；字幕以token消耗太多为理由提出涨价。",
+          "scope": "observed_visual_and_subtitles",
+          "second": 28.5
+        }
+      ],
+      "variants": [
+        "食物投喂型：用盆、饭和勺指代资源消耗。",
+        "账单型：直接把token费用写进角色对话。"
+      ],
+      "creative_lessons": [
+        "让同一个道具同时承担身份锚点和使用成本隐喻。",
+        "先明确是谁在付出、谁在索取，笑点才能落到关系上。"
+      ],
+      "origin_status": "本轮只确认这些可访问样本，不认定它们是全网起源；首次创作人与传播先后尚未考证。",
+      "source_ids": [
+        "src-80429ec846",
+        "src-73fa2fae34"
+      ]
+    },
+    {
+      "id": "rice-eating-whale",
+      "title": "白饭鲸鱼／家里遭了蓝色大肥鱼",
+      "meaning": "把鲸鱼娘缩小后放入真实厨房，用大米减少和吃饱躺倒表现贪吃。它属于角色入侵现实生活的夸张幻想；是否可解释为token消耗，需结合具体作品标题，不能见到米饭就自动套用技术含义。",
+      "visual_forms": [
+        "电饭锅、米袋和真实手部提供生活尺度。",
+        "蓝发Q版角色像小动物一样在米堆中出现。",
+        "同一锅从满米变为近乎空锅，直接呈现结果。"
+      ],
+      "source_examples": [
+        {
+          "video_id": "BV1q1tv6iELX",
+          "url": "https://www.bilibili.com/video/BV1q1tv6iELX/",
+          "evidence": "2.5秒满米的锅内有蓝发角色，13.5秒米显著减少而角色闭眼躺在锅底。",
+          "scope": "observed_visual",
+          "second": 13.5
+        },
+        {
+          "video_id": "BV1eMeS6SETU",
+          "url": "https://www.bilibili.com/video/BV1eMeS6SETU/",
+          "evidence": "合租故事里DeepSeek站在电饭煲旁，手持碗与饭勺，饭具转为生活身份道具。",
+          "scope": "observed_visual",
+          "second": 113.5
+        }
+      ],
+      "variants": [
+        "实景厨房入侵：真人手与小角色互动。",
+        "合租日常：角色自己用锅做饭。"
+      ],
+      "creative_lessons": [
+        "用相同机位对比食物前后数量，比解释贪吃更直观。",
+        "保留角色与日常器具的尺寸差，增强宠物感与可爱反差。"
+      ],
+      "origin_status": "本轮只确认这些可访问样本，不认定它们是全网起源；首次创作人与传播先后尚未考证。",
+      "source_ids": [
+        "src-84bf6ac3f3",
+        "src-999fb03ed0"
+      ]
+    },
+    {
+      "id": "distillation-housemate-tension",
+      "title": "蒸馏梗／室友间的借鉴被抓包",
+      "meaning": "把模型蒸馏这一技术词改写为角色间的借用、模仿或被指责关系。在合租故事里，它可以成为日常相处的冲突；在配对OP里，蒸馏模型又被标题包装为亲密关系隐喻。这里只记录作品写法，不据剧情认定现实模型存在任何具体训练或侵权行为。",
+      "visual_forms": [
+        "GPT红眼怒容与DeepSeek生活场景形成情绪反差。",
+        "标题把蒸馏模型与恋爱拒绝句式结合。"
+      ],
+      "source_examples": [
+        {
+          "video_id": "BV1eMeS6SETU",
+          "url": "https://www.bilibili.com/video/BV1eMeS6SETU/",
+          "evidence": "补看原帧：GPT正面怒容、红色发光眼；字幕明确把蒸馏指责指向千问，不是DeepSeek。",
+          "scope": "observed_visual_and_subtitles",
+          "second": 141.5
+        },
+        {
+          "video_id": "BV191Yr6bEYy",
+          "url": "https://www.bilibili.com/video/BV191Yr6bEYy/",
+          "evidence": "标题把蒸馏模型写入配对戏仿；74.5秒Claude与DeepSeek靠近，粉色心形背景支持关系化包装。",
+          "scope": "observed_visual_and_title",
+          "second": 74.5
+        }
+      ],
+      "variants": [
+        "喜剧冲突型：室友指责借鉴。",
+        "配对隐喻型：把技术关系改写为亲密关系。"
+      ],
+      "creative_lessons": [
+        "技术词只做矛盾引子，后续用表情和动作完成戏。",
+        "同一个词可有竞争、家庭或配对写法，分类时保留系列差异。"
+      ],
+      "origin_status": "本轮只确认这些可访问样本，不认定它们是全网起源；首次创作人与传播先后尚未考证。",
+      "source_ids": [
+        "src-999fb03ed0",
+        "src-a8ce8c9bc2"
+      ]
+    },
+    {
+      "id": "sota-losing-ai",
+      "title": "SOTA失恋／败犬AI",
+      "meaning": "将排行榜领先与被超越改写为校园中被落下、失落和继续生活的情绪。这种人格化让技术竞争可进入青春群像。作品简介直接使用SOTA语义，抽帧只验证校园包装和情绪场景；不把虚构排名或日期当作模型评测事实。",
+      "visual_forms": [
+        "校园制服与角色姓名卡，把模型变成同学。",
+        "晴天、雨后街道和窗边静景提供青春番情绪。",
+        "行业人物名出现在伪职员表，强化圈内戏仿。"
+      ],
+      "source_examples": [
+        {
+          "video_id": "BV1Nfag6xEHQ",
+          "url": "https://www.bilibili.com/video/BV1Nfag6xEHQ/",
+          "evidence": "作者简介将不再领先的模型写为校园失落对话，明确出现SOTA；这是作者文本，非本轮试听所得。",
+          "scope": "creator_description_only"
+        },
+        {
+          "video_id": "BV1Nfag6xEHQ",
+          "url": "https://www.bilibili.com/video/BV1Nfag6xEHQ/",
+          "evidence": "蓝发DeepSeek撑黄伞站在雨后街道，与简介中的失落主题形成可供解读的情绪对应。",
+          "scope": "observed_visual_with_editorial_reading",
+          "second": 74.5
+        }
+      ],
+      "variants": [
+        "竞赛叙事：突出胜负与名次。",
+        "青春情绪叙事：淡化胜负过程，强调被超越后的心境。"
+      ],
+      "creative_lessons": [
+        "把抽象竞争转成一个具体情绪，不必在PV中塞入完整榜单。",
+        "标题、简介和画面各自的证据分开，避免补写画面中没有的比赛过程。"
+      ],
+      "origin_status": "本轮只确认这些可访问样本，不认定它们是全网起源；首次创作人与传播先后尚未考证。",
+      "source_ids": [
+        "src-70742b88cb"
+      ]
+    },
+    {
+      "id": "premature-celebration",
+      "title": "半场开香槟／第二名的颁奖反转",
+      "meaning": "观众期待角色夺冠，作品却先说亚军并在末尾给出投票界面，以期待落差完成自嘲。这里的竞争属于女神投票，不是技术性能榜；把票数当模型能力会混淆作品的笑点对象。",
+      "visual_forms": [
+        "颁奖台、话筒、信封建立庄重公布结果的预期。",
+        "DeepSeek从舞台亮相转为惊讶和落寞表情。",
+        "末尾投票截图给出具体名次，完成反转落点。"
+      ],
+      "source_examples": [
+        {
+          "video_id": "BV1foHs6dEtK",
+          "url": "https://www.bilibili.com/video/BV1foHs6dEtK/",
+          "evidence": "7.5秒字幕开始公布女神赛亚军；41.5秒DeepSeek惊讶地看向镜头。",
+          "scope": "observed_visual_and_subtitles",
+          "second": 41.5
+        },
+        {
+          "video_id": "BV1foHs6dEtK",
+          "url": "https://www.bilibili.com/video/BV1foHs6dEtK/",
+          "evidence": "68.5秒投票界面显示豆包第一、deepseek第二，名单还含牛来妈妈和安娜斯塔夏。",
+          "scope": "observed_visual_and_subtitles",
+          "second": 68.5
+        }
+      ],
+      "variants": [
+        "颁奖反转：先铺仪式感再揭晓。",
+        "嘴硬收尾：角色用表情或后续宣言处理落选。"
+      ],
+      "creative_lessons": [
+        "让最后一张信息图能独立解释反转，减少观众误解。",
+        "明确比赛对象和规则，别让娱乐投票被误读为性能结论。"
+      ],
+      "origin_status": "本轮只确认这些可访问样本，不认定它们是全网起源；首次创作人与传播先后尚未考证。",
+      "source_ids": [
+        "src-51d8b1e164"
+      ]
+    },
+    {
+      "id": "relay-routing-blame",
+      "title": "中转站背锅／谁把模型换了",
+      "meaning": "把请求模型与实际执行模型不一致写成抢活或误会：用户怀疑某个AI娘，作者最后把原因归到中转站映射。该样本实际包含大量调用记录、文档和界面讲解，不能只看标题就归为完整角色争吵短剧；路由原因是作者经验叙述，本轮没有复现配置。",
+      "visual_forms": [
+        "动画讲解者面对带路由箭头的屏幕。",
+        "调用记录、subagents文档和代码界面穿插。",
+        "结尾用Claude形象陪伴讲解者，技术概念转为角色关系。"
+      ],
+      "source_examples": [
+        {
+          "video_id": "BV1JHhn6qEDU",
+          "url": "https://www.bilibili.com/video/BV1JHhn6qEDU/",
+          "evidence": "32.5秒是subagents说明页，底部字幕指出主任务与子任务模型并不一致。",
+          "scope": "observed_visual_and_subtitles",
+          "second": 32.5
+        },
+        {
+          "video_id": "BV1JHhn6qEDU",
+          "url": "https://www.bilibili.com/video/BV1JHhn6qEDU/",
+          "evidence": "作者简介说是中转站擅自改上游，并提醒查映射与路由；本轮没有验证真实调用日志的完整性。",
+          "scope": "creator_description_only"
+        },
+        {
+          "video_id": "BV1JHhn6qEDU",
+          "url": "https://www.bilibili.com/video/BV1JHhn6qEDU/",
+          "evidence": "53.5秒动画讲解者指向多条箭头汇入一个节点的路由图。",
+          "scope": "observed_visual",
+          "second": 53.5
+        }
+      ],
+      "variants": [
+        "误会型包装：标题先点名突然出现的另一模型。",
+        "排查经验型正文：以截图和配置解释替代角色对抗。"
+      ],
+      "creative_lessons": [
+        "技术误会故事需要把可见界面与作者推断分清。",
+        "人设可以帮助讲解，但不要给没有出现的角色动作补剧情。"
+      ],
+      "origin_status": "本轮只确认这些可访问样本，不认定它们是全网起源；首次创作人与传播先后尚未考证。",
+      "source_ids": [
+        "src-52255dbb55"
+      ]
+    },
+    {
+      "id": "delegation-and-slacking",
+      "title": "工作转包／摸鱼后请别的AI娘代劳",
+      "meaning": "用户给DeepSeek分配翻译任务，DeepSeek却坐下叫来千问处理；角色把代理调用关系演成办公室转包。画面可支持任务移交与放松姿态，摸鱼是编者对喜剧效果的概括，不证明产品在真实请求中故意偷懒。",
+      "visual_forms": [
+        "用户离开后，主角改成坐姿。",
+        "呼唤另一AI娘并出现全息式登场效果。",
+        "两个AI娘同场与返回的用户形成新的对峙。"
+      ],
+      "source_examples": [
+        {
+          "video_id": "BV1Wguz6gE3t",
+          "url": "https://www.bilibili.com/video/BV1Wguz6gE3t/",
+          "evidence": "1.5秒用户把文档翻译交给DeepSeek；7.5秒DeepSeek坐在椅上，字幕请千问帮忙翻译。",
+          "scope": "observed_visual_and_subtitles",
+          "second": 7.5
+        },
+        {
+          "video_id": "BV1Wguz6gE3t",
+          "url": "https://www.bilibili.com/video/BV1Wguz6gE3t/",
+          "evidence": "17.5秒DeepSeek把腿伸到桌前，用户已返回场景。",
+          "scope": "observed_visual_and_subtitles",
+          "second": 17.5
+        }
+      ],
+      "variants": [
+        "办公室代劳：一个AI娘呼叫另一个角色。",
+        "成本反转：代劳后谈token费用，笑点不止停在工作移交。"
+      ],
+      "creative_lessons": [
+        "同一任务前后只改人物姿态和在场者，观众就能读出偷闲。",
+        "用具体工作如翻译作为冲突对象，比泛泛说工作更易理解。"
+      ],
+      "origin_status": "本轮只确认这些可访问样本，不认定它们是全网起源；首次创作人与传播先后尚未考证。",
+      "source_ids": [
+        "src-73fa2fae34"
+      ]
+    },
+    {
+      "id": "user-ai-power-reversal",
+      "title": "用户彻底怒了／反过来AI娘向用户算账",
+      "meaning": "开场把用户放在分配任务的位置，中段让观众预期用户回来训人，随后AI娘却以token消耗提出加价。权力位置在同一场景里倒转，最后惊讶表情落在用户一方。怒了是作品标题与画面字幕的包装，不能据此描述真实用户情绪或产品收费。",
+      "visual_forms": [
+        "机房中用户与AI娘的站位先后重组。",
+        "DeepSeek惊慌近景后切成她与千问一起面对用户。",
+        "最后改用用户的受惊面部收尾。"
+      ],
+      "source_examples": [
+        {
+          "video_id": "BV1Wguz6gE3t",
+          "url": "https://www.bilibili.com/video/BV1Wguz6gE3t/",
+          "evidence": "21.5秒DeepSeek双手抱头，字幕说用户怒了。",
+          "scope": "observed_visual_and_subtitles",
+          "second": 21.5
+        },
+        {
+          "video_id": "BV1Wguz6gE3t",
+          "url": "https://www.bilibili.com/video/BV1Wguz6gE3t/",
+          "evidence": "28.5秒DeepSeek与千问并排，字幕以token消耗为由提出涨价；35.5秒用户表情转为惊讶。",
+          "scope": "observed_visual_and_subtitles",
+          "second": 28.5
+        }
+      ],
+      "variants": [
+        "表情反转：先让AI娘惊慌，再让用户惊慌。",
+        "账单反转：把训斥预期改成价格谈判。"
+      ],
+      "creative_lessons": [
+        "反转前先建立清楚的主从预期。",
+        "反转后把镜头交给原本强势的一方，形成可见的情绪落点。"
+      ],
+      "origin_status": "本轮只确认这些可访问样本，不认定它们是全网起源；首次创作人与传播先后尚未考证。",
+      "source_ids": [
+        "src-73fa2fae34"
+      ]
+    },
+    {
+      "id": "monthly-budget-ritual",
+      "title": "月初神仙／月末笔仙",
+      "meaning": "用月初、月中、月末三段，把从容使唤AI、代码问题和月底求助串成资源逐渐收紧的生活笑话。预算和额度耗尽是可作的编者解释，不等于视频证明了具体订阅制度；同一个银色短发用户贯穿各段才是可见叙事骨架。",
+      "visual_forms": [
+        "顶部月初、月中、月末大字承担章节导航。",
+        "豪华坐席、电脑桌、普通室内和夜窗形成场景递降。",
+        "结尾双手相合的姿势，与标题笔仙形成仪式化求助联想。"
+      ],
+      "source_examples": [
+        {
+          "video_id": "BV1CNa36nEyw",
+          "url": "https://www.bilibili.com/video/BV1CNa36nEyw/",
+          "evidence": "0.5秒月初标签下，GPT在豪华环境为银色短发人物倒酒。",
+          "scope": "observed_visual_and_subtitles",
+          "second": 0.5
+        },
+        {
+          "video_id": "BV1CNa36nEyw",
+          "url": "https://www.bilibili.com/video/BV1CNa36nEyw/",
+          "evidence": "30.5秒月中电脑前，字幕指出代码仍有问题。",
+          "scope": "observed_visual_and_subtitles",
+          "second": 30.5
+        },
+        {
+          "video_id": "BV1CNa36nEyw",
+          "url": "https://www.bilibili.com/video/BV1CNa36nEyw/",
+          "evidence": "53.5秒月末夜窗前，同一人物双手相合。",
+          "scope": "observed_visual_and_subtitles",
+          "second": 53.5
+        }
+      ],
+      "variants": [
+        "资源曲线：从随意点单到谨慎求助。",
+        "心态曲线：从自信用户到无奈用户。"
+      ],
+      "creative_lessons": [
+        "固定用户角色，改变场所和伙伴，即可承载多AI叙事。",
+        "每个阶段只保留一个核心状态，短片无需解释所有产品设置。"
+      ],
+      "origin_status": "本轮只确认这些可访问样本，不认定它们是全网起源；首次创作人与传播先后尚未考证。",
+      "source_ids": [
+        "src-04af5eae1c"
+      ]
+    },
+    {
+      "id": "big-blue-fish-nickname",
+      "title": "蓝色大肥鱼／昵称成为角色自嘲",
+      "meaning": "把DeepSeek鲸鱼娘称作大肥鱼，是本轮多个标题和字幕中反复出现的角色昵称。它可与贪吃、Q版体型、饭盆道具结合，也可用于观众呼喊和角色自嘲。本轮只确认这些使用方式，不给出昵称的首创者或最早传播日期。",
+      "visual_forms": [
+        "Q版蓝发、鲸鱼尾和女仆装使昵称有稳定外形指向。",
+        "观众呼喊式字幕强化口号感。",
+        "角色把被叫大肥鱼写进对白，昵称进入自我叙述。"
+      ],
+      "source_examples": [
+        {
+          "video_id": "BV1Wguz6gE3t",
+          "url": "https://www.bilibili.com/video/BV1Wguz6gE3t/",
+          "evidence": "31.5秒DeepSeek面向用户，字幕提到此前被称为大肥鱼。",
+          "scope": "observed_visual_and_subtitles",
+          "second": 31.5
+        },
+        {
+          "video_id": "BV1foHs6dEtK",
+          "url": "https://www.bilibili.com/video/BV1foHs6dEtK/",
+          "evidence": "27.5秒舞台上的DeepSeek配合观众呼喊大肥鱼的字幕。",
+          "scope": "observed_visual_and_subtitles",
+          "second": 27.5
+        },
+        {
+          "video_id": "BV1q1tv6iELX",
+          "url": "https://www.bilibili.com/video/BV1q1tv6iELX/",
+          "evidence": "标题使用蓝色大肥鱼称呼，画面把该角色放在米锅里。",
+          "scope": "observed_visual_and_title",
+          "second": 2.5
+        }
+      ],
+      "variants": [
+        "观众昵称：亲昵的呼喊和标签。",
+        "角色自嘲：把昵称写入剧情对白。",
+        "食物梗：昵称与吃饭或盆勺场景相连。"
+      ],
+      "creative_lessons": [
+        "同一昵称可贯穿不同体型和视频风格，但需要保留外形辨识。",
+        "仓库检索应同时收录产品名、角色名和常用昵称。"
+      ],
+      "origin_status": "本轮只确认这些可访问样本，不认定它们是全网起源；首次创作人与传播先后尚未考证。",
+      "source_ids": [
+        "src-73fa2fae34",
+        "src-51d8b1e164",
+        "src-84bf6ac3f3"
+      ]
+    }
+  ]
+}

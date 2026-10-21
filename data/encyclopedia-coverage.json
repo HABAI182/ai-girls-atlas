@@ -1,0 +1,25 @@
+{
+  "checked_on": "2026-10-21",
+  "counts": {
+    "memes": 10,
+    "performances": 8,
+    "reactions": 31,
+    "actions": 23,
+    "relations": 17,
+    "kits": 13,
+    "creators": 23,
+    "history": 13,
+    "downloads": 12,
+    "cross_media": 16,
+    "audio_samples": 6,
+    "international": 6
+  },
+  "original_situation_proposals": 32,
+  "original_short_scripts": 3,
+  "wardrobe_directions": 8,
+  "scene_directions": 8,
+  "supplementary_video_reviews": 14,
+  "new_video_records": 14,
+  "new_audio_records": 6,
+  "reference_source_guides": 1
+}

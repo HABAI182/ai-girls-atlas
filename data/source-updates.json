@@ -66,6 +66,19 @@
       "same_visible_text_as_prior": false,
       "action": "英文入口对照或路由观察，不将404计作资料。",
       "text_sha256": "94c7d154a629da04aafa7d597b58833742e5602d3a10c31fdc0b00e169bc18fb"
+    },
+    {
+      "source": "TreapGoGo/deepseek-whale-girl",
+      "url": "https://github.com/TreapGoGo/deepseek-whale-girl",
+      "commit_sha": "99fdf6e419a4097cc9b2d6a8a808f7b96a412e38",
+      "previous_commit_sha": "99fdf6e419a4097cc9b2d6a8a808f7b96a412e38",
+      "checked_on": "2026-10-21",
+      "content_changed": false,
+      "action": "复用已有项目评述、6份工作流与ZIP入口；补视频、网站、画廊元数据与投稿流程关联。",
+      "user_supplied_video": "https://www.bilibili.com/video/BV1TNa761ERP/",
+      "new_guide": "encyclopedia/focus-treap.md",
+      "gallery_manifest_records": 128,
+      "new_local_asset_ids": []
     }
   ],
   "deduplication": "本轮新增50张原作/派生图和2张已有上游预览；原仓库32张与9张预览保留。",

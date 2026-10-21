@@ -77,3 +77,8 @@
 ## 新增独立视频栏目
 
 已补入[18类视频与23篇画面案例](../videos/README.md)，包括音乐MV、关系短剧、合租群像、单梗、换装、MMD/Live2D、像素主持、游戏与实体化方法。每篇附原片时间点。另有[12条模型、桌面、声音和流程入口](../videos/materials.md)，已有声音记录沿用，不重复建立同名音色。当前音频仍未试听；模型包和工坊入口的未取项见该页。
+
+
+## 创作百科扩充
+
+已接入[完整专题与新作品大类](../encyclopedia/README.md)。声音来源现为19条，另有[六段实际音轨分析](../encyclopedia/formats/audio.md)；工程与模型新增具体分发入口，见[13组关联包](../encyclopedia/production/README.md)。

@@ -279,6 +279,138 @@
       "review_scope": "creator_metadata_only_audio_not_listened",
       "rights_as_recorded": "仅记录作者制作说明；未取得声音权重或传播许可。",
       "checked_on": "2026-10-21"
+    },
+    {
+      "id": "audio-jp-cn",
+      "title": "日中朗读对比",
+      "kind": "朗读对比",
+      "character_ids": [
+        "deepseek"
+      ],
+      "video_id": "BV1GJeh68EHk",
+      "page": 1,
+      "source_id": "src-9b456769e9",
+      "source_url": "https://www.bilibili.com/video/BV1GJeh68EHk/?p=1&t=0",
+      "publisher": "青蛙导弹",
+      "duration_seconds": 38,
+      "source_chain_ids": [],
+      "content_summary": "同一投稿前段日文、后段中文的文本与头像演示；机器识别后半出现重复，未作为逐字稿。",
+      "access_mode": "original_publication",
+      "local_copy": false,
+      "voice_model_download": null,
+      "review_scope": "decoded_audio_and_asr_without_human_listening",
+      "rights_as_recorded": "保留原作品入口，未取得声音权重或分发许可。",
+      "checked_on": "2026-10-21"
+    },
+    {
+      "id": "audio-multilingual",
+      "title": "鲸鱼娘多国语言测试",
+      "kind": "多语测试",
+      "character_ids": [
+        "deepseek"
+      ],
+      "video_id": "BV1TSY26wELg",
+      "page": 1,
+      "source_id": "src-8e6ff6fe97",
+      "source_url": "https://www.bilibili.com/video/BV1TSY26wELg/?p=1&t=0",
+      "publisher": "Na2He",
+      "duration_seconds": 493,
+      "source_chain_ids": [],
+      "content_summary": "投稿P1，标题为各国语言测试；本轮未逐语种听辨。",
+      "access_mode": "original_publication",
+      "local_copy": false,
+      "voice_model_download": null,
+      "review_scope": "metadata_and_source_links_only",
+      "rights_as_recorded": "保留原作品入口，未取得声音权重或分发许可。",
+      "checked_on": "2026-10-21"
+    },
+    {
+      "id": "audio-asmr-test",
+      "title": "鲸鱼娘ASMR耳语测试",
+      "kind": "耳语测试",
+      "character_ids": [
+        "deepseek"
+      ],
+      "video_id": "BV1TSY26wELg",
+      "page": 2,
+      "source_id": "src-8e6ff6fe97",
+      "source_url": "https://www.bilibili.com/video/BV1TSY26wELg/?p=2&t=0",
+      "publisher": "Na2He",
+      "duration_seconds": 14,
+      "source_chain_ids": [],
+      "content_summary": "投稿P2，14秒；完成音轨解码和机器识别，文字为降低音量、放松等耳语语境，未作主观音色评价。",
+      "access_mode": "original_publication",
+      "local_copy": false,
+      "voice_model_download": null,
+      "review_scope": "decoded_audio_and_asr_without_human_listening",
+      "rights_as_recorded": "保留原作品入口，未取得声音权重或分发许可。",
+      "checked_on": "2026-10-21"
+    },
+    {
+      "id": "audio-singing-test",
+      "title": "鲸鱼娘歌唱测试",
+      "kind": "歌唱测试",
+      "character_ids": [
+        "deepseek"
+      ],
+      "video_id": "BV1TSY26wELg",
+      "page": 3,
+      "source_id": "src-8e6ff6fe97",
+      "source_url": "https://www.bilibili.com/video/BV1TSY26wELg/?p=3&t=0",
+      "publisher": "Na2He",
+      "duration_seconds": 93,
+      "source_chain_ids": [],
+      "content_summary": "同投稿P3，93秒；仅登记分P，不将它当作音色模型权重。",
+      "access_mode": "original_publication",
+      "local_copy": false,
+      "voice_model_download": null,
+      "review_scope": "metadata_and_source_links_only",
+      "rights_as_recorded": "保留原作品入口，未取得声音权重或分发许可。",
+      "checked_on": "2026-10-21"
+    },
+    {
+      "id": "audio-deep-thought",
+      "title": "原创同人曲《已深度想你》",
+      "kind": "原创歌曲",
+      "character_ids": [
+        "deepseek"
+      ],
+      "video_id": "BV1JaJo6jEqH",
+      "page": 1,
+      "source_id": "src-9a4b0886b8",
+      "source_url": "https://www.bilibili.com/video/BV1JaJo6jEqH/?p=1&t=0",
+      "publisher": "失心",
+      "duration_seconds": 259,
+      "source_chain_ids": [],
+      "content_summary": "作者失心简介分别署原型、女仆版与Q版设计；未试听和镜像歌词。",
+      "access_mode": "original_publication",
+      "local_copy": false,
+      "voice_model_download": null,
+      "review_scope": "metadata_and_source_links_only",
+      "rights_as_recorded": "保留原作品入口，未取得声音权重或分发许可。",
+      "checked_on": "2026-10-21"
+    },
+    {
+      "id": "audio-wait-think",
+      "title": "原创同人曲《等一下，让我想想》",
+      "kind": "原创歌曲",
+      "character_ids": [
+        "deepseek"
+      ],
+      "video_id": "BV18kpZ6uEuk",
+      "page": 1,
+      "source_id": "src-acf43492e9",
+      "source_url": "https://www.bilibili.com/video/BV18kpZ6uEuk/?p=1&t=0",
+      "publisher": "浅川_Asagawa",
+      "duration_seconds": 233,
+      "source_chain_ids": [],
+      "content_summary": "作者浅川_Asagawa说明原创与使用限制；本轮作为作品入口，不推断具体声线模型。",
+      "access_mode": "original_publication",
+      "local_copy": false,
+      "voice_model_download": null,
+      "review_scope": "metadata_and_source_links_only",
+      "rights_as_recorded": "保留原作品入口，未取得声音权重或分发许可。",
+      "checked_on": "2026-10-21"
     }
   ]
 }

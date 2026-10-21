@@ -1,0 +1,481 @@
+{
+  "checked_on": "2026-10-21",
+  "actions": [
+    {
+      "id": "act-01",
+      "title": "双手抱金属锅入场",
+      "character_ids": [
+        "deepseek"
+      ],
+      "video_id": "BV1eMeS6SETU",
+      "second": 2.5,
+      "author": "冬冰",
+      "item_type": "prop_pose",
+      "observed": "Q版角色双手把金属锅抱在胸前，站在打开的车门旁",
+      "reference_url": "https://www.bilibili.com/video/BV1eMeS6SETU/?t=2.5",
+      "asset_status": "reference_segment_only",
+      "downloadable_motion_file": null,
+      "downloadable_prop_file": null,
+      "scope_note": "仅片段；未取得锅模型或抱锅动作数据。",
+      "source_ids": [
+        "src-999fb03ed0"
+      ]
+    },
+    {
+      "id": "act-02",
+      "title": "端碗持饭勺",
+      "character_ids": [
+        "deepseek"
+      ],
+      "video_id": "BV1eMeS6SETU",
+      "second": 113.5,
+      "author": "冬冰",
+      "item_type": "prop_interaction",
+      "observed": "一手端碗、一手持勺，旁边电饭锅开盖",
+      "reference_url": "https://www.bilibili.com/video/BV1eMeS6SETU/?t=113.5",
+      "asset_status": "reference_segment_only",
+      "downloadable_motion_file": null,
+      "downloadable_prop_file": null,
+      "scope_note": "能参考手和碗勺关系，不证明已有可下载绑定动作。",
+      "source_ids": [
+        "src-999fb03ed0"
+      ]
+    },
+    {
+      "id": "act-03",
+      "title": "倒扣盆后躲箱",
+      "character_ids": [
+        "deepseek"
+      ],
+      "video_id": "BV15X3n6mEWy",
+      "second": 4.5,
+      "author": "蒙德砍壬",
+      "item_type": "staged_gag",
+      "observed": "前段倒扣盆后，角色躲进箱后，蓝色头发被木箱部分遮挡",
+      "reference_url": "https://www.bilibili.com/video/BV15X3n6mEWy/?t=4.5",
+      "asset_status": "reference_segment_only",
+      "downloadable_motion_file": null,
+      "downloadable_prop_file": null,
+      "scope_note": "动作顺序由同一片前后样本支持；没有动作文件。",
+      "source_ids": [
+        "src-1845559f0f"
+      ]
+    },
+    {
+      "id": "act-04",
+      "title": "人手拎起小角色",
+      "character_ids": [
+        "deepseek"
+      ],
+      "video_id": "BV1q1tv6iELX",
+      "second": 8.5,
+      "author": "中分_背带裤",
+      "item_type": "scale_interaction",
+      "observed": "人手从角色头顶上方将其拎到镜头前",
+      "reference_url": "https://www.bilibili.com/video/BV1q1tv6iELX/?t=8.5",
+      "asset_status": "reference_segment_only",
+      "downloadable_motion_file": null,
+      "downloadable_prop_file": null,
+      "scope_note": "没有确认实拍/生成工艺，只记录大手与小角色的接触构图。",
+      "source_ids": [
+        "src-84bf6ac3f3"
+      ]
+    },
+    {
+      "id": "act-05",
+      "title": "空盆与木勺向镜头互动",
+      "character_ids": [
+        "deepseek"
+      ],
+      "video_id": "BV1P18y6jEkV",
+      "second": 1.5,
+      "author": "芝士蓝白碗",
+      "item_type": "prop_interaction",
+      "observed": "角色从盆后把木勺向盆口方向伸出",
+      "reference_url": "https://www.bilibili.com/video/BV1P18y6jEkV/?t=1.5",
+      "asset_status": "reference_segment_only",
+      "downloadable_motion_file": null,
+      "downloadable_prop_file": null,
+      "scope_note": "可参考前景道具与角色的尺度；未取得可下载道具。",
+      "source_ids": [
+        "src-80429ec846"
+      ]
+    },
+    {
+      "id": "act-06",
+      "title": "摸头时双手靠下巴",
+      "character_ids": [
+        "deepseek"
+      ],
+      "video_id": "BV1GDbU6eEr9",
+      "second": 8.5,
+      "author": "ZipZipPipe",
+      "item_type": "static_pose",
+      "observed": "角色接受摸头，一眼闭起，两只拳头靠下巴",
+      "reference_url": "https://www.bilibili.com/video/BV1GDbU6eEr9/?t=8.5",
+      "asset_status": "reference_segment_only",
+      "downloadable_motion_file": null,
+      "downloadable_prop_file": null,
+      "scope_note": "静态表情包姿态；不能当作已制成的循环动画。",
+      "source_ids": [
+        "src-b60ff0def6"
+      ]
+    },
+    {
+      "id": "act-07",
+      "title": "双手横向持剑",
+      "character_ids": [
+        "deepseek"
+      ],
+      "video_id": "BV1GDbU6eEr9",
+      "second": 24.5,
+      "author": "ZipZipPipe",
+      "item_type": "static_prop_pose",
+      "observed": "双手把剑柄持在身前，长刃斜向左下，周围画有挥动线",
+      "reference_url": "https://www.bilibili.com/video/BV1GDbU6eEr9/?t=24.5",
+      "asset_status": "reference_segment_only",
+      "downloadable_motion_file": null,
+      "downloadable_prop_file": null,
+      "scope_note": "绘画动作线不是实际轨迹；无剑或挥剑数据文件。",
+      "source_ids": [
+        "src-b60ff0def6"
+      ]
+    },
+    {
+      "id": "act-08",
+      "title": "胸前抱臂吐槽",
+      "character_ids": [
+        "deepseek"
+      ],
+      "video_id": "BV1GDbU6eEr9",
+      "second": 36.5,
+      "author": "ZipZipPipe",
+      "item_type": "static_pose",
+      "observed": "双臂交叠，眼睛半垂，身体偏向一侧",
+      "reference_url": "https://www.bilibili.com/video/BV1GDbU6eEr9/?t=36.5",
+      "asset_status": "reference_segment_only",
+      "downloadable_motion_file": null,
+      "downloadable_prop_file": null,
+      "scope_note": "姿态可作表情参考，无动作包。",
+      "source_ids": [
+        "src-b60ff0def6"
+      ]
+    },
+    {
+      "id": "act-09",
+      "title": "递出冰淇淋",
+      "character_ids": [
+        "claude",
+        "deepseek"
+      ],
+      "video_id": "BV1PTHB6BEbA",
+      "second": 2.5,
+      "author": "戛然而纸",
+      "item_type": "two_character_prop_interaction",
+      "observed": "Claude把一支冰淇淋伸向长椅上的DeepSeek",
+      "reference_url": "https://www.bilibili.com/video/BV1PTHB6BEbA/?t=2.5",
+      "asset_status": "reference_segment_only",
+      "downloadable_motion_file": null,
+      "downloadable_prop_file": null,
+      "scope_note": "角色关系属于这一集；无冰淇淋道具或双人动作配布。",
+      "source_ids": [
+        "src-81586e1c86"
+      ]
+    },
+    {
+      "id": "act-10",
+      "title": "耳旁前倾双人近景",
+      "character_ids": [
+        "claude",
+        "deepseek"
+      ],
+      "video_id": "BV1PTHB6BEbA",
+      "second": 53.5,
+      "author": "戛然而纸",
+      "item_type": "two_character_pose",
+      "observed": "Claude靠向DeepSeek耳侧，镜头把两张脸置于主要画面",
+      "reference_url": "https://www.bilibili.com/video/BV1PTHB6BEbA/?t=53.5",
+      "asset_status": "reference_segment_only",
+      "downloadable_motion_file": null,
+      "downloadable_prop_file": null,
+      "scope_note": "未试听，不能把姿态命名为确切说话内容。",
+      "source_ids": [
+        "src-81586e1c86"
+      ]
+    },
+    {
+      "id": "act-11",
+      "title": "双人环抱",
+      "character_ids": [
+        "grok",
+        "gpt"
+      ],
+      "video_id": "BV1PTHB6BEbA",
+      "second": 119.5,
+      "author": "戛然而纸",
+      "item_type": "two_character_contact",
+      "observed": "金发双马尾角色闭眼抱住白发角翼角色",
+      "reference_url": "https://www.bilibili.com/video/BV1PTHB6BEbA/?t=119.5",
+      "asset_status": "reference_segment_only",
+      "downloadable_motion_file": null,
+      "downloadable_prop_file": null,
+      "scope_note": "只作接触姿态参考，非官方关系或双人动作数据。",
+      "source_ids": [
+        "src-81586e1c86"
+      ]
+    },
+    {
+      "id": "act-12",
+      "title": "抬掌招呼",
+      "character_ids": [
+        "claude"
+      ],
+      "video_id": "BV1eMeS6SETU",
+      "second": 56.5,
+      "author": "冬冰",
+      "item_type": "greeting_pose",
+      "observed": "抬起一掌面对镜头并微笑",
+      "reference_url": "https://www.bilibili.com/video/BV1eMeS6SETU/?t=56.5",
+      "asset_status": "reference_segment_only",
+      "downloadable_motion_file": null,
+      "downloadable_prop_file": null,
+      "scope_note": "在该帧确认掌面姿态；不由单帧推断完整挥手周期。",
+      "source_ids": [
+        "src-999fb03ed0"
+      ]
+    },
+    {
+      "id": "act-13",
+      "title": "一手扶额另一手拿书",
+      "character_ids": [
+        "claude"
+      ],
+      "video_id": "BV1GDbU6eEr9",
+      "second": 108.5,
+      "author": "ZipZipPipe",
+      "item_type": "static_prop_pose",
+      "observed": "角色扶住额侧，另一手拿着打开的书，周围乱线",
+      "reference_url": "https://www.bilibili.com/video/BV1GDbU6eEr9/?t=108.5",
+      "asset_status": "reference_segment_only",
+      "downloadable_motion_file": null,
+      "downloadable_prop_file": null,
+      "scope_note": "书本未配布；神情属于原生家庭梗图语境。",
+      "source_ids": [
+        "src-b60ff0def6"
+      ]
+    },
+    {
+      "id": "act-14",
+      "title": "伸指取笑",
+      "character_ids": [
+        "gemini"
+      ],
+      "video_id": "BV1GDbU6eEr9",
+      "second": 80.5,
+      "author": "ZipZipPipe",
+      "item_type": "static_pose",
+      "observed": "一手指向画面左侧，张嘴笑，眼睛不对称收窄",
+      "reference_url": "https://www.bilibili.com/video/BV1GDbU6eEr9/?t=80.5",
+      "asset_status": "reference_segment_only",
+      "downloadable_motion_file": null,
+      "downloadable_prop_file": null,
+      "scope_note": "静态表情姿态；不代表实际模型的交流态度。",
+      "source_ids": [
+        "src-b60ff0def6"
+      ]
+    },
+    {
+      "id": "act-15",
+      "title": "抱膝扶头",
+      "character_ids": [
+        "kimi"
+      ],
+      "video_id": "BV1mwRzBdEzk",
+      "second": 38.5,
+      "author": "ZipZipPipe",
+      "item_type": "static_pose",
+      "observed": "坐地把膝盖收近胸部，双手放在头侧，眼中含泪",
+      "reference_url": "https://www.bilibili.com/video/BV1mwRzBdEzk/?t=38.5",
+      "asset_status": "reference_segment_only",
+      "downloadable_motion_file": null,
+      "downloadable_prop_file": null,
+      "scope_note": "没有起身/坐下动画，仅静态失败反应图。",
+      "source_ids": [
+        "src-5653be328e"
+      ]
+    },
+    {
+      "id": "act-16",
+      "title": "三人分字举牌",
+      "character_ids": [
+        "deepseek",
+        "glm",
+        "kimi"
+      ],
+      "video_id": "BV1GDbU6eEr9",
+      "second": 60.5,
+      "author": "ZipZipPipe",
+      "item_type": "static_group_prop_pose",
+      "observed": "三人分别举恭、喜、你字牌，站位拼成一句祝贺词",
+      "reference_url": "https://www.bilibili.com/video/BV1GDbU6eEr9/?t=60.5",
+      "asset_status": "reference_segment_only",
+      "downloadable_motion_file": null,
+      "downloadable_prop_file": null,
+      "scope_note": "仅图中牌子及合影布局，不附牌子源文件或动作。",
+      "source_ids": [
+        "src-b60ff0def6"
+      ]
+    },
+    {
+      "id": "act-17",
+      "title": "书本夹在胸前",
+      "character_ids": [
+        "glm"
+      ],
+      "video_id": "BV1tE9XBbErS",
+      "second": 33.5,
+      "author": "ZipZipPipe",
+      "item_type": "static_prop_pose",
+      "observed": "双手把黑色书本夹在胸前，正面站立",
+      "reference_url": "https://www.bilibili.com/video/BV1tE9XBbErS/?t=33.5",
+      "asset_status": "reference_segment_only",
+      "downloadable_motion_file": null,
+      "downloadable_prop_file": null,
+      "scope_note": "Q版立绘展示；不能写成翻书动作。",
+      "source_ids": [
+        "src-77c5462742"
+      ]
+    },
+    {
+      "id": "act-18",
+      "title": "扶价目表并指条目",
+      "character_ids": [
+        "glm"
+      ],
+      "video_id": "BV1GDbU6eEr9",
+      "second": 116.5,
+      "author": "ZipZipPipe",
+      "item_type": "static_prop_pose",
+      "observed": "一手抓住板边，另一手指向价格列表",
+      "reference_url": "https://www.bilibili.com/video/BV1GDbU6eEr9/?t=116.5",
+      "asset_status": "reference_segment_only",
+      "downloadable_motion_file": null,
+      "downloadable_prop_file": null,
+      "scope_note": "只参考讲解牌的姿态；画中金额不作为当前价格资料。",
+      "source_ids": [
+        "src-b60ff0def6"
+      ]
+    },
+    {
+      "id": "act-19",
+      "title": "竖持大型斧杖",
+      "character_ids": [
+        "grok"
+      ],
+      "video_id": "BV1tE9XBbErS",
+      "second": 27.5,
+      "author": "ZipZipPipe",
+      "item_type": "static_prop_pose",
+      "observed": "大型双刃斧状长柄物竖在身侧，一手握持",
+      "reference_url": "https://www.bilibili.com/video/BV1tE9XBbErS/?t=27.5",
+      "asset_status": "reference_segment_only",
+      "downloadable_motion_file": null,
+      "downloadable_prop_file": null,
+      "scope_note": "静态识别道具，无挥砍动作或模型配布。",
+      "source_ids": [
+        "src-77c5462742"
+      ]
+    },
+    {
+      "id": "act-20",
+      "title": "折扇遮口",
+      "character_ids": [
+        "qwen"
+      ],
+      "video_id": "BV1tE9XBbErS",
+      "second": 51.5,
+      "author": "ZipZipPipe",
+      "item_type": "static_prop_pose",
+      "observed": "展开的扇子抬在下半张脸前，另一侧有小包",
+      "reference_url": "https://www.bilibili.com/video/BV1tE9XBbErS/?t=51.5",
+      "asset_status": "reference_segment_only",
+      "downloadable_motion_file": null,
+      "downloadable_prop_file": null,
+      "scope_note": "不由这一姿态推出害羞/神秘性格；没有展开扇子的动态文件。",
+      "source_ids": [
+        "src-77c5462742"
+      ]
+    },
+    {
+      "id": "act-21",
+      "title": "举扇并配大盾的比赛介绍",
+      "character_ids": [
+        "qwen"
+      ],
+      "video_id": "BV1ibpq6tE18",
+      "second": 289,
+      "author": "StuG_III",
+      "item_type": "game_commentary_overlay",
+      "observed": "介绍卡中紫发Qwen持扇，身侧为大盾图形，之后与游戏画面并列",
+      "reference_url": "https://www.bilibili.com/video/BV1ibpq6tE18/?t=289",
+      "asset_status": "reference_segment_only",
+      "downloadable_motion_file": null,
+      "downloadable_prop_file": null,
+      "scope_note": "盾是该集重绘/版式道具，不代表已提供3D盾牌或持盾动作文件。",
+      "source_ids": [
+        "src-b5f988f905"
+      ]
+    },
+    {
+      "id": "act-22",
+      "title": "Q版3D转身与抬腿",
+      "character_ids": [
+        "deepseek"
+      ],
+      "video_id": "BV1tD4X6AE7Q",
+      "second": 10.5,
+      "author": "水原镜",
+      "item_type": "3d_dance_reference",
+      "observed": "同一模型先展示正侧背朝向，再在全身构图中抬手抬腿",
+      "reference_url": "https://www.bilibili.com/video/BV1tD4X6AE7Q/?t=10.5",
+      "asset_status": "reference_segment_only",
+      "downloadable_motion_file": null,
+      "downloadable_prop_file": null,
+      "scope_note": "简介有模型配布线索并署名动作/相机tencha.3d，但本次未确认动作文件链接；模型许可不可自动套在舞台、音乐或动作上。",
+      "source_ids": [
+        "src-fe3817add9"
+      ]
+    },
+    {
+      "id": "act-23",
+      "title": "换装后眨眼双手手势",
+      "character_ids": [
+        "deepseek"
+      ],
+      "video_id": "BV1LQ7j6WEyD",
+      "second": 55.5,
+      "author": "uulumine゛",
+      "item_type": "generated_video_reference",
+      "observed": "白衬衫马甲造型靠近镜头，眨一只眼，双手作手势",
+      "reference_url": "https://www.bilibili.com/video/BV1LQ7j6WEyD/?t=55.5",
+      "asset_status": "reference_segment_only",
+      "downloadable_motion_file": null,
+      "downloadable_prop_file": null,
+      "scope_note": "作者另分享生成素材和教程，本视频为成片；没有确认可直接导入引擎的动作文件。",
+      "source_ids": [
+        "src-4f1e308470"
+      ]
+    }
+  ],
+  "file_availability": {
+    "confirmed_downloadable_motion_files": [],
+    "model_distribution_lead": {
+      "video_id": "BV1tD4X6AE7Q",
+      "author": "水原镜",
+      "declared_model_license": "CC BY-NC-SA 4.0",
+      "motion_credit_from_description": "tencha.3d",
+      "motion_file_url": null,
+      "note": "已确认的是简介里的模型配布与动作署名线索；未确认动作文件下载地址，不能把模型许可延伸到动作、音乐、舞台。"
+    }
+  }
+}

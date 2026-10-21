@@ -93,3 +93,8 @@ GLM狐娘与Zcode蒙眼工程少女分别登记；不能因为同属相关品牌
 - [【镜镜的PTCG】让DeepSeek-v4.1-Flash和GLM-5.3-Flash来一场简中宝可梦卡牌现开赛？谁更懂宝可梦卡牌？](../../videos/cases/BV1AyYb6rE1R.md)：模型竞赛、游戏与卡牌实验；虚拟主持人舞台、角色选手介绍。
 
 只把该作者作品的可见表现接入角色页；声音未试听。更多见[独立视频栏目](../../videos/README.md)。
+
+
+## 演出与创作关联
+
+[作品限定反应档案](../../encyclopedia/performances/glm.md) · [同情境原创对照](../../encyclopedia/performances/same-situation.md) · [素材关联包](../../encyclopedia/production/README.md)

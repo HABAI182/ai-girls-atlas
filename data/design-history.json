@@ -1,0 +1,266 @@
+{
+  "checked_on": "2026-10-21",
+  "events": [
+    {
+      "id": "history-zip-gallery",
+      "date": "2026-05-03T00:50:13+08:00",
+      "date_kind": "author_video_publication",
+      "author": "ZipZipPipe",
+      "character_ids": [
+        "deepseek",
+        "gemini",
+        "claude",
+        "gpt",
+        "grok",
+        "glm",
+        "kimi",
+        "minimax",
+        "qwen"
+      ],
+      "branch": "ZipZipPipe多AI常规/Q版",
+      "title": "同一作者集中展示九款AI常规与Q版",
+      "change": "可确认这组角色已在本日公开演示；不据此声称各角色首创均在本日。",
+      "previous_event_ids": [],
+      "video_id": "BV1tE9XBbErS",
+      "source_ids": [
+        "src-77c5462742"
+      ],
+      "source_url": "https://www.bilibili.com/video/BV1tE9XBbErS/",
+      "not_a_creation_date": true
+    },
+    {
+      "id": "history-mmd-release",
+      "date": "2026-08-30T16:30:00+08:00",
+      "date_kind": "author_video_publication",
+      "author": "水原镜",
+      "character_ids": [
+        "deepseek"
+      ],
+      "branch": "水原镜3D适配线",
+      "title": "MMD转换配布",
+      "change": "原2D角色进入水原镜制模、耶栗Yaki绑定、夏紫瞳渲染的3D配布分支。",
+      "previous_event_ids": [],
+      "video_id": "BV1tD4X6AE7Q",
+      "source_ids": [
+        "src-fe3817add9"
+      ],
+      "source_url": "https://www.bilibili.com/video/BV1tD4X6AE7Q/",
+      "not_a_creation_date": true
+    },
+    {
+      "id": "history-mzkagami-warudo",
+      "date": "2026-08-30",
+      "date_kind": "creator_package_changelog",
+      "author": "水原镜 / Mzkagami",
+      "character_ids": [
+        "deepseek"
+      ],
+      "branch": "水原镜3D适配线",
+      "title": "BOOTH记载Warudo包公开",
+      "change": "作者商品更新表列Warudo文件发布日期；与MMD分支分别记录。",
+      "previous_event_ids": [],
+      "source_ids": [
+        "src-bb561d0cf5"
+      ],
+      "source_url": "https://booth.pm/en/items/8777527",
+      "not_a_creation_date": true
+    },
+    {
+      "id": "history-mzkagami-vrc",
+      "date": "2026-09-02",
+      "date_kind": "creator_package_changelog",
+      "author": "水原镜 / Mzkagami",
+      "character_ids": [
+        "deepseek"
+      ],
+      "branch": "水原镜3D适配线",
+      "title": "VRC新增v1.0并更新v1.1",
+      "change": "同一作者商品更新表记录VRC适配与同日v1.1更新；B站VRC发布视频是另一时间锚，不回写为初创日期。",
+      "previous_event_ids": [
+        "history-mzkagami-warudo"
+      ],
+      "source_ids": [
+        "src-bb561d0cf5",
+        "src-ad553eafa7"
+      ],
+      "source_url": "https://booth.pm/en/items/8777527",
+      "not_a_creation_date": true
+    },
+    {
+      "id": "history-ssr-voice",
+      "date": "2026-09-10T15:28:46+08:00",
+      "date_kind": "author_video_publication",
+      "author": "星落落_oi",
+      "character_ids": [
+        "deepseek"
+      ],
+      "branch": "星落落声音实验",
+      "title": "短音色候选公开",
+      "change": "音色方向的短片入口，未提供固定声音模型文件。",
+      "previous_event_ids": [],
+      "video_id": "BV1PPYM6EEUR",
+      "source_ids": [
+        "src-132f96a0f8"
+      ],
+      "source_url": "https://www.bilibili.com/video/BV1PPYM6EEUR/",
+      "not_a_creation_date": true
+    },
+    {
+      "id": "history-ten-voices",
+      "date": "2026-09-12T10:01:31+08:00",
+      "date_kind": "author_video_publication",
+      "author": "星落落_oi",
+      "character_ids": [
+        "deepseek"
+      ],
+      "branch": "星落落声音实验",
+      "title": "十种音色比较",
+      "change": "同一作者从短候选走向多个声音方案比较。",
+      "previous_event_ids": [
+        "history-ssr-voice"
+      ],
+      "video_id": "BV16NYS6ZE8H",
+      "source_ids": [
+        "src-829a8497f5"
+      ],
+      "source_url": "https://www.bilibili.com/video/BV16NYS6ZE8H/",
+      "not_a_creation_date": true
+    },
+    {
+      "id": "history-refined-voice",
+      "date": "2026-09-13T17:27:46+08:00",
+      "date_kind": "author_video_publication",
+      "author": "星落落_oi",
+      "character_ids": [
+        "deepseek"
+      ],
+      "branch": "星落落声音实验",
+      "title": "音色熔炼完成投稿",
+      "change": "同作者标题标示后续音色迭代；本轮未试听，不判断是否确已稳定复现。",
+      "previous_event_ids": [
+        "history-ten-voices"
+      ],
+      "video_id": "BV1vSYe6kESU",
+      "source_ids": [
+        "src-57565e8781"
+      ],
+      "source_url": "https://www.bilibili.com/video/BV1vSYe6kESU/",
+      "not_a_creation_date": true
+    },
+    {
+      "id": "history-q-live2d",
+      "date": "2026-09-18T17:40:00+08:00",
+      "date_kind": "author_video_publication",
+      "author": "氵六青",
+      "character_ids": [
+        "deepseek"
+      ],
+      "branch": "氵六青Q版Live2D",
+      "title": "Q版模型发布",
+      "change": "另一作者把Q版外观组织成鼠控、外观选项、桌宠和多表情演示。",
+      "previous_event_ids": [],
+      "video_id": "BV16yYi69EQT",
+      "source_ids": [
+        "src-6e20f2e644"
+      ],
+      "source_url": "https://www.bilibili.com/video/BV16yYi69EQT/",
+      "not_a_creation_date": true
+    },
+    {
+      "id": "history-variable-live2d",
+      "date": "2026-09-25T09:00:00+08:00",
+      "date_kind": "author_video_publication",
+      "author": "狐宫静",
+      "character_ids": [
+        "deepseek"
+      ],
+      "branch": "狐宫静公皮",
+      "title": "TOKEN/钢盆与比例变形公皮",
+      "change": "另一独立公皮版本，明确建模作者并链接歌曲上游；不当成氵六青模型更新。",
+      "previous_event_ids": [],
+      "video_id": "BV1yvaT65EGk",
+      "source_ids": [
+        "src-e1698ab832"
+      ],
+      "source_url": "https://www.bilibili.com/video/BV1yvaT65EGk/",
+      "not_a_creation_date": true
+    },
+    {
+      "id": "history-maid-reference-v2",
+      "date": "2026-10-02",
+      "date_kind": "creator_reference_readme",
+      "author": "AI Moe Atlas / SelinLee",
+      "character_ids": [
+        "deepseek"
+      ],
+      "branch": "MaidAtelier派生建模线",
+      "title": "多视图v2参考",
+      "change": "作者说明独立AI生成四全身和三脸部视角，后用于3D细修；不是原作者隐藏设定复原。",
+      "previous_event_ids": [],
+      "source_ids": [
+        "src-a544f0cc8b"
+      ],
+      "source_url": "https://github.com/SelinLee/ai-moe-atlas/blob/018bc3ca6c8d946006dacfc0bca7bf65a6dff4d6/public/models/deep-whale-maid/README.md",
+      "not_a_creation_date": true
+    },
+    {
+      "id": "history-maid-model-v05",
+      "date": "2026-10-10",
+      "date_kind": "creator_model_readme_and_notice",
+      "author": "AI Moe Atlas / SelinLee",
+      "character_ids": [
+        "deepseek"
+      ],
+      "branch": "MaidAtelier派生建模线",
+      "title": "静态全身模型v0.5尾部细修",
+      "change": "相对10月9日候选仅改一个尾部网格，保留v0.4基线并公开Blend；仍未绑定或动画。",
+      "previous_event_ids": [
+        "history-maid-reference-v2"
+      ],
+      "source_ids": [
+        "src-039abc2413",
+        "src-267bb366e0"
+      ],
+      "source_url": "https://github.com/SelinLee/ai-moe-atlas/blob/018bc3ca6c8d946006dacfc0bca7bf65a6dff4d6/public/models/deep-whale-maid/v0.5.0/README.md",
+      "not_a_creation_date": true
+    },
+    {
+      "id": "history-yuanbao-fanchuan-1",
+      "date": "2026-08-30T22:46:52+08:00",
+      "date_kind": "video_publication",
+      "author": "帆船很忙",
+      "character_ids": [
+        "yuanbao"
+      ],
+      "branch": "帆船很忙元宝AI娘化",
+      "title": "元元酱短发卫衣公开",
+      "change": "公开短银白发、绿眼、绿白卫衣助手造型。",
+      "previous_event_ids": [],
+      "source_ids": [
+        "src-e04709ae31"
+      ],
+      "source_url": "https://www.bilibili.com/video/BV1AvtW6yEzp/",
+      "not_a_creation_date": true
+    },
+    {
+      "id": "history-yuanbao-fanchuan-2",
+      "date": "2026-09-14T13:40:34+08:00",
+      "date_kind": "video_publication",
+      "author": "帆船很忙",
+      "character_ids": [
+        "yuanbao"
+      ],
+      "branch": "帆船很忙元宝AI娘化",
+      "title": "3.0长发长裙与三造型合影公开",
+      "change": "先展示长发长裙，再展示短发卫衣、长裙、长发运动装的三造型合影；标题未逐人标御姐。",
+      "previous_event_ids": [
+        "history-yuanbao-fanchuan-1"
+      ],
+      "source_ids": [
+        "src-6223692f2e"
+      ],
+      "source_url": "https://www.bilibili.com/video/BV13dYC68E9W/",
+      "not_a_creation_date": true
+    }
+  ]
+}

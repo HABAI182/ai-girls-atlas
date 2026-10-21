@@ -73,3 +73,8 @@
 - [Apprentice-Geo/AI-Fanworks 项目说明](https://github.com/Apprentice-Geo/AI-Fanworks/blob/ee1f5176710f3bcfd60ee5cb0af00f77ed96748e/README.md) · `pinned_repository_text`
 
 返回[角色总览](../../README.md) · [新增资料评述](../../docs/09-more-sources.md) · [版本比较](../../docs/10-variant-guide.md)。
+
+
+## 演出与创作关联
+
+[作品限定反应档案](../../encyclopedia/performances/grok.md) · [同情境原创对照](../../encyclopedia/performances/same-situation.md) · [素材关联包](../../encyclopedia/production/README.md)

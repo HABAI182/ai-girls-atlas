@@ -15,3 +15,7 @@ python scripts/verify.py
 ```
 
 验证字节和引用通过后，仍需人工核对图片身份与来源。更正或下架请求请指出具体文件路径与可核查依据；不要求公开私人身份证明或联系方式。
+
+## 不会写代码也可以贡献
+
+打开[素材/来源投稿表单](https://github.com/HABAI182/ai-girls-atlas/issues/new?template=source.yml)或[更正表单](https://github.com/HABAI182/ai-girls-atlas/issues/new?template=correction.yml)，用网页填写即可。视频请附BV号、分P和时间点；声音另写是否有干音、配乐和具体分发入口。提交后由维护者整理入库。

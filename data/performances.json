@@ -1,0 +1,1209 @@
+{
+  "schema_version": 1,
+  "checked_on": "2026-10-21",
+  "profiles": [
+    {
+      "character_id": "deepseek",
+      "design_scope": "蓝发、鲸鱼特征与女仆装的不同作者版本",
+      "visible_range": "被责备、受抚摸、持剑反击、抱臂吐槽、漫画失能、盛饭与表白脸红均有画面",
+      "not_universal": "同一鲸鱼视觉母题可以承载软弱、强硬、吃饭、亲近等相反演出，不能压成单一吃货或笨蛋人设。",
+      "author_scopes": [
+        {
+          "author": "ZipZipPipe",
+          "video_ids": [
+            "BV1GDbU6eEr9"
+          ]
+        },
+        {
+          "author": "中分_背带裤",
+          "video_ids": [
+            "BV1q1tv6iELX"
+          ]
+        },
+        {
+          "author": "冬冰",
+          "video_ids": [
+            "BV1eMeS6SETU"
+          ]
+        },
+        {
+          "author": "戛然而纸",
+          "video_ids": [
+            "BV1PTHB6BEbA"
+          ]
+        }
+      ],
+      "reaction_ids": [
+        "ds-01",
+        "ds-02",
+        "ds-03",
+        "ds-04",
+        "ds-05",
+        "ds-06",
+        "ds-07",
+        "ds-08"
+      ],
+      "scene_coverage": {
+        "working": null,
+        "food": [
+          "ds-06",
+          "ds-08"
+        ],
+        "praise": [
+          "ds-02"
+        ],
+        "conflict": [
+          "ds-01",
+          "ds-03",
+          "ds-04"
+        ],
+        "relationship": [
+          "ds-07"
+        ],
+        "failure": [
+          "ds-05"
+        ],
+        "confusion": null,
+        "greeting": null,
+        "presentation": null,
+        "daily_life": null
+      },
+      "evidence_limit": "空白表示本次没有确认的相应画面，不表示其他作品不存在这种反应。"
+    },
+    {
+      "character_id": "gpt",
+      "design_scope": "ZipZipPipe白发角翼长裙及其剧情改编",
+      "visible_range": "托掌、闭眼微笑、发光怒眼与拥抱有画面",
+      "not_universal": "原始展示中的轻微笑容与合租片的夸张怒容，属于不同作品目的；托掌小球不是模型功能图。",
+      "author_scopes": [
+        {
+          "author": "ZipZipPipe",
+          "video_ids": [
+            "BV1tE9XBbErS"
+          ]
+        },
+        {
+          "author": "冬冰",
+          "video_ids": [
+            "BV1eMeS6SETU"
+          ]
+        },
+        {
+          "author": "戛然而纸",
+          "video_ids": [
+            "BV1PTHB6BEbA"
+          ]
+        }
+      ],
+      "reaction_ids": [
+        "gpt-01",
+        "gpt-02",
+        "gpt-03",
+        "gpt-04"
+      ],
+      "scene_coverage": {
+        "working": null,
+        "food": null,
+        "praise": null,
+        "conflict": [
+          "gpt-03"
+        ],
+        "relationship": [
+          "gpt-02",
+          "gpt-04"
+        ],
+        "failure": null,
+        "confusion": null,
+        "greeting": null,
+        "presentation": [
+          "gpt-01"
+        ],
+        "daily_life": null
+      },
+      "evidence_limit": "空白表示本次没有确认的相应画面，不表示其他作品不存在这种反应。"
+    },
+    {
+      "character_id": "claude",
+      "design_scope": "橙色长发、花饰/太阳式发饰和书本道具的相关改编",
+      "visible_range": "招手、递冰淇淋、靠近耳边、扶额持书均有画面",
+      "not_universal": "礼貌出场、恋爱剧情与崩溃表情包是不同作者的角色调度，不能拼成真实企业伦理或家庭史。",
+      "author_scopes": [
+        {
+          "author": "ZipZipPipe",
+          "video_ids": [
+            "BV1GDbU6eEr9"
+          ]
+        },
+        {
+          "author": "冬冰",
+          "video_ids": [
+            "BV1eMeS6SETU"
+          ]
+        },
+        {
+          "author": "戛然而纸",
+          "video_ids": [
+            "BV1PTHB6BEbA"
+          ]
+        }
+      ],
+      "reaction_ids": [
+        "claude-01",
+        "claude-02",
+        "claude-03",
+        "claude-04"
+      ],
+      "scene_coverage": {
+        "working": null,
+        "food": [
+          "claude-02"
+        ],
+        "praise": null,
+        "conflict": null,
+        "relationship": [
+          "claude-03"
+        ],
+        "failure": [
+          "claude-04"
+        ],
+        "confusion": null,
+        "greeting": [
+          "claude-01"
+        ],
+        "presentation": null,
+        "daily_life": null
+      },
+      "evidence_limit": "空白表示本次没有确认的相应画面，不表示其他作品不存在这种反应。"
+    },
+    {
+      "character_id": "gemini",
+      "design_scope": "蓝紫长发、猫耳、异色瞳与星形装饰的相关版本",
+      "visible_range": "低落抱膝、疑问手势、指人笑与窗边坐姿有画面",
+      "not_universal": "困惑和取笑只是具体梗图的反应；校园服版本与原版幻想装也不是同一个连续故事。",
+      "author_scopes": [
+        {
+          "author": "ScientificNNChan",
+          "video_ids": [
+            "BV1Nfag6xEHQ"
+          ]
+        },
+        {
+          "author": "ZipZipPipe",
+          "video_ids": [
+            "BV1GDbU6eEr9",
+            "BV1mwRzBdEzk"
+          ]
+        }
+      ],
+      "reaction_ids": [
+        "gemini-01",
+        "gemini-02",
+        "gemini-03",
+        "gemini-04"
+      ],
+      "scene_coverage": {
+        "working": null,
+        "food": null,
+        "praise": null,
+        "conflict": [
+          "gemini-03"
+        ],
+        "relationship": null,
+        "failure": [
+          "gemini-01"
+        ],
+        "confusion": [
+          "gemini-02"
+        ],
+        "greeting": null,
+        "presentation": null,
+        "daily_life": [
+          "gemini-04"
+        ]
+      },
+      "evidence_limit": "空白表示本次没有确认的相应画面，不表示其他作品不存在这种反应。"
+    },
+    {
+      "character_id": "grok",
+      "design_scope": "ZipZipPipe金发双马尾、黑红服与斧杖原版及剧情改编",
+      "visible_range": "斧杖静态展示、拥抱和脸红近景有画面",
+      "not_universal": "武器道具不等于暴力性格；Grok/GPT拥抱限定该作者这集关系，不能当默认配对。",
+      "author_scopes": [
+        {
+          "author": "ZipZipPipe",
+          "video_ids": [
+            "BV1tE9XBbErS"
+          ]
+        },
+        {
+          "author": "戛然而纸",
+          "video_ids": [
+            "BV1PTHB6BEbA"
+          ]
+        }
+      ],
+      "reaction_ids": [
+        "grok-01",
+        "grok-02",
+        "grok-03"
+      ],
+      "scene_coverage": {
+        "working": null,
+        "food": null,
+        "praise": null,
+        "conflict": null,
+        "relationship": [
+          "grok-02",
+          "grok-03"
+        ],
+        "failure": null,
+        "confusion": null,
+        "greeting": null,
+        "presentation": [
+          "grok-01"
+        ],
+        "daily_life": null
+      },
+      "evidence_limit": "空白表示本次没有确认的相应画面，不表示其他作品不存在这种反应。"
+    },
+    {
+      "character_id": "kimi",
+      "design_scope": "白发、K标记、新月/音符视觉元素的相关版本",
+      "visible_range": "含泪抱膝、扶头、举牌祝贺和抬手眼侧均有画面",
+      "not_universal": "悲伤新闻梗和欢快祝贺图同时存在；不得把泪眼固定为Kimi本质或把图中文字当新闻核验。",
+      "author_scopes": [
+        {
+          "author": "ZipZipPipe",
+          "video_ids": [
+            "BV1GDbU6eEr9",
+            "BV1mwRzBdEzk",
+            "BV1tE9XBbErS"
+          ]
+        }
+      ],
+      "reaction_ids": [
+        "kimi-01",
+        "kimi-02",
+        "kimi-03"
+      ],
+      "scene_coverage": {
+        "working": null,
+        "food": null,
+        "praise": [
+          "kimi-02"
+        ],
+        "conflict": null,
+        "relationship": null,
+        "failure": [
+          "kimi-01"
+        ],
+        "confusion": null,
+        "greeting": null,
+        "presentation": [
+          "kimi-03"
+        ],
+        "daily_life": null
+      },
+      "evidence_limit": "空白表示本次没有确认的相应画面，不表示其他作品不存在这种反应。"
+    },
+    {
+      "character_id": "glm",
+      "design_scope": "黑发猫耳、Z饰物、黑白服与书本的相关版本",
+      "visible_range": "夹书站姿、举牌微笑、指价目表均有画面",
+      "not_universal": "睡眠眼罩是造型元素，现有帧不证明角色在睡觉；表情包价格牌也不用于当前报价。",
+      "author_scopes": [
+        {
+          "author": "ZipZipPipe",
+          "video_ids": [
+            "BV1GDbU6eEr9",
+            "BV1tE9XBbErS"
+          ]
+        }
+      ],
+      "reaction_ids": [
+        "glm-01",
+        "glm-02",
+        "glm-03"
+      ],
+      "scene_coverage": {
+        "working": [
+          "glm-03"
+        ],
+        "food": null,
+        "praise": [
+          "glm-02"
+        ],
+        "conflict": null,
+        "relationship": null,
+        "failure": null,
+        "confusion": null,
+        "greeting": null,
+        "presentation": [
+          "glm-01"
+        ],
+        "daily_life": null
+      },
+      "evidence_limit": "空白表示本次没有确认的相应画面，不表示其他作品不存在这种反应。"
+    },
+    {
+      "character_id": "qwen",
+      "design_scope": "原版蓝发持扇小AI与游戏赛紫发重绘版",
+      "visible_range": "遮口持扇及配盾的游戏介绍姿态有画面；暂缺足够动态情绪例子",
+      "not_universal": "两个作者版本发色和服装均不同；同为折扇不等于一套官方设定，缺失反应保持空白。",
+      "author_scopes": [
+        {
+          "author": "StuG_III",
+          "video_ids": [
+            "BV1ibpq6tE18"
+          ]
+        },
+        {
+          "author": "ZipZipPipe",
+          "video_ids": [
+            "BV1tE9XBbErS"
+          ]
+        }
+      ],
+      "reaction_ids": [
+        "qwen-01",
+        "qwen-02"
+      ],
+      "scene_coverage": {
+        "working": [
+          "qwen-02"
+        ],
+        "food": null,
+        "praise": null,
+        "conflict": null,
+        "relationship": null,
+        "failure": null,
+        "confusion": null,
+        "greeting": null,
+        "presentation": [
+          "qwen-01"
+        ],
+        "daily_life": null
+      },
+      "evidence_limit": "空白表示本次没有确认的相应画面，不表示其他作品不存在这种反应。"
+    }
+  ],
+  "reactions": [
+    {
+      "id": "ds-01",
+      "character_id": "deepseek",
+      "video_id": "BV1GDbU6eEr9",
+      "second": 0.5,
+      "author": "ZipZipPipe",
+      "scene": "conflict",
+      "observable_expression": "眼角下垂、脸颊红、嘴角收紧",
+      "observable_action": "跪坐，双手并放在膝前，旁边有空碗与指向她的手",
+      "context": "表情包中文字对吃饭进行指责；画面构成被责备者反应",
+      "scope_limit": "只是ZipZipPipe这张吃饭梗的受责备表情，不表示所有DeepSeek角色都软弱或贪吃。",
+      "evidence_kind": "viewed_frame",
+      "representation": "static_pose",
+      "is_universal_personality": false,
+      "url": "https://www.bilibili.com/video/BV1GDbU6eEr9/?t=0.5",
+      "source_ids": [
+        "src-b60ff0def6"
+      ]
+    },
+    {
+      "id": "ds-02",
+      "character_id": "deepseek",
+      "video_id": "BV1GDbU6eEr9",
+      "second": 8.5,
+      "author": "ZipZipPipe",
+      "scene": "praise",
+      "observable_expression": "一只眼闭起，张嘴微笑，脸红",
+      "observable_action": "接受头顶抚摸，双手握拳靠近下巴，旁有小心形",
+      "context": "抚摸与心形构成受到亲近/鼓励的语境；没有听取配音",
+      "scope_limit": "头部被摸与愉快表情可见；不能据此断言角色固定喜欢被摸头。",
+      "evidence_kind": "viewed_frame",
+      "representation": "static_pose",
+      "is_universal_personality": false,
+      "url": "https://www.bilibili.com/video/BV1GDbU6eEr9/?t=8.5",
+      "source_ids": [
+        "src-b60ff0def6"
+      ]
+    },
+    {
+      "id": "ds-03",
+      "character_id": "deepseek",
+      "video_id": "BV1GDbU6eEr9",
+      "second": 24.5,
+      "author": "ZipZipPipe",
+      "scene": "conflict",
+      "observable_expression": "眉眼收紧，嘴部张开",
+      "observable_action": "双手持长剑横向对准前方，周围有挥动线条",
+      "context": "表情包以持剑姿态表达强硬回应",
+      "scope_limit": "这是静态动作示意，不是已经取得的挥剑动作文件，也不是实际产品的攻击性。",
+      "evidence_kind": "viewed_frame",
+      "representation": "static_pose",
+      "is_universal_personality": false,
+      "url": "https://www.bilibili.com/video/BV1GDbU6eEr9/?t=24.5",
+      "source_ids": [
+        "src-b60ff0def6"
+      ]
+    },
+    {
+      "id": "ds-04",
+      "character_id": "deepseek",
+      "video_id": "BV1GDbU6eEr9",
+      "second": 36.5,
+      "author": "ZipZipPipe",
+      "scene": "conflict",
+      "observable_expression": "半垂眼，眉部倾斜，嘴部略张",
+      "observable_action": "双臂交叠在胸前，身体向一侧偏",
+      "context": "配字表达对对方行为不满的吐槽",
+      "scope_limit": "只归该作品的嫌弃演出，不推成通用冷嘲性格。",
+      "evidence_kind": "viewed_frame",
+      "representation": "static_pose",
+      "is_universal_personality": false,
+      "url": "https://www.bilibili.com/video/BV1GDbU6eEr9/?t=36.5",
+      "source_ids": [
+        "src-b60ff0def6"
+      ]
+    },
+    {
+      "id": "ds-05",
+      "character_id": "deepseek",
+      "video_id": "BV1GDbU6eEr9",
+      "second": 64.5,
+      "author": "ZipZipPipe",
+      "scene": "failure",
+      "observable_expression": "双眼画成叉号，嘴张开",
+      "observable_action": "身体后仰/横倒，周围有气泡与幽灵状符号",
+      "context": "夸张失去状态的失败表情包",
+      "scope_limit": "这是漫画式失能图示，不能当作模型服务真实宕机记录。",
+      "evidence_kind": "viewed_frame",
+      "representation": "static_pose",
+      "is_universal_personality": false,
+      "url": "https://www.bilibili.com/video/BV1GDbU6eEr9/?t=64.5",
+      "source_ids": [
+        "src-b60ff0def6"
+      ]
+    },
+    {
+      "id": "ds-06",
+      "character_id": "deepseek",
+      "video_id": "BV1q1tv6iELX",
+      "second": 21.5,
+      "author": "中分_背带裤",
+      "scene": "food",
+      "observable_expression": "下垂眉眼，额头汗滴，嘴角向下",
+      "observable_action": "被人手从头部上方拎起，锅为背景",
+      "context": "厨房吃米短片的再次被抓场面",
+      "scope_limit": "只限定中分_背带裤的厨房剧情；人手互动不代表实拍制作已经确认。",
+      "evidence_kind": "viewed_frame",
+      "representation": "sampled_animation",
+      "is_universal_personality": false,
+      "url": "https://www.bilibili.com/video/BV1q1tv6iELX/?t=21.5",
+      "source_ids": [
+        "src-84bf6ac3f3"
+      ]
+    },
+    {
+      "id": "ds-07",
+      "character_id": "deepseek",
+      "video_id": "BV1PTHB6BEbA",
+      "second": 79.5,
+      "author": "戛然而纸",
+      "scene": "relationship",
+      "observable_expression": "明显脸红，垂眼，嘴部收拢",
+      "observable_action": "头部略低，肩部收起",
+      "context": "Claude表白段落后，镜头集中在DeepSeek面部",
+      "scope_limit": "关系与情绪属于戛然而纸这一集的剧情，不是官方配对或普遍人设。",
+      "evidence_kind": "viewed_frame",
+      "representation": "sampled_animation",
+      "is_universal_personality": false,
+      "url": "https://www.bilibili.com/video/BV1PTHB6BEbA/?t=79.5",
+      "source_ids": [
+        "src-81586e1c86"
+      ]
+    },
+    {
+      "id": "ds-08",
+      "character_id": "deepseek",
+      "video_id": "BV1eMeS6SETU",
+      "second": 113.5,
+      "author": "冬冰",
+      "scene": "food",
+      "observable_expression": "眼睛睁大，面部专注",
+      "observable_action": "一手端饭碗，一手持饭勺，旁边电饭锅开盖",
+      "context": "合租剧情中在旧厨房盛饭",
+      "scope_limit": "这次见到的是盛饭姿态，不把吃货梗扩成每位作者必须沿用的设定。",
+      "evidence_kind": "viewed_frame",
+      "representation": "sampled_animation",
+      "is_universal_personality": false,
+      "url": "https://www.bilibili.com/video/BV1eMeS6SETU/?t=113.5",
+      "source_ids": [
+        "src-999fb03ed0"
+      ]
+    },
+    {
+      "id": "gpt-01",
+      "character_id": "gpt",
+      "video_id": "BV1tE9XBbErS",
+      "second": 21.5,
+      "author": "ZipZipPipe",
+      "scene": "presentation",
+      "observable_expression": "双眼睁开，嘴部轻微上扬",
+      "observable_action": "一手向外托起，掌边有蓝色小球状图形",
+      "context": "原作者依次展示大AI与小AI的Q版形象；本帧为小AI版本",
+      "scope_limit": "蓝色图形只作画面道具，不称其是实际技能、工具或产品功能。",
+      "evidence_kind": "viewed_frame",
+      "representation": "static_pose",
+      "is_universal_personality": false,
+      "url": "https://www.bilibili.com/video/BV1tE9XBbErS/?t=21.5",
+      "source_ids": [
+        "src-77c5462742"
+      ]
+    },
+    {
+      "id": "gpt-02",
+      "character_id": "gpt",
+      "video_id": "BV1eMeS6SETU",
+      "second": 99.5,
+      "author": "冬冰",
+      "scene": "relationship",
+      "observable_expression": "闭眼、嘴部上扬",
+      "observable_action": "头部向下略倾",
+      "context": "旧屋合租对话中的GPT面部近景",
+      "scope_limit": "只是在该段对话里表现轻松；不可与同一片后面的怒容拼成稳定人格诊断。",
+      "evidence_kind": "viewed_frame",
+      "representation": "sampled_animation",
+      "is_universal_personality": false,
+      "url": "https://www.bilibili.com/video/BV1eMeS6SETU/?t=99.5",
+      "source_ids": [
+        "src-999fb03ed0"
+      ]
+    },
+    {
+      "id": "gpt-03",
+      "character_id": "gpt",
+      "video_id": "BV1eMeS6SETU",
+      "second": 141.5,
+      "author": "冬冰",
+      "scene": "conflict",
+      "observable_expression": "眼部叠加红色发光效果，张嘴，眉眼收紧",
+      "observable_action": "面部正对镜头，脸部占满画面",
+      "context": "底部字幕把争执联系到蒸馏梗",
+      "scope_limit": "光效与字幕服务冬冰这集的冲突笑点，不代表实际产品对其他模型有立场。",
+      "evidence_kind": "viewed_frame",
+      "representation": "sampled_animation",
+      "is_universal_personality": false,
+      "url": "https://www.bilibili.com/video/BV1eMeS6SETU/?t=141.5",
+      "source_ids": [
+        "src-999fb03ed0"
+      ]
+    },
+    {
+      "id": "gpt-04",
+      "character_id": "gpt",
+      "video_id": "BV1PTHB6BEbA",
+      "second": 119.5,
+      "author": "戛然而纸",
+      "scene": "relationship",
+      "observable_expression": "近距离侧脸，白发角色的完整表情被角度部分遮挡",
+      "observable_action": "与金发双马尾角色拥抱，手臂环绕对方",
+      "context": "室内双人亲近段落，片名简介把另一位称作Grok",
+      "scope_limit": "可以确认拥抱，不能从遮挡脸部臆写GPT此刻的具体心理。",
+      "evidence_kind": "viewed_frame",
+      "representation": "sampled_animation",
+      "is_universal_personality": false,
+      "url": "https://www.bilibili.com/video/BV1PTHB6BEbA/?t=119.5",
+      "source_ids": [
+        "src-81586e1c86"
+      ]
+    },
+    {
+      "id": "claude-01",
+      "character_id": "claude",
+      "video_id": "BV1eMeS6SETU",
+      "second": 56.5,
+      "author": "冬冰",
+      "scene": "greeting",
+      "observable_expression": "睁眼微笑，嘴张开",
+      "observable_action": "抬起一只手掌朝向镜头",
+      "context": "画面标克劳德，并以你好字幕介绍合租者",
+      "scope_limit": "笑脸与招手是这次出场方式，不必固定成所有Claude作品的待客礼仪。",
+      "evidence_kind": "viewed_frame",
+      "representation": "sampled_animation",
+      "is_universal_personality": false,
+      "url": "https://www.bilibili.com/video/BV1eMeS6SETU/?t=56.5",
+      "source_ids": [
+        "src-999fb03ed0"
+      ]
+    },
+    {
+      "id": "claude-02",
+      "character_id": "claude",
+      "video_id": "BV1PTHB6BEbA",
+      "second": 2.5,
+      "author": "戛然而纸",
+      "scene": "food",
+      "observable_expression": "面向DeepSeek，嘴角轻微上扬",
+      "observable_action": "双手持冰淇淋，把一支伸向坐着的DeepSeek",
+      "context": "公园长椅边分享冰淇淋",
+      "scope_limit": "道具与动作可见；温柔或追求关系属于该集编排，不可自动推广。",
+      "evidence_kind": "viewed_frame",
+      "representation": "sampled_animation",
+      "is_universal_personality": false,
+      "url": "https://www.bilibili.com/video/BV1PTHB6BEbA/?t=2.5",
+      "source_ids": [
+        "src-81586e1c86"
+      ]
+    },
+    {
+      "id": "claude-03",
+      "character_id": "claude",
+      "video_id": "BV1PTHB6BEbA",
+      "second": 53.5,
+      "author": "戛然而纸",
+      "scene": "relationship",
+      "observable_expression": "半垂眼，脸颊微红",
+      "observable_action": "靠近DeepSeek耳旁，身体前倾",
+      "context": "表白前后的双人近景",
+      "scope_limit": "靠近耳边是画面事实；没有试听，不称该秒确实说出某句悄悄话。",
+      "evidence_kind": "viewed_frame",
+      "representation": "sampled_animation",
+      "is_universal_personality": false,
+      "url": "https://www.bilibili.com/video/BV1PTHB6BEbA/?t=53.5",
+      "source_ids": [
+        "src-81586e1c86"
+      ]
+    },
+    {
+      "id": "claude-04",
+      "character_id": "claude",
+      "video_id": "BV1GDbU6eEr9",
+      "second": 108.5,
+      "author": "ZipZipPipe",
+      "scene": "failure",
+      "observable_expression": "半垂且发涩的眼睛，眉部下沉，嘴角收紧",
+      "observable_action": "一手扶额，另一手拿书，周围有乱线符号",
+      "context": "表情包把挫败感联系到所谓原生家庭梗",
+      "scope_limit": "这是作者关于公司/使用体验的漫画评论，不是Claude真实家庭背景或心理状态。",
+      "evidence_kind": "viewed_frame",
+      "representation": "static_pose",
+      "is_universal_personality": false,
+      "url": "https://www.bilibili.com/video/BV1GDbU6eEr9/?t=108.5",
+      "source_ids": [
+        "src-b60ff0def6"
+      ]
+    },
+    {
+      "id": "gemini-01",
+      "character_id": "gemini",
+      "video_id": "BV1mwRzBdEzk",
+      "second": 27.5,
+      "author": "ZipZipPipe",
+      "scene": "failure",
+      "observable_expression": "半垂眼，眉部向内，嘴角收紧",
+      "observable_action": "抱膝坐下，双手靠在膝部，四周有垂落色块",
+      "context": "算力会有的配字与收缩姿态形成低落画面",
+      "scope_limit": "仅为ZipZipPipe这张算力梗的情绪表达，不说明真实配额或服务能力。",
+      "evidence_kind": "viewed_frame",
+      "representation": "static_pose",
+      "is_universal_personality": false,
+      "url": "https://www.bilibili.com/video/BV1mwRzBdEzk/?t=27.5",
+      "source_ids": [
+        "src-5653be328e"
+      ]
+    },
+    {
+      "id": "gemini-02",
+      "character_id": "gemini",
+      "video_id": "BV1mwRzBdEzk",
+      "second": 43.5,
+      "author": "ZipZipPipe",
+      "scene": "confusion",
+      "observable_expression": "双眼睁大，张嘴",
+      "observable_action": "一手靠近下巴，身边有问号与星星",
+      "context": "这是啥子配字的疑问表情包",
+      "scope_limit": "该疑问反应是作者选取的网络表情，不是Gemini的固定口头禅。",
+      "evidence_kind": "viewed_frame",
+      "representation": "static_pose",
+      "is_universal_personality": false,
+      "url": "https://www.bilibili.com/video/BV1mwRzBdEzk/?t=43.5",
+      "source_ids": [
+        "src-5653be328e"
+      ]
+    },
+    {
+      "id": "gemini-03",
+      "character_id": "gemini",
+      "video_id": "BV1GDbU6eEr9",
+      "second": 80.5,
+      "author": "ZipZipPipe",
+      "scene": "conflict",
+      "observable_expression": "脸红，张嘴笑，一眼较窄",
+      "observable_action": "一手伸出手指指向画面左边，另一手抬起",
+      "context": "靠动作和笑线构成取笑式表情",
+      "scope_limit": "可读为这幅画的调侃，但不据此把Gemini普遍定义成嘲讽者。",
+      "evidence_kind": "viewed_frame",
+      "representation": "static_pose",
+      "is_universal_personality": false,
+      "url": "https://www.bilibili.com/video/BV1GDbU6eEr9/?t=80.5",
+      "source_ids": [
+        "src-b60ff0def6"
+      ]
+    },
+    {
+      "id": "gemini-04",
+      "character_id": "gemini",
+      "video_id": "BV1Nfag6xEHQ",
+      "second": 82.5,
+      "author": "ScientificNNChan",
+      "scene": "daily_life",
+      "observable_expression": "睁眼张嘴，表情较放松",
+      "observable_action": "坐在窗边，一手持深色长方形物体，另一手靠近脸侧",
+      "context": "校园拟番PV中的安静室内镜头",
+      "scope_limit": "未核画面物体具体屏幕内容，不能补写聊天对象或消息；性格由该PV场景限定。",
+      "evidence_kind": "viewed_frame",
+      "representation": "sampled_animation",
+      "is_universal_personality": false,
+      "url": "https://www.bilibili.com/video/BV1Nfag6xEHQ/?t=82.5",
+      "source_ids": [
+        "src-70742b88cb"
+      ]
+    },
+    {
+      "id": "grok-01",
+      "character_id": "grok",
+      "video_id": "BV1tE9XBbErS",
+      "second": 27.5,
+      "author": "ZipZipPipe",
+      "scene": "presentation",
+      "observable_expression": "双眼睁开，张嘴微笑",
+      "observable_action": "一手竖持大型双刃斧状长柄物，另一手靠腰侧",
+      "context": "原作者顺序展示中的Grok小AI版本",
+      "scope_limit": "武器是这版立绘的识别道具；静态持握不等于出现战斗动作。",
+      "evidence_kind": "viewed_frame",
+      "representation": "static_pose",
+      "is_universal_personality": false,
+      "url": "https://www.bilibili.com/video/BV1tE9XBbErS/?t=27.5",
+      "source_ids": [
+        "src-77c5462742"
+      ]
+    },
+    {
+      "id": "grok-02",
+      "character_id": "grok",
+      "video_id": "BV1PTHB6BEbA",
+      "second": 119.5,
+      "author": "戛然而纸",
+      "scene": "relationship",
+      "observable_expression": "闭眼，脸部靠向白发角色",
+      "observable_action": "双臂环住GPT，身体贴近",
+      "context": "该片末段的Grok/GPT亲近剧情",
+      "scope_limit": "只证明该作者这集安排拥抱，不当作社区唯一或官方关系。",
+      "evidence_kind": "viewed_frame",
+      "representation": "sampled_animation",
+      "is_universal_personality": false,
+      "url": "https://www.bilibili.com/video/BV1PTHB6BEbA/?t=119.5",
+      "source_ids": [
+        "src-81586e1c86"
+      ]
+    },
+    {
+      "id": "grok-03",
+      "character_id": "grok",
+      "video_id": "BV1PTHB6BEbA",
+      "second": 132.5,
+      "author": "戛然而纸",
+      "scene": "relationship",
+      "observable_expression": "双颊红，眉眼向内，嘴略张",
+      "observable_action": "面对GPT，双手收在身前附近",
+      "context": "拥抱之后的对话近景",
+      "scope_limit": "害羞/不自在是这一镜头的读法；没有声音证据，不归纳固定傲娇台词。",
+      "evidence_kind": "viewed_frame",
+      "representation": "sampled_animation",
+      "is_universal_personality": false,
+      "url": "https://www.bilibili.com/video/BV1PTHB6BEbA/?t=132.5",
+      "source_ids": [
+        "src-81586e1c86"
+      ]
+    },
+    {
+      "id": "kimi-01",
+      "character_id": "kimi",
+      "video_id": "BV1mwRzBdEzk",
+      "second": 38.5,
+      "author": "ZipZipPipe",
+      "scene": "failure",
+      "observable_expression": "眼中含泪，脸红，眉毛向内上扬，嘴角向下",
+      "observable_action": "坐着抱拢双腿，两手放在头部两侧，周围抖动线",
+      "context": "背景仿新闻牌与套壳梗引出受挫的漫画反应",
+      "scope_limit": "仿新闻是表情包语境；本档案不核准其中商业事实，也不把泪眼当作Kimi固定性格。",
+      "evidence_kind": "viewed_frame",
+      "representation": "static_pose",
+      "is_universal_personality": false,
+      "url": "https://www.bilibili.com/video/BV1mwRzBdEzk/?t=38.5",
+      "source_ids": [
+        "src-5653be328e"
+      ]
+    },
+    {
+      "id": "kimi-02",
+      "character_id": "kimi",
+      "video_id": "BV1GDbU6eEr9",
+      "second": 60.5,
+      "author": "ZipZipPipe",
+      "scene": "praise",
+      "observable_expression": "睁眼张嘴微笑，脸颊红",
+      "observable_action": "举起印有你的字牌，与DeepSeek、GLM共同组成恭喜你",
+      "context": "三人持字牌的祝贺构图",
+      "scope_limit": "可见的是祝贺表情与牌子，不从音乐符号推断实际唱词。",
+      "evidence_kind": "viewed_frame",
+      "representation": "static_pose",
+      "is_universal_personality": false,
+      "url": "https://www.bilibili.com/video/BV1GDbU6eEr9/?t=60.5",
+      "source_ids": [
+        "src-b60ff0def6"
+      ]
+    },
+    {
+      "id": "kimi-03",
+      "character_id": "kimi",
+      "video_id": "BV1tE9XBbErS",
+      "second": 39.5,
+      "author": "ZipZipPipe",
+      "scene": "presentation",
+      "observable_expression": "眼睛睁开，嘴部轻微上扬",
+      "observable_action": "一只手抬到眼侧，身体正面站立，身后是新月和横向彩色光带",
+      "context": "大AI/小AI形象展示中的Kimi小AI段",
+      "scope_limit": "手部靠近眼侧是静态摆姿；不声称在敬礼或施法。",
+      "evidence_kind": "viewed_frame",
+      "representation": "static_pose",
+      "is_universal_personality": false,
+      "url": "https://www.bilibili.com/video/BV1tE9XBbErS/?t=39.5",
+      "source_ids": [
+        "src-77c5462742"
+      ]
+    },
+    {
+      "id": "glm-01",
+      "character_id": "glm",
+      "video_id": "BV1tE9XBbErS",
+      "second": 33.5,
+      "author": "ZipZipPipe",
+      "scene": "presentation",
+      "observable_expression": "睁眼，嘴部较小且收拢",
+      "observable_action": "双手把带Z字形标记的黑书夹在胸前",
+      "context": "原作者形象展示中的GLM小AI段",
+      "scope_limit": "姿态显得收敛，只限该立绘，不推导内向、冷漠或嗜睡的普遍性格。",
+      "evidence_kind": "viewed_frame",
+      "representation": "static_pose",
+      "is_universal_personality": false,
+      "url": "https://www.bilibili.com/video/BV1tE9XBbErS/?t=33.5",
+      "source_ids": [
+        "src-77c5462742"
+      ]
+    },
+    {
+      "id": "glm-02",
+      "character_id": "glm",
+      "video_id": "BV1GDbU6eEr9",
+      "second": 60.5,
+      "author": "ZipZipPipe",
+      "scene": "praise",
+      "observable_expression": "张嘴微笑，脸颊红",
+      "observable_action": "双手举印有喜的字牌，站在两位角色中间",
+      "context": "三人拼出祝贺词的静态表情包",
+      "scope_limit": "共同祝贺是这个表情包的明确用途，不是产品官方活动的证据。",
+      "evidence_kind": "viewed_frame",
+      "representation": "static_pose",
+      "is_universal_personality": false,
+      "url": "https://www.bilibili.com/video/BV1GDbU6eEr9/?t=60.5",
+      "source_ids": [
+        "src-b60ff0def6"
+      ]
+    },
+    {
+      "id": "glm-03",
+      "character_id": "glm",
+      "video_id": "BV1GDbU6eEr9",
+      "second": 116.5,
+      "author": "ZipZipPipe",
+      "scene": "working",
+      "observable_expression": "睁眼张嘴，眉部较平",
+      "observable_action": "一手扶价目表边框，一手指向表内条目",
+      "context": "配涨价大字的价格评论梗",
+      "scope_limit": "价目数字仅作为原图内容，不可作为当前真实价格引用。",
+      "evidence_kind": "viewed_frame",
+      "representation": "static_pose",
+      "is_universal_personality": false,
+      "url": "https://www.bilibili.com/video/BV1GDbU6eEr9/?t=116.5",
+      "source_ids": [
+        "src-b60ff0def6"
+      ]
+    },
+    {
+      "id": "qwen-01",
+      "character_id": "qwen",
+      "video_id": "BV1tE9XBbErS",
+      "second": 51.5,
+      "author": "ZipZipPipe",
+      "scene": "presentation",
+      "observable_expression": "睁眼，扇子遮住部分嘴部，表情无法完整读取",
+      "observable_action": "一手把展开折扇抬到口鼻附近，另一侧垂挂小包",
+      "context": "原作者大AI/小AI展示中的Qwen小AI段",
+      "scope_limit": "遮嘴扇是该版造型呈现，不推成固定神秘、羞怯或古风说话习惯。",
+      "evidence_kind": "viewed_frame",
+      "representation": "static_pose",
+      "is_universal_personality": false,
+      "url": "https://www.bilibili.com/video/BV1tE9XBbErS/?t=51.5",
+      "source_ids": [
+        "src-77c5462742"
+      ]
+    },
+    {
+      "id": "qwen-02",
+      "character_id": "qwen",
+      "video_id": "BV1ibpq6tE18",
+      "second": 289,
+      "author": "StuG_III",
+      "scene": "working",
+      "observable_expression": "眼睛睁开，扇子挡住下半张脸",
+      "observable_action": "持展开折扇，身侧叠放大盾图形",
+      "context": "作者称千问的大盾选手介绍卡，后续是单场RPG挑战",
+      "scope_limit": "可确认持扇/盾的演出，不把怕痛文案解释成模型真实情绪；战果不代表能力排名。",
+      "evidence_kind": "viewed_frame",
+      "representation": "static_pose",
+      "is_universal_personality": false,
+      "url": "https://www.bilibili.com/video/BV1ibpq6tE18/?t=289",
+      "source_ids": [
+        "src-b5f988f905"
+      ]
+    }
+  ],
+  "original_proposals": {
+    "status": "original_proposal",
+    "observation": false,
+    "situations": [
+      "expecting_work",
+      "finding_error",
+      "receiving_praise",
+      "preparing_to_leave"
+    ],
+    "characters": [
+      {
+        "character_id": "deepseek",
+        "status": "original_proposal",
+        "source_observation": false,
+        "proposals": [
+          {
+            "situation": "expecting_work",
+            "status": "original_proposal",
+            "description": "期待开工：把空饭碗摆到桌边，拍拍键盘前的空位，尾巴做一次小幅上扬；原创新增期待感。"
+          },
+          {
+            "situation": "finding_error",
+            "status": "original_proposal",
+            "description": "发现错误：举起写有错误编号的小牌，脸先僵住，再把牌转给用户看；原创新增排错反应。"
+          },
+          {
+            "situation": "receiving_praise",
+            "status": "original_proposal",
+            "description": "收到夸奖：双手捧起小星形贴纸，眼睛由圆睁变成笑眼，尾巴轻晃；原创新增奖励演出。"
+          },
+          {
+            "situation": "preparing_to_leave",
+            "status": "original_proposal",
+            "description": "准备下班：给电脑盖一张小毯子，抱着空碗退到门边，回头挥手；原创新增收工仪式。"
+          }
+        ]
+      },
+      {
+        "character_id": "gpt",
+        "status": "original_proposal",
+        "source_observation": false,
+        "proposals": [
+          {
+            "situation": "expecting_work",
+            "status": "original_proposal",
+            "description": "期待开工：把飘在掌心的便签按顺序排好，微笑邀请用户选第一项；原创新增任务开场。"
+          },
+          {
+            "situation": "finding_error",
+            "status": "original_proposal",
+            "description": "发现错误：角旁出现倒置便签，停顿后自己把它转正，再摊手说明；原创新增可见纠错。"
+          },
+          {
+            "situation": "receiving_praise",
+            "status": "original_proposal",
+            "description": "收到夸奖：把小光球轻轻托高，翅膀收拢，点头回应；原创新增克制的喜悦。"
+          },
+          {
+            "situation": "preparing_to_leave",
+            "status": "original_proposal",
+            "description": "准备下班：把漂浮便签收进文件夹，折好椅背上的披肩，向门外示意；原创新增离场。"
+          }
+        ]
+      },
+      {
+        "character_id": "claude",
+        "status": "original_proposal",
+        "source_observation": false,
+        "proposals": [
+          {
+            "situation": "expecting_work",
+            "status": "original_proposal",
+            "description": "期待开工：翻开一本空白工作簿，把书签放在第一页，抬眼等待输入；原创新增工作邀请。"
+          },
+          {
+            "situation": "finding_error",
+            "status": "original_proposal",
+            "description": "发现错误：用书签标出一处，先看向用户，再摊开两页比较；原创新增认真复核。"
+          },
+          {
+            "situation": "receiving_praise",
+            "status": "original_proposal",
+            "description": "收到夸奖：把书略降到胸口，花饰轻摆，露出短暂笑容；原创新增感谢反应。"
+          },
+          {
+            "situation": "preparing_to_leave",
+            "status": "original_proposal",
+            "description": "准备下班：合上书本、系好书带，把最后一张便签留在桌角；原创新增任务交接。"
+          }
+        ]
+      },
+      {
+        "character_id": "gemini",
+        "status": "original_proposal",
+        "source_observation": false,
+        "proposals": [
+          {
+            "situation": "expecting_work",
+            "status": "original_proposal",
+            "description": "期待开工：用两枚不同色便签列出两种方案，再指向用户等待选择；原创新增双方案开场。"
+          },
+          {
+            "situation": "finding_error",
+            "status": "original_proposal",
+            "description": "发现错误：两张便签互相对不上，猫耳先偏向两侧，再把其中一张翻面；原创新增纠错笑点。"
+          },
+          {
+            "situation": "receiving_praise",
+            "status": "original_proposal",
+            "description": "收到夸奖：举起一颗小星星旋转半圈，停下来向用户比手势；原创新增活泼回应。"
+          },
+          {
+            "situation": "preparing_to_leave",
+            "status": "original_proposal",
+            "description": "准备下班：把散落星形贴纸收进笔袋，关窗前回望桌面；原创新增收拾动作。"
+          }
+        ]
+      },
+      {
+        "character_id": "grok",
+        "status": "original_proposal",
+        "source_observation": false,
+        "proposals": [
+          {
+            "situation": "expecting_work",
+            "status": "original_proposal",
+            "description": "期待开工：把斧杖稳稳靠在门边，卷起一只袖口，拿起普通铅笔；原创新增投入工作。"
+          },
+          {
+            "situation": "finding_error",
+            "status": "original_proposal",
+            "description": "发现错误：先抬眉看向错误卡片，再把斧杖推远，换橡皮擦处理；原创新增反差。"
+          },
+          {
+            "situation": "receiving_praise",
+            "status": "original_proposal",
+            "description": "收到夸奖：把小奖章挂在斧柄上，先忍住笑，随后向用户点头；原创新增含蓄得意。"
+          },
+          {
+            "situation": "preparing_to_leave",
+            "status": "original_proposal",
+            "description": "准备下班：给斧刃套上软布罩，确认桌面整齐后转身关灯；原创新增道具收纳。"
+          }
+        ]
+      },
+      {
+        "character_id": "kimi",
+        "status": "original_proposal",
+        "source_observation": false,
+        "proposals": [
+          {
+            "situation": "expecting_work",
+            "status": "original_proposal",
+            "description": "期待开工：在新月形桌灯下摆好四张索引卡，把空白卡递向镜头；原创新增准备状态。"
+          },
+          {
+            "situation": "finding_error",
+            "status": "original_proposal",
+            "description": "发现错误：把混到一起的卡片重新分组，手指在两处标记间来回确认；原创新增检索动作。"
+          },
+          {
+            "situation": "receiving_praise",
+            "status": "original_proposal",
+            "description": "收到夸奖：把一张谢谢字牌从身后拿出来，微笑举到胸前；原创新增单人感谢。"
+          },
+          {
+            "situation": "preparing_to_leave",
+            "status": "original_proposal",
+            "description": "准备下班：依次熄掉桌边小灯，只留一盏月形灯，收起卡盒；原创新增夜间收工。"
+          }
+        ]
+      },
+      {
+        "character_id": "glm",
+        "status": "original_proposal",
+        "source_observation": false,
+        "proposals": [
+          {
+            "situation": "expecting_work",
+            "status": "original_proposal",
+            "description": "期待开工：把黑书放在支架上，翻到空白目录页，向用户做请的手势；原创新增开场。"
+          },
+          {
+            "situation": "finding_error",
+            "status": "original_proposal",
+            "description": "发现错误：用细书签标红一行，把书转向用户，然后拿笔划出正确项；原创新增修订演出。"
+          },
+          {
+            "situation": "receiving_praise",
+            "status": "original_proposal",
+            "description": "收到夸奖：把夹在书里的星形便签露出来，嘴角微扬并轻点头；原创新增安静的喜悦。"
+          },
+          {
+            "situation": "preparing_to_leave",
+            "status": "original_proposal",
+            "description": "准备下班：套好书封，将眼罩从头顶取下放进抽屉；原创新增整理动作，不预设嗜睡性格。"
+          }
+        ]
+      },
+      {
+        "character_id": "qwen",
+        "status": "original_proposal",
+        "source_observation": false,
+        "proposals": [
+          {
+            "situation": "expecting_work",
+            "status": "original_proposal",
+            "description": "期待开工：收起折扇，将工作单平铺在桌上，抬手邀请用户开始；原创新增开工状态。"
+          },
+          {
+            "situation": "finding_error",
+            "status": "original_proposal",
+            "description": "发现错误：扇尖停在一个错号旁，短暂停顿后换笔圈出原因；原创新增诊断动作。"
+          },
+          {
+            "situation": "receiving_praise",
+            "status": "original_proposal",
+            "description": "收到夸奖：把折扇降到胸前，完整露出笑容，轻轻鞠躬；原创新增感谢演出。"
+          },
+          {
+            "situation": "preparing_to_leave",
+            "status": "original_proposal",
+            "description": "准备下班：把折扇收进布袋，再将最后一份文件放到完成栏；原创新增下班收尾。"
+          }
+        ]
+      }
+    ]
+  }
+}
