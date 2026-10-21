@@ -384,6 +384,70 @@
       "review_scope": "public_repository_docs_and_tree",
       "runtime_tested": false,
       "checked_on": "2026-10-21"
+    },
+    {
+      "id": "project-larcgpt",
+      "repository": "larcgpt/ai-model-musume",
+      "url": "https://github.com/larcgpt/ai-model-musume",
+      "homepage": "",
+      "commit_sha": "8899faddadb58f639722eb1db2e1e6458893246b",
+      "git_tree_sha": "0d32d8e5a606b153bf8a719127e813073175c282",
+      "kind": "多模型原创角色卡",
+      "value_for_atlas": "22个作者设定方向和三语角色卡；本轮重点查看SD与MiMo。无标准根许可，图片只留外链。",
+      "rights_note": "按源码与美术各自说明；本次打包范围见可用素材包。",
+      "character_ids": [
+        "stable-diffusion",
+        "mimo"
+      ],
+      "local_asset_ids": [],
+      "source_ids": [
+        "src-c52b6ceb97"
+      ],
+      "review_scope": "pinned_repository_files_and_actual_model_or_image_checks",
+      "runtime_tested": false,
+      "checked_on": "2026-10-21"
+    },
+    {
+      "id": "project-andersen216",
+      "repository": "Andersen216/dsh-whale-girl-live2d",
+      "url": "https://github.com/Andersen216/dsh-whale-girl-live2d",
+      "homepage": "",
+      "commit_sha": "f977bef508690e75ba6535cd8f4ce18e7f6ba9b0",
+      "git_tree_sha": "79b959c1c927e0fe309530ac1f7141b8cd1a1e8c",
+      "kind": "Live2D模型与状态演出",
+      "value_for_atlas": "取得氵六青运行模型、8组动作和44个表情。补注册表情的model3入口后用官方SDK检查。",
+      "rights_note": "按源码与美术各自说明；本次打包范围见可用素材包。",
+      "character_ids": [
+        "deepseek"
+      ],
+      "local_asset_ids": [],
+      "source_ids": [
+        "src-b63e39190c"
+      ],
+      "review_scope": "pinned_repository_files_and_actual_model_or_image_checks",
+      "runtime_tested": true,
+      "checked_on": "2026-10-21"
+    },
+    {
+      "id": "project-7l-ui",
+      "repository": "7l-ui/whalegirl-pet",
+      "url": "https://github.com/7l-ui/whalegirl-pet",
+      "homepage": "",
+      "commit_sha": "ea296fb06bb7daf68dbd390b7d11e7cf001d0b87",
+      "git_tree_sha": "eb6ee239c5e7bca8922b8a94bf18a5d5d0532f4e",
+      "kind": "Live2D可编辑源文件",
+      "value_for_atlas": "取得PSD、15层PNG、CMO3、MOC3和四组动作；模型实际SDK加载，未宣称测试Android真机。",
+      "rights_note": "按源码与美术各自说明；本次打包范围见可用素材包。",
+      "character_ids": [
+        "deepseek"
+      ],
+      "local_asset_ids": [],
+      "source_ids": [
+        "src-8b1a1d16b3"
+      ],
+      "review_scope": "pinned_repository_files_and_actual_model_or_image_checks",
+      "runtime_tested": true,
+      "checked_on": "2026-10-21"
     }
   ]
 }

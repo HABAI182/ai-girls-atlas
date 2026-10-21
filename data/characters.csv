@@ -25,16 +25,16 @@ midjourney,Midjourney,image-product,visual_lead,ZipZipPipe（合照署名）,本
 suno,Suno,music-product,visual_lead,ZipZipPipe（合照署名）,本次仅确认生成式模型合照中的形象线索,图像角色与歌曲、歌声、生成音乐的许可分别处理；形象链接不能授权音乐。
 elevenlabs,ElevenLabs,audio-product,visual_lead,ZipZipPipe（合照署名）,本次仅确认生成式模型合照中的形象线索,语音平台拟人与某位配音者的音色不能混为一谈；本库没有复制或授权声音。
 doubao,豆包官方头像及其他版本,product,local_assets,豆包/字节跳动（官方头像）；其他版本各自署名,官方短发头像有来源 | 同人造型存在多个分支,Seed娘不是所有豆包形象的同义词；官方头像、ZipZipPipe的Seed版、OpenPet版、网络夸张梗图应并列。
-stepfun,StepFun / 阶跃星辰,model-family,visual_lead,甶丶（站点投稿记录）,找到三项站点记录 | 精确外貌和原作许可待原帖逐图核对,站点字段写CC BY-NC，但没有由本库补全许可证版本；保留原作者发布入口。
+stepfun,StepFun / 阶跃星辰,model-family,local_assets,甶丶（原作者本人投稿，AI辅助创作）,浅蓝长发、蓝眼、环状呆毛 | 黑白不对称裙装/披风、阶梯方块装饰 | 立方灯与方格面板伞两件专武,原作者投稿直接命名Stepfun娘与阶跃星辰。三张原PNG为两张持物立绘和一张专武图，不是三视图。
 mimo,MiMo / 小米,model-family,local_assets,甶丶（本轮已收立绘与三视图）；其他作者版本另列,银白双马尾 | 橙黑服装、mi/MiMo标识 | 兔子与黑白不对称袜,甶丶的正常比例立绘与三视图来自同一作者原帖。此版本不是ZipZipPipe设计；许可CC BY-NC未写版本号。
 huggingface,Hugging Face,platform,visual_lead,ZipZipPipe（站点署名；原帖待进一步核对）,站点条目描述黄色笑脸玩偶与海军蓝外套,这是平台拟人，不是一个基础模型。条目授权未知，本库只保留作品详情入口。
-copilot,Microsoft Copilot,product,wanted,,,与GitHub Copilot分开；本次未确认采用哪一套社区形象。
+copilot,Microsoft Copilot,product,external_work_lead,HKR+ビール2はい（作者；文章自述由GPT生成图像）,粉色长发/双侧发束，黑色发带与彩色Copilot发夹；戴细框眼镜。 | 粉色眼睛、白色衬衫、粉色领带，双手托脸面对镜头。 | 粉色桌面、心形图案、笔记本电脑与同版Q版小像组成设定卡。,HKR原文明确以自己的Copilot拟人；与校园项目未分产品的Copilot、MAI自研模型角色及GitHub Copilot分开。
 yuanbao,腾讯元宝,product,external_work_lead,帆船很忙（投稿与AI拟人提案，具体原画作者未另署）,银白或紫银头发与绿色眼睛 | 绿白配色与助手界面意象 | 短发卫衣、长发长裙、长发运动装三个分支,按帆船很忙两条元宝AI娘化投稿登记。作者提案与腾讯官方形象分开；短发、长裙、运动装分别存版本，不能把合影当三个不同产品。
 spark,讯飞星火,model-family,local_assets,lshhhhhhh（AI辅助设计）,酒红低侧马尾 | 眼镜与蓝眼 | 蓝色火焰发夹,项目原创校园形象，补上此前的星火待补档位。不主张为通行设定或官方形象。
 cohere,Cohere / Command,model-family,local_assets,lshhhhhhh（AI辅助设计）,森林绿及肩卷发 | 浅色挑染 | 桃绿奶油色领结,本项目原创方案，补上此前未确认形象的档位。不主张为通行设定或官方形象。
 kling,可灵 / Kling,video-product,wanted,,,官方入口本次读取受限；没有补造角色图或厂商许可。
 runway,Runway,video-product,wanted,,,产品有官方入口，未指定成熟社区形象。
-sora,Sora（历史产品）,historical-video-product,wanted,,,原入口当前转到官方停用说明；作为历史产品待补档，不列为当前可用服务。
-stable-diffusion,Stable Diffusion,image-model-family,wanted,,,模型家族与各WebUI/服务不混同，拟人设计待补。
+sora,Sora（历史产品）,historical-video-product,external_work_lead,raikajones / RAIKA（作者公开对话和制作截图）,灰蓝色卷发在头顶部分盘起，头部有圆形齿轮状装饰。 | 穿白色宽松外套，抬手握细长工具，背景偏暖色工作室。 | 截图是编辑字幕界面，预览显示00:01/00:10；仅确认这一张公开暂停画面。,保留Sora历史产品条目。原文明确写Sora(OpenAI)；三张制作截图分别作造型线索，主女性分支与另两种美大联想造型不合成唯一设定。
+stable-diffusion,Stable Diffusion,image-model-family,external_work_lead,larcgpt（仓库维护者；项目自述图像由ChatGPT生成）,紫黑色盘发、紫色眼睛、细框眼镜及紫金色发饰。 | 紫黑长裙与半透明披挂，手持细长画笔。 | 星云画布、画具、雕像与英伦建筑背景，周围有紫色和虹彩光带。,仓库README、设定章节及卡片均明确命名Stable Diffusion；紫黑绘图炼金术是larcgpt项目的独立设定。
 flux,FLUX,image-model-family,wanted,,,模型家族与厂商分开登记；未找到本次可核验角色档案。
 copilot-school,Copilot（校园项目，具体产品待区分）,ambiguous-product-reference,local_assets,lshhhhhhh（AI辅助设计）,青绿色高马尾 | 多色缎带环徽章 | 灰蓝校服裙,作者只标注Copilot，未在该提示词中区分Microsoft Copilot与GitHub Copilot。本库保留项目命名，不据徽章猜定产品。

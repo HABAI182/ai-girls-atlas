@@ -195,3 +195,7 @@ An independent qimi variant of the existing DeepSeek whale-girl entry: a super-d
 ## 演出与创作关联
 
 [作品限定反应档案](../../encyclopedia/performances/deepseek.md) · [同情境原创对照](../../encyclopedia/performances/same-situation.md) · [素材关联包](../../encyclopedia/production/README.md)
+
+## 实际取得的两套Live2D与静态3D
+
+[14组下载包](../../encyclopedia/ready-packages.md)含氵六青运行模型、7l-ui PSD/CMO3与运行模型，以及MaidAtelier静态Blend/GLB。模型分支各自署名；[本次实际运行结果](../../encyclopedia/runtime-materials.md)明确可见变化与未确认项。

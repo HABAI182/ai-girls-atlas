@@ -2,7 +2,7 @@
 
 [创作百科](../README.md) · [动作参考](../actions.md) · [声音专题](../formats/audio.md)
 
-13组关联包按同作者、同目录或明确派生链连接。它们是材料清单和入口组合，并非另打包的13个压缩包。
+16组关联包按作者与明确派生链连接。其中14组已经整理为实际下载包，另2组保留作者平台领取入口。
 
 | 关联包 | 角色 | 作者/系列 | 已有材料种类 | 用途 |
 | --- | --- | --- | --- | --- |
@@ -19,6 +19,10 @@
 | [MaidAtelier表情 → AI Moe Atlas多视图与静态3D](kits/kit-maid-atelier-model-line.md) | DeepSeek / 深度求索 | MaidAtelier派生建模线 | 表情、多视图、静态3D、可编辑3D源文件 | 三张透明表情头像、静态3D体积与侧后视角研究、编辑Blender网格后自行推进绑定 |
 | [水原镜/Mzkagami 蓝色大肥鱼模型分支](kits/kit-mzkagami-whale-models.md) | DeepSeek / 深度求索 | Big Fat Blue Fish | MMD模型、Warudo包、VRC包、Warudo工坊、VRC Avatar、动作/相机参考 | 按作者入口获取Warudo/VRC成品、研究同一模型向MMD、Warudo、VRC适配的署名分工 |
 | [狐宫静蓝色大肥鱼公皮与歌曲引用链](kits/kit-hugongjing-whale-live2d.md) | DeepSeek / 深度求索 | 狐宫静免费公皮 | Live2D模型、表情、视频配乐、配乐上游 | 从作者公开入口查看公皮获取方式、将这条模型展示与独立歌曲版本建立出处关系 |
+
+| [甶丶StepFun立绘与专武](kits/kit-fuh-stepfun.md) | StepFun | 甶丶 | 两张立绘、一张专武图 | 角色卡与道具参考 |
+| [氵六青Live2D](kits/kit-liuqing-live2d.md) | DeepSeek | 氵六青 / Andersen216整理 | MOC3、8组动作、44表情 | 模型演出 |
+| [7l-ui分层与Live2D](kits/kit-7l-live2d-source.md) | DeepSeek | 7l-ui | PSD、15图层、CMO3、MOC3、4组动作 | 模型演出与源稿研究 |
 
 ## 本轮补明的原文件与领取入口
 
@@ -52,3 +56,9 @@
 ## 用户新补充视频与社区入口
 
 [TreapGoGo专题](../focus-treap.md)把作者导览、两套参考图、6份工作流、画廊与零代码投稿连起来。上游固定提交与此前相同，已有工作流文件入口继续复用。
+
+## 实际取得并可下载的14组素材
+
+[下载与逐包说明](../ready-packages.md) · [实际运行证据](../runtime-materials.md)
+
+新增[StepFun两立绘与专武](kits/kit-fuh-stepfun.md)、[氵六青Live2D](kits/kit-liuqing-live2d.md)、[7l-ui分层与Live2D](kits/kit-7l-live2d-source.md)。现为16组材料关联，其中14组有本次ZIP；水原镜平台模型与狐宫静工房公皮保留作者领取入口。

@@ -6,10 +6,10 @@
     "reactions": 31,
     "actions": 23,
     "relations": 17,
-    "kits": 13,
-    "creators": 23,
+    "kits": 16,
+    "creators": 28,
     "history": 13,
-    "downloads": 12,
+    "downloads": 15,
     "cross_media": 16,
     "audio_samples": 6,
     "international": 6
@@ -21,5 +21,8 @@
   "supplementary_video_reviews": 14,
   "new_video_records": 14,
   "new_audio_records": 6,
-  "reference_source_guides": 1
+  "reference_source_guides": 1,
+  "ready_material_packages": 14,
+  "direct_audio_performance_records": 6,
+  "actual_material_checks": 7
 }

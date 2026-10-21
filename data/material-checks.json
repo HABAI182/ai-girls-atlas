@@ -1,0 +1,262 @@
+{
+  "checked_on": "2026-10-21",
+  "checks": [
+    {
+      "id": "runtime-maid-blend",
+      "character_ids": [
+        "deepseek"
+      ],
+      "source_ids": [
+        "src-039abc2413"
+      ],
+      "format": "blend",
+      "loaded": true,
+      "rendered": true,
+      "tool": "Blender 4.5.14 LTS",
+      "mesh_objects": 185,
+      "vertices": 243335,
+      "faces": 293462,
+      "armatures": 0,
+      "actions": 0,
+      "scope": "实际打开/导入并静态渲染；没有绑定或动画。"
+    },
+    {
+      "id": "runtime-maid-glb",
+      "character_ids": [
+        "deepseek"
+      ],
+      "source_ids": [
+        "src-039abc2413"
+      ],
+      "format": "glb",
+      "loaded": true,
+      "rendered": true,
+      "tool": "Blender 4.5.14 LTS",
+      "mesh_objects": 185,
+      "vertices": 243335,
+      "faces": 482944,
+      "armatures": 0,
+      "actions": 0,
+      "scope": "实际打开/导入并静态渲染；没有绑定或动画。"
+    },
+    {
+      "id": "runtime-liuqing",
+      "character_ids": [
+        "deepseek"
+      ],
+      "source_ids": [
+        "src-b63e39190c"
+      ],
+      "format": "moc3",
+      "tool": "Official Cubism Core / Microsoft Edge WebGL",
+      "loaded": true,
+      "moc_consistency": true,
+      "rendered": true,
+      "parameters": 247,
+      "drawables": 269,
+      "all_requested_samples_passed": false,
+      "cases": [
+        {
+          "name": "head angle",
+          "kind": "parameters",
+          "passed": true,
+          "pixelChange": true,
+          "geometryChange": true
+        },
+        {
+          "name": "closed eyes",
+          "kind": "parameters",
+          "passed": true,
+          "pixelChange": true,
+          "geometryChange": true
+        },
+        {
+          "name": "idle motion",
+          "kind": "motion",
+          "passed": false,
+          "pixelChange": false,
+          "geometryChange": true
+        },
+        {
+          "name": "selfie motion",
+          "kind": "motion",
+          "passed": true,
+          "pixelChange": true,
+          "geometryChange": true
+        },
+        {
+          "name": "cry expression",
+          "kind": "expression",
+          "passed": true,
+          "pixelChange": true,
+          "geometryChange": true
+        },
+        {
+          "name": "star eyes expression",
+          "kind": "expression",
+          "passed": true,
+          "pixelChange": true,
+          "geometryChange": false
+        }
+      ],
+      "limitations": [
+        "No required visible/geometry change: idle motion"
+      ],
+      "scope": "指定参数、动作、表情时间点的实际像素/顶点变化；未测试原生桌宠或移动设备。"
+    },
+    {
+      "id": "runtime-7l",
+      "character_ids": [
+        "deepseek"
+      ],
+      "source_ids": [
+        "src-8b1a1d16b3"
+      ],
+      "format": "moc3",
+      "tool": "Official Cubism Core / Microsoft Edge WebGL",
+      "loaded": true,
+      "moc_consistency": true,
+      "rendered": true,
+      "parameters": 18,
+      "drawables": 22,
+      "all_requested_samples_passed": true,
+      "cases": [
+        {
+          "name": "head angle",
+          "kind": "parameters",
+          "passed": true,
+          "pixelChange": true,
+          "geometryChange": true
+        },
+        {
+          "name": "closed eyes",
+          "kind": "parameters",
+          "passed": true,
+          "pixelChange": true,
+          "geometryChange": true
+        },
+        {
+          "name": "Blink motion",
+          "kind": "motion",
+          "passed": true,
+          "pixelChange": true,
+          "geometryChange": true
+        },
+        {
+          "name": "Nod motion",
+          "kind": "motion",
+          "passed": true,
+          "pixelChange": true,
+          "geometryChange": true
+        },
+        {
+          "name": "Shake motion",
+          "kind": "motion",
+          "passed": true,
+          "pixelChange": true,
+          "geometryChange": true
+        }
+      ],
+      "limitations": [],
+      "scope": "指定参数、动作、表情时间点的实际像素/顶点变化；未测试原生桌宠或移动设备。"
+    },
+    {
+      "id": "runtime-download-tq-whale-sprites",
+      "character_ids": [
+        "deepseek"
+      ],
+      "source_ids": [
+        "src-c0f4e78bb7"
+      ],
+      "format": "sprite_sheet",
+      "tool": "Pillow decode + Microsoft Edge canvas playback",
+      "loaded": true,
+      "rendered": true,
+      "size": [
+        1536,
+        2288
+      ],
+      "animated_rows": 9,
+      "look_directions": 16,
+      "idle_played": true,
+      "waving_selected": true,
+      "scope": "3张图集实际解码、播放待机并切换打招呼；legeling逐帧时间未声明时用120ms预览。"
+    },
+    {
+      "id": "runtime-download-tq-gpt-sprites",
+      "character_ids": [
+        "gpt"
+      ],
+      "source_ids": [
+        "src-c0f4e78bb7"
+      ],
+      "format": "sprite_sheet",
+      "tool": "Pillow decode + Microsoft Edge canvas playback",
+      "loaded": true,
+      "rendered": true,
+      "size": [
+        1536,
+        2288
+      ],
+      "animated_rows": 9,
+      "look_directions": 16,
+      "idle_played": true,
+      "waving_selected": true,
+      "scope": "3张图集实际解码、播放待机并切换打招呼；legeling逐帧时间未声明时用120ms预览。"
+    },
+    {
+      "id": "runtime-download-legeling-gpt-sprites",
+      "character_ids": [
+        "gpt"
+      ],
+      "source_ids": [
+        "src-ddf6cc3468"
+      ],
+      "format": "sprite_sheet",
+      "tool": "Pillow decode + Microsoft Edge canvas playback",
+      "loaded": true,
+      "rendered": true,
+      "size": [
+        1536,
+        2288
+      ],
+      "animated_rows": 9,
+      "look_directions": 16,
+      "idle_played": true,
+      "waving_selected": true,
+      "scope": "3张图集实际解码、播放待机并切换打招呼；legeling逐帧时间未声明时用120ms预览。"
+    }
+  ],
+  "psd": {
+    "magic": "8BPS",
+    "version": 1,
+    "height": 768,
+    "width": 768,
+    "layer_count": 15,
+    "layer_and_mask_bytes": 1634808,
+    "layer_info_bytes": 1634800
+  },
+  "notes": [
+    "CMO3按作者原文件提供，本次未在Cubism Editor原生重开。",
+    "氵六青idle在1.2秒SDK采样未产生可见变化；没有把这项计为通过。",
+    "检查器未包含完整宿主物理、桌面输入、面捕或移动端流程。"
+  ],
+  "booth_attempts": [
+    {
+      "name": "BigFatBlueFish-Warudo_Mzkagami.zip",
+      "canonical_download_url": "https://booth.pm/downloadables/9553310?variation_id=14662065",
+      "status": 200,
+      "response_host": "booth.pm",
+      "zip_downloaded": false,
+      "bytes": 10042
+    },
+    {
+      "name": "BigFatBlueFish_v1.1_Mzkagami.zip",
+      "canonical_download_url": "https://booth.pm/downloadables/9580566?variation_id=14692395",
+      "status": 200,
+      "response_host": "booth.pm",
+      "zip_downloaded": false,
+      "bytes": 10042
+    }
+  ]
+}

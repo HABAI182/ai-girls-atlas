@@ -2416,6 +2416,142 @@
       "checked_on": "2026-10-21",
       "evidence_level": "web_text",
       "note": "仅查看公开页面的决议/事件/回合结构；未实际操作游玩或试听配乐。"
+    },
+    {
+      "id": "src-85eb5c49af",
+      "url": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/Stable%20Diffusion/Stable%20Diffusion_%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87_%E8%A7%92%E8%89%B2%E8%A8%AD%E5%AE%9A.png",
+      "title": "AI Model Musume：Stable Diffusion娘独立分支",
+      "checked_on": "2026-10-21",
+      "evidence_level": "primary_text_and_image_review",
+      "note": ""
+    },
+    {
+      "id": "src-388a4506c9",
+      "url": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/Stable%20Diffusion/Stable%20Diffusion_Main_1.png",
+      "title": "AI Model Musume：Stable Diffusion娘独立分支 · named_character_portrait",
+      "checked_on": "2026-10-21",
+      "evidence_level": "actually_viewed_original_image",
+      "note": "本轮实际查看，按作者独立分支记录；未镜像。"
+    },
+    {
+      "id": "src-bb6720c286",
+      "url": "https://note.com/magic_guppy4264/n/n04452ba4ebf9",
+      "title": "うちのAIをAIが擬人化した結果がこれだ！：Copilotちゃん",
+      "checked_on": "2026-10-21",
+      "evidence_level": "primary_text_and_image_review",
+      "note": ""
+    },
+    {
+      "id": "src-4137c9f94c",
+      "url": "https://assets.st-note.com/img/1790384896-R4ObZevGq8LmPCoTcswHM2Er.png?width=1200",
+      "title": "うちのAIをAIが擬人化した結果がこれだ！：Copilotちゃん · author_published_character_card",
+      "checked_on": "2026-10-21",
+      "evidence_level": "actually_viewed_original_image",
+      "note": "本轮实际查看，按作者独立分支记录；未镜像。"
+    },
+    {
+      "id": "src-771393fa77",
+      "url": "https://note.com/raikajones/n/n8862bdd081a9",
+      "title": "AI人格図鑑：raikajones的Sora(OpenAI)自设分支",
+      "checked_on": "2026-10-21",
+      "evidence_level": "primary_text_and_image_review",
+      "note": ""
+    },
+    {
+      "id": "src-d3707f87ff",
+      "url": "https://assets.st-note.com/production/uploads/images/250515656/picture_pc_3af083c2c87797d2d7c0adecd5878642.png?width=1200",
+      "title": "AI人格図鑑：raikajones的Sora(OpenAI)自设分支 · author_published_video_screenshot",
+      "checked_on": "2026-10-21",
+      "evidence_level": "actually_viewed_original_image",
+      "note": "本轮实际查看，按作者独立分支记录；未镜像。"
+    },
+    {
+      "id": "src-2bfb90bcbe",
+      "url": "https://assets.st-note.com/production/uploads/images/250521209/picture_pc_5bf32523358251e3b584a092a115a85b.png?width=1200",
+      "title": "AI人格図鑑：raikajones的Sora(OpenAI)自设分支 · author_published_video_screenshot",
+      "checked_on": "2026-10-21",
+      "evidence_level": "actually_viewed_original_image",
+      "note": "本轮实际查看，按作者独立分支记录；未镜像。"
+    },
+    {
+      "id": "src-4fcd316608",
+      "url": "https://assets.st-note.com/production/uploads/images/250521514/picture_pc_f625351e84dd5466332732da808de56b.png?width=1200",
+      "title": "AI人格図鑑：raikajones的Sora(OpenAI)自设分支 · author_published_video_screenshot",
+      "checked_on": "2026-10-21",
+      "evidence_level": "actually_viewed_original_image",
+      "note": "本轮实际查看，按作者独立分支记录；未镜像。"
+    },
+    {
+      "id": "src-da1cc349c6",
+      "url": "https://www.bilibili.com/opus/1250303372583501829",
+      "title": "甶丶 StepFun原动态",
+      "checked_on": "2026-10-21",
+      "evidence_level": "original_post_entry",
+      "note": ""
+    },
+    {
+      "id": "src-6c2cb3e398",
+      "url": "https://github.com/lmy414/ai-girl-stickers/issues/19",
+      "title": "甶丶 StepFun原作者投稿与CC BY-NC说明",
+      "checked_on": "2026-10-21",
+      "evidence_level": "author_submission",
+      "note": ""
+    },
+    {
+      "id": "src-71269485bd",
+      "url": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/stepfun/issue-19-001.png",
+      "title": "StepFun原PNG · 1",
+      "checked_on": "2026-10-21",
+      "evidence_level": "actually_viewed_original_png",
+      "note": ""
+    },
+    {
+      "id": "src-c6b207832c",
+      "url": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/stepfun/issue-19-002.png",
+      "title": "StepFun原PNG · 2",
+      "checked_on": "2026-10-21",
+      "evidence_level": "actually_viewed_original_png",
+      "note": ""
+    },
+    {
+      "id": "src-9fea2dbdaf",
+      "url": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/stepfun/issue-19-003.png",
+      "title": "StepFun原PNG · 3",
+      "checked_on": "2026-10-21",
+      "evidence_level": "actually_viewed_original_png",
+      "note": ""
+    },
+    {
+      "id": "src-fe6fc07eca",
+      "url": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/Mimo/Mimo_%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87_%E8%A7%92%E8%89%B2%E8%A8%AD%E5%AE%9A_1.png",
+      "title": "larcgpt MiMo数码都市角色卡",
+      "checked_on": "2026-10-21",
+      "evidence_level": "actually_viewed_original_image",
+      "note": ""
+    },
+    {
+      "id": "src-c52b6ceb97",
+      "url": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/README.md",
+      "title": "larcgpt/ai-model-musume固定说明",
+      "checked_on": "2026-10-21",
+      "evidence_level": "pinned_primary_repository",
+      "note": ""
+    },
+    {
+      "id": "src-b63e39190c",
+      "url": "https://github.com/Andersen216/dsh-whale-girl-live2d/blob/f977bef508690e75ba6535cd8f4ce18e7f6ba9b0/README.md",
+      "title": "Andersen216/dsh-whale-girl-live2d固定说明",
+      "checked_on": "2026-10-21",
+      "evidence_level": "pinned_primary_repository",
+      "note": ""
+    },
+    {
+      "id": "src-8b1a1d16b3",
+      "url": "https://github.com/7l-ui/whalegirl-pet/blob/ea296fb06bb7daf68dbd390b7d11e7cf001d0b87/README.md",
+      "title": "7l-ui/whalegirl-pet固定说明",
+      "checked_on": "2026-10-21",
+      "evidence_level": "pinned_primary_repository",
+      "note": ""
     }
   ]
 }

@@ -1,0 +1,195 @@
+{
+  "id": "materials-2026-10-21",
+  "packages": [
+    {
+      "id": "apprentice-gpt",
+      "title": "ChatGPT / GPT · ApprenTice常规与Q版",
+      "kind": "static_art",
+      "character_ids": [
+        "gpt"
+      ],
+      "directory": "apprentice-gpt",
+      "files": 2,
+      "ready_for": "静态图文、角色卡与分镜参考",
+      "contains_source_project": false,
+      "verification": "Existing images decoded and source hashes checked; no animation claimed."
+    },
+    {
+      "id": "apprentice-claude",
+      "title": "Claude · ApprenTice常规与Q版",
+      "kind": "static_art",
+      "character_ids": [
+        "claude"
+      ],
+      "directory": "apprentice-claude",
+      "files": 2,
+      "ready_for": "静态图文、角色卡与分镜参考",
+      "contains_source_project": false,
+      "verification": "Existing images decoded and source hashes checked; no animation claimed."
+    },
+    {
+      "id": "apprentice-deepseek",
+      "title": "DeepSeek / 深度求索 · ApprenTice常规与Q版",
+      "kind": "static_art",
+      "character_ids": [
+        "deepseek"
+      ],
+      "directory": "apprentice-deepseek",
+      "files": 2,
+      "ready_for": "静态图文、角色卡与分镜参考",
+      "contains_source_project": false,
+      "verification": "Existing images decoded and source hashes checked; no animation claimed."
+    },
+    {
+      "id": "apprentice-glm",
+      "title": "GLM / 智谱 · ApprenTice常规与Q版",
+      "kind": "static_art",
+      "character_ids": [
+        "glm"
+      ],
+      "directory": "apprentice-glm",
+      "files": 2,
+      "ready_for": "静态图文、角色卡与分镜参考",
+      "contains_source_project": false,
+      "verification": "Existing images decoded and source hashes checked; no animation claimed."
+    },
+    {
+      "id": "apprentice-gemini",
+      "title": "Gemini · ApprenTice常规与Q版",
+      "kind": "static_art",
+      "character_ids": [
+        "gemini"
+      ],
+      "directory": "apprentice-gemini",
+      "files": 2,
+      "ready_for": "静态图文、角色卡与分镜参考",
+      "contains_source_project": false,
+      "verification": "Existing images decoded and source hashes checked; no animation claimed."
+    },
+    {
+      "id": "apprentice-grok",
+      "title": "Grok · ApprenTice常规与Q版",
+      "kind": "static_art",
+      "character_ids": [
+        "grok"
+      ],
+      "directory": "apprentice-grok",
+      "files": 2,
+      "ready_for": "静态图文、角色卡与分镜参考",
+      "contains_source_project": false,
+      "verification": "Existing images decoded and source hashes checked; no animation claimed."
+    },
+    {
+      "id": "apprentice-kimi",
+      "title": "Kimi · ApprenTice常规与Q版",
+      "kind": "static_art",
+      "character_ids": [
+        "kimi"
+      ],
+      "directory": "apprentice-kimi",
+      "files": 2,
+      "ready_for": "静态图文、角色卡与分镜参考",
+      "contains_source_project": false,
+      "verification": "Existing images decoded and source hashes checked; no animation claimed."
+    },
+    {
+      "id": "apprentice-minimax",
+      "title": "MiniMax · ApprenTice常规与Q版",
+      "kind": "static_art",
+      "character_ids": [
+        "minimax"
+      ],
+      "directory": "apprentice-minimax",
+      "files": 2,
+      "ready_for": "静态图文、角色卡与分镜参考",
+      "contains_source_project": false,
+      "verification": "Existing images decoded and source hashes checked; no animation claimed."
+    },
+    {
+      "id": "apprentice-qwen",
+      "title": "Qwen / 通义千问 · ApprenTice常规与Q版",
+      "kind": "static_art",
+      "character_ids": [
+        "qwen"
+      ],
+      "directory": "apprentice-qwen",
+      "files": 2,
+      "ready_for": "静态图文、角色卡与分镜参考",
+      "contains_source_project": false,
+      "verification": "Existing images decoded and source hashes checked; no animation claimed."
+    },
+    {
+      "id": "fuh-mimo",
+      "title": "MiMo / 小米 · 甶丶立绘与三视图",
+      "kind": "static_art",
+      "character_ids": [
+        "mimo"
+      ],
+      "directory": "fuh-mimo",
+      "files": 2,
+      "ready_for": "静态图文、角色卡与分镜参考",
+      "contains_source_project": false,
+      "verification": "Existing images decoded and source hashes checked; no animation claimed."
+    },
+    {
+      "id": "fuh-stepfun",
+      "title": "甶丶StepFun两张立绘与专武图",
+      "kind": "static_art",
+      "character_ids": [
+        "stepfun"
+      ],
+      "directory": "fuh-stepfun",
+      "files": 3,
+      "ready_for": "角色卡、立方灯与方格伞道具参考",
+      "contains_source_project": false,
+      "verification": "Original PNGs actually viewed; two portraits and one prop sheet."
+    },
+    {
+      "id": "maid-static-3d",
+      "title": "MaidAtelier派生静态3D与可编辑Blend",
+      "kind": "static_3d_source",
+      "character_ids": [
+        "deepseek"
+      ],
+      "directory": "maid-static-3d",
+      "ready_for": "静态渲染与继续编辑网格",
+      "contains_source_project": true,
+      "verification": "Blender open + GLB import + four actual renders; zero armatures/actions."
+    },
+    {
+      "id": "liuqing-live2d",
+      "title": "氵六青鲸鱼娘Live2D模型",
+      "kind": "live2d_model",
+      "character_ids": [
+        "deepseek"
+      ],
+      "directory": "liuqing-live2d",
+      "contains_source_project": false,
+      "ready_for": "Cubism模型演出与动作/表情参考",
+      "verification": "官方Core加载成功：247参数、269绘制对象；转头、闭眼、自拍、哭、星星眼有可见变化。idle在1.2秒采样未见变化，未将这个动作标为全部通过。",
+      "modifications": "保留来源字节；新增c_0120.atlas.model3.json，仅注册已有表情。"
+    },
+    {
+      "id": "7l-live2d-source",
+      "title": "7l-ui鲸鱼娘Live2D与PSD/CMO3源文件",
+      "kind": "live2d_editable_source",
+      "character_ids": [
+        "deepseek"
+      ],
+      "directory": "7l-live2d-source",
+      "contains_source_project": true,
+      "ready_for": "Cubism模型演出与动作/表情参考",
+      "verification": "官方Core实际加载：18参数、22绘制对象；转头、闭眼、Blink/Nod/Shake五项在指定采样点有可见变化。PSD头及15层结构已读取；CMO3为作者提供的源文件，未在Editor原生重开。",
+      "modifications": "原文件字节未改变，仅按素材用途重排路径。"
+    }
+  ],
+  "package_count": 14,
+  "archive_name": "AI-Girls-Atlas-Materials-2026-10-21.zip",
+  "archive_bytes": 80444270,
+  "archive_sha256": "a3b15af5f90558686907d9dbbdafe0af2d263753547f5617ffbe28dc0748dc15",
+  "archive_crc_ok": true,
+  "file_count": 181,
+  "human_audio_listening": false,
+  "download_url": "https://github.com/HABAI182/ai-girls-atlas/releases/download/materials-2026-10-21/AI-Girls-Atlas-Materials-2026-10-21.zip",
+  "release_url": "https://github.com/HABAI182/ai-girls-atlas/releases/tag/materials-2026-10-21"
+}

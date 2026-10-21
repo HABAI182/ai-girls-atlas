@@ -58,3 +58,11 @@
 - [MiMo娘作者投稿与CC BY-NC声明](https://github.com/lmy414/ai-girl-stickers/issues/35) · `author_submission`
 
 返回[角色总览](../../README.md) · [新增资料评述](../../docs/09-more-sources.md) · [版本比较](../../docs/10-variant-guide.md)。
+
+## larcgpt独立数码都市分支
+
+| 原卡 | 可见设计 | 版本关系 |
+| --- | --- | --- |
+| [作者角色卡](https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/Mimo/Mimo_%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87_%E8%A7%92%E8%89%B2%E8%A8%AD%E5%AE%9A_1.png) | 棕金色高马尾、橙色眼睛与耳机。；橙白黑机能短装和外套，手里持手机；背景是城市与设备图像。；卡片直接写MiMo娘、Xiaomi，另有同版Q版图、手机/手环/音箱等道具。 | 与甶丶银白双马尾、mi兔子分支在发型、服装、道具和比例上都不同；作为独立作者版本。 |
+
+原有甶丶立绘与三视图已在本库，本次继续复用。

@@ -1,6 +1,6 @@
 # 当前完成情况与待补
 
-以[data/coverage.json](../data/coverage.json)为准。当前39个条目，20个有本地图片，82张原图/派生/参考文件，另有11张预览；6个条目仍待补。
+以[data/coverage.json](../data/coverage.json)为准。当前39个条目，21个有本地图片，85张原图/派生/参考文件，另有11张预览；3个条目仍待补。
 
 ## 本轮已经补到
 
@@ -18,10 +18,10 @@
 | Codex原角色 | 群友设计者的确切署名；居家宠物适配的制作者不等于原设计者 |
 | 原作者小AI/Q版 | 现有派生配对图不能替代ZipZipPipe原始小AI文件 |
 | 多视图 | MiMo已有同作者三视图；Seed、MiniMax、Llama等仍缺同一作者完整正侧背 |
-| StepFun | 已有作品入口，继续找具体作者与可用原图 |
-| Microsoft Copilot | 校园项目只写Copilot，暂单列项目命名，不猜产品归属 |
-| 可灵、Runway、Stable Diffusion、FLUX | 继续找已有明确作者方案，不用自行生成冒充已有设定 |
-| Sora历史档案 | 按历史产品条目继续找作品与作者 |
+| StepFun | 已取得两张立绘和专武原PNG，后续可补同作者三视图 |
+| Microsoft Copilot | HKR明确产品分支已补；校园项目仍单列，不猜归属 |
+| 可灵、Runway、FLUX | 继续找已有明确作者方案，不用自行生成冒充已有设定 |
+| Sora历史档案 | raikajones制作截图分支已补，完整原视频/多视图仍可继续找 |
 | 声音 | 目前以原作品索引为主；继续找作者明确提供的干音、伴奏、音色模型与预设 |
 
 ## 来源更新如何记录
@@ -39,3 +39,7 @@
 ## 创作百科扩充
 
 已接入[完整专题与新作品大类](../encyclopedia/README.md)。声音来源现为19条，另有[六段实际音轨分析](../encyclopedia/formats/audio.md)；工程与模型新增具体分发入口，见[13组关联包](../encyclopedia/production/README.md)。
+
+## 继续补齐结果
+
+新增[14组实际可下载素材](../encyclopedia/ready-packages.md)、[模型加载/渲染证据](../encyclopedia/runtime-materials.md)和[直接音轨分析](../encyclopedia/audio-performances.md)。SD、Copilot、Sora已有明确作者分支，StepFun已有本地原PNG；当前只保留可灵、Runway、FLUX三个待补角色。

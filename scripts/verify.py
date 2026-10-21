@@ -53,6 +53,9 @@ history = read('design-history.json')['events']
 cross_media = read('cross-media.json')
 audio_samples = read('audio-observations.json')['samples']
 supplementary_reviews = read('video-observations.json')['observations']
+ready_packages = read('ready-packages.json')['packages']
+direct_audio = read('audio-performances.json')['records']
+material_checks = read('material-checks.json')['checks']
 char_ids = unique(chars, 'character')
 asset_ids = unique(assets, 'asset')
 source_ids = unique(sources, 'source')
@@ -148,14 +151,18 @@ def editorial_joins(obj, location):
 for filename in ['meme-encyclopedia.json', 'performances.json', 'actions-props.json',
                  'relationships.json', 'production-kits.json', 'creators.json',
                  'design-history.json', 'cross-media.json', 'audio-observations.json',
-                 'video-observations.json']:
+                 'video-observations.json', 'ready-packages.json',
+                 'audio-performances.json', 'material-checks.json']:
     editorial_joins(read(filename), filename)
 for label, records in [('encyclopedia meme', encyclopedia_memes),
                        ('action', actions), ('relationship', relationships),
                        ('kit', production['kits']), ('creator', creators),
                        ('history', history), ('cross media', cross_media['works']),
                        ('audio observation', audio_samples),
-                       ('supplementary review', supplementary_reviews)]:
+                       ('supplementary review', supplementary_reviews),
+                       ('ready package', ready_packages),
+                       ('direct audio', direct_audio),
+                       ('material check', material_checks)]:
     unique(records, label)
 require(len({p['character_id'] for p in performances['profiles']}) == len(performances['profiles']), 'Duplicate performance profile')
 for sample in audio_samples:
@@ -216,6 +223,9 @@ checks = {
     'audio_observation_samples': len(audio_samples),
     'international_source_records': len(cross_media['international']),
     'supplementary_video_reviews': len(supplementary_reviews),
+    'ready_material_packages': len(ready_packages),
+    'direct_audio_performance_records': len(direct_audio),
+    'actual_material_checks': len(material_checks),
 }
 for key, value in checks.items():
     require(coverage[key] == value, f'Coverage mismatch: {key}')

@@ -29,7 +29,9 @@
       "transcript_published": false,
       "source_ids": [
         "src-9b456769e9"
-      ]
+      ],
+      "direct_audio_model_record_id": "voice-performance-jp-cn",
+      "direct_audio_model_analyzed": true
     },
     {
       "id": "news",
@@ -58,7 +60,9 @@
       "transcript_published": false,
       "source_ids": [
         "src-d475d52ffc"
-      ]
+      ],
+      "direct_audio_model_record_id": "voice-performance-news",
+      "direct_audio_model_analyzed": true
     },
     {
       "id": "reading",
@@ -87,7 +91,9 @@
       "transcript_published": false,
       "source_ids": [
         "src-92e69aeb51"
-      ]
+      ],
+      "direct_audio_model_record_id": "voice-performance-reading",
+      "direct_audio_model_analyzed": true
     },
     {
       "id": "refined",
@@ -116,7 +122,9 @@
       "transcript_published": false,
       "source_ids": [
         "src-57565e8781"
-      ]
+      ],
+      "direct_audio_model_record_id": "voice-performance-refined",
+      "direct_audio_model_analyzed": true
     },
     {
       "id": "ssr",
@@ -145,7 +153,9 @@
       "transcript_published": false,
       "source_ids": [
         "src-132f96a0f8"
-      ]
+      ],
+      "direct_audio_model_record_id": "voice-performance-ssr",
+      "direct_audio_model_analyzed": true
     },
     {
       "id": "whisper",
@@ -174,7 +184,9 @@
       "transcript_published": false,
       "source_ids": [
         "src-8e6ff6fe97"
-      ]
+      ],
+      "direct_audio_model_record_id": "voice-performance-whisper",
+      "direct_audio_model_analyzed": true
     }
   ]
 }

@@ -2566,6 +2566,87 @@
       },
       "modifications": "保留上游文件原始字节；仅安排本仓库路径。",
       "collected_on": "2026-10-21"
+    },
+    {
+      "id": "stepfun-portrait-lamp",
+      "character_id": "stepfun",
+      "collection": "fuh-stepfun",
+      "title": "StepFun持立方灯立绘",
+      "kind": "portrait",
+      "path": "assets/fuh-stepfun/stepfun/stepfun-portrait-lamp.png",
+      "width": 1086,
+      "height": 1448,
+      "has_transparency": false,
+      "bytes": 1334377,
+      "sha256": "63040314ac80392996305bde84c200dd90570fb7fccb4063cd8170ed3145459f",
+      "creators": [
+        "甶丶（AI辅助创作）"
+      ],
+      "source_url": "https://www.bilibili.com/opus/1250303372583501829",
+      "retrieved_url": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/stepfun/issue-19-001.png",
+      "supplier": "lmy414/ai-girl-stickers 原作者投稿19",
+      "license": {
+        "status": "author_declared",
+        "identifier": "CC-BY-NC",
+        "evidence_url": "https://github.com/lmy414/ai-girl-stickers/issues/19",
+        "note": "作者投稿明确CC BY-NC，未写版本号；保留原文，不补成4.0。"
+      },
+      "modifications": "保留原PNG字节，仅安排归档路径。",
+      "collected_on": "2026-10-21"
+    },
+    {
+      "id": "stepfun-portrait-umbrella",
+      "character_id": "stepfun",
+      "collection": "fuh-stepfun",
+      "title": "StepFun持方格伞立绘",
+      "kind": "portrait",
+      "path": "assets/fuh-stepfun/stepfun/stepfun-portrait-umbrella.png",
+      "width": 1086,
+      "height": 1448,
+      "has_transparency": false,
+      "bytes": 1663970,
+      "sha256": "6667e1fe805a65892c656fe380e1d6de7b582d27a9650f11700fb278fa0fbc1a",
+      "creators": [
+        "甶丶（AI辅助创作）"
+      ],
+      "source_url": "https://www.bilibili.com/opus/1250303372583501829",
+      "retrieved_url": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/stepfun/issue-19-002.png",
+      "supplier": "lmy414/ai-girl-stickers 原作者投稿19",
+      "license": {
+        "status": "author_declared",
+        "identifier": "CC-BY-NC",
+        "evidence_url": "https://github.com/lmy414/ai-girl-stickers/issues/19",
+        "note": "作者投稿明确CC BY-NC，未写版本号；保留原文，不补成4.0。"
+      },
+      "modifications": "保留原PNG字节，仅安排归档路径。",
+      "collected_on": "2026-10-21"
+    },
+    {
+      "id": "stepfun-prop-sheet",
+      "character_id": "stepfun",
+      "collection": "fuh-stepfun",
+      "title": "StepFun专武：方灯与像素伞",
+      "kind": "prop-design-sheet",
+      "path": "assets/fuh-stepfun/stepfun/stepfun-prop-sheet.png",
+      "width": 1448,
+      "height": 1086,
+      "has_transparency": false,
+      "bytes": 1004913,
+      "sha256": "b1c3f5aad75d25adb21cd3c6085adb131c40dfc9e4a5d20dcb6b5924a829f8aa",
+      "creators": [
+        "甶丶（AI辅助创作）"
+      ],
+      "source_url": "https://www.bilibili.com/opus/1250303372583501829",
+      "retrieved_url": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/stepfun/issue-19-003.png",
+      "supplier": "lmy414/ai-girl-stickers 原作者投稿19",
+      "license": {
+        "status": "author_declared",
+        "identifier": "CC-BY-NC",
+        "evidence_url": "https://github.com/lmy414/ai-girl-stickers/issues/19",
+        "note": "作者投稿明确CC BY-NC，未写版本号；保留原文，不补成4.0。"
+      },
+      "modifications": "保留原PNG字节，仅安排归档路径。",
+      "collected_on": "2026-10-21"
     }
   ]
 }

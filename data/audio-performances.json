@@ -1,0 +1,170 @@
+{
+  "checked_on": "2026-10-21",
+  "model_weights": [
+    {
+      "name": "Qwen2.5-Omni-3B-Q4_K_M.gguf",
+      "bytes": 2104931648,
+      "sha256": "4b0bd358c1e9ec55dd3055ef6d71c958c821533d85916a10cfa89c4552a86e29",
+      "official_lfs_hash_matches": true
+    },
+    {
+      "name": "mmproj-Qwen2.5-Omni-3B-Q8_0.gguf",
+      "bytes": 1538031328,
+      "sha256": "4e6c816cd33f7298d07cb780c136a396631e50e62f6501660271f8c6e302e565",
+      "official_lfs_hash_matches": true
+    }
+  ],
+  "records": [
+    {
+      "id": "voice-performance-ssr",
+      "video_id": "BV1PPYM6EEUR",
+      "page": 1,
+      "segment_start": 0,
+      "segment_duration": 10.1006875,
+      "source_ids": [
+        "src-132f96a0f8"
+      ],
+      "category": "演唱",
+      "register_and_timbre": "较高、明亮的声区；轻快",
+      "delivery": "旋律重复，节奏中等、欢快",
+      "mix_model_impression": "模型称背景多数较轻、局部有音乐",
+      "use_reference": "适合短句旋律、轻快角色歌曲方向；片段短，不能据此判断长唱稳定性。",
+      "method": "Qwen2.5-Omni-3B Q4_K_M + Q8 projector, llama.cpp b11780 Vulkan; input WAV directly, no transcript supplied",
+      "direct_audio_input": true,
+      "human_listened": false,
+      "confidence_scope": "模型辅助听感记录；不是人工审听、质量排名或音色模型身份鉴定。",
+      "excluded_inferences": [
+        "年龄与现实身份猜测",
+        "低置信度语言标签",
+        "没有可闻瑕疵的绝对保证"
+      ],
+      "sample_sha256": "47b45ca7c5b575fdec9863bdd885958ba9f3d3705b3dd705b90a98bb27eb75b9"
+    },
+    {
+      "id": "voice-performance-refined",
+      "video_id": "BV1vSYe6kESU",
+      "page": 1,
+      "segment_start": 0,
+      "segment_duration": 20.1549375,
+      "source_ids": [
+        "src-57565e8781"
+      ],
+      "category": "演唱",
+      "register_and_timbre": "明亮、较平滑的声线",
+      "delivery": "旋律简单重复、节奏稳定、活泼",
+      "mix_model_impression": "模型识别到电子伴奏，称人声较突出",
+      "use_reference": "适合轻快歌曲或短音乐段；声线模型本体仍未取得。",
+      "method": "Qwen2.5-Omni-3B Q4_K_M + Q8 projector, llama.cpp b11780 Vulkan; input WAV directly, no transcript supplied",
+      "direct_audio_input": true,
+      "human_listened": false,
+      "confidence_scope": "模型辅助听感记录；不是人工审听、质量排名或音色模型身份鉴定。",
+      "excluded_inferences": [
+        "年龄与现实身份猜测",
+        "低置信度语言标签",
+        "没有可闻瑕疵的绝对保证"
+      ],
+      "sample_sha256": "aa6693262298f625115fc67ad40c85e3266364cebf8b3a9c8212e8e203d22602"
+    },
+    {
+      "id": "voice-performance-reading",
+      "video_id": "BV1nJY26QEdV",
+      "page": 1,
+      "segment_start": 0,
+      "segment_duration": 46.592,
+      "source_ids": [
+        "src-92e69aeb51"
+      ],
+      "category": "朗读",
+      "register_and_timbre": "较亮、清楚、稳定",
+      "delivery": "中等速度，模型判断表演较平稳",
+      "mix_model_impression": "模型认为以人声为主",
+      "use_reference": "文本中的否认/关心语境与听感分开；模型未判断出强烈情绪起伏。",
+      "method": "Qwen2.5-Omni-3B Q4_K_M + Q8 projector, llama.cpp b11780 Vulkan; input WAV directly, no transcript supplied",
+      "direct_audio_input": true,
+      "human_listened": false,
+      "confidence_scope": "模型辅助听感记录；不是人工审听、质量排名或音色模型身份鉴定。",
+      "excluded_inferences": [
+        "年龄与现实身份猜测",
+        "低置信度语言标签",
+        "没有可闻瑕疵的绝对保证"
+      ],
+      "sample_sha256": "de71121b4795d2e0087274d86e1b945f9e6f847f3092eca32151b78705e4399e"
+    },
+    {
+      "id": "voice-performance-jp-cn",
+      "video_id": "BV1GJeh68EHk",
+      "page": 1,
+      "segment_start": 0,
+      "segment_duration": 37.895,
+      "source_ids": [
+        "src-9b456769e9"
+      ],
+      "category": "朗读对照",
+      "register_and_timbre": "轻柔、偏气声",
+      "delivery": "偏慢、停顿较从容",
+      "mix_model_impression": "模型认为人声清楚、背景较轻",
+      "use_reference": "可作为温和朗读方向参考；本次模型评价为整段，没有逐语种排名。",
+      "method": "Qwen2.5-Omni-3B Q4_K_M + Q8 projector, llama.cpp b11780 Vulkan; input WAV directly, no transcript supplied",
+      "direct_audio_input": true,
+      "human_listened": false,
+      "confidence_scope": "模型辅助听感记录；不是人工审听、质量排名或音色模型身份鉴定。",
+      "excluded_inferences": [
+        "年龄与现实身份猜测",
+        "低置信度语言标签",
+        "没有可闻瑕疵的绝对保证"
+      ],
+      "sample_sha256": "1c995ed743a4d256dc9cfa24afd22bd4bae1d0e0951b8c4ae7b2efc1adb8a71b"
+    },
+    {
+      "id": "voice-performance-whisper",
+      "video_id": "BV1TSY26wELg",
+      "page": 2,
+      "segment_start": 0,
+      "segment_duration": 13.248,
+      "source_ids": [
+        "src-8e6ff6fe97"
+      ],
+      "category": "耳语",
+      "register_and_timbre": "轻、弱声、连续耳语",
+      "delivery": "缓慢、有短暂停顿；模型联想到隐秘/谨慎",
+      "mix_model_impression": "模型认为人声为主要声源",
+      "use_reference": "耳语语境已由直接音轨模型识别；低电平与自然度不是同一个指标。",
+      "method": "Qwen2.5-Omni-3B Q4_K_M + Q8 projector, llama.cpp b11780 Vulkan; input WAV directly, no transcript supplied",
+      "direct_audio_input": true,
+      "human_listened": false,
+      "confidence_scope": "模型辅助听感记录；不是人工审听、质量排名或音色模型身份鉴定。",
+      "excluded_inferences": [
+        "年龄与现实身份猜测",
+        "低置信度语言标签",
+        "没有可闻瑕疵的绝对保证"
+      ],
+      "sample_sha256": "55c5febe8fdfb262fe2c37d0d6a57fbb200232b4300a8893a99b4ee7b2b5ffb9"
+    },
+    {
+      "id": "voice-performance-news",
+      "video_id": "BV1arpN6FEHv",
+      "page": 1,
+      "segment_start": 0,
+      "segment_duration": 30.0,
+      "source_ids": [
+        "src-d475d52ffc"
+      ],
+      "category": "资讯播报",
+      "register_and_timbre": "清晰、稳定的声线",
+      "delivery": "中等速度，语气较中性、叙述式",
+      "mix_model_impression": "模型认为人声主导",
+      "use_reference": "可参考栏目主持方向；本次只评声音表现，不确认播报新闻事实。",
+      "method": "Qwen2.5-Omni-3B Q4_K_M + Q8 projector, llama.cpp b11780 Vulkan; input WAV directly, no transcript supplied",
+      "direct_audio_input": true,
+      "human_listened": false,
+      "confidence_scope": "模型辅助听感记录；不是人工审听、质量排名或音色模型身份鉴定。",
+      "excluded_inferences": [
+        "年龄与现实身份猜测",
+        "低置信度语言标签",
+        "没有可闻瑕疵的绝对保证"
+      ],
+      "sample_sha256": "ad864cd3cbdbb74bd08f9bf20dc3f03ce0bb3290ec9efe7815c009efeb27b939"
+    }
+  ],
+  "method_note": "所有六段实际输入音轨。模型输出由编者提炼，剔除年龄猜测与绝对音质保证；ASR文字没有作为声音输入。"
+}

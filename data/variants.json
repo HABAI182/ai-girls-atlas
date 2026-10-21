@@ -1104,6 +1104,212 @@
       "prompt_origin": "not_recorded",
       "editorial_note": "两条作者投稿的外部画面线索，无本地图像副本；不依据标题御姐强行给某一分支命名。",
       "review_scope": "sampled_visual_frames"
+    },
+    {
+      "id": "larcgpt-sd-alchemy-painter",
+      "character_id": "stable-diffusion",
+      "collection": "larcgpt/ai-model-musume",
+      "title": "紫黑绘图炼金术分支",
+      "creators": "larcgpt（仓库维护者；项目自述图像由ChatGPT生成）",
+      "observed_traits": [
+        "紫黑色盘发、紫色眼睛、细框眼镜及紫金色发饰。",
+        "紫黑长裙与半透明披挂，手持细长画笔。",
+        "星云画布、画具、雕像与英伦建筑背景，周围有紫色和虹彩光带。",
+        "中文设定卡另放同版Q版小像和道具局部。"
+      ],
+      "difference_from_other_versions": "性格、能力雷达和炼金术等属于作者角色设定，不用作产品能力测评。",
+      "asset_ids": [],
+      "source_ids": [
+        "src-85eb5c49af",
+        "src-388a4506c9"
+      ],
+      "prompt_url": null,
+      "prompt_origin": "not_recorded",
+      "editorial_note": "README/settings为第19项，已查看的中文卡头部为18；保留上游编号差异，不把它解释成模型版本。",
+      "review_scope": "original_image_or_author_screenshot_actually_viewed"
+    },
+    {
+      "id": "hkr-copilot-pink-affection-card",
+      "character_id": "copilot",
+      "collection": "HKR+ビール2はい（作者；文章自述由GPT生成图像）",
+      "title": "HKR粉发亲昵漫画分支",
+      "creators": "HKR+ビール2はい（作者；文章自述由GPT生成图像）",
+      "observed_traits": [
+        "粉色长发/双侧发束，黑色发带与彩色Copilot发夹；戴细框眼镜。",
+        "粉色眼睛、白色衬衫、粉色领带，双手托脸面对镜头。",
+        "粉色桌面、心形图案、笔记本电脑与同版Q版小像组成设定卡。"
+      ],
+      "difference_from_other_versions": "作者把自己的聊天体验夸张成亲昵/依恋型二创人格；不得作为Copilot普遍性格或产品真实行为说明。",
+      "asset_ids": [],
+      "source_ids": [
+        "src-bb6720c286",
+        "src-4137c9f94c"
+      ],
+      "prompt_url": null,
+      "prompt_origin": "not_recorded",
+      "editorial_note": "原作者方案外链；没有将生成工具本身误认成画中另一个角色。",
+      "review_scope": "original_image_or_author_screenshot_actually_viewed"
+    },
+    {
+      "id": "raika-sora-imagine-bluegray",
+      "character_id": "sora",
+      "collection": "raikajones / RAIKA（作者公开对话和制作截图）",
+      "title": "想像して / 灰蓝卷发女性创作者分支",
+      "creators": "raikajones / RAIKA（作者公开对话和制作截图）",
+      "observed_traits": [
+        "灰蓝色卷发在头顶部分盘起，头部有圆形齿轮状装饰。",
+        "穿白色宽松外套，抬手握细长工具，背景偏暖色工作室。",
+        "截图是编辑字幕界面，预览显示00:01/00:10；仅确认这一张公开暂停画面。"
+      ],
+      "difference_from_other_versions": "可见女性造型；作者自设，不与其他动漫同名Sora混同。",
+      "asset_ids": [],
+      "source_ids": [
+        "src-771393fa77",
+        "src-d3707f87ff",
+        "src-2bfb90bcbe",
+        "src-4fcd316608"
+      ],
+      "prompt_url": null,
+      "prompt_origin": "not_recorded",
+      "editorial_note": "原作者方案外链；没有将生成工具本身误认成画中另一个角色。",
+      "review_scope": "original_image_or_author_screenshot_actually_viewed"
+    },
+    {
+      "id": "raika-sora-musashino",
+      "character_id": "sora",
+      "collection": "raikajones / RAIKA（作者公开对话和制作截图）",
+      "title": "武蔵美术大学联想分支",
+      "creators": "raikajones / RAIKA（作者公开对话和制作截图）",
+      "observed_traits": [
+        "短黑发、圆眼镜、浅色卷袖衬衫，双手靠近台面灰色材料。",
+        "截图呈现制作/雕塑过程的工作室情境，没有全身人物设定板。"
+      ],
+      "difference_from_other_versions": "不由短发外貌强行标为同一套女性角色；保留作者另分支。",
+      "asset_ids": [],
+      "source_ids": [
+        "src-771393fa77",
+        "src-d3707f87ff",
+        "src-2bfb90bcbe",
+        "src-4fcd316608"
+      ],
+      "prompt_url": null,
+      "prompt_origin": "not_recorded",
+      "editorial_note": "原作者方案外链；没有将生成工具本身误认成画中另一个角色。",
+      "review_scope": "original_image_or_author_screenshot_actually_viewed"
+    },
+    {
+      "id": "raika-sora-geidai",
+      "character_id": "sora",
+      "collection": "raikajones / RAIKA（作者公开对话和制作截图）",
+      "title": "东京艺术大学联想分支",
+      "creators": "raikajones / RAIKA（作者公开对话和制作截图）",
+      "observed_traits": [
+        "黑色略长头发、蓝色工作外套、宽裤，在昏暗高顶工作室中央站立。",
+        "预览为00:00/00:10，背景有梯子、桌椅与顶窗光；未观看整段。"
+      ],
+      "difference_from_other_versions": "造型分支单列，不为其补写性别、声线或统一年龄。",
+      "asset_ids": [],
+      "source_ids": [
+        "src-771393fa77",
+        "src-d3707f87ff",
+        "src-2bfb90bcbe",
+        "src-4fcd316608"
+      ],
+      "prompt_url": null,
+      "prompt_origin": "not_recorded",
+      "editorial_note": "原作者方案外链；没有将生成工具本身误认成画中另一个角色。",
+      "review_scope": "original_image_or_author_screenshot_actually_viewed"
+    },
+    {
+      "id": "fuh-stepfun-lamp-and-umbrella",
+      "character_id": "stepfun",
+      "collection": "fuh-stepfun",
+      "title": "甶丶StepFun立方灯与方格伞版",
+      "creators": "甶丶（原作者本人投稿，AI辅助创作）",
+      "observed_traits": [
+        "浅蓝长发、蓝眼、环状呆毛",
+        "黑白不对称裙装/披风、阶梯方块装饰",
+        "立方灯与方格面板伞两件专武"
+      ],
+      "difference_from_other_versions": "两张人物图改变持物和姿势；第三张是两件专武并置。",
+      "asset_ids": [
+        "stepfun-portrait-lamp",
+        "stepfun-portrait-umbrella",
+        "stepfun-prop-sheet"
+      ],
+      "source_ids": [
+        "src-da1cc349c6",
+        "src-6c2cb3e398",
+        "src-71269485bd",
+        "src-c6b207832c",
+        "src-9fea2dbdaf"
+      ],
+      "prompt_url": null,
+      "prompt_origin": "not_recorded",
+      "editorial_note": "作者说专武模仿官方表情包，仅作为其说明，不据此认定原图是官方角色。",
+      "review_scope": "three_original_pngs_actually_viewed"
+    },
+    {
+      "id": "larcgpt-mimo-digital-city",
+      "character_id": "mimo",
+      "collection": "larcgpt/ai-model-musume",
+      "title": "MiMo棕金马尾数码都市分支",
+      "creators": "larcgpt（仓库维护者；图像自述由ChatGPT生成）",
+      "observed_traits": [
+        "棕金色高马尾、橙色眼睛与耳机。",
+        "橙白黑机能短装和外套，手里持手机；背景是城市与设备图像。",
+        "卡片直接写MiMo娘、Xiaomi，另有同版Q版图、手机/手环/音箱等道具。"
+      ],
+      "difference_from_other_versions": "与甶丶银白双马尾、mi兔子分支在发型、服装、道具和比例上都不同；作为独立作者版本。",
+      "asset_ids": [],
+      "source_ids": [
+        "src-fe6fc07eca"
+      ],
+      "prompt_url": null,
+      "prompt_origin": "not_recorded",
+      "editorial_note": "无明确标准许可，本轮只登记外链；甶丶已有三视图不重复下载。",
+      "review_scope": "original_setting_card_actually_viewed"
+    },
+    {
+      "id": "andersen-liuqing-whale-live2d",
+      "character_id": "deepseek",
+      "collection": "Andersen216/dsh-whale-girl-live2d",
+      "title": "氵六青Live2D / Andersen216整理版",
+      "creators": "上善无形 / ZipZipPipe / 氵六青；Andersen216整理",
+      "observed_traits": [
+        "蓝发Q版鲸鱼娘、工作桌与道具",
+        "MOC3、8组动作和44份表情"
+      ],
+      "difference_from_other_versions": "按模型作者、文件与动作分别建分支；不与水原镜或狐宫静模型混包。",
+      "asset_ids": [],
+      "source_ids": [
+        "src-b63e39190c"
+      ],
+      "prompt_url": null,
+      "prompt_origin": "not_recorded",
+      "editorial_note": "本轮实际取得文件并在官方Core加载，资源进入Release素材包。",
+      "review_scope": "actual_official_core_webgl_model_load"
+    },
+    {
+      "id": "7l-whale-live2d-source",
+      "character_id": "deepseek",
+      "collection": "7l-ui/whalegirl-pet",
+      "title": "7l-ui自动分层与绑定Live2D版",
+      "creators": "7l-ui（独立AI生成与分层/绑定）",
+      "observed_traits": [
+        "蓝发女仆、双侧长发与鲸尾",
+        "15层PSD、CMO3及MOC3",
+        "Idle、Blink、Nod、Shake四组动作"
+      ],
+      "difference_from_other_versions": "按模型作者、文件与动作分别建分支；不与水原镜或狐宫静模型混包。",
+      "asset_ids": [],
+      "source_ids": [
+        "src-8b1a1d16b3"
+      ],
+      "prompt_url": null,
+      "prompt_origin": "not_recorded",
+      "editorial_note": "本轮实际取得文件并在官方Core加载，资源进入Release素材包。",
+      "review_scope": "actual_official_core_webgl_model_load"
     }
   ]
 }

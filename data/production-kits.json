@@ -7,7 +7,8 @@
     "creator_package_listed": "作者分发页列出包、名称或规格，本轮未领取",
     "external_distribution_entry": "可回作者平台查看/订阅/领取的入口",
     "external_work_reference": "作品演示/来源关系，未取得对应制作文件",
-    "unknown": "未登记同作者同系列可用文件"
+    "unknown": "未登记同作者同系列可用文件",
+    "downloaded_validated": "本轮取得文件并完成对应格式或运行检查；具体采样范围另列"
   },
   "kits": [
     {
@@ -99,7 +100,8 @@
         "逐层角色动画所需的分层源文件",
         "同作者明确的多角度、表情与声音包"
       ],
-      "do_not_merge": "ApprenTice图是重新制作的派生版本；不能标成ZipZipPipe原始Q版，也不与其他作者桌宠或音色拼成原厂套装。"
+      "do_not_merge": "ApprenTice图是重新制作的派生版本；不能标成ZipZipPipe原始Q版，也不与其他作者桌宠或音色拼成原厂套装。",
+      "ready_package_id": "apprentice-gpt"
     },
     {
       "id": "kit-apprentice-claude",
@@ -190,7 +192,8 @@
         "逐层角色动画所需的分层源文件",
         "同作者明确的多角度、表情与声音包"
       ],
-      "do_not_merge": "ApprenTice图是重新制作的派生版本；不能标成ZipZipPipe原始Q版，也不与其他作者桌宠或音色拼成原厂套装。"
+      "do_not_merge": "ApprenTice图是重新制作的派生版本；不能标成ZipZipPipe原始Q版，也不与其他作者桌宠或音色拼成原厂套装。",
+      "ready_package_id": "apprentice-claude"
     },
     {
       "id": "kit-apprentice-deepseek",
@@ -283,7 +286,8 @@
         "逐层角色动画所需的分层源文件",
         "同作者明确的多角度、表情与声音包"
       ],
-      "do_not_merge": "ApprenTice图是重新制作的派生版本；不能标成ZipZipPipe原始Q版，也不与其他作者桌宠或音色拼成原厂套装。"
+      "do_not_merge": "ApprenTice图是重新制作的派生版本；不能标成ZipZipPipe原始Q版，也不与其他作者桌宠或音色拼成原厂套装。",
+      "ready_package_id": "apprentice-deepseek"
     },
     {
       "id": "kit-apprentice-glm",
@@ -374,7 +378,8 @@
         "逐层角色动画所需的分层源文件",
         "同作者明确的多角度、表情与声音包"
       ],
-      "do_not_merge": "ApprenTice图是重新制作的派生版本；不能标成ZipZipPipe原始Q版，也不与其他作者桌宠或音色拼成原厂套装。"
+      "do_not_merge": "ApprenTice图是重新制作的派生版本；不能标成ZipZipPipe原始Q版，也不与其他作者桌宠或音色拼成原厂套装。",
+      "ready_package_id": "apprentice-glm"
     },
     {
       "id": "kit-apprentice-gemini",
@@ -465,7 +470,8 @@
         "逐层角色动画所需的分层源文件",
         "同作者明确的多角度、表情与声音包"
       ],
-      "do_not_merge": "ApprenTice图是重新制作的派生版本；不能标成ZipZipPipe原始Q版，也不与其他作者桌宠或音色拼成原厂套装。"
+      "do_not_merge": "ApprenTice图是重新制作的派生版本；不能标成ZipZipPipe原始Q版，也不与其他作者桌宠或音色拼成原厂套装。",
+      "ready_package_id": "apprentice-gemini"
     },
     {
       "id": "kit-apprentice-grok",
@@ -556,7 +562,8 @@
         "逐层角色动画所需的分层源文件",
         "同作者明确的多角度、表情与声音包"
       ],
-      "do_not_merge": "ApprenTice图是重新制作的派生版本；不能标成ZipZipPipe原始Q版，也不与其他作者桌宠或音色拼成原厂套装。"
+      "do_not_merge": "ApprenTice图是重新制作的派生版本；不能标成ZipZipPipe原始Q版，也不与其他作者桌宠或音色拼成原厂套装。",
+      "ready_package_id": "apprentice-grok"
     },
     {
       "id": "kit-apprentice-kimi",
@@ -647,7 +654,8 @@
         "逐层角色动画所需的分层源文件",
         "同作者明确的多角度、表情与声音包"
       ],
-      "do_not_merge": "ApprenTice图是重新制作的派生版本；不能标成ZipZipPipe原始Q版，也不与其他作者桌宠或音色拼成原厂套装。"
+      "do_not_merge": "ApprenTice图是重新制作的派生版本；不能标成ZipZipPipe原始Q版，也不与其他作者桌宠或音色拼成原厂套装。",
+      "ready_package_id": "apprentice-kimi"
     },
     {
       "id": "kit-apprentice-minimax",
@@ -738,7 +746,8 @@
         "逐层角色动画所需的分层源文件",
         "同作者明确的多角度、表情与声音包"
       ],
-      "do_not_merge": "ApprenTice图是重新制作的派生版本；不能标成ZipZipPipe原始Q版，也不与其他作者桌宠或音色拼成原厂套装。"
+      "do_not_merge": "ApprenTice图是重新制作的派生版本；不能标成ZipZipPipe原始Q版，也不与其他作者桌宠或音色拼成原厂套装。",
+      "ready_package_id": "apprentice-minimax"
     },
     {
       "id": "kit-apprentice-qwen",
@@ -829,7 +838,8 @@
         "逐层角色动画所需的分层源文件",
         "同作者明确的多角度、表情与声音包"
       ],
-      "do_not_merge": "ApprenTice图是重新制作的派生版本；不能标成ZipZipPipe原始Q版，也不与其他作者桌宠或音色拼成原厂套装。"
+      "do_not_merge": "ApprenTice图是重新制作的派生版本；不能标成ZipZipPipe原始Q版，也不与其他作者桌宠或音色拼成原厂套装。",
+      "ready_package_id": "apprentice-qwen"
     },
     {
       "id": "kit-fuh-mimo",
@@ -907,7 +917,8 @@
         "独立Q版与表情差分",
         "可编辑分层或绑定工程"
       ],
-      "do_not_merge": "正侧背来自同一作者同一动态；八AI游戏演绎的重新生成立绘仅是应用参考，不并入作者原图包。"
+      "do_not_merge": "正侧背来自同一作者同一动态；八AI游戏演绎的重新生成立绘仅是应用参考，不并入作者原图包。",
+      "ready_package_id": "fuh-mimo"
     },
     {
       "id": "kit-maid-atelier-model-line",
@@ -1022,7 +1033,9 @@
         "骨骼、表情驱动、动作",
         "可直接导入直播软件的运行模型"
       ],
-      "do_not_merge": "该静态工程明确未使用现成MMD/Warudo网格；不能与水原镜模型当成同一工程不同格式。"
+      "do_not_merge": "该静态工程明确未使用现成MMD/Warudo网格；不能与水原镜模型当成同一工程不同格式。",
+      "ready_package_id": "maid-static-3d",
+      "validation_summary": "本轮实际打开Blend和导入GLB并渲染；无绑定/动画。"
     },
     {
       "id": "kit-mzkagami-whale-models",
@@ -1213,6 +1226,125 @@
         "分层原稿与可编辑绑定工程"
       ],
       "do_not_merge": "不能把星落落音色自动绑定到狐宫静模型；此处只有视频音乐的作者回链。"
+    },
+    {
+      "id": "kit-fuh-stepfun",
+      "title": "甶丶 StepFun两张立绘与专武图",
+      "character_ids": [
+        "stepfun"
+      ],
+      "series": "甶丶 StepFun",
+      "relationship": "same_author_files_or_explicit_model_integration",
+      "variant_ids": [
+        "fuh-stepfun-lamp-and-umbrella"
+      ],
+      "source_ids": [
+        "src-da1cc349c6",
+        "src-6c2cb3e398",
+        "src-71269485bd",
+        "src-c6b207832c",
+        "src-9fea2dbdaf"
+      ],
+      "project_ids": [],
+      "components": [
+        {
+          "kind": "portrait",
+          "availability": "local_file",
+          "asset_id": "stepfun-portrait-lamp",
+          "path": "assets/fuh-stepfun/stepfun/stepfun-portrait-lamp.png"
+        },
+        {
+          "kind": "portrait",
+          "availability": "local_file",
+          "asset_id": "stepfun-portrait-umbrella",
+          "path": "assets/fuh-stepfun/stepfun/stepfun-portrait-umbrella.png"
+        },
+        {
+          "kind": "prop_sheet",
+          "availability": "local_file",
+          "asset_id": "stepfun-prop-sheet",
+          "path": "assets/fuh-stepfun/stepfun/stepfun-prop-sheet.png"
+        }
+      ],
+      "ready_for": [
+        "人物立绘和两件道具设计参考"
+      ],
+      "missing_for": [
+        "同作者三视图、分层模型、声音"
+      ],
+      "ready_package_id": "fuh-stepfun",
+      "do_not_merge": "按作者与模型分支独立使用。"
+    },
+    {
+      "id": "kit-liuqing-live2d",
+      "title": "氵六青Live2D模型与44份表情",
+      "character_ids": [
+        "deepseek"
+      ],
+      "series": "氵六青 / Andersen216整理",
+      "relationship": "same_author_files_or_explicit_model_integration",
+      "variant_ids": [
+        "andersen-liuqing-whale-live2d"
+      ],
+      "source_ids": [
+        "src-b63e39190c"
+      ],
+      "project_ids": [
+        "project-andersen216"
+      ],
+      "components": [
+        {
+          "kind": "live2d",
+          "availability": "downloaded_validated",
+          "note": "MOC3、两张纹理、物理、8组动作、44份表情；atlas入口补注册表情。"
+        }
+      ],
+      "ready_for": [
+        "在Cubism播放器演出；参考动作与表情"
+      ],
+      "missing_for": [
+        "CMO3/PSD未在该整理版中提供；idle采样未见变化"
+      ],
+      "ready_package_id": "liuqing-live2d",
+      "do_not_merge": "按作者与模型分支独立使用。"
+    },
+    {
+      "id": "kit-7l-live2d-source",
+      "title": "7l-ui Live2D与PSD/CMO3源文件",
+      "character_ids": [
+        "deepseek"
+      ],
+      "series": "7l-ui独立自动分层/绑定",
+      "relationship": "same_author_files_or_explicit_model_integration",
+      "variant_ids": [
+        "7l-whale-live2d-source"
+      ],
+      "source_ids": [
+        "src-8b1a1d16b3"
+      ],
+      "project_ids": [
+        "project-7l-ui"
+      ],
+      "components": [
+        {
+          "kind": "live2d",
+          "availability": "downloaded_validated",
+          "note": "MOC3、纹理、物理、四组动作，官方Core五项采样可见。"
+        },
+        {
+          "kind": "layered_source",
+          "availability": "downloaded_validated",
+          "note": "768×768 PSD、15层及CMO3原文件；CMO3未Editor重开。"
+        }
+      ],
+      "ready_for": [
+        "模型演出、PSD分层研究及继续编辑"
+      ],
+      "missing_for": [
+        "Android/Operit联机不属本次素材包；CMO3原生重开尚未确认"
+      ],
+      "ready_package_id": "7l-live2d-source",
+      "do_not_merge": "按作者与模型分支独立使用。"
     }
   ],
   "download_entries": [
@@ -1530,6 +1662,61 @@
       "git_blob_sha": "fcc2babc715ef8e3098debf4db164c152c6aefcc",
       "file_bytes_as_tree": 2540576,
       "raw_url": "https://raw.githubusercontent.com/legeling/awesome-codex-pet/022aea52f75841d31f57b7596479ebb425480a50/pets/gpt-dragon-girl--legeling/spritesheet.webp"
+    },
+    {
+      "id": "download-liuqing-live2d-model",
+      "title": "氵六青Live2D完整运行资源",
+      "kind": "source_material",
+      "url": "https://github.com/Andersen216/dsh-whale-girl-live2d/tree/f977bef508690e75ba6535cd8f4ce18e7f6ba9b0/assets/model",
+      "new_information_this_round": true,
+      "source_ids": [
+        "src-b63e39190c"
+      ],
+      "character_ids": [
+        "deepseek"
+      ],
+      "local_copy": true,
+      "availability": "downloaded_validated",
+      "format": "moc3",
+      "use_note": "8组动作、44表情；本库另加Expressions注册入口。"
+    },
+    {
+      "id": "download-7l-layered-source",
+      "title": "7l-ui PSD/CMO3与Live2D运行模型",
+      "kind": "source_material",
+      "url": "https://github.com/7l-ui/whalegirl-pet/tree/ea296fb06bb7daf68dbd390b7d11e7cf001d0b87/art",
+      "new_information_this_round": true,
+      "source_ids": [
+        "src-8b1a1d16b3"
+      ],
+      "character_ids": [
+        "deepseek"
+      ],
+      "local_copy": true,
+      "availability": "downloaded_validated",
+      "format": "psd/cmo3/moc3",
+      "use_note": "PSD15层；MOC3实际SDK加载，CMO3源文件未原生重开。"
+    },
+    {
+      "id": "download-fuh-stepfun-originals",
+      "title": "甶丶 StepFun三张原PNG",
+      "kind": "source_material",
+      "url": "https://github.com/lmy414/ai-girl-stickers/issues/19",
+      "new_information_this_round": true,
+      "source_ids": [
+        "src-da1cc349c6",
+        "src-6c2cb3e398",
+        "src-71269485bd",
+        "src-c6b207832c",
+        "src-9fea2dbdaf"
+      ],
+      "character_ids": [
+        "stepfun"
+      ],
+      "local_copy": true,
+      "availability": "downloaded_validated",
+      "format": "png",
+      "use_note": "两张立绘、一张专武图，CC BY-NC未写版本号。"
     }
   ]
 }

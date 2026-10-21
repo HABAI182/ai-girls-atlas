@@ -45,3 +45,12 @@ Copilot校园项目未区分具体产品，使用独立条目copilot-school。va
 | collection-gaps.json | 8个补查方向及元宝已找到的作者分支 |
 | reference-guides.json | 用户新给TreapGoGo视频到仓库/网站/画廊/投稿的关系 |
 | encyclopedia-coverage.json | 本轮专题计数与原创素材数量 |
+
+## 可用文件与直接音轨分析
+
+| 文件 | 用途 |
+| --- | --- |
+| ready-packages.json | 14组实际ZIP目录、摘要及Release入口 |
+| material-checks.json | 7项实际素材运行记录，含静态3D、Live2D与图集 |
+| audio-performances.json | 6段原始音轨直接输入模型后的声音/演法摘要 |
+| gap-followup.json | 3个新角色确认、StepFun/MiMo补充及新增检索记录 |

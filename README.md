@@ -2,10 +2,17 @@
 
 整理AI拟人角色的立绘、Q版、三视图、表情、视频与声音：看形象、选作者版本、找原图与制作来源。资料更新至 **2026-10-21**。
 
+## 本轮继续补齐：可用文件、声音与薄弱角色
+
+- **[直接下载14组素材包](encyclopedia/ready-packages.md)**：11组静态图、1组三维源文件、2组Live2D，附原许可、来源和文件清单。
+- **[原文件实际运行结果](encyclopedia/runtime-materials.md)**：Blend/GLB渲染、两套Live2D加载与动作/表情采样、三张图集播放。
+- **[六段直接音轨分析](encyclopedia/audio-performances.md)**：原音轨输入音频理解模型，补声区、语气与演法；模型猜测年龄等内容已剔除。
+- **[角色补缺](encyclopedia/gap-character-update.md)**：SD、Copilot、Sora补到明确作者分支；StepFun新增三张原PNG，MiMo补独立作者版本。
+
 ## 这次新增
 
 - **[AI娘创作百科](encyclopedia/README.md)**：梗、角色演出、动作道具、关系地图、声音、衣装、作者、版本沿革和新作品形态。
-- **三个完整专题**：[10个梗](encyclopedia/memes/README.md)、[八位角色反应与32格原创点子](encyclopedia/performances/README.md)、[13组素材关联包](encyclopedia/production/README.md)。
+- **三个完整专题**：[10个梗](encyclopedia/memes/README.md)、[八位角色反应与32格原创点子](encyclopedia/performances/README.md)、[16组素材关联包](encyclopedia/production/README.md)。
 - **具体来源继续扩充**：12条新补明的模型/工程入口、16张图像观察、6段音轨分析、6个跨语种入口。
 - **视频与声音索引**：现有92条视频、19条声音来源；原有图片与版本档案沿用。
 
@@ -28,9 +35,9 @@
 | 项目 | 数量 | 说明 |
 | --- | ---: | --- |
 | 条目 | 39 | 产品、模型、工具、平台及历史/待区分项目命名 |
-| 有形象资料或线索 | 33 | 本地图片、档案与外部作品线索分别标注 |
-| 有本地图片的角色条目 | 20 | 不同作者版本可共存 |
-| 本地原图/派生图/参考文件 | 82 | 保留供应方原字节，含首轮视频展示截帧 |
+| 有形象资料或线索 | 36 | 本地图片、档案与外部作品线索分别标注 |
+| 有本地图片的角色条目 | 21 | 不同作者版本可共存 |
+| 本地原图/派生图/参考文件 | 85 | 保留供应方原字节，含首轮视频展示截帧 |
 | 轻量预览 | 11 | 单独计数，不当作新作品 |
 | 外部参考 | 49 | 图库原帖与独立宠物版本 |
 | 视频记录 | 92 | 含声音上游与关联方法，观察范围逐条注明 |
@@ -38,8 +45,8 @@
 | 声音来源 | 19 | 原作品与版本链，不是音频下载包 |
 | 表情/作品导航 | 36 | 外链导航与情绪用途 |
 | 本地表情语境 | 11 | 对应已有图片的索引 |
-| 来源入口 | 302 | 正文、目录、元数据和作者声明分层记录 |
-| 待补条目 | 6 | 未找到明确方案的档位继续保留 |
+| 来源入口 | 319 | 正文、目录、元数据和作者声明分层记录 |
+| 待补条目 | 3 | 未找到明确方案的档位继续保留 |
 
 首轮重点来源保留，新增部分按原文件和作品版本去重。两个重点来源的本次变化见[source-updates.json](data/source-updates.json)。
 
@@ -88,17 +95,17 @@
 | [Suno](characters/suno/README.md) | music-product | 作品线索 | 本次仅确认生成式模型合照中的形象线索 |
 | [ElevenLabs](characters/elevenlabs/README.md) | audio-product | 作品线索 | 本次仅确认生成式模型合照中的形象线索 |
 | [豆包官方头像及其他版本](characters/doubao/README.md) | product | 本地图片 | 官方短发头像有来源；同人造型存在多个分支 |
-| [StepFun / 阶跃星辰](characters/stepfun/README.md) | model-family | 作品线索 | 找到三项站点记录；精确外貌和原作许可待原帖逐图核对 |
+| [StepFun / 阶跃星辰](characters/stepfun/README.md) | model-family | 本地图片 | 浅蓝长发、蓝眼、环状呆毛；黑白不对称裙装/披风、阶梯方块装饰；立方灯与方格面板伞两件专武 |
 | [MiMo / 小米](characters/mimo/README.md) | model-family | 本地图片 | 银白双马尾；橙黑服装、mi/MiMo标识；兔子与黑白不对称袜 |
 | [Hugging Face](characters/huggingface/README.md) | platform | 作品线索 | 站点条目描述黄色笑脸玩偶与海军蓝外套 |
-| [Microsoft Copilot](characters/copilot/README.md) | product | 待补 | 与GitHub Copilot分开；本次未确认采用哪一套社区形象。 |
+| [Microsoft Copilot](characters/copilot/README.md) | product | 作品线索 | 粉色长发/双侧发束，黑色发带与彩色Copilot发夹；戴细框眼镜。；粉色眼睛、白色衬衫、粉色领带，双手托脸面对镜头。；粉色桌面、心形图案、笔记本电脑与同版Q版小像组成设定卡。 |
 | [腾讯元宝](characters/yuanbao/README.md) | product | 作品线索 | 帆船很忙的三个银白/绿白造型分支，见两条作者投稿 |
 | [讯飞星火](characters/spark/README.md) | model-family | 本地图片 | 酒红低侧马尾；眼镜与蓝眼；蓝色火焰发夹 |
 | [Cohere / Command](characters/cohere/README.md) | model-family | 本地图片 | 森林绿及肩卷发；浅色挑染；桃绿奶油色领结 |
 | [可灵 / Kling](characters/kling/README.md) | video-product | 待补 | 官方入口本次读取受限；没有补造角色图或厂商许可。 |
 | [Runway](characters/runway/README.md) | video-product | 待补 | 产品有官方入口，未指定成熟社区形象。 |
-| [Sora（历史产品）](characters/sora/README.md) | historical-video-product | 待补 | 原入口当前转到官方停用说明；作为历史产品待补档，不列为当前可用服务。 |
-| [Stable Diffusion](characters/stable-diffusion/README.md) | image-model-family | 待补 | 模型家族与各WebUI/服务不混同，拟人设计待补。 |
+| [Sora（历史产品）](characters/sora/README.md) | historical-video-product | 作品线索 | 灰蓝色卷发在头顶部分盘起，头部有圆形齿轮状装饰。；穿白色宽松外套，抬手握细长工具，背景偏暖色工作室。；截图是编辑字幕界面，预览显示00:01/00:10；仅确认这一张公开暂停画面。 |
+| [Stable Diffusion](characters/stable-diffusion/README.md) | image-model-family | 作品线索 | 紫黑色盘发、紫色眼睛、细框眼镜及紫金色发饰。；紫黑长裙与半透明披挂，手持细长画笔。；星云画布、画具、雕像与英伦建筑背景，周围有紫色和虹彩光带。 |
 | [FLUX](characters/flux/README.md) | image-model-family | 待补 | 模型家族与厂商分开登记；未找到本次可核验角色档案。 |
 | [Copilot（校园项目，具体产品待区分）](characters/copilot-school/README.md) | ambiguous-product-reference | 本地图片 | 青绿色高马尾；多色缎带环徽章；灰蓝校服裙 |
 

@@ -750,3 +750,33 @@ HABAI182为整理者。原图、派生图、预览各保留作者与来源；本
 - 作者投稿选择CC BY-NC，具体版本未写明；按署名、非商业条件保留，不擅自补成4.0。
 - 处理：保留上游文件原始字节；仅安排本仓库路径。
 - SHA-256：`8c0df2f399316d00978e39d5620d056a1d880c4a80bd863d776d2e4d527c56ee`。
+
+## `assets/fuh-stepfun/stepfun/stepfun-portrait-lamp.png`
+
+- 署名：甶丶（AI辅助创作）。
+- [作者原动态](https://www.bilibili.com/opus/1250303372583501829)；[原作者投稿与许可](https://github.com/lmy414/ai-girl-stickers/issues/19)。
+- 许可：CC BY-NC，作者未写版本号，不补成4.0。
+- 处理：保留原PNG字节；两张立绘与一张专武图分别登记。
+- SHA-256：`63040314ac80392996305bde84c200dd90570fb7fccb4063cd8170ed3145459f`。
+
+## `assets/fuh-stepfun/stepfun/stepfun-portrait-umbrella.png`
+
+- 署名：甶丶（AI辅助创作）。
+- [作者原动态](https://www.bilibili.com/opus/1250303372583501829)；[原作者投稿与许可](https://github.com/lmy414/ai-girl-stickers/issues/19)。
+- 许可：CC BY-NC，作者未写版本号，不补成4.0。
+- 处理：保留原PNG字节；两张立绘与一张专武图分别登记。
+- SHA-256：`6667e1fe805a65892c656fe380e1d6de7b582d27a9650f11700fb278fa0fbc1a`。
+
+## `assets/fuh-stepfun/stepfun/stepfun-prop-sheet.png`
+
+- 署名：甶丶（AI辅助创作）。
+- [作者原动态](https://www.bilibili.com/opus/1250303372583501829)；[原作者投稿与许可](https://github.com/lmy414/ai-girl-stickers/issues/19)。
+- 许可：CC BY-NC，作者未写版本号，不补成4.0。
+- 处理：保留原PNG字节；两张立绘与一张专武图分别登记。
+- SHA-256：`b1c3f5aad75d25adb21cd3c6085adb131c40dfc9e4a5d20dcb6b5924a829f8aa`。
+
+## 本轮模型运行证据与下载包
+
+`evidence/materials/maid-blend-quarter.png`是本次Blender渲染：SelinLee / AI Moe Atlas，MaidAtelier派生线，CC BY-NC-SA 4.0。`liuqing-*.png`是本次官方SDK采样：上善无形 / ZipZipPipe / 氵六青，Andersen216整理，保留CC BY-NC-SA 4.0署名链。`7l-*.png`来自7l-ui独立模型的SDK采样，作者项目对art和运行模型明确提供MIT；不把其他鲸鱼娘作品并入该许可。
+
+Release的14组素材按各自目录保留原许可、逐文件摘要和来源，未包含官方专有SDK/Core、音轨或其他未确认再分发的模型包。

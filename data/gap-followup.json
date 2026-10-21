@@ -1,0 +1,290 @@
+{
+  "checked_on": "2026-10-21",
+  "confirmed": [
+    {
+      "character_id": "stable-diffusion",
+      "title": "AI Model Musume：Stable Diffusion娘独立分支",
+      "source_ids": [
+        "src-85eb5c49af",
+        "src-388a4506c9"
+      ],
+      "branch_ids": [
+        "larcgpt-sd-alchemy-painter"
+      ],
+      "review_scope": "actual_original_images_or_published_creator_screenshots",
+      "source_url": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/Stable%20Diffusion/Stable%20Diffusion_%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87_%E8%A7%92%E8%89%B2%E8%A8%AD%E5%AE%9A.png"
+    },
+    {
+      "character_id": "copilot",
+      "title": "うちのAIをAIが擬人化した結果がこれだ！：Copilotちゃん",
+      "source_ids": [
+        "src-bb6720c286",
+        "src-4137c9f94c"
+      ],
+      "branch_ids": [
+        "hkr-copilot-pink-affection-card"
+      ],
+      "review_scope": "actual_original_images_or_published_creator_screenshots",
+      "source_url": "https://note.com/magic_guppy4264/n/n04452ba4ebf9"
+    },
+    {
+      "character_id": "sora",
+      "title": "AI人格図鑑：raikajones的Sora(OpenAI)自设分支",
+      "source_ids": [
+        "src-771393fa77",
+        "src-d3707f87ff",
+        "src-2bfb90bcbe",
+        "src-4fcd316608"
+      ],
+      "branch_ids": [
+        "raika-sora-imagine-bluegray",
+        "raika-sora-musashino",
+        "raika-sora-geidai"
+      ],
+      "review_scope": "actual_original_images_or_published_creator_screenshots",
+      "source_url": "https://note.com/raikajones/n/n8862bdd081a9"
+    }
+  ],
+  "stepfun_source_ids": [
+    "src-da1cc349c6",
+    "src-6c2cb3e398",
+    "src-71269485bd",
+    "src-c6b207832c",
+    "src-9fea2dbdaf"
+  ],
+  "mimo_source_ids": [
+    "src-fe6fc07eca"
+  ],
+  "still_wanted": [
+    "kling",
+    "runway",
+    "flux"
+  ],
+  "search_log": [
+    {
+      "character_id": "kling",
+      "query": "可灵 拟人化",
+      "engine": "bilibili_public_search_api",
+      "code": 0,
+      "result_scope": "API返回候选；如error则不是检索无结果"
+    },
+    {
+      "character_id": "kling",
+      "query": "可灵酱",
+      "engine": "bilibili_public_search_api",
+      "code": 0,
+      "result_scope": "API返回候选；如error则不是检索无结果"
+    },
+    {
+      "character_id": "runway",
+      "query": "Runway chan",
+      "engine": "bilibili_public_search_api",
+      "code": 0,
+      "result_scope": "API返回候选；如error则不是检索无结果"
+    },
+    {
+      "character_id": "runway",
+      "query": "Runway 拟人化",
+      "engine": "bilibili_public_search_api",
+      "result_scope": "API返回候选；如error则不是检索无结果"
+    },
+    {
+      "character_id": "flux",
+      "query": "FLUX娘化",
+      "engine": "bilibili_public_search_api",
+      "result_scope": "API返回候选；如error则不是检索无结果"
+    },
+    {
+      "character_id": "flux",
+      "query": "FLUX 人设",
+      "engine": "bilibili_public_search_api",
+      "result_scope": "API返回候选；如error则不是检索无结果"
+    },
+    {
+      "character_id": "stable-diffusion",
+      "query": "SD娘",
+      "engine": "bilibili_public_search_api",
+      "code": 0,
+      "result_scope": "API返回候选；如error则不是检索无结果"
+    },
+    {
+      "character_id": "stable-diffusion",
+      "query": "稳定扩散 拟人",
+      "engine": "bilibili_public_search_api",
+      "result_scope": "API返回候选；如error则不是检索无结果"
+    },
+    {
+      "character_id": "copilot",
+      "query": "微软Copilot 拟人化",
+      "engine": "bilibili_public_search_api",
+      "result_scope": "API返回候选；如error则不是检索无结果"
+    },
+    {
+      "character_id": "copilot",
+      "query": "Copilot ちゃん",
+      "engine": "bilibili_public_search_api",
+      "code": 0,
+      "result_scope": "API返回候选；如error则不是检索无结果"
+    },
+    {
+      "character_id": "sora",
+      "query": "Sora娘",
+      "engine": "bilibili_public_search_api",
+      "result_scope": "API返回候选；如error则不是检索无结果"
+    },
+    {
+      "character_id": "sora",
+      "query": "OpenAI Sora 拟人",
+      "engine": "bilibili_public_search_api",
+      "result_scope": "API返回候选；如error则不是检索无结果"
+    },
+    {
+      "character_id": "stepfun",
+      "query": "阶跃娘",
+      "engine": "bilibili_public_search_api",
+      "result_scope": "API返回候选；如error则不是检索无结果"
+    },
+    {
+      "character_id": "mimo",
+      "query": "MiMo娘 三视图",
+      "engine": "bilibili_public_search_api",
+      "result_scope": "API返回候选；如error则不是检索无结果"
+    },
+    {
+      "engine": "web_search",
+      "queries": [
+        "\"Kling\" \"gijinka\"",
+        "\"Runway\" \"gijinka\"",
+        "\"FLUX\" \"擬人化\"",
+        "\"Stable Diffusion\" \"gijinka\""
+      ]
+    },
+    {
+      "engine": "web_search",
+      "queries": [
+        "\"Copilot-chan\" Microsoft",
+        "\"Sora\" \"OpenAI\" \"擬人化\"",
+        "\"SD娘\" \"Stable\"",
+        "\"可灵酱\" OR \"可灵娘化\""
+      ]
+    },
+    {
+      "engine": "web_search",
+      "queries": [
+        "\"Stable Diffusion\" \"personification\" girl",
+        "\"Copilot\" \"擬人化\" -site:answers.microsoft.com",
+        "\"Kling\" \"personification\" girl",
+        "\"RunwayML\" \"chan\" mascot"
+      ]
+    },
+    {
+      "engine": "web_search",
+      "queries": [
+        "\"可灵\" \"拟人化\" \"娘\"",
+        "\"Runway\" \"AI娘\"",
+        "\"FLUXちゃん\" OR \"FLUX娘\"",
+        "\"ステーブルディフュージョン\" \"擬人化\""
+      ]
+    },
+    {
+      "engine": "web_search",
+      "queries": [
+        "\"Copilot\" \"擬人化\" \"女\"",
+        "\"Copilotちゃん\" 擬人化",
+        "\"Sora\" \"娘化\" -教程 -生成视频",
+        "\"Stable Diffusion\" \"mascot\" girl -prompt"
+      ]
+    },
+    {
+      "engine": "web_search",
+      "queries": [
+        "\"Stable Diffusion-chan\"",
+        "\"FLUX\" \"Black Forest Labs\" \"mascot\"",
+        "\"Kling AI\" \"mascot\" character",
+        "\"Runway AI\" \"personification\""
+      ]
+    },
+    {
+      "engine": "web_search",
+      "queries": [
+        "site:bilibili.com \"可灵\" \"娘化\"",
+        "\"RunwayML\" \"擬人化\"",
+        "\"FLUX\" \"娘化\" \"立绘\"",
+        "\"Stable Diffusion\" \"拟人形象\""
+      ]
+    },
+    {
+      "engine": "web_search",
+      "queries": [
+        "\"甶丶\" \"阶跃\" 设定",
+        "\"MiMo娘\" \"甶\" 三视图",
+        "\"Runway\" \"娘化\"",
+        "\"Kling-chan\" OR \"可灵拟人\""
+      ]
+    },
+    {
+      "engine": "web_search",
+      "queries": [
+        "\"raikajones\" \"Sora\" \"想像して\"",
+        "\"Copilot娘\" -site:github.com -site:answers.microsoft.com",
+        "\"FLUX\" \"化身\" \"AI娘\"",
+        "\"ランウェイ\" \"擬人化\" AI"
+      ]
+    },
+    {
+      "engine": "web_search",
+      "queries": [
+        "\"快手可灵\" \"拟人\" \"人设\"",
+        "\"Runway Gen-4\" \"waifu\" artist",
+        "\"FLUX.1\" \"gijinka\" artist"
+      ]
+    },
+    {
+      "engine": "web_search",
+      "queries": [
+        "site:pixiv.net \"Kling\" \"擬人化\"",
+        "site:deviantart.com \"Runway\" \"AI\" gijinka",
+        "site:pixiv.net \"FLUX\" \"擬人化\""
+      ]
+    }
+  ],
+  "identity_exclusions": [
+    {
+      "candidate": "larcgpt Mai娘 / MAI",
+      "url": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/MAI/Mai_Main_1.png",
+      "reason": "图中虽有Copilot Studio，文字说明对象是Microsoft AI自研模型家族，不能直接充当Copilot本人。",
+      "evidence_scope": "image_and_text_seen"
+    },
+    {
+      "candidate": "mory2080 Copilot人形模型请求",
+      "url": "https://kuromori.hatenablog.com/entry/2026/01/21/065728",
+      "reason": "文章在Copilot小节展示的是未生成图的聊天回答，没有Copilot角色图片。",
+      "evidence_scope": "article_text_read"
+    },
+    {
+      "candidate": "ゆみえCopilot男性职员",
+      "url": "https://note.com/yumie1991/n/n10fdbd46d19e",
+      "reason": "明确是男性拟人分支，不能混成女性图；本次只读文字线索。",
+      "evidence_scope": "text_only"
+    },
+    {
+      "candidate": "Gaia Runway gijinka术语",
+      "url": "https://www.gaiaonline.com/forum/gaia-runway/brief-glossary-of-terms-applicable-in-runway-contests/t.103516383/",
+      "reason": "Runway是该平台穿搭比赛，不是Runway视频生成产品。",
+      "evidence_scope": "search_and_text"
+    },
+    {
+      "candidate": "Kling cute_mascot栏目",
+      "url": "https://kling.ai/explore/cute_mascot",
+      "reason": "展示用工具做的猫、兔等吉祥物，不是工具自己的拟人。",
+      "evidence_scope": "search_and_page_text"
+    },
+    {
+      "candidate": "SD社区小丑角色",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1wxml8m/browsing_this_sub_in_the_past_week/",
+      "reason": "讨论指出它是某工作流作者的识别角色；评论mascot称呼不足以证明SD模型自身拟人。",
+      "evidence_scope": "discussion_text_only"
+    }
+  ],
+  "note": "56条新增查询由14条B站与42条网页查询组成；无新增确切BV，不重复视频索引。"
+}

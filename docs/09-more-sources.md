@@ -57,3 +57,13 @@
 ## 用户补充：鲸鱼娘开源资产库导览
 
 [TreapGoGo视频与站点专题](../encyclopedia/focus-treap.md)已补齐作者录屏、参考图/提示词、社区画廊、六份工作流和网页投稿之间的关系。固定提交与先前相同，已有项目材料继续使用，没有重抓整库。
+
+## 继续补充的三个GitHub项目
+
+| 项目 | 具体所得 |
+| --- | --- |
+| larcgpt/ai-model-musume | 22个作者设定方向和三语角色卡；本轮重点查看SD与MiMo。无标准根许可，图片只留外链。 |
+| Andersen216/dsh-whale-girl-live2d | 取得氵六青运行模型、8组动作和44个表情。补注册表情的model3入口后用官方SDK检查。 |
+| 7l-ui/whalegirl-pet | 取得PSD、15层PNG、CMO3、MOC3和四组动作；模型实际SDK加载，未宣称测试Android真机。 |
+
+累计深入评述17个项目。两套新Live2D已经实际加载；不把安卓、聊天接口或DSH宿主安装当素材工作的一部分。

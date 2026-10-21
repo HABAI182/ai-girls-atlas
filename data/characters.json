@@ -63,7 +63,9 @@
         "src-990da42259",
         "src-06312131fe",
         "src-991f9bd632",
-        "src-92e69aeb51"
+        "src-92e69aeb51",
+        "src-b63e39190c",
+        "src-8b1a1d16b3"
       ],
       "local_asset_ids": [
         "zipzippipe-pixiv-148186519-p00",
@@ -99,7 +101,9 @@
         "maid-atelier-sleepy",
         "priority-zipzippipe-bilibili-1236803362705375305-p07",
         "pet-deepseek-girl--legeling",
-        "pet-deepseek-whalechan--qimi"
+        "pet-deepseek-whalechan--qimi",
+        "andersen-liuqing-whale-live2d",
+        "7l-whale-live2d-source"
       ]
     },
     {
@@ -1076,29 +1080,41 @@
       "id": "stepfun",
       "name": "StepFun / 阶跃星辰",
       "entity_kind": "model-family",
-      "status": "visual_lead",
-      "design_family": "multiple_or_pending",
-      "creators": "甶丶（站点投稿记录）",
+      "status": "local_assets",
+      "design_family": "fuh-stepfun",
+      "creators": "甶丶（原作者本人投稿，AI辅助创作）",
       "aliases": [
         "Stepfun娘",
         "阶跃娘"
       ],
       "observed_traits": [
-        "找到三项站点记录",
-        "精确外貌和原作许可待原帖逐图核对"
+        "浅蓝长发、蓝眼、环状呆毛",
+        "黑白不对称裙装/披风、阶梯方块装饰",
+        "立方灯与方格面板伞两件专武"
       ],
-      "identity_rules": "站点字段写CC BY-NC，但没有由本库补全许可证版本；保留原作者发布入口。",
+      "identity_rules": "原作者投稿直接命名Stepfun娘与阶跃星辰。三张原PNG为两张持物立绘和一张专武图，不是三视图。",
       "creative_options_original": "先补独立立绘、色板和明确许可，再决定是否纳入本地素材包。",
       "sources": [
-        "src-a7f98fdde7"
+        "src-a7f98fdde7",
+        "src-da1cc349c6",
+        "src-6c2cb3e398",
+        "src-71269485bd",
+        "src-c6b207832c",
+        "src-9fea2dbdaf"
       ],
-      "local_asset_ids": [],
+      "local_asset_ids": [
+        "stepfun-portrait-lamp",
+        "stepfun-portrait-umbrella",
+        "stepfun-prop-sheet"
+      ],
       "not_claimed": [
-        "官方统一形象",
-        "当前能力排名",
-        "所有版本均开放商用"
+        "官方形象",
+        "三视图",
+        "已取得可编辑模型或音色"
       ],
-      "variant_ids": []
+      "variant_ids": [
+        "fuh-stepfun-lamp-and-umbrella"
+      ]
     },
     {
       "id": "mimo",
@@ -1123,7 +1139,8 @@
         "src-a7f98fdde7",
         "src-64550de9e4",
         "src-b9006a9bef",
-        "src-09cee6cfdb"
+        "src-09cee6cfdb",
+        "src-fe6fc07eca"
       ],
       "local_asset_ids": [
         "mimo-adult-01",
@@ -1136,7 +1153,8 @@
       ],
       "variant_ids": [
         "priority-mimo-adult-01",
-        "priority-mimo-turnaround-02"
+        "priority-mimo-turnaround-02",
+        "larcgpt-mimo-digital-city"
       ]
     },
     {
@@ -1170,25 +1188,34 @@
       "id": "copilot",
       "name": "Microsoft Copilot",
       "entity_kind": "product",
-      "status": "wanted",
-      "design_family": "unassigned",
-      "creators": null,
+      "status": "external_work_lead",
+      "design_family": "hkr-copilot-pink-affection-card",
+      "creators": "HKR+ビール2はい（作者；文章自述由GPT生成图像）",
       "aliases": [
         "Microsoft Copilot"
       ],
-      "observed_traits": [],
-      "identity_rules": "与GitHub Copilot分开；本次未确认采用哪一套社区形象。",
-      "creative_options_original": "先补作者、原帖、形象识别点和具体许可；自行设计时标记为新提案。",
+      "observed_traits": [
+        "粉色长发/双侧发束，黑色发带与彩色Copilot发夹；戴细框眼镜。",
+        "粉色眼睛、白色衬衫、粉色领带，双手托脸面对镜头。",
+        "粉色桌面、心形图案、笔记本电脑与同版Q版小像组成设定卡。"
+      ],
+      "identity_rules": "HKR原文明确以自己的Copilot拟人；与校园项目未分产品的Copilot、MAI自研模型角色及GitHub Copilot分开。",
+      "creative_options_original": "先选定作者分支，再依据其卡片或公开制作截图做参考；图中能力雷达、情绪与人格只属于作者故事。",
       "sources": [
-        "src-881f6725d7"
+        "src-881f6725d7",
+        "src-bb6720c286",
+        "src-4137c9f94c"
       ],
       "local_asset_ids": [],
       "not_claimed": [
-        "已经找到成熟娘化",
-        "已有图片可下载",
-        "官方授权同人"
+        "官方统一形象",
+        "通行社区原设",
+        "已取得分层工程或声音",
+        "本库已镜像原图"
       ],
-      "variant_ids": []
+      "variant_ids": [
+        "hkr-copilot-pink-affection-card"
+      ]
     },
     {
       "id": "yuanbao",
@@ -1349,49 +1376,71 @@
       "id": "sora",
       "name": "Sora（历史产品）",
       "entity_kind": "historical-video-product",
-      "status": "wanted",
-      "design_family": "unassigned",
-      "creators": null,
+      "status": "external_work_lead",
+      "design_family": "raika-sora-imagine-bluegray",
+      "creators": "raikajones / RAIKA（作者公开对话和制作截图）",
       "aliases": [
         "Sora（历史产品）"
       ],
-      "observed_traits": [],
-      "identity_rules": "原入口当前转到官方停用说明；作为历史产品待补档，不列为当前可用服务。",
-      "creative_options_original": "先补作者、原帖、形象识别点和具体许可；自行设计时标记为新提案。",
+      "observed_traits": [
+        "灰蓝色卷发在头顶部分盘起，头部有圆形齿轮状装饰。",
+        "穿白色宽松外套，抬手握细长工具，背景偏暖色工作室。",
+        "截图是编辑字幕界面，预览显示00:01/00:10；仅确认这一张公开暂停画面。"
+      ],
+      "identity_rules": "保留Sora历史产品条目。原文明确写Sora(OpenAI)；三张制作截图分别作造型线索，主女性分支与另两种美大联想造型不合成唯一设定。",
+      "creative_options_original": "先选定作者分支，再依据其卡片或公开制作截图做参考；图中能力雷达、情绪与人格只属于作者故事。",
       "sources": [
-        "src-5df0a912ba"
+        "src-5df0a912ba",
+        "src-771393fa77",
+        "src-d3707f87ff",
+        "src-2bfb90bcbe",
+        "src-4fcd316608"
       ],
       "local_asset_ids": [],
       "not_claimed": [
-        "已经找到成熟娘化",
-        "已有图片可下载",
-        "官方授权同人"
+        "官方统一形象",
+        "通行社区原设",
+        "已取得分层工程或声音",
+        "本库已镜像原图"
       ],
-      "variant_ids": []
+      "variant_ids": [
+        "raika-sora-imagine-bluegray",
+        "raika-sora-musashino",
+        "raika-sora-geidai"
+      ]
     },
     {
       "id": "stable-diffusion",
       "name": "Stable Diffusion",
       "entity_kind": "image-model-family",
-      "status": "wanted",
-      "design_family": "unassigned",
-      "creators": null,
+      "status": "external_work_lead",
+      "design_family": "larcgpt-sd-alchemy-painter",
+      "creators": "larcgpt（仓库维护者；项目自述图像由ChatGPT生成）",
       "aliases": [
         "Stable Diffusion"
       ],
-      "observed_traits": [],
-      "identity_rules": "模型家族与各WebUI/服务不混同，拟人设计待补。",
-      "creative_options_original": "先补作者、原帖、形象识别点和具体许可；自行设计时标记为新提案。",
+      "observed_traits": [
+        "紫黑色盘发、紫色眼睛、细框眼镜及紫金色发饰。",
+        "紫黑长裙与半透明披挂，手持细长画笔。",
+        "星云画布、画具、雕像与英伦建筑背景，周围有紫色和虹彩光带。"
+      ],
+      "identity_rules": "仓库README、设定章节及卡片均明确命名Stable Diffusion；紫黑绘图炼金术是larcgpt项目的独立设定。",
+      "creative_options_original": "先选定作者分支，再依据其卡片或公开制作截图做参考；图中能力雷达、情绪与人格只属于作者故事。",
       "sources": [
-        "src-ac3506232d"
+        "src-ac3506232d",
+        "src-85eb5c49af",
+        "src-388a4506c9"
       ],
       "local_asset_ids": [],
       "not_claimed": [
-        "已经找到成熟娘化",
-        "已有图片可下载",
-        "官方授权同人"
+        "官方统一形象",
+        "通行社区原设",
+        "已取得分层工程或声音",
+        "本库已镜像原图"
       ],
-      "variant_ids": []
+      "variant_ids": [
+        "larcgpt-sd-alchemy-painter"
+      ]
     },
     {
       "id": "flux",

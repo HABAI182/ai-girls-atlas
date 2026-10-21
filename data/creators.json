@@ -126,15 +126,21 @@
         "turnaround"
       ],
       "character_ids": [
-        "mimo"
+        "mimo",
+        "stepfun"
       ],
       "source_ids": [
-        "src-fa6f86c189"
+        "src-fa6f86c189",
+        "src-da1cc349c6",
+        "src-6c2cb3e398",
+        "src-71269485bd",
+        "src-c6b207832c",
+        "src-9fea2dbdaf"
       ],
       "source_urls": [
         "https://www.bilibili.com/opus/1242097128919007239"
       ],
-      "contribution": "同一《娘化mimo》动态中的正常比例立绘与正侧背图。"
+      "contribution": "同一《娘化mimo》动态中的正常比例立绘与正侧背图。；另补StepFun两张立绘和专武图，按原作者投稿登记。"
     },
     {
       "id": "author-small-tail",
@@ -254,12 +260,14 @@
         "deepseek"
       ],
       "source_ids": [
-        "src-6e20f2e644"
+        "src-6e20f2e644",
+        "src-b63e39190c",
+        "src-b63e39190c"
       ],
       "source_urls": [
         "https://www.bilibili.com/video/BV16yYi69EQT/"
       ],
-      "contribution": "免费Q版Live2D模型发布；展示鼠控、发型、眼镜、桌宠和表情。",
+      "contribution": "免费Q版Live2D模型发布；展示鼠控、发型、眼镜、桌宠和表情。；本轮取得公开整理版MOC3、8组动作、44份表情，并完成SDK采样。；本轮取得公开整理版MOC3、8组动作、44份表情，并完成SDK采样。",
       "access_note": "公开画面提示私信或评论区工房；本轮未私信。"
     },
     {
@@ -501,6 +509,103 @@
       ],
       "contribution": "社区参考图、提示词、二创作品与项目导航维护；演示零代码投稿流程，不把全部投稿的绘画作者合并成维护者。",
       "date_note": "视频简介直连仓库与网站，作为投稿账号到项目的关联依据。"
+    },
+    {
+      "id": "author-larcgpt",
+      "name": "larcgpt（仓库维护者；项目自述图像由ChatGPT生成）",
+      "roles": [
+        "independent_character_branch"
+      ],
+      "character_ids": [
+        "stable-diffusion",
+        "mimo"
+      ],
+      "source_ids": [
+        "src-85eb5c49af",
+        "src-388a4506c9",
+        "src-fe6fc07eca"
+      ],
+      "source_urls": [
+        "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/Stable%20Diffusion/Stable%20Diffusion_%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87_%E8%A7%92%E8%89%B2%E8%A8%AD%E5%AE%9A.png"
+      ],
+      "contribution": "AI Model Musume：Stable Diffusion娘独立分支；只确认该作者分支，不向所有社区作品扩展。",
+      "date_note": "本轮图像核看日期不作为角色诞生日。"
+    },
+    {
+      "id": "author-hkr",
+      "name": "HKR+ビール2はい（作者；文章自述由GPT生成图像）",
+      "roles": [
+        "independent_character_branch"
+      ],
+      "character_ids": [
+        "copilot"
+      ],
+      "source_ids": [
+        "src-bb6720c286",
+        "src-4137c9f94c"
+      ],
+      "source_urls": [
+        "https://note.com/magic_guppy4264/n/n04452ba4ebf9"
+      ],
+      "contribution": "うちのAIをAIが擬人化した結果がこれだ！：Copilotちゃん；只确认该作者分支，不向所有社区作品扩展。",
+      "date_note": "本轮图像核看日期不作为角色诞生日。"
+    },
+    {
+      "id": "author-raika",
+      "name": "raikajones / RAIKA（作者公开对话和制作截图）",
+      "roles": [
+        "independent_character_branch"
+      ],
+      "character_ids": [
+        "sora"
+      ],
+      "source_ids": [
+        "src-771393fa77",
+        "src-d3707f87ff",
+        "src-2bfb90bcbe",
+        "src-4fcd316608"
+      ],
+      "source_urls": [
+        "https://note.com/raikajones/n/n8862bdd081a9"
+      ],
+      "contribution": "AI人格図鑑：raikajones的Sora(OpenAI)自设分支；只确认该作者分支，不向所有社区作品扩展。",
+      "date_note": "本轮图像核看日期不作为角色诞生日。"
+    },
+    {
+      "id": "author-andersen216",
+      "name": "Andersen216",
+      "roles": [
+        "model_resource_integration"
+      ],
+      "character_ids": [
+        "deepseek"
+      ],
+      "source_ids": [
+        "src-b63e39190c"
+      ],
+      "source_urls": [
+        "https://github.com/Andersen216/dsh-whale-girl-live2d"
+      ],
+      "contribution": "整理氵六青模型相对资源、8组动作与表情参数；并非原模型建模作者。",
+      "date_note": "以固定仓库快照记录。"
+    },
+    {
+      "id": "author-7l-ui",
+      "name": "7l-ui",
+      "roles": [
+        "ai_art_layering_and_model_pipeline"
+      ],
+      "character_ids": [
+        "deepseek"
+      ],
+      "source_ids": [
+        "src-8b1a1d16b3"
+      ],
+      "source_urls": [
+        "https://github.com/7l-ui/whalegirl-pet"
+      ],
+      "contribution": "独立AI生成立绘与自动分层/绑定分支，附PSD和CMO3；不和氵六青的模型合并。",
+      "date_note": "以固定仓库快照记录。"
     }
   ]
 }

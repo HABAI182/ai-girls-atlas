@@ -18,7 +18,7 @@
       "id": "kling",
       "title": "可灵",
       "query": "可灵娘 AI拟人",
-      "result": "本轮未取得可确认作者和角色归属的新设计；保持已有待补/线索状态。",
+      "result": "本轮更换别称、跨语种及原作者平台继续检索，仍未确认工具自身的具名拟人方案。",
       "excluded_pattern": "仅使用该工具生成的动漫女孩，不视为该工具自身的拟人角色。",
       "existing_character_status": "wanted",
       "bilibili_search_scope": "returned_candidates"
@@ -27,7 +27,7 @@
       "id": "runway",
       "title": "Runway",
       "query": "Runway娘 AI拟人",
-      "result": "本轮未取得可确认作者和角色归属的新设计；保持已有待补/线索状态。",
+      "result": "本轮更换别称、跨语种及原作者平台继续检索，仍未确认工具自身的具名拟人方案。",
       "excluded_pattern": "仅使用该工具生成的动漫女孩，不视为该工具自身的拟人角色。",
       "existing_character_status": "wanted",
       "bilibili_search_scope": "API response unavailable; supplemented by web search",
@@ -37,7 +37,7 @@
       "id": "flux",
       "title": "FLUX",
       "query": "FLUX娘 AI拟人",
-      "result": "本轮未取得可确认作者和角色归属的新设计；保持已有待补/线索状态。",
+      "result": "本轮更换别称、跨语种及原作者平台继续检索，仍未确认工具自身的具名拟人方案。",
       "excluded_pattern": "仅使用该工具生成的动漫女孩，不视为该工具自身的拟人角色。",
       "existing_character_status": "wanted",
       "bilibili_search_scope": "API response unavailable; supplemented by web search",
@@ -47,38 +47,59 @@
       "id": "stable-diffusion",
       "title": "Stable Diffusion",
       "query": "Stable Diffusion娘 AI拟人",
-      "result": "本轮未取得可确认作者和角色归属的新设计；保持已有待补/线索状态。",
+      "result": "已找到明确作者分支并实际看图，升级为外部作品线索。",
       "excluded_pattern": "仅使用该工具生成的动漫女孩，不视为该工具自身的拟人角色。",
-      "existing_character_status": "wanted",
+      "existing_character_status": "external_work_lead",
       "bilibili_search_scope": "API response unavailable; supplemented by web search",
-      "access_note": "B站接口本轮未返回可解析结果；网页检索仍未得到本库可确认方案。"
+      "access_note": "B站接口本轮未返回可解析结果；网页检索仍未得到本库可确认方案。",
+      "source_ids": [
+        "src-85eb5c49af",
+        "src-388a4506c9"
+      ]
     },
     {
       "id": "copilot",
       "title": "Microsoft Copilot",
       "query": "Microsoft Copilot娘",
-      "result": "本轮未取得可确认作者和角色归属的新设计；保持已有待补/线索状态。",
+      "result": "已找到明确作者分支并实际看图，升级为外部作品线索。",
       "excluded_pattern": "仅使用该工具生成的动漫女孩，不视为该工具自身的拟人角色。",
-      "existing_character_status": "wanted",
+      "existing_character_status": "external_work_lead",
       "bilibili_search_scope": "API response unavailable; supplemented by web search",
-      "access_note": "B站接口本轮未返回可解析结果；网页检索仍未得到本库可确认方案。"
+      "access_note": "B站接口本轮未返回可解析结果；网页检索仍未得到本库可确认方案。",
+      "source_ids": [
+        "src-bb6720c286",
+        "src-4137c9f94c"
+      ]
     },
     {
       "id": "stepfun",
       "title": "StepFun",
       "query": "StepFun娘 阶跃星辰",
-      "result": "本轮未取得可确认作者和角色归属的新设计；保持已有待补/线索状态。",
+      "result": "已取得两张立绘、一张专武原PNG及原作者CC BY-NC说明，升级为本地图片。",
       "excluded_pattern": "仅使用该工具生成的动漫女孩，不视为该工具自身的拟人角色。",
-      "existing_character_status": "visual_lead",
-      "bilibili_search_scope": "returned_candidates"
+      "existing_character_status": "local_assets",
+      "bilibili_search_scope": "returned_candidates",
+      "source_ids": [
+        "src-da1cc349c6",
+        "src-6c2cb3e398",
+        "src-71269485bd",
+        "src-c6b207832c",
+        "src-9fea2dbdaf"
+      ]
     },
     {
       "id": "sora",
       "title": "Sora历史角色",
       "query": "Sora 娘化 AI模型",
-      "result": "网页检索未确认能区分于同名动漫人物的作者方案；保留历史条目。",
-      "existing_character_status": "wanted",
-      "bilibili_search_scope": "web_search_only"
+      "result": "已找到明确作者分支并实际看图，升级为外部作品线索。",
+      "existing_character_status": "external_work_lead",
+      "bilibili_search_scope": "web_search_only",
+      "source_ids": [
+        "src-771393fa77",
+        "src-d3707f87ff",
+        "src-2bfb90bcbe",
+        "src-4fcd316608"
+      ]
     }
   ]
 }

@@ -2,15 +2,19 @@
 
 [返回形象仓库](../README.md) · [视频品类与案例](../videos/README.md)
 
+## 本轮把入口补成可用文件
+
+[14组实际素材下载](ready-packages.md) · [模型与文件检查](runtime-materials.md) · [直接音轨分析](audio-performances.md) · [薄弱角色补齐记录](gap-character-update.md)
+
 | 栏目 | 本轮内容 | 打开 |
 | --- | --- | --- |
 | AI娘都在玩什么梗 | 10个梗、具体作品和变体 | [梗百科](memes/README.md) |
 | 同一个情境，八位AI怎样反应 | 8位档案、31条实际观察、32格原创演出点子 | [角色演出](performances/README.md) |
-| 从立绘到能演的角色 | 13个关联包、12条新补明的文件/工程入口 | [素材关联](production/README.md) |
+| 从立绘到能演的角色 | 16个关联包、15条文件/工程入口，另有14组实际下载包 | [素材关联](production/README.md) |
 | 关系与系列 | 17条关系、分系列图谱和来源 | [关系地图](relationships.md) |
 | 动作与道具 | 23条带时间点参考 | [动作库](actions.md) |
-| 服装与场景 | 8种服装、8种场景，接入当前46条版本 | [衣装/场景](wardrobe-scenes.md) |
-| 作者创作谱系 | 23位贡献者按原设/二设/模型/声音等分工 | [作者档案](creators.md) |
+| 服装与场景 | 8种服装、8种场景，接入当前55条版本 | [衣装/场景](wardrobe-scenes.md) |
+| 作者创作谱系 | 28位贡献者按原设/二设/模型/声音等分工 | [作者档案](creators.md) |
 | 版本沿革 | 13个有公开日期依据的节点 | [时间线](history.md) |
 | 新的内容大类 | 漫画、声音、互动运营、真人实体与跨语种 | [作品大类](formats/README.md) |
 | 原创文字素材 | 3个可改编短剧，明确为本库提案 | [短剧脚本](original-scenes.md) |

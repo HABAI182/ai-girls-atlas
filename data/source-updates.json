@@ -79,6 +79,26 @@
       "new_guide": "encyclopedia/focus-treap.md",
       "gallery_manifest_records": 128,
       "new_local_asset_ids": []
+    },
+    {
+      "source": "completion-materials-20261021",
+      "checked_on": "2026-10-21",
+      "action": "复用原图和MiMo三视图；新增StepFun三张PNG、三位待补角色的作者分支、两套Live2D、14组可用下载包及直接音轨分析。",
+      "new_asset_ids": [
+        "stepfun-portrait-lamp",
+        "stepfun-portrait-umbrella",
+        "stepfun-prop-sheet"
+      ],
+      "still_wanted": [
+        "kling",
+        "runway",
+        "flux"
+      ],
+      "new_project_ids": [
+        "project-larcgpt",
+        "project-andersen216",
+        "project-7l-ui"
+      ]
     }
   ],
   "deduplication": "本轮新增50张原作/派生图和2张已有上游预览；原仓库32张与9张预览保留。",

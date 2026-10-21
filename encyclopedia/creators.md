@@ -2,7 +2,7 @@
 
 [创作百科](README.md) · [版本沿革](history.md) · [视频作者索引](../videos/authors.md)
 
-23位作者/贡献者按原设、二设、模型、声音和社区整理等分工登记。这是有具体贡献链的选编，全部视频投稿者另见作者索引。
+28位作者/贡献者按原设、二设、模型、声音和社区整理等分工登记。这是有具体贡献链的选编，全部视频投稿者另见作者索引。
 
 | 作者 | 贡献角色 | 具体贡献 | 角色 | 出处 |
 | --- | --- | --- | --- | --- |
@@ -33,3 +33,13 @@
 ## 一条完整的示例链
 
 上善无形的鲸鱼原型 → ZipZipPipe的女仆二次设计 → 水原镜的三维制作 → 耶栗Yaki的MMD转换 / Surcen与vsmmvs的VRC适配。声音、动作、渲染与社区维护接在各自作品上。
+
+## 本轮补充的作者与整理者
+
+| 署名 | 贡献 | 角色 | 来源 |
+| --- | --- | --- | --- |
+| larcgpt（仓库维护者；项目自述图像由ChatGPT生成） | AI Model Musume：Stable Diffusion娘独立分支；只确认该作者分支，不向所有社区作品扩展。 | Stable Diffusion、MiMo / 小米 | [原入口](https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/Stable%20Diffusion/Stable%20Diffusion_%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87_%E8%A7%92%E8%89%B2%E8%A8%AD%E5%AE%9A.png) |
+| HKR+ビール2はい（作者；文章自述由GPT生成图像） | うちのAIをAIが擬人化した結果がこれだ！：Copilotちゃん；只确认该作者分支，不向所有社区作品扩展。 | Microsoft Copilot | [原入口](https://note.com/magic_guppy4264/n/n04452ba4ebf9) |
+| raikajones / RAIKA（作者公开对话和制作截图） | AI人格図鑑：raikajones的Sora(OpenAI)自设分支；只确认该作者分支，不向所有社区作品扩展。 | Sora（历史产品） | [原入口](https://note.com/raikajones/n/n8862bdd081a9) |
+| Andersen216 | 整理氵六青模型相对资源、8组动作与表情参数；并非原模型建模作者。 | DeepSeek / 深度求索 | [原入口](https://github.com/Andersen216/dsh-whale-girl-live2d) |
+| 7l-ui | 独立AI生成立绘与自动分层/绑定分支，附PSD和CMO3；不和氵六青的模型合并。 | DeepSeek / 深度求索 | [原入口](https://github.com/7l-ui/whalegirl-pet) |
