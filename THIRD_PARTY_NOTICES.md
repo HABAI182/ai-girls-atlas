@@ -783,6 +783,8 @@ Release的14组素材按各自目录保留原许可、逐文件摘要和来源�
 
 ## 官网豆包头像与人设文字来源
 
-`assets/official-doubao/doubao/doubao-current-icon.png`直接来自[官网](https://www.doubao.com/chat/)所链接的[官方CDN](https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/favicon/new-doubao/192x192.png)，34367 bytes，SHA-256 `dabb2abd94e3a6c11e7f1a42c9343839b6ef643c086751b71afbc68f615aec38`。权利归豆包/字节跳动等对应权利人，未确认开放许可，不纳入素材下载包。
+当前分支只索引[官网](https://www.doubao.com/chat/)所链接的[官方CDN头像](https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/favicon/new-doubao/192x192.png)，不再保存或嵌入其文件。权利归豆包/字节跳动等对应权利人，未确认开放镜像许可；2026-10-21的识别观察和旧文件摘要保存在`data/references.json`。2026-10-22改为外链，未改写历史提交；14组Release素材原本不含该头像。
 
 人设栏目对larcgpt与Neko3000的独立文字企划仅作简短归纳并链接固定原文；不复制完整设定表，也不把其原创设定并入其他作者角色。39份工作人设的详细行为与117句示范对白是AI Girls Atlas本轮原创，按本库原创研究/模板条款使用；不改变所配第三方图像和角色的权利。
+
+逐包许可范围、上游声明层级与未确定项见[素材包许可范围复核](docs/package-rights-audit.md)。

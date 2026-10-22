@@ -4,11 +4,11 @@
 
 [人设、说话与做事风格](../../encyclopedia/personas/doubao.md) · [本次形象纠正说明](../../encyclopedia/personas/doubao-correction.md) · [角色总览](../../README.md)
 
-资料日期：2026-10-21。产品条目；头像、同人设计与短片演出按版本区分。
+形象观察日期：2026-10-21；目录维护：2026-10-22。产品条目；头像、同人设计与短片演出按版本区分。
 
 ## 官网当前头像
 
-[![豆包官网当前头像：棕色短发、黑色领口、浅蓝圆底](../../assets/official-doubao/doubao/doubao-current-icon.png)](../../assets/official-doubao/doubao/doubao-current-icon.png)
+头像识别点：棕色偏分短发、黑色领口、浅蓝圆底。查看[官方头像原文件](https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/favicon/new-doubao/192x192.png)。
 
 **出处与署名：豆包官网 / 豆包、字节跳动等对应权利人。** [官网](https://www.doubao.com/chat/)HTML直接链接到[192像素CDN文件](https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/favicon/new-doubao/192x192.png)。这是头像，只能看见领口，不能由此推断官方全身服装、身高或性格。
 
@@ -16,7 +16,7 @@
 
 | 分支 | 怎么认 | 来源与适用范围 |
 | --- | --- | --- |
-| 官网头像 | 棕色偏分短发、黑色领口、浅蓝圆底 | 本页主图，官方品牌形象 |
+| 官网头像 | 棕色偏分短发、黑色领口、浅蓝圆底 | 官方外链参考，品牌形象 |
 | 黑衣红围巾短片版 | 棕黑短发、大眼卡通或动漫改编，加红围巾 | 本页下方两篇对战/音乐案例，红围巾不是已确认官网服装 |
 | 校园OP版 | 棕色短发、小丸子、豆形胸章、蓝米色领结、统一制服 | lshhhhhhh同人；槽位对应甘夏老师，外观按项目统一制服，不继承原作全部人格 |
 | [Seed娘](../seed/README.md) | 蓝紫单马尾、蓝白服装、豆包挂件 | ZipZipPipe独立社区设计；相关名字不代表官方头像全身版 |
@@ -34,11 +34,11 @@
 
 shuaizenge/ai-girls目前另外展示[按头像生成的全身](https://github.com/shuaizenge/ai-girls/blob/dcd69f5f4f2dff1a9c0031e82deb49e0fe949c76/characters/doubao/generated/doubao-fullbody.jpg)与[按头像生成的三视图](https://github.com/shuaizenge/ai-girls/blob/dcd69f5f4f2dff1a9c0031e82deb49e0fe949c76/characters/doubao/generated/doubao-turnaround.jpg)。上游明确它们是生成补全参考，衣服为补全而设计，不能称作官方原稿。本次以外链接入，不重复保存，也不把它们当作新取得的官方设定。
 
-## 本地文件
+## 文件与外部参考
 
 | 文件 | 身份/署名 | 使用状态 |
 | --- | --- | --- |
-| [官网192像素头像](../../assets/official-doubao/doubao/doubao-current-icon.png) | 官方品牌头像；豆包/字节跳动等对应权利人 | 未确认开放许可；品牌辨认与来源存档 |
+| [官网192像素头像](https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/favicon/new-doubao/192x192.png) | 官方品牌头像；豆包/字节跳动等对应权利人 | 仅外链；未确认开放镜像许可 |
 | [校园OP全身图](../../assets/school-op/doubao/school-op-doubao.png) | lshhhhhhh的同人制服造型 | CC BY-NC 4.0，保留上游署名与条件 |
 
 完整文件摘要见[assets.json](../../data/assets.json)。本页修正没有替换或重绘校园图。

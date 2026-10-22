@@ -2647,38 +2647,6 @@
       },
       "modifications": "保留原PNG字节，仅安排归档路径。",
       "collected_on": "2026-10-21"
-    },
-    {
-      "id": "doubao-official-current-icon",
-      "character_id": "doubao",
-      "collection": "official-doubao",
-      "title": "官网当前品牌头像（192×192）",
-      "kind": "official-avatar",
-      "path": "assets/official-doubao/doubao/doubao-current-icon.png",
-      "width": 192,
-      "height": 192,
-      "has_transparency": true,
-      "bytes": 34367,
-      "sha256": "dabb2abd94e3a6c11e7f1a42c9343839b6ef643c086751b71afbc68f615aec38",
-      "creators": [
-        "豆包 / 字节跳动等对应权利人"
-      ],
-      "source_url": "https://www.doubao.com/chat/",
-      "retrieved_url": "https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/favicon/new-doubao/192x192.png",
-      "supplier": "豆包官网CDN（直接取得）",
-      "upstream_path": "/obj/flow-doubao/favicon/new-doubao/192x192.png",
-      "source_ids": [
-        "src-07eaac82a5",
-        "src-c2cd08d4d1"
-      ],
-      "license": {
-        "status": "official_copyright",
-        "identifier": null,
-        "evidence_url": "https://www.doubao.com/chat/",
-        "note": "官网公开品牌图标；未声明开放许可。仅作品牌形象辨认与来源存档，不列入开放素材下载包。"
-      },
-      "modifications": "保留官方CDN原始字节。",
-      "collected_on": "2026-10-21"
     }
   ]
 }

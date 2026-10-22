@@ -1,0 +1,512 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "AI Girls Atlas core catalog and package rights schemas",
+  "$defs": {
+    "characters": {
+      "type": "object",
+      "required": [
+        "characters"
+      ],
+      "properties": {
+        "characters": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "id",
+              "name",
+              "entity_kind",
+              "status",
+              "observed_traits",
+              "identity_rules",
+              "sources",
+              "local_asset_ids",
+              "variant_ids"
+            ],
+            "properties": {
+              "id": {
+                "type": "string",
+                "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]*$"
+              },
+              "name": {
+                "type": "string",
+                "minLength": 1
+              },
+              "entity_kind": {
+                "type": "string",
+                "minLength": 1
+              },
+              "status": {
+                "enum": [
+                  "local_assets",
+                  "profile_and_references",
+                  "visual_lead",
+                  "external_work_lead",
+                  "wanted"
+                ]
+              },
+              "observed_traits": {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "uniqueItems": true
+              },
+              "identity_rules": {
+                "type": "string",
+                "minLength": 1
+              },
+              "sources": {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "uniqueItems": true
+              },
+              "local_asset_ids": {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "uniqueItems": true
+              },
+              "variant_ids": {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "uniqueItems": true
+              }
+            }
+          },
+          "minItems": 1
+        }
+      }
+    },
+    "assets": {
+      "type": "object",
+      "required": [
+        "assets"
+      ],
+      "properties": {
+        "assets": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "id",
+              "character_id",
+              "path",
+              "bytes",
+              "sha256",
+              "creators",
+              "license",
+              "source_url",
+              "retrieved_url",
+              "modifications"
+            ],
+            "properties": {
+              "id": {
+                "type": "string",
+                "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]*$"
+              },
+              "character_id": {
+                "type": "string",
+                "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]*$"
+              },
+              "path": {
+                "type": "string",
+                "minLength": 1
+              },
+              "bytes": {
+                "type": "integer",
+                "minimum": 1
+              },
+              "sha256": {
+                "type": "string",
+                "pattern": "^[0-9a-f]{64}$"
+              },
+              "creators": {
+                "type": "array",
+                "minItems": 1,
+                "items": {
+                  "type": "string",
+                  "minLength": 1
+                }
+              },
+              "license": {
+                "type": "object",
+                "required": [
+                  "status",
+                  "identifier",
+                  "evidence_url",
+                  "note"
+                ],
+                "properties": {
+                  "status": {
+                    "enum": [
+                      "author_declared",
+                      "author_sharing_statement",
+                      "maintainer_declared"
+                    ]
+                  },
+                  "identifier": {
+                    "type": [
+                      "string",
+                      "null"
+                    ]
+                  },
+                  "evidence_url": {
+                    "type": "string",
+                    "format": "uri",
+                    "pattern": "^https?://"
+                  },
+                  "note": {
+                    "type": "string",
+                    "minLength": 1
+                  }
+                }
+              },
+              "source_url": {
+                "type": "string",
+                "format": "uri",
+                "pattern": "^https?://"
+              },
+              "retrieved_url": {
+                "type": "string",
+                "format": "uri",
+                "pattern": "^https?://"
+              },
+              "modifications": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          },
+          "minItems": 1
+        }
+      }
+    },
+    "sources": {
+      "type": "object",
+      "required": [
+        "sources"
+      ],
+      "properties": {
+        "sources": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "id",
+              "url",
+              "title",
+              "checked_on",
+              "evidence_level",
+              "note"
+            ],
+            "properties": {
+              "id": {
+                "type": "string",
+                "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]*$"
+              },
+              "url": {
+                "type": "string",
+                "format": "uri",
+                "pattern": "^https?://"
+              },
+              "title": {
+                "type": "string",
+                "minLength": 1
+              },
+              "checked_on": {
+                "type": "string",
+                "format": "date"
+              },
+              "evidence_level": {
+                "type": "string",
+                "minLength": 1
+              },
+              "note": {
+                "type": "string"
+              }
+            }
+          },
+          "minItems": 1
+        }
+      }
+    },
+    "videos": {
+      "type": "object",
+      "required": [
+        "videos"
+      ],
+      "properties": {
+        "videos": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "id",
+              "title",
+              "url",
+              "author",
+              "published_at",
+              "review_scope",
+              "source_id"
+            ],
+            "properties": {
+              "id": {
+                "type": "string",
+                "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]*$"
+              },
+              "title": {
+                "type": "string",
+                "minLength": 1
+              },
+              "url": {
+                "type": "string",
+                "format": "uri",
+                "pattern": "^https?://"
+              },
+              "author": {
+                "type": "string",
+                "minLength": 1
+              },
+              "published_at": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "review_scope": {
+                "type": "string",
+                "minLength": 1
+              },
+              "source_id": {
+                "type": "string",
+                "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]*$"
+              }
+            }
+          },
+          "minItems": 1
+        }
+      }
+    },
+    "ready-packages": {
+      "type": "object",
+      "required": [
+        "id",
+        "packages",
+        "package_count",
+        "archive_sha256",
+        "download_url",
+        "release_url"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]*$"
+        },
+        "packages": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "required": [
+              "id",
+              "title",
+              "kind",
+              "character_ids",
+              "directory",
+              "contains_source_project",
+              "verification"
+            ],
+            "properties": {
+              "id": {
+                "type": "string",
+                "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]*$"
+              },
+              "title": {
+                "type": "string",
+                "minLength": 1
+              },
+              "kind": {
+                "type": "string",
+                "minLength": 1
+              },
+              "character_ids": {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "uniqueItems": true
+              },
+              "directory": {
+                "type": "string",
+                "minLength": 1
+              },
+              "contains_source_project": {
+                "type": "boolean"
+              },
+              "verification": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          }
+        },
+        "package_count": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "archive_sha256": {
+          "type": "string",
+          "pattern": "^[0-9a-f]{64}$"
+        },
+        "download_url": {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^https?://"
+        },
+        "release_url": {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^https?://"
+        }
+      }
+    },
+    "package-rights": {
+      "type": "object",
+      "required": [
+        "reviewed_on",
+        "release_id",
+        "scope",
+        "release_changed",
+        "packages"
+      ],
+      "properties": {
+        "reviewed_on": {
+          "type": "string",
+          "format": "date"
+        },
+        "release_id": {
+          "type": "string",
+          "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]*$"
+        },
+        "scope": {
+          "type": "string",
+          "minLength": 1
+        },
+        "release_changed": {
+          "const": false
+        },
+        "packages": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "required": [
+              "package_id",
+              "title",
+              "reviewed_on",
+              "license_id",
+              "evidence_level",
+              "review_status",
+              "covered_materials",
+              "scope_basis",
+              "required_notices",
+              "evidence_urls",
+              "bundled_evidence",
+              "unresolved",
+              "release_changed"
+            ],
+            "properties": {
+              "package_id": {
+                "type": "string",
+                "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]*$"
+              },
+              "title": {
+                "type": "string",
+                "minLength": 1
+              },
+              "reviewed_on": {
+                "type": "string",
+                "format": "date"
+              },
+              "license_id": {
+                "enum": [
+                  "CC-BY-NC-SA-4.0",
+                  "CC-BY-NC",
+                  "MIT"
+                ]
+              },
+              "evidence_level": {
+                "enum": [
+                  "author_scope_statement",
+                  "author_submission",
+                  "upstream_material_scope_statement"
+                ]
+              },
+              "review_status": {
+                "enum": [
+                  "documented_scope",
+                  "version_unspecified"
+                ]
+              },
+              "covered_materials": {
+                "type": "string",
+                "minLength": 1
+              },
+              "scope_basis": {
+                "type": "string",
+                "minLength": 1
+              },
+              "required_notices": {
+                "type": "array",
+                "minItems": 1,
+                "items": {
+                  "type": "string",
+                  "minLength": 1
+                }
+              },
+              "evidence_urls": {
+                "type": "array",
+                "minItems": 1,
+                "items": {
+                  "type": "string",
+                  "format": "uri",
+                  "pattern": "^https?://"
+                },
+                "uniqueItems": true
+              },
+              "bundled_evidence": {
+                "type": "array",
+                "minItems": 1,
+                "items": {
+                  "type": "string",
+                  "minLength": 1
+                }
+              },
+              "unresolved": {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "minLength": 1
+                }
+              },
+              "release_changed": {
+                "const": false
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

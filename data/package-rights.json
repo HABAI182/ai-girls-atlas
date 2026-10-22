@@ -1,0 +1,346 @@
+{
+  "schema_version": 1,
+  "reviewed_on": "2026-10-22",
+  "release_id": "materials-2026-10-21",
+  "scope": "复核已公开声明的适用文件与再分发条件；不是独立确认全部权利归属，也不是逐位作者重新授权。",
+  "release_changed": false,
+  "packages": [
+    {
+      "package_id": "apprentice-gpt",
+      "title": "ChatGPT / GPT · ApprenTice常规与Q版",
+      "reviewed_on": "2026-10-22",
+      "review_status": "documented_scope",
+      "unresolved": [],
+      "release_changed": false,
+      "license_id": "CC-BY-NC-SA-4.0",
+      "evidence_level": "author_scope_statement",
+      "covered_materials": "该目录两张ApprenTice常规/Q版PNG；不包括其引用但未收录的第三方原图。",
+      "scope_basis": "作者在角色图目录声明这些衍生作品采用CC BY-NC-SA 4.0，并单列原型/参考作者。",
+      "required_notices": [
+        "保留ApprenTice及该文件上游角色署名、原帖和许可链接",
+        "非商业；改编按相同许可分享并说明修改"
+      ],
+      "evidence_urls": [
+        "https://github.com/Apprentice-Geo/AI-Fanworks/blob/ee1f5176710f3bcfd60ee5cb0af00f77ed96748e/ApprenTice/AI-Girls-and-Chibis/README.md"
+      ],
+      "bundled_evidence": [
+        "PROVENANCE.json",
+        "../shared/ApprenTice/README.md"
+      ]
+    },
+    {
+      "package_id": "apprentice-claude",
+      "title": "Claude · ApprenTice常规与Q版",
+      "reviewed_on": "2026-10-22",
+      "review_status": "documented_scope",
+      "unresolved": [],
+      "release_changed": false,
+      "license_id": "CC-BY-NC-SA-4.0",
+      "evidence_level": "author_scope_statement",
+      "covered_materials": "该目录两张ApprenTice常规/Q版PNG；不包括其引用但未收录的第三方原图。",
+      "scope_basis": "作者在角色图目录声明这些衍生作品采用CC BY-NC-SA 4.0，并单列原型/参考作者。",
+      "required_notices": [
+        "保留ApprenTice及该文件上游角色署名、原帖和许可链接",
+        "非商业；改编按相同许可分享并说明修改"
+      ],
+      "evidence_urls": [
+        "https://github.com/Apprentice-Geo/AI-Fanworks/blob/ee1f5176710f3bcfd60ee5cb0af00f77ed96748e/ApprenTice/AI-Girls-and-Chibis/README.md"
+      ],
+      "bundled_evidence": [
+        "PROVENANCE.json",
+        "../shared/ApprenTice/README.md"
+      ]
+    },
+    {
+      "package_id": "apprentice-deepseek",
+      "title": "DeepSeek / 深度求索 · ApprenTice常规与Q版",
+      "reviewed_on": "2026-10-22",
+      "review_status": "documented_scope",
+      "unresolved": [],
+      "release_changed": false,
+      "license_id": "CC-BY-NC-SA-4.0",
+      "evidence_level": "author_scope_statement",
+      "covered_materials": "该目录两张ApprenTice常规/Q版PNG；不包括其引用但未收录的第三方原图。",
+      "scope_basis": "作者在角色图目录声明这些衍生作品采用CC BY-NC-SA 4.0，并单列原型/参考作者。",
+      "required_notices": [
+        "保留ApprenTice及该文件上游角色署名、原帖和许可链接",
+        "非商业；改编按相同许可分享并说明修改"
+      ],
+      "evidence_urls": [
+        "https://github.com/Apprentice-Geo/AI-Fanworks/blob/ee1f5176710f3bcfd60ee5cb0af00f77ed96748e/ApprenTice/AI-Girls-and-Chibis/README.md"
+      ],
+      "bundled_evidence": [
+        "PROVENANCE.json",
+        "../shared/ApprenTice/README.md"
+      ]
+    },
+    {
+      "package_id": "apprentice-glm",
+      "title": "GLM / 智谱 · ApprenTice常规与Q版",
+      "reviewed_on": "2026-10-22",
+      "review_status": "documented_scope",
+      "unresolved": [],
+      "release_changed": false,
+      "license_id": "CC-BY-NC-SA-4.0",
+      "evidence_level": "author_scope_statement",
+      "covered_materials": "该目录两张ApprenTice常规/Q版PNG；不包括其引用但未收录的第三方原图。",
+      "scope_basis": "作者在角色图目录声明这些衍生作品采用CC BY-NC-SA 4.0，并单列原型/参考作者。",
+      "required_notices": [
+        "保留ApprenTice及该文件上游角色署名、原帖和许可链接",
+        "非商业；改编按相同许可分享并说明修改"
+      ],
+      "evidence_urls": [
+        "https://github.com/Apprentice-Geo/AI-Fanworks/blob/ee1f5176710f3bcfd60ee5cb0af00f77ed96748e/ApprenTice/AI-Girls-and-Chibis/README.md"
+      ],
+      "bundled_evidence": [
+        "PROVENANCE.json",
+        "../shared/ApprenTice/README.md"
+      ]
+    },
+    {
+      "package_id": "apprentice-gemini",
+      "title": "Gemini · ApprenTice常规与Q版",
+      "reviewed_on": "2026-10-22",
+      "review_status": "documented_scope",
+      "unresolved": [],
+      "release_changed": false,
+      "license_id": "CC-BY-NC-SA-4.0",
+      "evidence_level": "author_scope_statement",
+      "covered_materials": "该目录两张ApprenTice常规/Q版PNG；不包括其引用但未收录的第三方原图。",
+      "scope_basis": "作者在角色图目录声明这些衍生作品采用CC BY-NC-SA 4.0，并单列原型/参考作者。",
+      "required_notices": [
+        "保留ApprenTice及该文件上游角色署名、原帖和许可链接",
+        "非商业；改编按相同许可分享并说明修改"
+      ],
+      "evidence_urls": [
+        "https://github.com/Apprentice-Geo/AI-Fanworks/blob/ee1f5176710f3bcfd60ee5cb0af00f77ed96748e/ApprenTice/AI-Girls-and-Chibis/README.md"
+      ],
+      "bundled_evidence": [
+        "PROVENANCE.json",
+        "../shared/ApprenTice/README.md"
+      ]
+    },
+    {
+      "package_id": "apprentice-grok",
+      "title": "Grok · ApprenTice常规与Q版",
+      "reviewed_on": "2026-10-22",
+      "review_status": "documented_scope",
+      "unresolved": [],
+      "release_changed": false,
+      "license_id": "CC-BY-NC-SA-4.0",
+      "evidence_level": "author_scope_statement",
+      "covered_materials": "该目录两张ApprenTice常规/Q版PNG；不包括其引用但未收录的第三方原图。",
+      "scope_basis": "作者在角色图目录声明这些衍生作品采用CC BY-NC-SA 4.0，并单列原型/参考作者。",
+      "required_notices": [
+        "保留ApprenTice及该文件上游角色署名、原帖和许可链接",
+        "非商业；改编按相同许可分享并说明修改"
+      ],
+      "evidence_urls": [
+        "https://github.com/Apprentice-Geo/AI-Fanworks/blob/ee1f5176710f3bcfd60ee5cb0af00f77ed96748e/ApprenTice/AI-Girls-and-Chibis/README.md"
+      ],
+      "bundled_evidence": [
+        "PROVENANCE.json",
+        "../shared/ApprenTice/README.md"
+      ]
+    },
+    {
+      "package_id": "apprentice-kimi",
+      "title": "Kimi · ApprenTice常规与Q版",
+      "reviewed_on": "2026-10-22",
+      "review_status": "documented_scope",
+      "unresolved": [],
+      "release_changed": false,
+      "license_id": "CC-BY-NC-SA-4.0",
+      "evidence_level": "author_scope_statement",
+      "covered_materials": "该目录两张ApprenTice常规/Q版PNG；不包括其引用但未收录的第三方原图。",
+      "scope_basis": "作者在角色图目录声明这些衍生作品采用CC BY-NC-SA 4.0，并单列原型/参考作者。",
+      "required_notices": [
+        "保留ApprenTice及该文件上游角色署名、原帖和许可链接",
+        "非商业；改编按相同许可分享并说明修改"
+      ],
+      "evidence_urls": [
+        "https://github.com/Apprentice-Geo/AI-Fanworks/blob/ee1f5176710f3bcfd60ee5cb0af00f77ed96748e/ApprenTice/AI-Girls-and-Chibis/README.md"
+      ],
+      "bundled_evidence": [
+        "PROVENANCE.json",
+        "../shared/ApprenTice/README.md"
+      ]
+    },
+    {
+      "package_id": "apprentice-minimax",
+      "title": "MiniMax · ApprenTice常规与Q版",
+      "reviewed_on": "2026-10-22",
+      "review_status": "documented_scope",
+      "unresolved": [],
+      "release_changed": false,
+      "license_id": "CC-BY-NC-SA-4.0",
+      "evidence_level": "author_scope_statement",
+      "covered_materials": "该目录两张ApprenTice常规/Q版PNG；不包括其引用但未收录的第三方原图。",
+      "scope_basis": "作者在角色图目录声明这些衍生作品采用CC BY-NC-SA 4.0，并单列原型/参考作者。",
+      "required_notices": [
+        "保留ApprenTice及该文件上游角色署名、原帖和许可链接",
+        "非商业；改编按相同许可分享并说明修改"
+      ],
+      "evidence_urls": [
+        "https://github.com/Apprentice-Geo/AI-Fanworks/blob/ee1f5176710f3bcfd60ee5cb0af00f77ed96748e/ApprenTice/AI-Girls-and-Chibis/README.md"
+      ],
+      "bundled_evidence": [
+        "PROVENANCE.json",
+        "../shared/ApprenTice/README.md"
+      ]
+    },
+    {
+      "package_id": "apprentice-qwen",
+      "title": "Qwen / 通义千问 · ApprenTice常规与Q版",
+      "reviewed_on": "2026-10-22",
+      "review_status": "documented_scope",
+      "unresolved": [],
+      "release_changed": false,
+      "license_id": "CC-BY-NC-SA-4.0",
+      "evidence_level": "author_scope_statement",
+      "covered_materials": "该目录两张ApprenTice常规/Q版PNG；不包括其引用但未收录的第三方原图。",
+      "scope_basis": "作者在角色图目录声明这些衍生作品采用CC BY-NC-SA 4.0，并单列原型/参考作者。",
+      "required_notices": [
+        "保留ApprenTice及该文件上游角色署名、原帖和许可链接",
+        "非商业；改编按相同许可分享并说明修改"
+      ],
+      "evidence_urls": [
+        "https://github.com/Apprentice-Geo/AI-Fanworks/blob/ee1f5176710f3bcfd60ee5cb0af00f77ed96748e/ApprenTice/AI-Girls-and-Chibis/README.md"
+      ],
+      "bundled_evidence": [
+        "PROVENANCE.json",
+        "../shared/ApprenTice/README.md"
+      ]
+    },
+    {
+      "package_id": "fuh-mimo",
+      "title": "MiMo / 小米 · 甶丶立绘与三视图",
+      "reviewed_on": "2026-10-22",
+      "review_status": "version_unspecified",
+      "unresolved": [
+        "原作者未写标准许可证版本，精确条款版本待补。"
+      ],
+      "release_changed": false,
+      "license_id": "CC-BY-NC",
+      "evidence_level": "author_submission",
+      "covered_materials": "该目录甶丶本人投稿的PNG；不扩展到其他作者版本、声音或模型。",
+      "scope_basis": "原作者投稿字段选择CC BY-NC；站点收录/下载说明和CC标记分别记录，不单凭站点收录文字推断任意权利。",
+      "required_notices": [
+        "署名甶丶，保留作者原帖与投稿许可字段",
+        "按原声明的非商业条件使用，不擅自写成CC BY-NC 4.0"
+      ],
+      "evidence_urls": [
+        "https://github.com/lmy414/ai-girl-stickers/issues/35",
+        "https://www.bilibili.com/opus/1242097128919007239"
+      ],
+      "bundled_evidence": [
+        "PROVENANCE.json",
+        "README.md"
+      ]
+    },
+    {
+      "package_id": "fuh-stepfun",
+      "title": "甶丶StepFun两张立绘与专武图",
+      "reviewed_on": "2026-10-22",
+      "review_status": "version_unspecified",
+      "unresolved": [
+        "原作者未写标准许可证版本，精确条款版本待补。"
+      ],
+      "release_changed": false,
+      "license_id": "CC-BY-NC",
+      "evidence_level": "author_submission",
+      "covered_materials": "该目录甶丶本人投稿的PNG；不扩展到其他作者版本、声音或模型。",
+      "scope_basis": "原作者投稿字段选择CC BY-NC；站点收录/下载说明和CC标记分别记录，不单凭站点收录文字推断任意权利。",
+      "required_notices": [
+        "署名甶丶，保留作者原帖与投稿许可字段",
+        "按原声明的非商业条件使用，不擅自写成CC BY-NC 4.0"
+      ],
+      "evidence_urls": [
+        "https://github.com/lmy414/ai-girl-stickers/issues/19",
+        "https://www.bilibili.com/opus/1250303372583501829"
+      ],
+      "bundled_evidence": [
+        "PROVENANCE.json",
+        "README.md"
+      ]
+    },
+    {
+      "package_id": "maid-static-3d",
+      "title": "MaidAtelier派生静态3D与可编辑Blend",
+      "reviewed_on": "2026-10-22",
+      "review_status": "documented_scope",
+      "unresolved": [],
+      "release_changed": false,
+      "license_id": "CC-BY-NC-SA-4.0",
+      "evidence_level": "upstream_material_scope_statement",
+      "covered_materials": "静态Blend、GLB及随包参考图/渲染资料，按随附模型NOTICE；不包含未提供的绑定或动画。",
+      "scope_basis": "v0.5模型NOTICE与LICENSE-ARTWORK专门声明模型/渲染适用CC BY-NC-SA 4.0，不借用工程代码MIT。",
+      "required_notices": [
+        "保留上善无形、ZipZipPipe、Small-tailqwq、AI Moe Atlas/SelinLee的贡献链与NOTICE",
+        "署名、非商业、相同方式共享并说明修改"
+      ],
+      "evidence_urls": [
+        "https://github.com/Small-tailqwq/dsh-deep-whale/blob/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier/LICENSE-ARTWORK",
+        "https://github.com/SelinLee/ai-moe-atlas/tree/018bc3ca6c8d946006dacfc0bca7bf65a6dff4d6"
+      ],
+      "bundled_evidence": [
+        "NOTICE.txt",
+        "LICENSE-ARTWORK.txt",
+        "UPSTREAM-NOTICE.txt",
+        "HISTORICAL-NOTICES.txt"
+      ]
+    },
+    {
+      "package_id": "liuqing-live2d",
+      "title": "氵六青鲸鱼娘Live2D模型",
+      "reviewed_on": "2026-10-22",
+      "review_status": "documented_scope",
+      "unresolved": [
+        "作者同意转载/开源的依据来自上游维护者转述；本库未独立取得作者授权通信。"
+      ],
+      "release_changed": false,
+      "license_id": "CC-BY-NC-SA-4.0",
+      "evidence_level": "upstream_material_scope_statement",
+      "covered_materials": "assets/model/**对应的模型、贴图、动作与表情；不含专有Cubism Core/播放器。",
+      "scope_basis": "NOTICE对模型另列CC BY-NC-SA 4.0；PROVENANCE转述模型作者同意转载/开源。MIT仅覆盖代码。",
+      "required_notices": [
+        "保留上善无形、ZipZipPipe、氵六青三位署名及Andersen216整理说明",
+        "保留NOTICE/PROVENANCE中的模型非商业、相同方式共享及修改说明"
+      ],
+      "evidence_urls": [
+        "https://github.com/Andersen216/dsh-whale-girl-live2d/blob/f977bef508690e75ba6535cd8f4ce18e7f6ba9b0/NOTICE.md",
+        "https://github.com/Andersen216/dsh-whale-girl-live2d/blob/f977bef508690e75ba6535cd8f4ce18e7f6ba9b0/PROVENANCE.md"
+      ],
+      "bundled_evidence": [
+        "NOTICE.md",
+        "PROVENANCE.md",
+        "AUTHORS.md",
+        "LICENSE"
+      ]
+    },
+    {
+      "package_id": "7l-live2d-source",
+      "title": "7l-ui鲸鱼娘Live2D与PSD/CMO3源文件",
+      "reviewed_on": "2026-10-22",
+      "review_status": "documented_scope",
+      "unresolved": [],
+      "release_changed": false,
+      "license_id": "MIT",
+      "evidence_level": "upstream_material_scope_statement",
+      "covered_materials": "作者独立生成并分层/绑定的art/与source/webassets/model/，含PSD、CMO3与运行模型。",
+      "scope_basis": "THIRD_PARTY_NOTICES明确将上述素材目录纳入项目MIT，并非只看到仓库顶层MIT就套用。",
+      "required_notices": [
+        "保留MIT版权与许可文本",
+        "保留素材生成/适配说明与第三方运行时的独立范围；不把其他鲸鱼娘版本并入此许可"
+      ],
+      "evidence_urls": [
+        "https://github.com/7l-ui/whalegirl-pet/blob/ea296fb06bb7daf68dbd390b7d11e7cf001d0b87/THIRD_PARTY_NOTICES.md",
+        "https://github.com/7l-ui/whalegirl-pet/blob/ea296fb06bb7daf68dbd390b7d11e7cf001d0b87/LICENSE"
+      ],
+      "bundled_evidence": [
+        "THIRD_PARTY_NOTICES.md",
+        "LICENSE"
+      ]
+    }
+  ]
+}

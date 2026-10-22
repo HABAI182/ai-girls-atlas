@@ -1,6 +1,6 @@
 # 可直接下载的素材包
 
-[创作百科](README.md) · [实际文件检查](runtime-materials.md)
+[创作百科](README.md) · [实际文件检查](runtime-materials.md) · [逐包许可范围复核](../docs/package-rights-audit.md)
 
 **[下载全部14组素材](https://github.com/HABAI182/ai-girls-atlas/releases/download/materials-2026-10-21/AI-Girls-Atlas-Materials-2026-10-21.zip)** · [Release说明](https://github.com/HABAI182/ai-girls-atlas/releases/tag/materials-2026-10-21)。ZIP约80.4 MB；解压后按目录选择。
 

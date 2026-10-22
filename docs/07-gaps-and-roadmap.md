@@ -1,6 +1,8 @@
 # 当前完成情况与待补
 
-以[data/coverage.json](../data/coverage.json)为准。当前39个条目，21个有本地图片，85张原图/派生/参考文件，另有11张预览；3个条目仍待补。
+<!-- generated:gap-stats:start -->
+以[data/coverage.json](../data/coverage.json)为准。当前 39 个条目，21 个有本地图片，85 份原图/派生/参考文件，另有 11 张预览；3 个条目仍待补。现有 16 组素材关联包；实际下载目录为 14 组，二者口径不同。
+<!-- generated:gap-stats:end -->
 
 ## 本轮已经补到
 
@@ -33,12 +35,12 @@
 
 ## 新增独立视频栏目
 
-已补入[18类视频与23篇画面案例](../videos/README.md)，包括音乐MV、关系短剧、合租群像、单梗、换装、MMD/Live2D、像素主持、游戏与实体化方法。每篇附原片时间点。另有[12条模型、桌面、声音和流程入口](../videos/materials.md)，已有声音记录沿用，不重复建立同名音色。当前音频仍未试听；模型包和工坊入口的未取项见该页。
+已补入[18类视频与23篇画面案例](../videos/README.md)，包括音乐MV、关系短剧、合租群像、单梗、换装、MMD/Live2D、像素主持、游戏与实体化方法。每篇附原片时间点。另有[12条模型、桌面、声音和流程入口](../videos/materials.md)，已有声音记录沿用，不重复建立同名音色。后续已有直接音轨模型分析，未作人耳试听；模型包和工坊入口的未取项见该页。
 
 
 ## 创作百科扩充
 
-已接入[完整专题与新作品大类](../encyclopedia/README.md)。声音来源现为19条，另有[六段实际音轨分析](../encyclopedia/formats/audio.md)；工程与模型新增具体分发入口，见[13组关联包](../encyclopedia/production/README.md)。
+已接入[完整专题与新作品大类](../encyclopedia/README.md)。声音来源现为19条，另有[六段实际音轨分析](../encyclopedia/formats/audio.md)；工程与模型新增具体分发入口，见[素材关联包](../encyclopedia/production/README.md)。
 
 ## 继续补齐结果
 

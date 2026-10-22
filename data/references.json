@@ -554,6 +554,21 @@
       "license_as_recorded": "仅限非商业使用。最终宠物图集为 AI 辅助制作的同人适配作品；角色原设定及参考图权利仍归原权利人。",
       "license_verification": "submission_declaration",
       "local_copy": false
+    },
+    {
+      "id": "ref-doubao-official-icon",
+      "title": "豆包官网当前192像素头像",
+      "collection_url": "https://www.doubao.com/chat/",
+      "image_url": "https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/favicon/new-doubao/192x192.png",
+      "original_post_url": "https://www.doubao.com/chat/",
+      "credit_as_recorded": "豆包 / 字节跳动等对应权利人",
+      "license_as_recorded": "official_copyright",
+      "license_verification": "no_open_license_found",
+      "local_copy": false,
+      "previously_observed_bytes": 34367,
+      "previously_observed_sha256": "dabb2abd94e3a6c11e7f1a42c9343839b6ef643c086751b71afbc68f615aec38",
+      "catalog_change_on": "2026-10-22",
+      "note": "当前分支只保留官方链接；历史提交曾保存该文件，本次未改写历史。"
     }
   ]
 }

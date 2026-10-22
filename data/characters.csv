@@ -1,4 +1,4 @@
-﻿id,name,entity_kind,status,creators,observed_traits,identity_rules
+id,name,entity_kind,status,creators,observed_traits,identity_rules
 deepseek,DeepSeek / 深度求索,model-family,local_assets,上善无形（原角色）；ZipZipPipe（二次设计）,蓝色长发 | 鲸鱼鳍状耳饰与鲸尾 | 深蓝白女仆裙,鲸尾末端左右尾鳍属于一条尾巴；女仆装、宫廷侍女装、小肥鱼及DSH方案分别建版本。不能把所有蓝发鲸鱼图归成同一作者。
 gpt,ChatGPT / GPT,product-and-model-family,local_assets,ZipZipPipe,白色长发 | 龙角、龙翼与长尾 | 浅色礼服,早期原图带白紫色调，聚合页概括为白金礼服；以所选文件为准。Image 2和Codex为分支，不能直接互换服装。
 claude,Claude,model-family,local_assets,ZipZipPipe,橙色长发 | 花形发饰 | 米白橙黑层叠长裙与书本,花饰、书本和暖色裙装可组合识别；不要把后来的黑发版本或JAdpp立绘当成这个早期版本。
@@ -24,7 +24,7 @@ novelai,NovelAI,creative-product,visual_lead,ZipZipPipe（合照署名）,本次
 midjourney,Midjourney,image-product,visual_lead,ZipZipPipe（合照署名）,本次仅确认生成式模型合照中的形象线索,与NovelAI等同框不等于共享同一设计；未核实其独立提示词和文件许可。
 suno,Suno,music-product,visual_lead,ZipZipPipe（合照署名）,本次仅确认生成式模型合照中的形象线索,图像角色与歌曲、歌声、生成音乐的许可分别处理；形象链接不能授权音乐。
 elevenlabs,ElevenLabs,audio-product,visual_lead,ZipZipPipe（合照署名）,本次仅确认生成式模型合照中的形象线索,语音平台拟人与某位配音者的音色不能混为一谈；本库没有复制或授权声音。
-doubao,豆包官方头像及其他版本,product,local_assets,豆包/字节跳动（官方头像）；其他版本各自署名,官方短发头像有来源 | 同人造型存在多个分支,Seed娘不是所有豆包形象的同义词；官方头像、ZipZipPipe的Seed版、OpenPet版、网络夸张梗图应并列。
+doubao,豆包 / Doubao,product,local_assets,官网头像：豆包 / 字节跳动等对应权利人；校园同人：lshhhhhhh,官网头像为棕色偏分短发、黑色领口、浅蓝圆底 | 红围巾为所收录短片的改编造型 | 校园版另有小丸子与豆形胸章,官方头像、红围巾短片改编、校园OP版、OpenPet版与ZipZipPipe的Seed娘分别编目；Seed是相关同人命名，不是所有豆包形象的统一原设。
 stepfun,StepFun / 阶跃星辰,model-family,local_assets,甶丶（原作者本人投稿，AI辅助创作）,浅蓝长发、蓝眼、环状呆毛 | 黑白不对称裙装/披风、阶梯方块装饰 | 立方灯与方格面板伞两件专武,原作者投稿直接命名Stepfun娘与阶跃星辰。三张原PNG为两张持物立绘和一张专武图，不是三视图。
 mimo,MiMo / 小米,model-family,local_assets,甶丶（本轮已收立绘与三视图）；其他作者版本另列,银白双马尾 | 橙黑服装、mi/MiMo标识 | 兔子与黑白不对称袜,甶丶的正常比例立绘与三视图来自同一作者原帖。此版本不是ZipZipPipe设计；许可CC BY-NC未写版本号。
 huggingface,Hugging Face,platform,visual_lead,ZipZipPipe（站点署名；原帖待进一步核对）,站点条目描述黄色笑脸玩偶与海军蓝外套,这是平台拟人，不是一个基础模型。条目授权未知，本库只保留作品详情入口。

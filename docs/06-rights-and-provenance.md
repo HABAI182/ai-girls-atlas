@@ -21,7 +21,7 @@ CC 摘要和完整条款入口见 [Creative Commons](https://creativecommons.org
 
 **JAdpp 系列。** 取回项目明确列入 CC BY-NC-SA 4.0 的六张角色立绘及八张鲸鱼娘表情。维护者声明仅在持有相应权利范围内许可。DeepSeek 的上游链包含上善无形、ZipZipPipe、Small-tailqwq / dsh-deep-whale；其他五位是 JAdpp 的独立 AI 辅助设计，不能标为 ZipZipPipe 原版。上游许可证和 NOTICE 保存在 `licenses/upstream/jadpp/`。
 
-本库对以上文件没有重画、裁切或重新压缩；只调整目录名称。九张预览为上游已经缩小的文件，另存其校验值。其中Seed立绘按原图明确的SEED工牌纠正了上游角色分类，原始字节与上游分类均保留记录，见[data/corrections.json](../data/corrections.json)。Q版文件是原作者视频展示的完整截帧，绝不标成原始透明立绘。
+本库对以上文件没有重画、裁切或重新压缩；只调整目录名称。轻量预览为上游已经缩小的文件，另存其校验值。其中Seed立绘按原图明确的SEED工牌纠正了上游角色分类，原始字节与上游分类均保留记录，见[data/corrections.json](../data/corrections.json)。Q版文件是原作者视频展示的完整截帧，绝不标成原始透明立绘。
 
 ## 只索引的资料
 
@@ -61,3 +61,5 @@ StepFun、MiMo 的投稿标记写着 CC BY-NC，但本次未把它自动补全�
 ## 新增系列的简明说明
 
 校园人设按上游CC BY-NC 4.0记录；ApprenTice与深海女仆表情按各目录CC BY-NC-SA 4.0记录；MiMo按作者CC BY-NC声明记录，版本号未写明。原图、再设计与动画适配分别署名。声音采用独立来源索引，图像许可不延伸到歌曲和人声。
+
+逐包适用范围与具体未确定项见[素材包许可范围复核](package-rights-audit.md)。

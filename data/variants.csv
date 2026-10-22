@@ -1,9 +1,9 @@
-﻿id,character_id,collection,title,creators,observed_traits,difference_from_other_versions,asset_ids,prompt_url
+id,character_id,collection,title,creators,observed_traits,difference_from_other_versions,asset_ids,prompt_url
 school-op-claude,claude,school-op,校园系列,lshhhhhhh（AI辅助设计）,橙色长发与花形发饰 | 橙红领结 | 灰蓝校服裙,保留早期暖色识别点，换成校园服装；不同于黑紫工程服。,school-op-claude,https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/designs/claude.prompt.txt
 school-op-cohere,cohere,school-op,校园系列,lshhhhhhh（AI辅助设计）,森林绿及肩卷发 | 浅色挑染 | 桃绿奶油色领结,本项目原创方案，补上此前未确认形象的档位。,school-op-cohere,https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/designs/cohere.prompt.txt
 school-op-copilot-school,copilot-school,school-op,校园系列,lshhhhhhh（AI辅助设计）,青绿色高马尾 | 蓝绿眼 | 多色缎带环胸章,作者未进一步区分具体Copilot产品；单独列项目角色。,school-op-copilot,https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/designs/copilot.prompt.txt
 school-op-deepseek,deepseek,school-op,校园系列,lshhhhhhh（AI辅助设计）,蓝色长卷发与呆毛 | 鲸鳍耳和一条鲸尾 | 蓝色领结,女仆元素改为共用校服，鲸类识别点继续保留。,school-op-deepseek,https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/designs/deepseek.prompt.txt
-school-op-doubao,doubao,school-op,校园系列,lshhhhhhh（AI辅助设计）,棕色短发与小丸子 | 小豆形胸章 | 蓝米色领结,项目同人学生版本；不是官方头像延展原稿，也不是Seed。,school-op-doubao,https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/designs/doubao.prompt.txt
+school-op-doubao,doubao,school-op,校园系列,lshhhhhhh（AI辅助设计）,棕色短发与小丸子 | 小豆形胸章 | 蓝米色领结,校园OP同人版：造型穿统一学生制服，但演员槽位对应甘夏老师；不据此继承原作老师性格，不是官方全身或Seed版。,school-op-doubao,https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/designs/doubao.prompt.txt
 school-op-wenxin,wenxin,school-op,校园系列,lshhhhhhh（AI辅助设计）,深蓝不对称短发与细辫 | 红蓝发夹 | 蓝红白领结,不同于旧档案里的长发中式裙版本。,school-op-ernie,https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/designs/ernie.prompt.txt
 school-op-gemini,gemini,school-op,校园系列,lshhhhhhh（AI辅助设计）,蓝紫长发与猫耳猫尾 | 异色瞳 | 彩色领结,保留猫娘轮廓；常服图、校园图分别管理。,school-op-gemini,https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/designs/gemini.prompt.txt
 school-op-glm,glm,school-op,校园系列,lshhhhhhh（AI辅助设计）,绿色短发与细辫 | 方框眼镜 | GLM胸章,为本项目原创设计，不沿用黑狐女仆轮廓。,school-op-glm,https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/designs/glm.prompt.txt
@@ -54,3 +54,4 @@ fuh-stepfun-lamp-and-umbrella,stepfun,fuh-stepfun,甶丶StepFun立方灯与方�
 larcgpt-mimo-digital-city,mimo,larcgpt/ai-model-musume,MiMo棕金马尾数码都市分支,larcgpt（仓库维护者；图像自述由ChatGPT生成）,棕金色高马尾、橙色眼睛与耳机。 | 橙白黑机能短装和外套，手里持手机；背景是城市与设备图像。 | 卡片直接写MiMo娘、Xiaomi，另有同版Q版图、手机/手环/音箱等道具。,与甶丶银白双马尾、mi兔子分支在发型、服装、道具和比例上都不同；作为独立作者版本。,,
 andersen-liuqing-whale-live2d,deepseek,Andersen216/dsh-whale-girl-live2d,氵六青Live2D / Andersen216整理版,上善无形 / ZipZipPipe / 氵六青；Andersen216整理,蓝发Q版鲸鱼娘、工作桌与道具 | MOC3、8组动作和44份表情,按模型作者、文件与动作分别建分支；不与水原镜或狐宫静模型混包。,,
 7l-whale-live2d-source,deepseek,7l-ui/whalegirl-pet,7l-ui自动分层与绑定Live2D版,7l-ui（独立AI生成与分层/绑定）,蓝发女仆、双侧长发与鲸尾 | 15层PSD、CMO3及MOC3 | Idle、Blink、Nod、Shake四组动作,按模型作者、文件与动作分别建分支；不与水原镜或狐宫静模型混包。,,
+doubao-official-current-icon,doubao,official-doubao,官网当前头像,豆包 / 字节跳动等对应权利人,棕色偏分短发 | 黑色上衣领口 | 浅蓝圆形底与卡通头像,官网品牌头像；没有由此取得官方全身、服装全貌或三视图。,,

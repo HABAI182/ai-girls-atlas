@@ -1323,14 +1323,14 @@
         "浅蓝圆形底与卡通头像"
       ],
       "difference_from_other_versions": "官网品牌头像；没有由此取得官方全身、服装全貌或三视图。",
-      "asset_ids": [
-        "doubao-official-current-icon"
-      ],
+      "asset_ids": [],
       "source_ids": [
         "src-07eaac82a5",
         "src-c2cd08d4d1"
       ],
-      "review_scope": "official_html_resource_and_downloaded_image_visually_reviewed"
+      "review_scope": "official_html_resource_and_downloaded_image_visually_reviewed",
+      "external_reference_id": "ref-doubao-official-icon",
+      "editorial_note": "2026-10-22改为官方外链；未确认开放镜像许可，保留原识别与来源观察。"
     }
   ]
 }

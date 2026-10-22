@@ -81,4 +81,4 @@
 
 ## 创作百科扩充
 
-已接入[完整专题与新作品大类](../encyclopedia/README.md)。声音来源现为19条，另有[六段实际音轨分析](../encyclopedia/formats/audio.md)；工程与模型新增具体分发入口，见[13组关联包](../encyclopedia/production/README.md)。
+已接入[完整专题与新作品大类](../encyclopedia/README.md)。声音来源现为19条，另有[六段实际音轨分析](../encyclopedia/formats/audio.md)；工程与模型新增具体分发入口，见[素材关联包](../encyclopedia/production/README.md)。

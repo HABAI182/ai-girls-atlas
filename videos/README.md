@@ -12,7 +12,9 @@
 | [大肥鱼贪墨Token](https://www.bilibili.com/video/BV1hi8Z6fEoy/) | 摸鱼、资源消耗与吃饭的标题语境 |
 
 
-独立视频栏目，更新于 **2026-10-21**。当前 **92条视频来源**（前轮47→78，本轮继续扩充）；**23篇抽帧案例**覆盖18个内容品类，其中21篇是AI娘作品、2篇是关联制作方法参考。图像与角色档案仍保留在[仓库首页](../README.md)。
+<!-- generated:video-stats:start -->
+当前 **96 条视频记录**：79 条进入现有主品类索引，另 17 条仅用于社区印象语境，尚未归入画面品类；**23 篇抽帧案例**覆盖 18 个内容品类。其中21篇是AI娘作品、2篇是关联制作方法参考。观察范围以每条记录为准。
+<!-- generated:video-stats:end -->
 
 [按视觉风格比较](styles.md) · [素材与工作流入口](materials.md) · [作者与系列](authors.md) · [全部视频CSV](all-videos.csv) · [结构化案例JSON](../data/video-studies.json)
 

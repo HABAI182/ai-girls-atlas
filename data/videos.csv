@@ -1,4 +1,4 @@
-﻿id,title,author,published_at,duration_seconds,category,review_scope,url
+id,title,author,published_at,duration_seconds,category,review_scope,url
 BV12Feq6qELB,大肥鱼勇闯AI竞技场，被虐惨了？,这个刀子真甜,2026-09-20T19:07:46+08:00,112,竞技与对战,api_metadata_only,https://www.bilibili.com/video/BV12Feq6qELB/
 BV13Ga56VEpp,跟我学，保证饿不死,冬冰,2026-09-28T19:04:45+08:00,185,合租与日常,api_metadata_only,https://www.bilibili.com/video/BV13Ga56VEpp/
 BV14phK66Ejw,各AI娘形象盘点,想看故事的lazy,2026-08-24T22:42:45+08:00,45,角色形象与源头,api_metadata_and_sampled_frames,https://www.bilibili.com/video/BV14phK66Ejw/
@@ -24,7 +24,7 @@ BV1fthi6mEEz,完啦完啦！用户彻底怒了！,冬冰,2026-09-21T16:26:29+08:
 BV1ikaZ6rECj,我爸给我发了6块钱,冬冰,2026-09-30T16:54:53+08:00,162,合租与日常,api_metadata_only,https://www.bilibili.com/video/BV1ikaZ6rECj/
 BV1jw8w6yESY,【DeepSeek】我 推 的 蓝 色 大 肥 鱼 🐋,暗影神秘使,2026-08-20T18:15:45+08:00,158,其他同人视频,api_metadata_only,https://www.bilibili.com/video/BV1jw8w6yESY/
 BV1mwRzBdEzk,AI娘的日常（大概?）,ZipZipPipe,2026-05-04T23:58:06+08:00,60,表情包与日常,sampled_visual_frames_and_creator_description,https://www.bilibili.com/video/BV1mwRzBdEzk/
-BV1pLn36sEJq,各个ai刻板印象,好嘛_好嘛,2026-10-18T20:32:17+08:00,163,刻板印象与解释,api_metadata_and_sampled_frames,https://www.bilibili.com/video/BV1pLn36sEJq/
+BV1pLn36sEJq,各个ai刻板印象,好嘛_好嘛,2026-10-18T20:32:17+08:00,163,刻板印象与解释,sampled_visual_frames_and_burned_in_subtitles,https://www.bilibili.com/video/BV1pLn36sEJq/
 BV1qdan6MENR,姐你到底会不会开车啊,冬冰,2026-09-29T20:59:25+08:00,170,合租与日常,api_metadata_only,https://www.bilibili.com/video/BV1qdan6MENR/
 BV1tE9XBbErS,大AI和小AI们,ZipZipPipe,2026-05-03T00:50:13+08:00,54,角色形象与源头,sampled_visual_frames_and_creator_description,https://www.bilibili.com/video/BV1tE9XBbErS/
 BV1w6a86gEbC,中转站来了个大佬,冬冰,2026-09-27T18:16:41+08:00,178,合租与日常,api_metadata_only,https://www.bilibili.com/video/BV1w6a86gEbC/
@@ -91,3 +91,7 @@ BV1WNt86bEyu,【免费3D模型】蓝色大肥鱼【Warudo实时渲染】,水原�
 BV1AvtW6yEzp,「元宝AI娘化：元元酱，请多关照～」,帆船很忙,2026-08-30T22:46:52+08:00,12,角色图鉴与表情图集,sampled_visual_frames_and_creator_description,https://www.bilibili.com/video/BV1AvtW6yEzp/
 BV13dYC68E9W,元宝AI娘化3.0:短发、长发、御姐，谁让你心动了？,帆船很忙,2026-09-14T13:40:34+08:00,12,角色图鉴与表情图集,sampled_visual_frames_and_creator_description,https://www.bilibili.com/video/BV13dYC68E9W/
 BV1TNa761ERP,我做了一个鲸鱼娘开源资产库，方便全民二创大肥鱼！让敌人陷入人民战争的汪洋大海【开源仓库欢迎贡献，不需要会写代码也能参与】,Treap要赚一个亿U-Acc,2026-09-29T05:15:02+08:00,122,制作教程与工作流参考,sampled_visual_frames_and_creator_description,https://www.bilibili.com/video/BV1TNa761ERP/
+BV18dbN63EMw,大肥鱼欺负小毛咪，glm刚结束优惠，ds就宣布降价,那就那就打断,2026-09-07T18:39:13+08:00,,社区印象与梗语境,metadata_description_and_public_comment_sample,https://www.bilibili.com/video/BV18dbN63EMw/
+BV1hi8Z6fEoy,deepseek娘贪墨上亿token，竟然在家里一口白面一口蒜？！,深月狐西卜,2026-08-26T23:38:50+08:00,,社区印象与梗语境,metadata_description_and_public_comment_sample,https://www.bilibili.com/video/BV1hi8Z6fEoy/
+BV1KChX6kEmE,吓哭了！前端真神Opus5.5制作的AI动画短片Claude Dreaming，一定要看完！,我永遠愛初音未來,2026-09-26T15:06:27+08:00,,社区印象与梗语境,metadata_description_and_public_comment_sample,https://www.bilibili.com/video/BV1KChX6kEmE/
+BV1kf9xBjECD,豆包，这次我直接说人话，用最直白，最不绕弯子，最一针见血的方式告诉你,人民心中有红太阳,2026-04-29T21:41:25+08:00,,社区印象与梗语境,metadata_description_and_public_comment_sample,https://www.bilibili.com/video/BV1kf9xBjECD/
