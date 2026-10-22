@@ -106,3 +106,11 @@
 ## 演出与创作关联
 
 [作品限定反应档案](../../encyclopedia/performances/claude.md) · [同情境原创对照](../../encyclopedia/performances/same-situation.md) · [素材关联包](../../encyclopedia/production/README.md)
+
+## 模型子系列与工具文字分支 · 2026-10-22
+
+- [larcgpt Opus · 实际查看原图](https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/Claude_Opus/Claude_Opus_Main_1.png)：黑金衣装、图书馆；作者侧重学者方向。
+- [larcgpt Sonnet · 实际查看原图](https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/Claude_Sonnet/Claude_Sonnet_Main_1.png)：白橙衣装、钢琴和乐谱；作者侧重文字创作方向。
+- [がみClaude Code银发龙娘文字人设](https://zenn.dev/gami113/articles/20250222-claude-code-807943b37ecd9d)：独立Output Style提案，没有本轮核验的立绘。
+
+以上分别关联到[模型与工具分支专题](../../encyclopedia/model-branches.md)，不合并为橙发花饰原版的同一套人格。Fable继续保留为作者企划命名，未据此新增真实模型产品条目。

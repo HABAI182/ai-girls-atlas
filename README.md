@@ -14,6 +14,8 @@
 
 还有 JAdpp 的六张独立角色立绘和八种鲸鱼娘表情，放在各角色页中。它们有自己的设计、署名与文件许可，不冒充上图早期原版。
 
+**[新增模型、子系列与工具分支](encyclopedia/model-branches.md)**：GPT-OSS、Gemma、Phi、Nemotron、MAI、Seedance与Claude子系列。
+
 具体模型与工具也有独立档案：[GPT Image / Image 2黑龙娘](characters/image2/README.md) · [Codex龙娘](characters/codex/README.md)。
 
 ## 想找什么
@@ -29,7 +31,7 @@
 ## 当前收录
 
 <!-- generated:stats:start -->
-**39 个角色及关联条目 · 85 份本地参考文件 · 96 条视频 · 360 个来源入口 · 14 组下载素材**
+**45 个角色及关联条目 · 85 份本地参考文件 · 96 条视频 · 369 个来源入口 · 14 组下载素材**
 
 社区印象：10 个角色、34 条记录；另有 117 句本库原创对白。数量口径见[收录统计](docs/collection-status.md)。
 <!-- generated:stats:end -->

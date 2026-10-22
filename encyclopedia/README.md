@@ -8,7 +8,7 @@
 
 ## 新增人设与对白
 
-[39份人设与做事风格](personas/README.md) · [117句同题原创对白](personas/dialogue-comparison.md) · [作者与产品依据](personas/sources.md) · [豆包形象纠正](personas/doubao-correction.md)
+[人设与作者设定摘要](personas/README.md) · [117句同题原创对白](personas/dialogue-comparison.md) · [作者与产品依据](personas/sources.md) · [豆包形象纠正](personas/doubao-correction.md)
 
 ## 可用文件
 
@@ -16,7 +16,7 @@
 
 | 栏目 | 本轮内容 | 打开 |
 | --- | --- | --- |
-| 各AI怎样说话和做事 | 39份创作档案，作者设定与官方资料分层；117句原创对白 | [人设栏目](personas/README.md) |
+| 各AI怎样说话和做事 | 原创工作人设与作者设定摘要分层；对白单独标注原创 | [人设栏目](personas/README.md) |
 | AI娘都在玩什么梗 | 10个梗、具体作品和变体 | [梗百科](memes/README.md) |
 | 同一个情境，八位AI怎样反应 | 8位档案、31条实际观察、32格原创演出点子 | [角色演出](performances/README.md) |
 | 从立绘到能演的角色 | 16个关联包、15条文件/工程入口，另有14组实际下载包 | [素材关联](production/README.md) |
@@ -48,3 +48,5 @@
 ## 已完成的边界
 
 栏目和整理工作已落地。公开分发入口已找到不等于已领取或运行模型；音轨机器分析也不等于人耳试听。薄弱角色没有查到确切新方案时保留结果，避免用猜测填满。
+
+[具体模型、子系列与工具分支](model-branches.md)：本轮新增模型条目、作者图片和文字设定比较。

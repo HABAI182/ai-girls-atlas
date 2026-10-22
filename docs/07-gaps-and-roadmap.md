@@ -1,7 +1,7 @@
 # 当前完成情况与待补
 
 <!-- generated:gap-stats:start -->
-以[data/coverage.json](../data/coverage.json)为准。当前 39 个条目，21 个有本地图片，85 份原图/派生/参考文件，另有 11 张预览；3 个条目仍待补。现有 16 组素材关联包；实际下载目录为 14 组，二者口径不同。
+以[data/coverage.json](../data/coverage.json)为准。当前 45 个条目，21 个有本地图片，85 份原图/派生/参考文件，另有 11 张预览；3 个条目仍待补。现有 16 组素材关联包；实际下载目录为 14 组，二者口径不同。
 <!-- generated:gap-stats:end -->
 
 ## 本轮已经补到

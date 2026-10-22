@@ -58,3 +58,5 @@ Copilot校园项目未区分具体产品，使用独立条目copilot-school。va
 ## 维护与导出
 
 `coverage.json`是统一统计入口，完整数量见[当前统计](../docs/collection-status.md)。修改主JSON后运行`python scripts/generate_catalog.py`，同步角色索引、首页/视频/缺口统计和全部CSV。`package-rights.json`保存逐包许可范围、声明层级和未确定项。核心字段约束见[JSON Schema](../schemas/catalog.schema.json)，提交检查见[维护说明](../docs/maintenance.md)。
+
+`model-branches.json`记录本轮具名模型/子系列/工具分支及观察范围。`personas.json`中`original_status=source_summary`仅摘要作者原设，`original=null`且无原创对白；原有`editorial_draft`继续保留三句原创示范。数量分别计入coverage。

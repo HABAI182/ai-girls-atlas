@@ -1,0 +1,244 @@
+{
+  "schema_version": 1,
+  "checked_on": "2026-10-22",
+  "scope": "具体模型、子系列及工具的具名拟人；图片观察与作者人设分别记录。",
+  "records": [
+    {
+      "id": "larcgpt-gpt-oss",
+      "character_id": "gpt-oss",
+      "title": "GPT-OSS 120B娘",
+      "entity_added": true,
+      "author": "larcgpt",
+      "source_ids": [
+        "src-c52b6ceb97",
+        "src-45cae556eb",
+        "src-4904acbfc8"
+      ],
+      "variant_id": "larcgpt-gpt-oss",
+      "reference_id": "ref-larcgpt-gpt-oss-main",
+      "observed_traits": [
+        "黑色短发与青绿发尾、绿色眼睛",
+        "灰白机能外套、黑色短装与工具包",
+        "悬浮方块、机械臂和青绿终端背景"
+      ],
+      "author_persona_summary": "作者把她写成负责大型任务、偏沉着的模型核心守护者。",
+      "observation_difference": "正文列黑银长发方案；本次Main_1实际为黑色短发与青绿发尾，按具体图片保留差异。",
+      "review_scope": "original_png_and_author_text",
+      "actual_image_viewed": true,
+      "community_consensus_claimed": false,
+      "local_copy_published": false
+    },
+    {
+      "id": "larcgpt-gemma",
+      "character_id": "gemma",
+      "title": "Gemma娘",
+      "entity_added": true,
+      "author": "larcgpt",
+      "source_ids": [
+        "src-c52b6ceb97",
+        "src-45cae556eb",
+        "src-3a1db5ecfa"
+      ],
+      "variant_id": "larcgpt-gemma",
+      "reference_id": "ref-larcgpt-gemma-main",
+      "observed_traits": [
+        "银白色长发与蓝紫色眼睛",
+        "白色透明感衣装、棱镜和星形晶体发饰",
+        "浅色晶体空间与宝石几何图案"
+      ],
+      "author_persona_summary": "作者设定偏安静稳妥，使用研究助手与宝石鉴定的意象。",
+      "observation_difference": "正文提出淡绿/银白短发、绿眼；Main_1为银白长发、蓝紫眼，二者不合并成唯一外观。",
+      "review_scope": "original_png_and_author_text",
+      "actual_image_viewed": true,
+      "community_consensus_claimed": false,
+      "local_copy_published": false
+    },
+    {
+      "id": "larcgpt-phi",
+      "character_id": "phi",
+      "title": "Phi娘",
+      "entity_added": true,
+      "author": "larcgpt",
+      "source_ids": [
+        "src-c52b6ceb97",
+        "src-45cae556eb",
+        "src-cf0f5fda96"
+      ],
+      "variant_id": "larcgpt-phi",
+      "reference_id": "ref-larcgpt-phi-main",
+      "observed_traits": [
+        "深蓝黑长发、侧边编发和四色方块发夹",
+        "蓝白研究外套、黑色连身装与工牌",
+        "托起小型方块核心，背景为蓝白研究室"
+      ],
+      "author_persona_summary": "作者赋予她精干务实、讲求效率的工程助手定位。",
+      "observation_difference": "",
+      "review_scope": "original_png_and_author_text",
+      "actual_image_viewed": true,
+      "community_consensus_claimed": false,
+      "local_copy_published": false
+    },
+    {
+      "id": "larcgpt-nemotron",
+      "character_id": "nemotron",
+      "title": "NVIDIA Nemotron娘",
+      "entity_added": true,
+      "author": "larcgpt",
+      "source_ids": [
+        "src-c52b6ceb97",
+        "src-45cae556eb",
+        "src-67637f5e24"
+      ],
+      "variant_id": "larcgpt-nemotron",
+      "reference_id": "ref-larcgpt-nemotron-main",
+      "observed_traits": [
+        "黑发配荧光绿发丝，盘发与长发并存",
+        "黑绿科技服、长手套与绿色透明外披",
+        "坐在机柜之间，画面有管线和绿色运算界面"
+      ],
+      "author_persona_summary": "作者以镇定的机房指挥者来组织这一角色。",
+      "observation_difference": "",
+      "review_scope": "original_png_and_author_text",
+      "actual_image_viewed": true,
+      "community_consensus_claimed": false,
+      "local_copy_published": false
+    },
+    {
+      "id": "larcgpt-mai",
+      "character_id": "mai",
+      "title": "MAI / Mai娘",
+      "entity_added": true,
+      "author": "larcgpt",
+      "source_ids": [
+        "src-c52b6ceb97",
+        "src-45cae556eb",
+        "src-4a7eba73d2"
+      ],
+      "variant_id": "larcgpt-mai",
+      "reference_id": "ref-larcgpt-mai-main",
+      "observed_traits": [
+        "深色长发与蓝色发尾、蓝眼",
+        "白色长研究外套、黑色高领衣裤、MAI工牌",
+        "手持透明平板，周围有语音、代码与图像面板"
+      ],
+      "author_persona_summary": "作者写作偏重组织流程的协作中枢，与Phi的精干助手定位区分。",
+      "observation_difference": "",
+      "review_scope": "original_png_and_author_text",
+      "actual_image_viewed": true,
+      "community_consensus_claimed": false,
+      "local_copy_published": false
+    },
+    {
+      "id": "larcgpt-seedance",
+      "character_id": "seedance",
+      "title": "Seedance娘",
+      "entity_added": true,
+      "author": "larcgpt",
+      "source_ids": [
+        "src-c52b6ceb97",
+        "src-45cae556eb",
+        "src-e858de84e5"
+      ],
+      "variant_id": "larcgpt-seedance",
+      "reference_id": "ref-larcgpt-seedance-main",
+      "observed_traits": [
+        "深色盘发、红色发簪与黑红衣装",
+        "坐导演椅并持笔，旁边有大型摄像机",
+        "分镜预览、剪辑时间轴、城市片场与小型投影"
+      ],
+      "author_persona_summary": "作者用善于安排镜头与节奏的影像创作者来表现她。",
+      "observation_difference": "",
+      "review_scope": "original_png_and_author_text",
+      "actual_image_viewed": true,
+      "community_consensus_claimed": false,
+      "local_copy_published": false
+    },
+    {
+      "id": "larcgpt-claude-opus-larcgpt",
+      "character_id": "claude",
+      "title": "Claude Opus娘 · larcgpt",
+      "entity_added": false,
+      "author": "larcgpt",
+      "source_ids": [
+        "src-c52b6ceb97",
+        "src-45cae556eb",
+        "src-acf2246142"
+      ],
+      "variant_id": "larcgpt-claude-opus-larcgpt",
+      "reference_id": "ref-larcgpt-claude-opus-larcgpt-main",
+      "observed_traits": [
+        "金色盘发与黑色缎带、金色花饰",
+        "黑金礼服与披肩",
+        "手边有书本，背景为暖色图书馆"
+      ],
+      "author_persona_summary": "作者偏向耐心思索、逐步展开问题的学者方向。",
+      "observation_difference": "",
+      "review_scope": "original_png_and_author_text",
+      "actual_image_viewed": true,
+      "community_consensus_claimed": false,
+      "local_copy_published": false
+    },
+    {
+      "id": "larcgpt-claude-sonnet-larcgpt",
+      "character_id": "claude",
+      "title": "Claude Sonnet娘 · larcgpt",
+      "entity_added": false,
+      "author": "larcgpt",
+      "source_ids": [
+        "src-c52b6ceb97",
+        "src-45cae556eb",
+        "src-6103076b68"
+      ],
+      "variant_id": "larcgpt-claude-sonnet-larcgpt",
+      "reference_id": "ref-larcgpt-claude-sonnet-larcgpt-main",
+      "observed_traits": [
+        "浅金长发、花饰与橙色缎带",
+        "白金橙色礼服与轻薄披肩",
+        "旁有乐谱与钢琴，整体使用暖色窗光"
+      ],
+      "author_persona_summary": "作者偏向整理文字、兼顾表达与规划的创作者方向。",
+      "observation_difference": "",
+      "review_scope": "original_png_and_author_text",
+      "actual_image_viewed": true,
+      "community_consensus_claimed": false,
+      "local_copy_published": false
+    },
+    {
+      "id": "gami-claude-code-silver-dragon",
+      "character_id": "claude",
+      "title": "Claude Code银发龙娘 · 文字人设",
+      "entity_added": false,
+      "author": "がみ / gami113",
+      "source_ids": [
+        "src-f5a66e9033"
+      ],
+      "variant_id": "gami-claude-code-silver-dragon",
+      "observed_traits": [
+        "作者文字设定为银发、有角和龙尾的小型龙少女"
+      ],
+      "author_persona_summary": "该作者把Claude Code写成银发、有角和尾巴的小型龙少女；好奇好胜、做完任务期待认可，严肃任务时转回工作。",
+      "review_scope": "author_article_text_only",
+      "actual_image_viewed": false,
+      "community_consensus_claimed": false,
+      "local_copy_published": false
+    }
+  ],
+  "pending_leads": [
+    {
+      "id": "lead-larcgpt-fable",
+      "character_id": "claude",
+      "title": "Claude Fable娘",
+      "source_ids": [
+        "src-c52b6ceb97",
+        "src-45cae556eb"
+      ],
+      "status": "author_project_label_technical_identity_not_verified",
+      "note": "此前作者设定表已记录此名称；保留为作者企划标签，不据此新增真实模型产品条目，本轮未新增该图视觉核验。"
+    }
+  ],
+  "reuse_note": "larcgpt固定提交与此前相同，本轮补其未建档角色和具体子系列；已有SD/MiMo与Image 2不重复下载或计数。",
+  "search_notes": [
+    "Nano Banana相关搜索多数为使用该工具生成其他拟人角色，尚未据此建立独立香蕉娘条目。",
+    "poppo的Sonnet/Opus/Haiku共享躯体文章标签含AI男友，本轮不把它混作AI娘视觉方案。"
+  ]
+}

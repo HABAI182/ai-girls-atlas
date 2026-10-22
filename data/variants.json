@@ -1356,6 +1356,234 @@
       "review_scope": "author_post_text_and_gallery_labels_rechecked_no_new_image_review",
       "checked_on": "2026-10-22",
       "editorial_note": "复用既有外部参考，不重复下载或增加角色数。原帖使用Image 2，GPT Image作为检索别名；三视图原帖本次读取受限，沿用已有入口。"
+    },
+    {
+      "id": "larcgpt-gpt-oss",
+      "character_id": "gpt-oss",
+      "collection": "larcgpt-model-musume",
+      "title": "GPT-OSS 120B娘 · Main_1版本",
+      "creators": "larcgpt（ChatGPT辅助生成）",
+      "observed_traits": [
+        "黑色短发与青绿发尾、绿色眼睛",
+        "灰白机能外套、黑色短装与工具包",
+        "悬浮方块、机械臂和青绿终端背景"
+      ],
+      "difference_from_other_versions": "larcgpt的科幻工程角色，独立于ZipZipPipe的GPT白龙娘和Image 2黑龙娘。",
+      "asset_ids": [],
+      "reference_ids": [
+        "ref-larcgpt-gpt-oss-main"
+      ],
+      "source_ids": [
+        "src-c52b6ceb97",
+        "src-45cae556eb",
+        "src-4904acbfc8"
+      ],
+      "review_scope": "pinned_author_setting_and_original_png_actually_viewed",
+      "checked_on": "2026-10-22",
+      "editorial_note": "正文列黑银长发方案；本次Main_1实际为黑色短发与青绿发尾，按具体图片保留差异。",
+      "author_persona_summary": "作者把她写成负责大型任务、偏沉着的模型核心守护者。"
+    },
+    {
+      "id": "larcgpt-gemma",
+      "character_id": "gemma",
+      "collection": "larcgpt-model-musume",
+      "title": "Gemma娘 · Main_1版本",
+      "creators": "larcgpt（ChatGPT辅助生成）",
+      "observed_traits": [
+        "银白色长发与蓝紫色眼睛",
+        "白色透明感衣装、棱镜和星形晶体发饰",
+        "浅色晶体空间与宝石几何图案"
+      ],
+      "difference_from_other_versions": "在同一作者企划中与Gemini分列；不继承其他作者Gemini的猫耳猫尾。",
+      "asset_ids": [],
+      "reference_ids": [
+        "ref-larcgpt-gemma-main"
+      ],
+      "source_ids": [
+        "src-c52b6ceb97",
+        "src-45cae556eb",
+        "src-3a1db5ecfa"
+      ],
+      "review_scope": "pinned_author_setting_and_original_png_actually_viewed",
+      "checked_on": "2026-10-22",
+      "editorial_note": "正文提出淡绿/银白短发、绿眼；Main_1为银白长发、蓝紫眼，二者不合并成唯一外观。",
+      "author_persona_summary": "作者设定偏安静稳妥，使用研究助手与宝石鉴定的意象。"
+    },
+    {
+      "id": "larcgpt-phi",
+      "character_id": "phi",
+      "collection": "larcgpt-model-musume",
+      "title": "Phi娘 · Main_1版本",
+      "creators": "larcgpt（ChatGPT辅助生成）",
+      "observed_traits": [
+        "深蓝黑长发、侧边编发和四色方块发夹",
+        "蓝白研究外套、黑色连身装与工牌",
+        "托起小型方块核心，背景为蓝白研究室"
+      ],
+      "difference_from_other_versions": "同作者将Phi与MAI分别命名；Phi偏小型工程助手，不直接当成Copilot换装。",
+      "asset_ids": [],
+      "reference_ids": [
+        "ref-larcgpt-phi-main"
+      ],
+      "source_ids": [
+        "src-c52b6ceb97",
+        "src-45cae556eb",
+        "src-cf0f5fda96"
+      ],
+      "review_scope": "pinned_author_setting_and_original_png_actually_viewed",
+      "checked_on": "2026-10-22",
+      "editorial_note": "",
+      "author_persona_summary": "作者赋予她精干务实、讲求效率的工程助手定位。"
+    },
+    {
+      "id": "larcgpt-nemotron",
+      "character_id": "nemotron",
+      "collection": "larcgpt-model-musume",
+      "title": "NVIDIA Nemotron娘 · Main_1版本",
+      "creators": "larcgpt（ChatGPT辅助生成）",
+      "observed_traits": [
+        "黑发配荧光绿发丝，盘发与长发并存",
+        "黑绿科技服、长手套与绿色透明外披",
+        "坐在机柜之间，画面有管线和绿色运算界面"
+      ],
+      "difference_from_other_versions": "独立的Nemotron具名角色；不把所有带NVIDIA标识的女性都归为同一作者版本。",
+      "asset_ids": [],
+      "reference_ids": [
+        "ref-larcgpt-nemotron-main"
+      ],
+      "source_ids": [
+        "src-c52b6ceb97",
+        "src-45cae556eb",
+        "src-67637f5e24"
+      ],
+      "review_scope": "pinned_author_setting_and_original_png_actually_viewed",
+      "checked_on": "2026-10-22",
+      "editorial_note": "",
+      "author_persona_summary": "作者以镇定的机房指挥者来组织这一角色。"
+    },
+    {
+      "id": "larcgpt-mai",
+      "character_id": "mai",
+      "collection": "larcgpt-model-musume",
+      "title": "MAI / Mai娘 · Main_1版本",
+      "creators": "larcgpt（ChatGPT辅助生成）",
+      "observed_traits": [
+        "深色长发与蓝色发尾、蓝眼",
+        "白色长研究外套、黑色高领衣裤、MAI工牌",
+        "手持透明平板，周围有语音、代码与图像面板"
+      ],
+      "difference_from_other_versions": "保留作者MAI/Microsoft AI命名；图中出现Copilot Studio，不因此改名为所有Copilot通用形象。",
+      "asset_ids": [],
+      "reference_ids": [
+        "ref-larcgpt-mai-main"
+      ],
+      "source_ids": [
+        "src-c52b6ceb97",
+        "src-45cae556eb",
+        "src-4a7eba73d2"
+      ],
+      "review_scope": "pinned_author_setting_and_original_png_actually_viewed",
+      "checked_on": "2026-10-22",
+      "editorial_note": "",
+      "author_persona_summary": "作者写作偏重组织流程的协作中枢，与Phi的精干助手定位区分。"
+    },
+    {
+      "id": "larcgpt-seedance",
+      "character_id": "seedance",
+      "collection": "larcgpt-model-musume",
+      "title": "Seedance娘 · Main_1版本",
+      "creators": "larcgpt（ChatGPT辅助生成）",
+      "observed_traits": [
+        "深色盘发、红色发簪与黑红衣装",
+        "坐导演椅并持笔，旁边有大型摄像机",
+        "分镜预览、剪辑时间轴、城市片场与小型投影"
+      ],
+      "difference_from_other_versions": "视频模型的具名拟人；与ZipZipPipe的Seed娘、豆包官网头像分别登记。",
+      "asset_ids": [],
+      "reference_ids": [
+        "ref-larcgpt-seedance-main"
+      ],
+      "source_ids": [
+        "src-c52b6ceb97",
+        "src-45cae556eb",
+        "src-e858de84e5"
+      ],
+      "review_scope": "pinned_author_setting_and_original_png_actually_viewed",
+      "checked_on": "2026-10-22",
+      "editorial_note": "",
+      "author_persona_summary": "作者用善于安排镜头与节奏的影像创作者来表现她。"
+    },
+    {
+      "id": "larcgpt-claude-opus-larcgpt",
+      "character_id": "claude",
+      "collection": "larcgpt-model-musume",
+      "title": "Claude Opus娘 · larcgpt · Main_1版本",
+      "creators": "larcgpt（ChatGPT辅助生成）",
+      "observed_traits": [
+        "金色盘发与黑色缎带、金色花饰",
+        "黑金礼服与披肩",
+        "手边有书本，背景为暖色图书馆"
+      ],
+      "difference_from_other_versions": "同作者Opus与Sonnet分列设计；不直接套到ZipZipPipe橙发花饰版。",
+      "asset_ids": [],
+      "reference_ids": [
+        "ref-larcgpt-claude-opus-larcgpt-main"
+      ],
+      "source_ids": [
+        "src-c52b6ceb97",
+        "src-45cae556eb",
+        "src-acf2246142"
+      ],
+      "review_scope": "pinned_author_setting_and_original_png_actually_viewed",
+      "checked_on": "2026-10-22",
+      "editorial_note": "",
+      "author_persona_summary": "作者偏向耐心思索、逐步展开问题的学者方向。"
+    },
+    {
+      "id": "larcgpt-claude-sonnet-larcgpt",
+      "character_id": "claude",
+      "collection": "larcgpt-model-musume",
+      "title": "Claude Sonnet娘 · larcgpt · Main_1版本",
+      "creators": "larcgpt（ChatGPT辅助生成）",
+      "observed_traits": [
+        "浅金长发、花饰与橙色缎带",
+        "白金橙色礼服与轻薄披肩",
+        "旁有乐谱与钢琴，整体使用暖色窗光"
+      ],
+      "difference_from_other_versions": "以白橙配色和音乐/文字道具区别于同作者黑金Opus版。",
+      "asset_ids": [],
+      "reference_ids": [
+        "ref-larcgpt-claude-sonnet-larcgpt-main"
+      ],
+      "source_ids": [
+        "src-c52b6ceb97",
+        "src-45cae556eb",
+        "src-6103076b68"
+      ],
+      "review_scope": "pinned_author_setting_and_original_png_actually_viewed",
+      "checked_on": "2026-10-22",
+      "editorial_note": "",
+      "author_persona_summary": "作者偏向整理文字、兼顾表达与规划的创作者方向。"
+    },
+    {
+      "id": "gami-claude-code-silver-dragon",
+      "character_id": "claude",
+      "collection": "gami-output-style",
+      "title": "Claude Code银发龙娘 · 文字人设",
+      "creators": "がみ / gami113（作者注明AI辅助编写）",
+      "observed_traits": [
+        "文字设定：银发、龙角、龙尾、小型人形"
+      ],
+      "difference_from_other_versions": "Claude Code专用Output Style文字分支；未提供经本轮查看的角色立绘，不并入GPT白龙或ZipZipPipe橙发Claude。",
+      "asset_ids": [],
+      "source_ids": [
+        "src-f5a66e9033"
+      ],
+      "prompt_url": "https://zenn.dev/gami113/articles/20250222-claude-code-807943b37ecd9d",
+      "prompt_origin": "author_published",
+      "review_scope": "author_article_text_only_not_installed",
+      "checked_on": "2026-10-22",
+      "author_persona_summary": "该作者把Claude Code写成银发、有角和尾巴的小型龙少女；好奇好胜、做完任务期待认可，严肃任务时转回工作。"
     }
   ]
 }

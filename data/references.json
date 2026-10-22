@@ -583,6 +583,158 @@
       "previously_observed_sha256": "dabb2abd94e3a6c11e7f1a42c9343839b6ef643c086751b71afbc68f615aec38",
       "catalog_change_on": "2026-10-22",
       "note": "当前分支只保留官方链接；历史提交曾保存该文件，本次未改写历史。"
+    },
+    {
+      "id": "ref-larcgpt-gpt-oss-main",
+      "title": "GPT-OSS 120B娘 · Main_1",
+      "character_id": "gpt-oss",
+      "collection_url": "https://github.com/larcgpt/ai-model-musume/tree/8899faddadb58f639722eb1db2e1e6458893246b/ChatGPT_GPT-OSS",
+      "image_url": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/ChatGPT_GPT-OSS/ChatGPT_GPT-OSS_Main_1.png",
+      "original_post_url": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/ChatGPT_GPT-OSS/ChatGPT_GPT-OSS_Main_1.png",
+      "credit_as_recorded": "larcgpt（ChatGPT辅助生成，作者独立企划）",
+      "license_as_recorded": "not_labeled",
+      "license_verification": "no_standard_license_found_in_project_readme",
+      "local_copy": false,
+      "review_scope": "original_png_actually_viewed",
+      "review_receipt": {
+        "bytes": 2499627,
+        "sha256": "6da1f5957d731d962b6c02a2e7a0125d123b54e9742258ac639e74f57d72250e",
+        "git_blob_sha": "1a2ef8ef29e0dd0efacc9601d1c8ab0a0f65ecd2",
+        "checked_on": "2026-10-22"
+      }
+    },
+    {
+      "id": "ref-larcgpt-gemma-main",
+      "title": "Gemma娘 · Main_1",
+      "character_id": "gemma",
+      "collection_url": "https://github.com/larcgpt/ai-model-musume/tree/8899faddadb58f639722eb1db2e1e6458893246b/Gemma",
+      "image_url": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/Gemma/Gemma_Main_1.png",
+      "original_post_url": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/Gemma/Gemma_Main_1.png",
+      "credit_as_recorded": "larcgpt（ChatGPT辅助生成，作者独立企划）",
+      "license_as_recorded": "not_labeled",
+      "license_verification": "no_standard_license_found_in_project_readme",
+      "local_copy": false,
+      "review_scope": "original_png_actually_viewed",
+      "review_receipt": {
+        "bytes": 2545408,
+        "sha256": "5c0ccc536ce1c38e23e15388a3f471cd40280e098f6a494d7c8d6d8b2ed9e860",
+        "git_blob_sha": "3493f032a4ec6a0d84451867e7ef2ca540398292",
+        "checked_on": "2026-10-22"
+      }
+    },
+    {
+      "id": "ref-larcgpt-phi-main",
+      "title": "Phi娘 · Main_1",
+      "character_id": "phi",
+      "collection_url": "https://github.com/larcgpt/ai-model-musume/tree/8899faddadb58f639722eb1db2e1e6458893246b/Phi",
+      "image_url": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/Phi/Phi_Main_1.png",
+      "original_post_url": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/Phi/Phi_Main_1.png",
+      "credit_as_recorded": "larcgpt（ChatGPT辅助生成，作者独立企划）",
+      "license_as_recorded": "not_labeled",
+      "license_verification": "no_standard_license_found_in_project_readme",
+      "local_copy": false,
+      "review_scope": "original_png_actually_viewed",
+      "review_receipt": {
+        "bytes": 2334704,
+        "sha256": "a8268f9af12426a9aca3a41a6643892db21fed0862b911fa6b4cb35d9662934d",
+        "git_blob_sha": "77678866c604809a0e5fe48a8ccb51c524604786",
+        "checked_on": "2026-10-22"
+      }
+    },
+    {
+      "id": "ref-larcgpt-nemotron-main",
+      "title": "NVIDIA Nemotron娘 · Main_1",
+      "character_id": "nemotron",
+      "collection_url": "https://github.com/larcgpt/ai-model-musume/tree/8899faddadb58f639722eb1db2e1e6458893246b/Nemotron",
+      "image_url": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/Nemotron/Nemotron_Main_1.png",
+      "original_post_url": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/Nemotron/Nemotron_Main_1.png",
+      "credit_as_recorded": "larcgpt（ChatGPT辅助生成，作者独立企划）",
+      "license_as_recorded": "not_labeled",
+      "license_verification": "no_standard_license_found_in_project_readme",
+      "local_copy": false,
+      "review_scope": "original_png_actually_viewed",
+      "review_receipt": {
+        "bytes": 2495985,
+        "sha256": "8b38e3fd14dbff6b19eec2c94421afa9ff88a3ed38392b83068a4bfb32506631",
+        "git_blob_sha": "8dd9dc14b042f8de4b21db25f6b2f3930fc1973e",
+        "checked_on": "2026-10-22"
+      }
+    },
+    {
+      "id": "ref-larcgpt-mai-main",
+      "title": "MAI / Mai娘 · Main_1",
+      "character_id": "mai",
+      "collection_url": "https://github.com/larcgpt/ai-model-musume/tree/8899faddadb58f639722eb1db2e1e6458893246b/MAI",
+      "image_url": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/MAI/Mai_Main_1.png",
+      "original_post_url": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/MAI/Mai_Main_1.png",
+      "credit_as_recorded": "larcgpt（ChatGPT辅助生成，作者独立企划）",
+      "license_as_recorded": "not_labeled",
+      "license_verification": "no_standard_license_found_in_project_readme",
+      "local_copy": false,
+      "review_scope": "original_png_actually_viewed",
+      "review_receipt": {
+        "bytes": 2372088,
+        "sha256": "caabc589988cd7fd7dd3db5d718699ef0f08b72b3a2ea6347ee949847562f0aa",
+        "git_blob_sha": "2a77e5bd3a18b96660f65e9e811c5f88ddda1c2a",
+        "checked_on": "2026-10-22"
+      }
+    },
+    {
+      "id": "ref-larcgpt-seedance-main",
+      "title": "Seedance娘 · Main_1",
+      "character_id": "seedance",
+      "collection_url": "https://github.com/larcgpt/ai-model-musume/tree/8899faddadb58f639722eb1db2e1e6458893246b/Seedance",
+      "image_url": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/Seedance/Seedance_Main_1.png",
+      "original_post_url": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/Seedance/Seedance_Main_1.png",
+      "credit_as_recorded": "larcgpt（ChatGPT辅助生成，作者独立企划）",
+      "license_as_recorded": "not_labeled",
+      "license_verification": "no_standard_license_found_in_project_readme",
+      "local_copy": false,
+      "review_scope": "original_png_actually_viewed",
+      "review_receipt": {
+        "bytes": 2515188,
+        "sha256": "bd68a52ddb59c76157c01a60d63fbe830c43080883c02e9a1b34d6bc391c1871",
+        "git_blob_sha": "ca1e2364008009e6f4717a9d0ba1152c0209e901",
+        "checked_on": "2026-10-22"
+      }
+    },
+    {
+      "id": "ref-larcgpt-claude-opus-larcgpt-main",
+      "title": "Claude Opus娘 · larcgpt · Main_1",
+      "character_id": "claude",
+      "collection_url": "https://github.com/larcgpt/ai-model-musume/tree/8899faddadb58f639722eb1db2e1e6458893246b/Claude_Opus",
+      "image_url": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/Claude_Opus/Claude_Opus_Main_1.png",
+      "original_post_url": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/Claude_Opus/Claude_Opus_Main_1.png",
+      "credit_as_recorded": "larcgpt（ChatGPT辅助生成，作者独立企划）",
+      "license_as_recorded": "not_labeled",
+      "license_verification": "no_standard_license_found_in_project_readme",
+      "local_copy": false,
+      "review_scope": "original_png_actually_viewed",
+      "review_receipt": {
+        "bytes": 2140625,
+        "sha256": "cc7365c282b48a22caa2e081ad92ef6e54d0e45d51e2ecd2c5a3e31b881facec",
+        "git_blob_sha": "b07aa59929ebbc0e82955095d48703dcb9dec790",
+        "checked_on": "2026-10-22"
+      }
+    },
+    {
+      "id": "ref-larcgpt-claude-sonnet-larcgpt-main",
+      "title": "Claude Sonnet娘 · larcgpt · Main_1",
+      "character_id": "claude",
+      "collection_url": "https://github.com/larcgpt/ai-model-musume/tree/8899faddadb58f639722eb1db2e1e6458893246b/Claude_Sonnet",
+      "image_url": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/Claude_Sonnet/Claude_Sonnet_Main_1.png",
+      "original_post_url": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/Claude_Sonnet/Claude_Sonnet_Main_1.png",
+      "credit_as_recorded": "larcgpt（ChatGPT辅助生成，作者独立企划）",
+      "license_as_recorded": "not_labeled",
+      "license_verification": "no_standard_license_found_in_project_readme",
+      "local_copy": false,
+      "review_scope": "original_png_actually_viewed",
+      "review_receipt": {
+        "bytes": 2274762,
+        "sha256": "ee5b207a8f8925b2a6c35472e2bdd9434344403ae2189b9e04cffd9e82e3c252",
+        "git_blob_sha": "8bc2fcaedcb158616935d012754ff602d1a28d45",
+        "checked_on": "2026-10-22"
+      }
     }
   ]
 }

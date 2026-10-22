@@ -105,6 +105,16 @@ def outputs():
         f"现有 {coverage['production_kits']} 组素材关联包；"
         f"实际下载目录为 {coverage['ready_material_packages']} 组，二者口径不同。")
     result['docs/07-gaps-and-roadmap.md'] = block((ROOT / 'docs/07-gaps-and-roadmap.md').read_text(encoding='utf-8'), 'gap-stats', gap_stats)
+    persona_stats = (
+        f"当前共 **{coverage['persona_profiles']} 份人设资料**："
+        f"{coverage['editorial_persona_profiles']} 份本库原创工作草案、"
+        f"{coverage['source_summary_persona_profiles']} 份作者原设摘要；"
+        f"**{coverage['original_persona_dialogues']} 句同题原创对白**。"
+        f"{coverage['written_persona_branch_entities']} 个条目有作者文字分支，"
+        f"{coverage['persona_official_context_entities']} 个条目接入产品资料语境。"
+        "来源摘要不强制增写原创台词；这些证据不等于全社区公认性格。")
+    result['encyclopedia/personas/README.md'] = block(
+        (ROOT / 'encyclopedia/personas/README.md').read_text(encoding='utf-8'), 'persona-stats', persona_stats)
     status_names = {'local_assets': '本地图片', 'profile_and_references': '档案与外链',
                     'visual_lead': '作品线索', 'external_work_lead': '作品线索', 'wanted': '待补'}
     index = ['# 角色与作者版本索引', '', '[看图与快速入口](../README.md) · [社区印象](../encyclopedia/personas/community-impressions.md) · [版本比较](../docs/10-variant-guide.md)', '',
@@ -126,8 +136,12 @@ def outputs():
         'ready_material_packages': '实际下载素材目录', 'production_kits': '素材关联包',
         'creator_records': '贡献者/作者记录', 'community_impression_records': '社区印象记录',
         'community_impression_characters': '社区印象涉及角色', 'community_pending_leads': '社区印象待核线索',
-        'public_comment_samples': '公开评论样本', 'persona_profiles': '原创工作人设档案',
+        'public_comment_samples': '公开评论样本', 'persona_profiles': '人设资料档案（含来源摘要）',
+        'editorial_persona_profiles': '本库原创工作人设', 'source_summary_persona_profiles': '作者原设摘要',
         'original_persona_dialogues': '原创对白', 'real_product_dialogue_samples': '真实产品对话采样',
+        'model_branch_collection_records': '模型与工具分支专题记录',
+        'model_branch_image_reviews': '本轮分支原图实际查看',
+        'model_branch_text_only_records': '本轮仅文字分支',
     }
     rows = [f'| {label} | {coverage[key]} |' for key, label in labels.items()]
     result['docs/collection-status.md'] = (

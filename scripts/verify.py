@@ -152,7 +152,8 @@ for filename in ['meme-encyclopedia.json', 'performances.json', 'actions-props.j
                  'relationships.json', 'production-kits.json', 'creators.json',
                  'design-history.json', 'cross-media.json', 'audio-observations.json',
                  'video-observations.json', 'ready-packages.json',
-                 'audio-performances.json', 'material-checks.json', 'personas.json', 'community-impressions.json']:
+                 'audio-performances.json', 'material-checks.json', 'personas.json', 'community-impressions.json',
+                 'model-branches.json']:
     editorial_joins(read(filename), filename)
 for label, records in [('encyclopedia meme', encyclopedia_memes),
                        ('action', actions), ('relationship', relationships),
@@ -196,9 +197,16 @@ personas = read('personas.json')['profiles']
 require({p['character_id'] for p in personas} == char_ids and len(personas) == len(chars), 'Persona coverage mismatch')
 for p in personas:
     require((ROOT / p['page_path']).is_file(), f'Missing persona page: {p["id"]}')
-    require(len(p['original_dialogues']) == 3, f'Missing persona dialogue: {p["id"]}')
+    require(p['original_status'] in ('editorial_draft', 'source_summary'), f'Unknown persona scope: {p["id"]}')
+    if p['original_status'] == 'source_summary':
+        require(bool(p['author_basis']) and p['original'] is None and not p['original_dialogues'],
+                f'Source-only persona needs author evidence and no invented original dialogue: {p["id"]}')
+    else:
+        require(len(p['original_dialogues']) == 3, f'Missing persona dialogue: {p["id"]}')
     require(all(d['origin'] == 'atlas_original' and d['model_output'] is False for d in p['original_dialogues']), f'Unclear dialogue origin: {p["id"]}')
 community = read('community-impressions.json')
+model_branches = read('model-branches.json')['records']
+unique(model_branches, 'model branch')
 checks = {
     'entity_records': len(chars),
     'entities_with_visual_evidence_or_leads': sum(c['status'] != 'wanted' for c in chars),
@@ -243,6 +251,11 @@ checks = {
     'community_impression_characters': len({r['character_id'] for r in community['records']}),
     'community_pending_leads': len(community['pending_leads']),
     'public_comment_samples': community['comment_sampling']['returned_comments'],
+    'editorial_persona_profiles': sum(p['original_status'] == 'editorial_draft' for p in personas),
+    'source_summary_persona_profiles': sum(p['original_status'] == 'source_summary' for p in personas),
+    'model_branch_collection_records': len(model_branches),
+    'model_branch_image_reviews': sum(p['actual_image_viewed'] for p in model_branches),
+    'model_branch_text_only_records': sum(not p['actual_image_viewed'] for p in model_branches),
 }
 for key, value in checks.items():
     require(coverage[key] == value, f'Coverage mismatch: {key}')

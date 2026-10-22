@@ -45,3 +45,9 @@
 | [Stable Diffusion](stable-diffusion/README.md) | image-model-family | 作品线索 | 紫黑色盘发、紫色眼睛、细框眼镜及紫金色发饰。；紫黑长裙与半透明披挂，手持细长画笔。；星云画布、画具、雕像与英伦建筑背景，周围有紫色和虹彩光带。 |
 | [FLUX](flux/README.md) | image-model-family | 待补 | 模型家族与厂商分开登记；未找到本次可核验角色档案。 |
 | [Copilot（校园项目，具体产品待区分）](copilot-school/README.md) | ambiguous-product-reference | 本地图片 | 青绿色高马尾；多色缎带环徽章；灰蓝校服裙 |
+| [GPT-OSS 120B娘](gpt-oss/README.md) | model-version-reference | 档案与外链 | 黑色短发与青绿发尾、绿色眼睛；灰白机能外套、黑色短装与工具包；悬浮方块、机械臂和青绿终端背景 |
+| [Gemma娘](gemma/README.md) | model-family | 档案与外链 | 银白色长发与蓝紫色眼睛；白色透明感衣装、棱镜和星形晶体发饰；浅色晶体空间与宝石几何图案 |
+| [Phi娘](phi/README.md) | model-family | 档案与外链 | 深蓝黑长发、侧边编发和四色方块发夹；蓝白研究外套、黑色连身装与工牌；托起小型方块核心，背景为蓝白研究室 |
+| [NVIDIA Nemotron娘](nemotron/README.md) | model-family | 档案与外链 | 黑发配荧光绿发丝，盘发与长发并存；黑绿科技服、长手套与绿色透明外披；坐在机柜之间，画面有管线和绿色运算界面 |
+| [MAI / Mai娘](mai/README.md) | model-family-reference | 档案与外链 | 深色长发与蓝色发尾、蓝眼；白色长研究外套、黑色高领衣裤、MAI工牌；手持透明平板，周围有语音、代码与图像面板 |
+| [Seedance娘](seedance/README.md) | video-model-family-reference | 档案与外链 | 深色盘发、红色发簪与黑红衣装；坐导演椅并持笔，旁边有大型摄像机；分镜预览、剪辑时间轴、城市片场与小型投影 |

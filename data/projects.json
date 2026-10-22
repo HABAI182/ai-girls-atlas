@@ -393,19 +393,35 @@
       "commit_sha": "8899faddadb58f639722eb1db2e1e6458893246b",
       "git_tree_sha": "0d32d8e5a606b153bf8a719127e813073175c282",
       "kind": "多模型原创角色卡",
-      "value_for_atlas": "22个作者设定方向和三语角色卡；本轮重点查看SD与MiMo。无标准根许可，图片只留外链。",
+      "value_for_atlas": "独立多模型企划；此前SD/MiMo资料沿用，本轮新增6个条目、查看8张具体PNG，并分别记录Opus/Sonnet造型和文字人设。",
       "rights_note": "按源码与美术各自说明；本次打包范围见可用素材包。",
       "character_ids": [
         "stable-diffusion",
-        "mimo"
+        "mimo",
+        "gpt-oss",
+        "gemma",
+        "phi",
+        "nemotron",
+        "mai",
+        "seedance",
+        "claude"
       ],
       "local_asset_ids": [],
       "source_ids": [
-        "src-c52b6ceb97"
+        "src-c52b6ceb97",
+        "src-45cae556eb",
+        "src-4904acbfc8",
+        "src-3a1db5ecfa",
+        "src-cf0f5fda96",
+        "src-67637f5e24",
+        "src-4a7eba73d2",
+        "src-e858de84e5",
+        "src-acf2246142",
+        "src-6103076b68"
       ],
       "review_scope": "pinned_repository_files_and_actual_model_or_image_checks",
       "runtime_tested": false,
-      "checked_on": "2026-10-21"
+      "checked_on": "2026-10-22"
     },
     {
       "id": "project-andersen216",

@@ -2880,6 +2880,78 @@
       "checked_on": "2026-10-21",
       "evidence_level": "public_video_comments_api",
       "note": "匿名公开接口本次返回3条评论；不是全部评论扫描。评论原文仅保存在本地研究缓存，公开页采用短摘录或转述。"
+    },
+    {
+      "id": "src-4904acbfc8",
+      "url": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/ChatGPT_GPT-OSS/ChatGPT_GPT-OSS_Main_1.png",
+      "title": "GPT-OSS 120B娘 · 实际查看Main_1原图",
+      "checked_on": "2026-10-22",
+      "evidence_level": "actually_viewed_original_image",
+      "note": "2026-10-22实际查看该PNG；图上外观与作者正文可选设定分别记录；未把角色卡能力文字当作真实产品规格。"
+    },
+    {
+      "id": "src-3a1db5ecfa",
+      "url": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/Gemma/Gemma_Main_1.png",
+      "title": "Gemma娘 · 实际查看Main_1原图",
+      "checked_on": "2026-10-22",
+      "evidence_level": "actually_viewed_original_image",
+      "note": "2026-10-22实际查看该PNG；图上外观与作者正文可选设定分别记录；未把角色卡能力文字当作真实产品规格。"
+    },
+    {
+      "id": "src-cf0f5fda96",
+      "url": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/Phi/Phi_Main_1.png",
+      "title": "Phi娘 · 实际查看Main_1原图",
+      "checked_on": "2026-10-22",
+      "evidence_level": "actually_viewed_original_image",
+      "note": "2026-10-22实际查看该PNG；图上外观与作者正文可选设定分别记录；未把角色卡能力文字当作真实产品规格。"
+    },
+    {
+      "id": "src-67637f5e24",
+      "url": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/Nemotron/Nemotron_Main_1.png",
+      "title": "NVIDIA Nemotron娘 · 实际查看Main_1原图",
+      "checked_on": "2026-10-22",
+      "evidence_level": "actually_viewed_original_image",
+      "note": "2026-10-22实际查看该PNG；图上外观与作者正文可选设定分别记录；未把角色卡能力文字当作真实产品规格。"
+    },
+    {
+      "id": "src-4a7eba73d2",
+      "url": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/MAI/Mai_Main_1.png",
+      "title": "MAI / Mai娘 · 实际查看Main_1原图",
+      "checked_on": "2026-10-22",
+      "evidence_level": "actually_viewed_original_image",
+      "note": "2026-10-22实际查看该PNG；图上外观与作者正文可选设定分别记录；未把角色卡能力文字当作真实产品规格。"
+    },
+    {
+      "id": "src-e858de84e5",
+      "url": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/Seedance/Seedance_Main_1.png",
+      "title": "Seedance娘 · 实际查看Main_1原图",
+      "checked_on": "2026-10-22",
+      "evidence_level": "actually_viewed_original_image",
+      "note": "2026-10-22实际查看该PNG；图上外观与作者正文可选设定分别记录；未把角色卡能力文字当作真实产品规格。"
+    },
+    {
+      "id": "src-acf2246142",
+      "url": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/Claude_Opus/Claude_Opus_Main_1.png",
+      "title": "Claude Opus娘 · larcgpt · 实际查看Main_1原图",
+      "checked_on": "2026-10-22",
+      "evidence_level": "actually_viewed_original_image",
+      "note": "2026-10-22实际查看该PNG；图上外观与作者正文可选设定分别记录；未把角色卡能力文字当作真实产品规格。"
+    },
+    {
+      "id": "src-6103076b68",
+      "url": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/Claude_Sonnet/Claude_Sonnet_Main_1.png",
+      "title": "Claude Sonnet娘 · larcgpt · 实际查看Main_1原图",
+      "checked_on": "2026-10-22",
+      "evidence_level": "actually_viewed_original_image",
+      "note": "2026-10-22实际查看该PNG；图上外观与作者正文可选设定分别记录；未把角色卡能力文字当作真实产品规格。"
+    },
+    {
+      "id": "src-f5a66e9033",
+      "url": "https://zenn.dev/gami113/articles/20250222-claude-code-807943b37ecd9d",
+      "title": "がみ：Claude Code银发龙娘Output Style人设",
+      "checked_on": "2026-10-22",
+      "evidence_level": "author_published_persona_text",
+      "note": "读取2026-02-22作者文章及说明；作者注明设定由AI辅助编写。只提炼文字角色，不复制整份提示词、未实际安装配置。"
     }
   ]
 }

@@ -56,3 +56,12 @@ andersen-liuqing-whale-live2d,deepseek,Andersen216/dsh-whale-girl-live2d,氵六�
 7l-whale-live2d-source,deepseek,7l-ui/whalegirl-pet,7l-ui自动分层与绑定Live2D版,7l-ui（独立AI生成与分层/绑定）,蓝发女仆、双侧长发与鲸尾 | 15层PSD、CMO3及MOC3 | Idle、Blink、Nod、Shake四组动作,按模型作者、文件与动作分别建分支；不与水原镜或狐宫静模型混包。,,
 doubao-official-current-icon,doubao,official-doubao,官网当前头像,豆包 / 字节跳动等对应权利人,棕色偏分短发 | 黑色上衣领口 | 浅蓝圆形底与卡通头像,官网品牌头像；没有由此取得官方全身、服装全貌或三视图。,,
 zipzippipe-image2-black-dragon,image2,zipzippipe,GPT Image / Image 2 黑龙娘 · 立绘与三视图入口,ZipZipPipe（作者原帖及图库署名）,黑龙娘分支 | 立绘与三视图分别有外部来源入口,具体图像模型的独立拟人设计；与GPT白龙娘、Codex龙娘分别登记，不合并为任意换色差分。,,
+larcgpt-gpt-oss,gpt-oss,larcgpt-model-musume,GPT-OSS 120B娘 · Main_1版本,larcgpt（ChatGPT辅助生成）,黑色短发与青绿发尾、绿色眼睛 | 灰白机能外套、黑色短装与工具包 | 悬浮方块、机械臂和青绿终端背景,larcgpt的科幻工程角色，独立于ZipZipPipe的GPT白龙娘和Image 2黑龙娘。,,
+larcgpt-gemma,gemma,larcgpt-model-musume,Gemma娘 · Main_1版本,larcgpt（ChatGPT辅助生成）,银白色长发与蓝紫色眼睛 | 白色透明感衣装、棱镜和星形晶体发饰 | 浅色晶体空间与宝石几何图案,在同一作者企划中与Gemini分列；不继承其他作者Gemini的猫耳猫尾。,,
+larcgpt-phi,phi,larcgpt-model-musume,Phi娘 · Main_1版本,larcgpt（ChatGPT辅助生成）,深蓝黑长发、侧边编发和四色方块发夹 | 蓝白研究外套、黑色连身装与工牌 | 托起小型方块核心，背景为蓝白研究室,同作者将Phi与MAI分别命名；Phi偏小型工程助手，不直接当成Copilot换装。,,
+larcgpt-nemotron,nemotron,larcgpt-model-musume,NVIDIA Nemotron娘 · Main_1版本,larcgpt（ChatGPT辅助生成）,黑发配荧光绿发丝，盘发与长发并存 | 黑绿科技服、长手套与绿色透明外披 | 坐在机柜之间，画面有管线和绿色运算界面,独立的Nemotron具名角色；不把所有带NVIDIA标识的女性都归为同一作者版本。,,
+larcgpt-mai,mai,larcgpt-model-musume,MAI / Mai娘 · Main_1版本,larcgpt（ChatGPT辅助生成）,深色长发与蓝色发尾、蓝眼 | 白色长研究外套、黑色高领衣裤、MAI工牌 | 手持透明平板，周围有语音、代码与图像面板,保留作者MAI/Microsoft AI命名；图中出现Copilot Studio，不因此改名为所有Copilot通用形象。,,
+larcgpt-seedance,seedance,larcgpt-model-musume,Seedance娘 · Main_1版本,larcgpt（ChatGPT辅助生成）,深色盘发、红色发簪与黑红衣装 | 坐导演椅并持笔，旁边有大型摄像机 | 分镜预览、剪辑时间轴、城市片场与小型投影,视频模型的具名拟人；与ZipZipPipe的Seed娘、豆包官网头像分别登记。,,
+larcgpt-claude-opus-larcgpt,claude,larcgpt-model-musume,Claude Opus娘 · larcgpt · Main_1版本,larcgpt（ChatGPT辅助生成）,金色盘发与黑色缎带、金色花饰 | 黑金礼服与披肩 | 手边有书本，背景为暖色图书馆,同作者Opus与Sonnet分列设计；不直接套到ZipZipPipe橙发花饰版。,,
+larcgpt-claude-sonnet-larcgpt,claude,larcgpt-model-musume,Claude Sonnet娘 · larcgpt · Main_1版本,larcgpt（ChatGPT辅助生成）,浅金长发、花饰与橙色缎带 | 白金橙色礼服与轻薄披肩 | 旁有乐谱与钢琴，整体使用暖色窗光,以白橙配色和音乐/文字道具区别于同作者黑金Opus版。,,
+gami-claude-code-silver-dragon,claude,gami-output-style,Claude Code银发龙娘 · 文字人设,がみ / gami113（作者注明AI辅助编写）,文字设定：银发、龙角、龙尾、小型人形,Claude Code专用Output Style文字分支；未提供经本轮查看的角色立绘，不并入GPT白龙或ZipZipPipe橙发Claude。,,https://zenn.dev/gami113/articles/20250222-claude-code-807943b37ecd9d

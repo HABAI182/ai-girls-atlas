@@ -219,7 +219,10 @@
         "src-2f1b5b7594",
         "src-9b9a6a8a5d",
         "src-f7d330c3ae",
-        "src-5746a29c51"
+        "src-5746a29c51",
+        "src-acf2246142",
+        "src-6103076b68",
+        "src-f5a66e9033"
       ],
       "local_asset_ids": [
         "zipzippipe-pixiv-148186519-p02",
@@ -238,7 +241,10 @@
       "variant_ids": [
         "school-op-claude",
         "apprentice-claude",
-        "priority-zipzippipe-pixiv-150718881-p04-variant"
+        "priority-zipzippipe-pixiv-150718881-p04-variant",
+        "larcgpt-claude-opus-larcgpt",
+        "larcgpt-claude-sonnet-larcgpt",
+        "gami-claude-code-silver-dragon"
       ],
       "persona_profile_id": "persona-atlas-claude",
       "persona_profile_path": "encyclopedia/personas/claude.md",
@@ -1664,6 +1670,256 @@
       ],
       "persona_profile_id": "persona-atlas-copilot-school",
       "persona_profile_path": "encyclopedia/personas/copilot-school.md"
+    },
+    {
+      "id": "gpt-oss",
+      "name": "GPT-OSS 120B娘",
+      "entity_kind": "model-version-reference",
+      "status": "profile_and_references",
+      "design_family": "larcgpt-model-musume",
+      "creators": "larcgpt（ChatGPT辅助生成）",
+      "aliases": [
+        "GPT OSS",
+        "gpt-oss-120b",
+        "GPT-OSS娘"
+      ],
+      "observed_traits": [
+        "黑色短发与青绿发尾、绿色眼睛",
+        "灰白机能外套、黑色短装与工具包",
+        "悬浮方块、机械臂和青绿终端背景"
+      ],
+      "identity_rules": "larcgpt的科幻工程角色，独立于ZipZipPipe的GPT白龙娘和Image 2黑龙娘。",
+      "creative_options_original": "",
+      "sources": [
+        "src-c52b6ceb97",
+        "src-45cae556eb",
+        "src-4904acbfc8"
+      ],
+      "local_asset_ids": [],
+      "not_claimed": [
+        "官方统一形象",
+        "社区统一性格",
+        "角色卡中的能力文字已完成产品核验"
+      ],
+      "variant_ids": [
+        "larcgpt-gpt-oss"
+      ],
+      "reference_ids": [
+        "ref-larcgpt-gpt-oss-main"
+      ],
+      "related_character_ids": [
+        "gpt",
+        "image2"
+      ],
+      "persona_profile_id": "persona-atlas-gpt-oss",
+      "persona_profile_path": "encyclopedia/personas/gpt-oss.md"
+    },
+    {
+      "id": "gemma",
+      "name": "Gemma娘",
+      "entity_kind": "model-family",
+      "status": "profile_and_references",
+      "design_family": "larcgpt-model-musume",
+      "creators": "larcgpt（ChatGPT辅助生成）",
+      "aliases": [
+        "Google Gemma",
+        "Gemma娘化"
+      ],
+      "observed_traits": [
+        "银白色长发与蓝紫色眼睛",
+        "白色透明感衣装、棱镜和星形晶体发饰",
+        "浅色晶体空间与宝石几何图案"
+      ],
+      "identity_rules": "在同一作者企划中与Gemini分列；不继承其他作者Gemini的猫耳猫尾。",
+      "creative_options_original": "",
+      "sources": [
+        "src-c52b6ceb97",
+        "src-45cae556eb",
+        "src-3a1db5ecfa"
+      ],
+      "local_asset_ids": [],
+      "not_claimed": [
+        "官方统一形象",
+        "社区统一性格",
+        "角色卡中的能力文字已完成产品核验"
+      ],
+      "variant_ids": [
+        "larcgpt-gemma"
+      ],
+      "reference_ids": [
+        "ref-larcgpt-gemma-main"
+      ],
+      "related_character_ids": [
+        "gemini"
+      ],
+      "persona_profile_id": "persona-atlas-gemma",
+      "persona_profile_path": "encyclopedia/personas/gemma.md"
+    },
+    {
+      "id": "phi",
+      "name": "Phi娘",
+      "entity_kind": "model-family",
+      "status": "profile_and_references",
+      "design_family": "larcgpt-model-musume",
+      "creators": "larcgpt（ChatGPT辅助生成）",
+      "aliases": [
+        "Microsoft Phi",
+        "Phi模型娘"
+      ],
+      "observed_traits": [
+        "深蓝黑长发、侧边编发和四色方块发夹",
+        "蓝白研究外套、黑色连身装与工牌",
+        "托起小型方块核心，背景为蓝白研究室"
+      ],
+      "identity_rules": "同作者将Phi与MAI分别命名；Phi偏小型工程助手，不直接当成Copilot换装。",
+      "creative_options_original": "",
+      "sources": [
+        "src-c52b6ceb97",
+        "src-45cae556eb",
+        "src-cf0f5fda96"
+      ],
+      "local_asset_ids": [],
+      "not_claimed": [
+        "官方统一形象",
+        "社区统一性格",
+        "角色卡中的能力文字已完成产品核验"
+      ],
+      "variant_ids": [
+        "larcgpt-phi"
+      ],
+      "reference_ids": [
+        "ref-larcgpt-phi-main"
+      ],
+      "related_character_ids": [
+        "mai",
+        "copilot"
+      ],
+      "persona_profile_id": "persona-atlas-phi",
+      "persona_profile_path": "encyclopedia/personas/phi.md"
+    },
+    {
+      "id": "nemotron",
+      "name": "NVIDIA Nemotron娘",
+      "entity_kind": "model-family",
+      "status": "profile_and_references",
+      "design_family": "larcgpt-model-musume",
+      "creators": "larcgpt（ChatGPT辅助生成）",
+      "aliases": [
+        "Nemotron",
+        "英伟达模型娘"
+      ],
+      "observed_traits": [
+        "黑发配荧光绿发丝，盘发与长发并存",
+        "黑绿科技服、长手套与绿色透明外披",
+        "坐在机柜之间，画面有管线和绿色运算界面"
+      ],
+      "identity_rules": "独立的Nemotron具名角色；不把所有带NVIDIA标识的女性都归为同一作者版本。",
+      "creative_options_original": "",
+      "sources": [
+        "src-c52b6ceb97",
+        "src-45cae556eb",
+        "src-67637f5e24"
+      ],
+      "local_asset_ids": [],
+      "not_claimed": [
+        "官方统一形象",
+        "社区统一性格",
+        "角色卡中的能力文字已完成产品核验"
+      ],
+      "variant_ids": [
+        "larcgpt-nemotron"
+      ],
+      "reference_ids": [
+        "ref-larcgpt-nemotron-main"
+      ],
+      "related_character_ids": [],
+      "persona_profile_id": "persona-atlas-nemotron",
+      "persona_profile_path": "encyclopedia/personas/nemotron.md"
+    },
+    {
+      "id": "mai",
+      "name": "MAI / Mai娘",
+      "entity_kind": "model-family-reference",
+      "status": "profile_and_references",
+      "design_family": "larcgpt-model-musume",
+      "creators": "larcgpt（ChatGPT辅助生成）",
+      "aliases": [
+        "Microsoft AI娘",
+        "Mai娘",
+        "MAI娘"
+      ],
+      "observed_traits": [
+        "深色长发与蓝色发尾、蓝眼",
+        "白色长研究外套、黑色高领衣裤、MAI工牌",
+        "手持透明平板，周围有语音、代码与图像面板"
+      ],
+      "identity_rules": "保留作者MAI/Microsoft AI命名；图中出现Copilot Studio，不因此改名为所有Copilot通用形象。",
+      "creative_options_original": "",
+      "sources": [
+        "src-c52b6ceb97",
+        "src-45cae556eb",
+        "src-4a7eba73d2"
+      ],
+      "local_asset_ids": [],
+      "not_claimed": [
+        "官方统一形象",
+        "社区统一性格",
+        "角色卡中的能力文字已完成产品核验"
+      ],
+      "variant_ids": [
+        "larcgpt-mai"
+      ],
+      "reference_ids": [
+        "ref-larcgpt-mai-main"
+      ],
+      "related_character_ids": [
+        "phi",
+        "copilot"
+      ],
+      "persona_profile_id": "persona-atlas-mai",
+      "persona_profile_path": "encyclopedia/personas/mai.md"
+    },
+    {
+      "id": "seedance",
+      "name": "Seedance娘",
+      "entity_kind": "video-model-family-reference",
+      "status": "profile_and_references",
+      "design_family": "larcgpt-model-musume",
+      "creators": "larcgpt（ChatGPT辅助生成）",
+      "aliases": [
+        "Seedance",
+        "Seedance视频模型娘"
+      ],
+      "observed_traits": [
+        "深色盘发、红色发簪与黑红衣装",
+        "坐导演椅并持笔，旁边有大型摄像机",
+        "分镜预览、剪辑时间轴、城市片场与小型投影"
+      ],
+      "identity_rules": "视频模型的具名拟人；与ZipZipPipe的Seed娘、豆包官网头像分别登记。",
+      "creative_options_original": "",
+      "sources": [
+        "src-c52b6ceb97",
+        "src-45cae556eb",
+        "src-e858de84e5"
+      ],
+      "local_asset_ids": [],
+      "not_claimed": [
+        "官方统一形象",
+        "社区统一性格",
+        "角色卡中的能力文字已完成产品核验"
+      ],
+      "variant_ids": [
+        "larcgpt-seedance"
+      ],
+      "reference_ids": [
+        "ref-larcgpt-seedance-main"
+      ],
+      "related_character_ids": [
+        "seed",
+        "doubao"
+      ],
+      "persona_profile_id": "persona-atlas-seedance",
+      "persona_profile_path": "encyclopedia/personas/seedance.md"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "checked_on": "2026-10-21",
+  "checked_on": "2026-10-22",
   "setting_id": "atlas-ensemble-v1",
-  "scope": "39条目的创作用工作人设；作者设定、可见演出、官方风格目标/功能语境分别列证据。",
+  "scope": "人设资料索引：作者设定摘要与本库原创工作草案分别标记；作者造型、社区印象和真实产品采样分开。",
   "dialogue_origin": "全部117句均为本库原创示范，不是模型实测、视频逐字稿或社区通用原设。",
   "scenes": [
     {
@@ -189,6 +189,12 @@
           "source_id": "src-45cae556eb",
           "scope": "AI Model Musume独立文字企划",
           "summary": "作者分别设置沉思学者Opus、创作秘书Sonnet和幻想叙事者Fable三条角色方向。"
+        },
+        {
+          "author": "がみ / gami113",
+          "source_id": "src-f5a66e9033",
+          "scope": "Claude Code Output Style文字分支",
+          "summary": "该作者把Claude Code写成银发、有角和尾巴的小型龙少女；好奇好胜、做完任务期待认可，严肃任务时转回工作。"
         }
       ],
       "product_basis": [
@@ -2076,6 +2082,168 @@
         }
       ],
       "evidence_gap": "尚无本轮统一提示、固定版本/模式的真实产品对话采样；原创示范不作为模型评测。"
+    },
+    {
+      "id": "persona-atlas-gpt-oss",
+      "character_id": "gpt-oss",
+      "name": "GPT-OSS 120B娘",
+      "setting_id": "larcgpt-model-musume-v1.1",
+      "page_path": "encyclopedia/personas/gpt-oss.md",
+      "original_status": "source_summary",
+      "author_persona_status": "author_setting_recorded",
+      "author_basis": [
+        {
+          "author": "larcgpt",
+          "source_id": "src-45cae556eb",
+          "scope": "AI Model Musume独立企划，限本作者版本",
+          "summary": "作者把她写成负责大型任务、偏沉着的模型核心守护者。"
+        }
+      ],
+      "product_basis": [],
+      "visual_observation": {
+        "source_id": "src-4904acbfc8",
+        "scope": "Main_1原图实际查看；不推导人格"
+      },
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "larcgpt的科幻工程角色，独立于ZipZipPipe的GPT白龙娘和Image 2黑龙娘。",
+      "original": null,
+      "original_dialogues": [],
+      "evidence_gap": "尚未补独立社区印象样本和真实产品对话；本条仅摘要作者人设，不另造原创台词。"
+    },
+    {
+      "id": "persona-atlas-gemma",
+      "character_id": "gemma",
+      "name": "Gemma娘",
+      "setting_id": "larcgpt-model-musume-v1.1",
+      "page_path": "encyclopedia/personas/gemma.md",
+      "original_status": "source_summary",
+      "author_persona_status": "author_setting_recorded",
+      "author_basis": [
+        {
+          "author": "larcgpt",
+          "source_id": "src-45cae556eb",
+          "scope": "AI Model Musume独立企划，限本作者版本",
+          "summary": "作者设定偏安静稳妥，使用研究助手与宝石鉴定的意象。"
+        }
+      ],
+      "product_basis": [],
+      "visual_observation": {
+        "source_id": "src-3a1db5ecfa",
+        "scope": "Main_1原图实际查看；不推导人格"
+      },
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "在同一作者企划中与Gemini分列；不继承其他作者Gemini的猫耳猫尾。",
+      "original": null,
+      "original_dialogues": [],
+      "evidence_gap": "尚未补独立社区印象样本和真实产品对话；本条仅摘要作者人设，不另造原创台词。"
+    },
+    {
+      "id": "persona-atlas-phi",
+      "character_id": "phi",
+      "name": "Phi娘",
+      "setting_id": "larcgpt-model-musume-v1.1",
+      "page_path": "encyclopedia/personas/phi.md",
+      "original_status": "source_summary",
+      "author_persona_status": "author_setting_recorded",
+      "author_basis": [
+        {
+          "author": "larcgpt",
+          "source_id": "src-45cae556eb",
+          "scope": "AI Model Musume独立企划，限本作者版本",
+          "summary": "作者赋予她精干务实、讲求效率的工程助手定位。"
+        }
+      ],
+      "product_basis": [],
+      "visual_observation": {
+        "source_id": "src-cf0f5fda96",
+        "scope": "Main_1原图实际查看；不推导人格"
+      },
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "同作者将Phi与MAI分别命名；Phi偏小型工程助手，不直接当成Copilot换装。",
+      "original": null,
+      "original_dialogues": [],
+      "evidence_gap": "尚未补独立社区印象样本和真实产品对话；本条仅摘要作者人设，不另造原创台词。"
+    },
+    {
+      "id": "persona-atlas-nemotron",
+      "character_id": "nemotron",
+      "name": "NVIDIA Nemotron娘",
+      "setting_id": "larcgpt-model-musume-v1.1",
+      "page_path": "encyclopedia/personas/nemotron.md",
+      "original_status": "source_summary",
+      "author_persona_status": "author_setting_recorded",
+      "author_basis": [
+        {
+          "author": "larcgpt",
+          "source_id": "src-45cae556eb",
+          "scope": "AI Model Musume独立企划，限本作者版本",
+          "summary": "作者以镇定的机房指挥者来组织这一角色。"
+        }
+      ],
+      "product_basis": [],
+      "visual_observation": {
+        "source_id": "src-67637f5e24",
+        "scope": "Main_1原图实际查看；不推导人格"
+      },
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "独立的Nemotron具名角色；不把所有带NVIDIA标识的女性都归为同一作者版本。",
+      "original": null,
+      "original_dialogues": [],
+      "evidence_gap": "尚未补独立社区印象样本和真实产品对话；本条仅摘要作者人设，不另造原创台词。"
+    },
+    {
+      "id": "persona-atlas-mai",
+      "character_id": "mai",
+      "name": "MAI / Mai娘",
+      "setting_id": "larcgpt-model-musume-v1.1",
+      "page_path": "encyclopedia/personas/mai.md",
+      "original_status": "source_summary",
+      "author_persona_status": "author_setting_recorded",
+      "author_basis": [
+        {
+          "author": "larcgpt",
+          "source_id": "src-45cae556eb",
+          "scope": "AI Model Musume独立企划，限本作者版本",
+          "summary": "作者写作偏重组织流程的协作中枢，与Phi的精干助手定位区分。"
+        }
+      ],
+      "product_basis": [],
+      "visual_observation": {
+        "source_id": "src-4a7eba73d2",
+        "scope": "Main_1原图实际查看；不推导人格"
+      },
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "保留作者MAI/Microsoft AI命名；图中出现Copilot Studio，不因此改名为所有Copilot通用形象。",
+      "original": null,
+      "original_dialogues": [],
+      "evidence_gap": "尚未补独立社区印象样本和真实产品对话；本条仅摘要作者人设，不另造原创台词。"
+    },
+    {
+      "id": "persona-atlas-seedance",
+      "character_id": "seedance",
+      "name": "Seedance娘",
+      "setting_id": "larcgpt-model-musume-v1.1",
+      "page_path": "encyclopedia/personas/seedance.md",
+      "original_status": "source_summary",
+      "author_persona_status": "author_setting_recorded",
+      "author_basis": [
+        {
+          "author": "larcgpt",
+          "source_id": "src-45cae556eb",
+          "scope": "AI Model Musume独立企划，限本作者版本",
+          "summary": "作者用善于安排镜头与节奏的影像创作者来表现她。"
+        }
+      ],
+      "product_basis": [],
+      "visual_observation": {
+        "source_id": "src-e858de84e5",
+        "scope": "Main_1原图实际查看；不推导人格"
+      },
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "视频模型的具名拟人；与ZipZipPipe的Seed娘、豆包官网头像分别登记。",
+      "original": null,
+      "original_dialogues": [],
+      "evidence_gap": "尚未补独立社区印象样本和真实产品对话；本条仅摘要作者人设，不另造原创台词。"
     }
   ],
   "community_video_observations": [
