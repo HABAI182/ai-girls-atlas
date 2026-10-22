@@ -1,0 +1,26 @@
+name: Catalog checks
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  catalog:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
+        with:
+          python-version: '3.12'
+      - run: python -m pip install -r requirements-checks.txt
+      - name: Generated summaries and CSV exports
+        run: python scripts/generate_catalog.py --check
+      - name: Schemas, sources, paths and rights records
+        run: python scripts/check_catalog.py
+      - name: File digests, relationships and internal links
+        run: python scripts/verify.py
