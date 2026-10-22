@@ -18,7 +18,9 @@
 - 龙角、龙翼与长尾
 - 浅色礼服
 
-早期原图带白紫色调，聚合页概括为白金礼服；以所选文件为准。Image 2和Codex为分支，不能直接互换服装。
+早期原图带白紫色调，聚合页概括为白金礼服；以所选文件为准。
+
+相关独立分支：[GPT Image / Image 2黑龙娘](../image2/README.md)对应图像模型，[Codex龙娘](../codex/README.md)对应编程工具。分别建档、保留作者版本，不直接互换服装或共用人设。
 
 [![ChatGPT / GPT](../../assets/previews/gpt.jpg)](../../assets/zipzippipe/gpt/normal-zipzippipe-pixiv-148186519-p03.jpg)
 

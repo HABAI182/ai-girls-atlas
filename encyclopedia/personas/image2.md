@@ -1,4 +1,4 @@
-# Image 2 黑龙娘：人设、说话与做事风格
+# GPT Image / Image 2 黑龙娘：人设、说话与做事风格
 
 [返回人设栏目](README.md) · [形象与作者版本](../../characters/image2/README.md) · [同题对白比较](dialogue-comparison.md)
 

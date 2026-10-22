@@ -197,7 +197,14 @@
       "credit_as_recorded": "Image 2 黑龙娘 ZipZipPipe",
       "license_as_recorded": "not_labeled",
       "license_verification": "aggregator_claim_only",
-      "local_copy": false
+      "local_copy": false,
+      "character_id": "image2",
+      "model_label_as_recorded": "Image 2",
+      "lookup_aliases": [
+        "GPT Image",
+        "GPT Image 2",
+        "黑龙娘"
+      ]
     },
     {
       "id": "ref-019",
@@ -296,7 +303,14 @@
       "credit_as_recorded": "Image 2 · 黑龙娘三视图 ZipZipPipe",
       "license_as_recorded": "not_labeled",
       "license_verification": "aggregator_claim_only",
-      "local_copy": false
+      "local_copy": false,
+      "character_id": "image2",
+      "model_label_as_recorded": "Image 2",
+      "lookup_aliases": [
+        "GPT Image",
+        "GPT Image 2",
+        "黑龙娘"
+      ]
     },
     {
       "id": "ref-028",

@@ -1331,6 +1331,31 @@
       "review_scope": "official_html_resource_and_downloaded_image_visually_reviewed",
       "external_reference_id": "ref-doubao-official-icon",
       "editorial_note": "2026-10-22改为官方外链；未确认开放镜像许可，保留原识别与来源观察。"
+    },
+    {
+      "id": "zipzippipe-image2-black-dragon",
+      "character_id": "image2",
+      "collection": "zipzippipe",
+      "title": "GPT Image / Image 2 黑龙娘 · 立绘与三视图入口",
+      "creators": "ZipZipPipe（作者原帖及图库署名）",
+      "observed_traits": [
+        "黑龙娘分支",
+        "立绘与三视图分别有外部来源入口"
+      ],
+      "difference_from_other_versions": "具体图像模型的独立拟人设计；与GPT白龙娘、Codex龙娘分别登记，不合并为任意换色差分。",
+      "asset_ids": [],
+      "reference_ids": [
+        "ref-018",
+        "ref-027"
+      ],
+      "source_ids": [
+        "src-f54f4048e7",
+        "src-cae0d1341e",
+        "src-5c287e5294"
+      ],
+      "review_scope": "author_post_text_and_gallery_labels_rechecked_no_new_image_review",
+      "checked_on": "2026-10-22",
+      "editorial_note": "复用既有外部参考，不重复下载或增加角色数。原帖使用Image 2，GPT Image作为检索别名；三视图原帖本次读取受限，沿用已有入口。"
     }
   ]
 }

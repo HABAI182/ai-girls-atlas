@@ -134,7 +134,7 @@
         "龙角、龙翼与长尾",
         "浅色礼服"
       ],
-      "identity_rules": "早期原图带白紫色调，聚合页概括为白金礼服；以所选文件为准。Image 2和Codex为分支，不能直接互换服装。",
+      "identity_rules": "早期原图带白紫色调，聚合页概括为白金礼服；以所选文件为准。GPT Image / Image 2黑龙娘与Codex龙娘分别建档，不能直接互换服装。",
       "creative_options_original": "可以用递需求、织网或整理模块表现协作；大小姐和富有只适用于特定作品的人设。",
       "sources": [
         "src-f534aa20fd",
@@ -1004,12 +1004,16 @@
     },
     {
       "id": "image2",
-      "name": "Image 2 黑龙娘",
+      "name": "GPT Image / Image 2 黑龙娘",
       "entity_kind": "image-model-reference",
       "status": "visual_lead",
-      "design_family": "multiple_or_pending",
+      "design_family": "zipzippipe",
       "creators": "ZipZipPipe",
       "aliases": [
+        "GPT Image",
+        "GPT Image 2",
+        "GPT图像模型娘",
+        "Image 2",
         "Image 2娘",
         "黑龙娘"
       ],
@@ -1017,10 +1021,12 @@
         "黑龙娘分支",
         "已有三视图入口"
       ],
-      "identity_rules": "这是作品采用的名称和版本；图鉴记录历史设计，不据此断言当前服务的产品规格或可用性。",
+      "identity_rules": "GPT图像模型的黑龙娘分支；原作者发布文字称Image 2，GPT Image作为检索别名。与ChatGPT/GPT白龙娘、Codex龙娘分别编目，不把同厂商、同龙系当成同一角色换色，也不把本造型泛化到所有图像模型版本。",
       "creative_options_original": "可在同一龙娘体系下比较配色和服装，但不能把黑白龙娘称作一张图的随机差分。",
       "sources": [
-        "src-cae0d1341e"
+        "src-f54f4048e7",
+        "src-cae0d1341e",
+        "src-5c287e5294"
       ],
       "local_asset_ids": [],
       "not_claimed": [
@@ -1028,9 +1034,20 @@
         "当前能力排名",
         "所有版本均开放商用"
       ],
-      "variant_ids": [],
+      "variant_ids": [
+        "zipzippipe-image2-black-dragon"
+      ],
       "persona_profile_id": "persona-atlas-image2",
-      "persona_profile_path": "encyclopedia/personas/image2.md"
+      "persona_profile_path": "encyclopedia/personas/image2.md",
+      "related_character_ids": [
+        "gpt",
+        "codex"
+      ],
+      "model_designation_as_published": "Image 2",
+      "reference_ids": [
+        "ref-018",
+        "ref-027"
+      ]
     },
     {
       "id": "novelai",

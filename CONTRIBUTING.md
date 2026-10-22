@@ -19,3 +19,9 @@ python scripts/verify.py
 ## 不会写代码也可以贡献
 
 打开[素材/来源投稿表单](https://github.com/HABAI182/ai-girls-atlas/issues/new?template=source.yml)或[更正表单](https://github.com/HABAI182/ai-girls-atlas/issues/new?template=correction.yml)，用网页填写即可。视频请附BV号、分P和时间点；声音另写是否有干音、配乐和具体分发入口。提交后由维护者整理入库。
+
+## 可以提交具体模型与分支形象
+
+不限于厂商或聊天产品：GPT Image / Image 2黑龙娘这样的图像模型、具体版本、编程助手和功能分支都欢迎收录。请同时写作者原帖中的称呼、常用检索别名、与已有角色的区别；同一图的别名关联原档案，独立作者造型分别列版本。例见[黑龙娘档案](characters/image2/README.md)和[收录范围](docs/02-character-system.md)。性格另附作者文字、作品或公开评论出处，不靠服装配色推导。
+
+JSON修改后的导出与检查步骤见[维护说明](docs/maintenance.md)。

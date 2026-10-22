@@ -26,7 +26,7 @@
 | [OpenCode](opencode/README.md) | coding-tool | 作品线索 | 黑色长发；机械感尖角；灰黑服装 |
 | [Zcode](zcode/README.md) | coding-tool | 作品线索 | 浅色长发；蒙眼元素；浅蓝白工程少女轮廓 |
 | [Codex 龙娘分支](codex/README.md) | coding-tool | 作品线索 | 龙娘分支；细节以作者发布的三视图为准 |
-| [Image 2 黑龙娘](image2/README.md) | image-model-reference | 作品线索 | 黑龙娘分支；已有三视图入口 |
+| [GPT Image / Image 2 黑龙娘](image2/README.md) | image-model-reference | 作品线索 | 黑龙娘分支；已有三视图入口 |
 | [NovelAI](novelai/README.md) | creative-product | 作品线索 | 本次仅确认生成式模型合照中的形象线索 |
 | [Midjourney](midjourney/README.md) | image-product | 作品线索 | 本次仅确认生成式模型合照中的形象线索 |
 | [Suno](suno/README.md) | music-product | 作品线索 | 本次仅确认生成式模型合照中的形象线索 |

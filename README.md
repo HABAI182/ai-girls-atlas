@@ -14,6 +14,8 @@
 
 还有 JAdpp 的六张独立角色立绘和八种鲸鱼娘表情，放在各角色页中。它们有自己的设计、署名与文件许可，不冒充上图早期原版。
 
+具体模型与工具也有独立档案：[GPT Image / Image 2黑龙娘](characters/image2/README.md) · [Codex龙娘](characters/codex/README.md)。
+
 ## 想找什么
 
 | 目标 | 入口 |

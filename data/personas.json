@@ -1179,7 +1179,7 @@
     {
       "id": "persona-atlas-image2",
       "character_id": "image2",
-      "name": "Image 2 黑龙娘",
+      "name": "GPT Image / Image 2 黑龙娘",
       "setting_id": "atlas-ensemble-v1",
       "page_path": "encyclopedia/personas/image2.md",
       "original_status": "editorial_draft",

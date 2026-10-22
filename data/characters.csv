@@ -1,6 +1,6 @@
 id,name,entity_kind,status,creators,observed_traits,identity_rules
 deepseek,DeepSeek / 深度求索,model-family,local_assets,上善无形（原角色）；ZipZipPipe（二次设计）,蓝色长发 | 鲸鱼鳍状耳饰与鲸尾 | 深蓝白女仆裙,鲸尾末端左右尾鳍属于一条尾巴；女仆装、宫廷侍女装、小肥鱼及DSH方案分别建版本。不能把所有蓝发鲸鱼图归成同一作者。
-gpt,ChatGPT / GPT,product-and-model-family,local_assets,ZipZipPipe,白色长发 | 龙角、龙翼与长尾 | 浅色礼服,早期原图带白紫色调，聚合页概括为白金礼服；以所选文件为准。Image 2和Codex为分支，不能直接互换服装。
+gpt,ChatGPT / GPT,product-and-model-family,local_assets,ZipZipPipe,白色长发 | 龙角、龙翼与长尾 | 浅色礼服,早期原图带白紫色调，聚合页概括为白金礼服；以所选文件为准。GPT Image / Image 2黑龙娘与Codex龙娘分别建档，不能直接互换服装。
 claude,Claude,model-family,local_assets,ZipZipPipe,橙色长发 | 花形发饰 | 米白橙黑层叠长裙与书本,花饰、书本和暖色裙装可组合识别；不要把后来的黑发版本或JAdpp立绘当成这个早期版本。
 gemini,Gemini,model-family,local_assets,ZipZipPipe,蓝紫渐变长发 | 猫耳猫尾 | 异色瞳与星形元素,猫耳轮廓与蓝紫色组合比单独的星标更有辨识度。OpenPet的彩虹发版本是另一套设计。
 grok,Grok,model-family,local_assets,ZipZipPipe,金发 | 黑红或黑色裙装 | 蝙蝠翼、尖角与斧形道具,原作者壁纸文案称友善的吸血鬼；不能把这套社区设计与产品伴侣Ani直接视为同一角色。
@@ -19,7 +19,7 @@ jev,JEV 裁判者,community-model-reference,profile_and_references,ZipZipPipe,�
 opencode,OpenCode,coding-tool,visual_lead,ZipZipPipe（资料署名）,黑色长发 | 机械感尖角 | 灰黑服装,用户重点视频把她作为编程工具拟人展示；不是独立基础模型。设计细节需继续回原帖核查。
 zcode,Zcode,coding-tool,visual_lead,具体设计署名待进一步核对,浅色长发 | 蒙眼元素 | 浅蓝白工程少女轮廓,在重点视频与档案站均找到线索；名字、所属品牌和具体作者应分别核验，不凭GLM相似元素推断。
 codex,Codex 龙娘分支,coding-tool,visual_lead,群友设计（具体作者待核）；ZipZipPipe发布,龙娘分支 | 细节以作者发布的三视图为准,原帖明确提到设计来自群友。不能把发布者自动当作唯一设计者，也不能从GPT龙娘直接推定颜色。
-image2,Image 2 黑龙娘,image-model-reference,visual_lead,ZipZipPipe,黑龙娘分支 | 已有三视图入口,这是作品采用的名称和版本；图鉴记录历史设计，不据此断言当前服务的产品规格或可用性。
+image2,GPT Image / Image 2 黑龙娘,image-model-reference,visual_lead,ZipZipPipe,黑龙娘分支 | 已有三视图入口,GPT图像模型的黑龙娘分支；原作者发布文字称Image 2，GPT Image作为检索别名。与ChatGPT/GPT白龙娘、Codex龙娘分别编目，不把同厂商、同龙系当成同一角色换色，也不把本造型泛化到所有图像模型版本。
 novelai,NovelAI,creative-product,visual_lead,ZipZipPipe（合照署名）,本次仅确认生成式模型合照中的形象线索,没有从合照自动推导独立全身设定、年龄、声音或完整三视图。
 midjourney,Midjourney,image-product,visual_lead,ZipZipPipe（合照署名）,本次仅确认生成式模型合照中的形象线索,与NovelAI等同框不等于共享同一设计；未核实其独立提示词和文件许可。
 suno,Suno,music-product,visual_lead,ZipZipPipe（合照署名）,本次仅确认生成式模型合照中的形象线索,图像角色与歌曲、歌声、生成音乐的许可分别处理；形象链接不能授权音乐。
