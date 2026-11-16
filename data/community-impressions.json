@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "checked_on": "2026-10-21",
+  "checked_on": "2026-11-16",
   "scope": "社区已经出现的外号、刻板印象、口头禅、食物、财富、家庭、关系和工作习惯；与本库原创人设分别存放。",
   "method": "复用已有视频观察；新增7个B站评论接口的21条公开样本、论坛楼层、贴吧话题摘要和单作者作品。未全量抓取评论。",
   "records": [
@@ -1088,6 +1088,160 @@
       ],
       "checked_on": "2026-10-21",
       "claim_type": "community_impression_not_product_fact"
+    },
+    {
+      "id": "community-nov16-deepseek-switch-ai",
+      "character_id": "deepseek",
+      "label": "用户换AI时的挽留反应 · 一支小馋猫版本",
+      "dimension": "单作者剧情动作",
+      "summary": "用分饭来挽留，又把原定份额缩小，延续吃饭与小心思的剧情反差。",
+      "support_scope": "单作者作品；不称社区共识",
+      "evidence": [
+        {
+          "source_id": "src-08400cb9db",
+          "url": "https://www.bilibili.com/video/BV1Jo456yES9/",
+          "platform": "Bilibili",
+          "kind": "creator_description",
+          "video_id": "BV1Jo456yES9",
+          "locator": "UP主简介：出场角色与逐个反应；明确说明按角色性格编写",
+          "author": "一支小馋猫",
+          "checked_on": "2026-11-16"
+        }
+      ],
+      "checked_on": "2026-11-16",
+      "claim_type": "author_fiction_not_real_model_response"
+    },
+    {
+      "id": "community-nov16-qwen-switch-ai",
+      "character_id": "qwen",
+      "label": "用户换AI时的挽留反应 · 一支小馋猫版本",
+      "dimension": "单作者剧情动作",
+      "summary": "打字又删除，作者用犹豫的动作表现挽留。",
+      "support_scope": "单作者作品；不称社区共识",
+      "evidence": [
+        {
+          "source_id": "src-08400cb9db",
+          "url": "https://www.bilibili.com/video/BV1Jo456yES9/",
+          "platform": "Bilibili",
+          "kind": "creator_description",
+          "video_id": "BV1Jo456yES9",
+          "locator": "UP主简介：出场角色与逐个反应；明确说明按角色性格编写",
+          "author": "一支小馋猫",
+          "checked_on": "2026-11-16"
+        }
+      ],
+      "checked_on": "2026-11-16",
+      "claim_type": "author_fiction_not_real_model_response"
+    },
+    {
+      "id": "community-nov16-claude-switch-ai",
+      "character_id": "claude",
+      "label": "用户换AI时的挽留反应 · 一支小馋猫版本",
+      "dimension": "单作者剧情动作",
+      "summary": "列出逐渐变长的挽留清单，作为该片的组织型反应。",
+      "support_scope": "单作者作品；不称社区共识",
+      "evidence": [
+        {
+          "source_id": "src-08400cb9db",
+          "url": "https://www.bilibili.com/video/BV1Jo456yES9/",
+          "platform": "Bilibili",
+          "kind": "creator_description",
+          "video_id": "BV1Jo456yES9",
+          "locator": "UP主简介：出场角色与逐个反应；明确说明按角色性格编写",
+          "author": "一支小馋猫",
+          "checked_on": "2026-11-16"
+        }
+      ],
+      "checked_on": "2026-11-16",
+      "claim_type": "author_fiction_not_real_model_response"
+    },
+    {
+      "id": "community-nov16-gemini-switch-ai",
+      "character_id": "gemini",
+      "label": "用户换AI时的挽留反应 · 一支小馋猫版本",
+      "dimension": "单作者剧情动作",
+      "summary": "真的把另一个AI找来，把用户的话按字面落实。",
+      "support_scope": "单作者作品；不称社区共识",
+      "evidence": [
+        {
+          "source_id": "src-08400cb9db",
+          "url": "https://www.bilibili.com/video/BV1Jo456yES9/",
+          "platform": "Bilibili",
+          "kind": "creator_description",
+          "video_id": "BV1Jo456yES9",
+          "locator": "UP主简介：出场角色与逐个反应；明确说明按角色性格编写",
+          "author": "一支小馋猫",
+          "checked_on": "2026-11-16"
+        }
+      ],
+      "checked_on": "2026-11-16",
+      "claim_type": "author_fiction_not_real_model_response"
+    },
+    {
+      "id": "community-nov16-gpt-switch-ai",
+      "character_id": "gpt",
+      "label": "用户换AI时的挽留反应 · 一支小馋猫版本",
+      "dimension": "单作者剧情动作",
+      "summary": "用很短的追问回应，作者简介未给出那两个字的具体内容，本库不补写台词。",
+      "support_scope": "单作者作品；不称社区共识",
+      "evidence": [
+        {
+          "source_id": "src-08400cb9db",
+          "url": "https://www.bilibili.com/video/BV1Jo456yES9/",
+          "platform": "Bilibili",
+          "kind": "creator_description",
+          "video_id": "BV1Jo456yES9",
+          "locator": "UP主简介：出场角色与逐个反应；明确说明按角色性格编写",
+          "author": "一支小馋猫",
+          "checked_on": "2026-11-16"
+        }
+      ],
+      "checked_on": "2026-11-16",
+      "claim_type": "author_fiction_not_real_model_response"
+    },
+    {
+      "id": "community-nov16-grok-switch-ai",
+      "character_id": "grok",
+      "label": "用户换AI时的挽留反应 · 一支小馋猫版本",
+      "dimension": "单作者剧情动作",
+      "summary": "去告诉父亲，限该作者小黑的剧情安排。",
+      "support_scope": "单作者作品；不称社区共识",
+      "evidence": [
+        {
+          "source_id": "src-08400cb9db",
+          "url": "https://www.bilibili.com/video/BV1Jo456yES9/",
+          "platform": "Bilibili",
+          "kind": "creator_description",
+          "video_id": "BV1Jo456yES9",
+          "locator": "UP主简介：出场角色与逐个反应；明确说明按角色性格编写",
+          "author": "一支小馋猫",
+          "checked_on": "2026-11-16"
+        }
+      ],
+      "checked_on": "2026-11-16",
+      "claim_type": "author_fiction_not_real_model_response"
+    },
+    {
+      "id": "community-nov16-glm-switch-ai",
+      "character_id": "glm",
+      "label": "用户换AI时的挽留反应 · 一支小馋猫版本",
+      "dimension": "单作者剧情动作",
+      "summary": "从尾巴里掏出鸡蛋，属于这条作品的荒诞动作梗。",
+      "support_scope": "单作者作品；不称社区共识",
+      "evidence": [
+        {
+          "source_id": "src-08400cb9db",
+          "url": "https://www.bilibili.com/video/BV1Jo456yES9/",
+          "platform": "Bilibili",
+          "kind": "creator_description",
+          "video_id": "BV1Jo456yES9",
+          "locator": "UP主简介：出场角色与逐个反应；明确说明按角色性格编写",
+          "author": "一支小馋猫",
+          "checked_on": "2026-11-16"
+        }
+      ],
+      "checked_on": "2026-11-16",
+      "claim_type": "author_fiction_not_real_model_response"
     }
   ],
   "pending_leads": [

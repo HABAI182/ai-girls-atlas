@@ -79,3 +79,9 @@
 - [Apprentice-Geo/AI-Fanworks 项目说明](https://github.com/Apprentice-Geo/AI-Fanworks/blob/ee1f5176710f3bcfd60ee5cb0af00f77ed96748e/README.md) · `pinned_repository_text`
 
 返回[角色总览](../../README.md) · [新增资料评述](../../docs/09-more-sources.md) · [版本比较](../../docs/10-variant-guide.md)。
+
+## 2026-11-16设定板补充
+
+- [08 · 海螺 AI](https://github.com/lmy414/ai-chan-sheets/tree/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/08_MiniMax%E5%A8%98_%E6%B5%B7%E8%9E%BAAI)：本轮仅查目录；lmy414生成补全。
+
+原图、推定侧背面和表情差分分别看；署名与使用范围见[本轮更新](../../docs/13-update-2026-11-16.md)。

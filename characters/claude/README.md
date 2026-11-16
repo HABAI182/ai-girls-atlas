@@ -114,3 +114,9 @@
 - [がみClaude Code银发龙娘文字人设](https://zenn.dev/gami113/articles/20250222-claude-code-807943b37ecd9d)：独立Output Style提案，没有本轮核验的立绘。
 
 以上分别关联到[模型与工具分支专题](../../encyclopedia/model-branches.md)，不合并为橙发花饰原版的同一套人格。Fable继续保留为作者企划命名，未据此新增真实模型产品条目。
+
+## 2026-11-16设定板补充
+
+- [11 · 橘发与菊花纹](https://github.com/lmy414/ai-chan-sheets/tree/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/11_Claude%E5%A8%98_Anthropic)：本轮仅查目录；lmy414生成补全。
+
+原图、推定侧背面和表情差分分别看；署名与使用范围见[本轮更新](../../docs/13-update-2026-11-16.md)。

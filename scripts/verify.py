@@ -153,7 +153,7 @@ for filename in ['meme-encyclopedia.json', 'performances.json', 'actions-props.j
                  'design-history.json', 'cross-media.json', 'audio-observations.json',
                  'video-observations.json', 'ready-packages.json',
                  'audio-performances.json', 'material-checks.json', 'personas.json', 'community-impressions.json',
-                 'model-branches.json']:
+                 'model-branches.json', 'refresh-2026-11-16.json']:
     editorial_joins(read(filename), filename)
 for label, records in [('encyclopedia meme', encyclopedia_memes),
                        ('action', actions), ('relationship', relationships),
@@ -243,7 +243,7 @@ checks = {
     'actual_material_checks': len(material_checks),
     'persona_profiles': len(personas),
     'original_persona_dialogues': sum(len(p['original_dialogues']) for p in personas),
-    'written_persona_branch_entities': sum(bool(p['author_basis']) for p in personas),
+    'written_persona_branch_entities': sum(any(b.get('evidence_kind') != 'identity_only' for b in p['author_basis']) for p in personas),
     'persona_official_context_entities': sum(bool(p['product_basis']) for p in personas),
     'real_product_dialogue_samples': sum(p['real_model_dialogue_measurement'] is not None for p in personas),
     'persona_community_video_observations': len(read('personas.json')['community_video_observations']),

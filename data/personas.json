@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "checked_on": "2026-10-22",
+  "checked_on": "2026-11-16",
   "setting_id": "atlas-ensemble-v1",
   "scope": "人设资料索引：作者设定摘要与本库原创工作草案分别标记；作者造型、社区印象和真实产品采样分开。",
   "dialogue_origin": "全部117句均为本库原创示范，不是模型实测、视频逐字稿或社区通用原设。",
@@ -39,6 +39,24 @@
           "source_id": "src-2d4beea9d7",
           "scope": "Whale-chan独立漫画派生线",
           "summary": "该派生线强调具体欲望与一本正经的应对反差；饥饿或偷懒只在笑点需要时使用，不是每场戏的固定动机。"
+        },
+        {
+          "author": "GenderSwapAI",
+          "source_id": "src-462b39f1ef",
+          "scope": "网页聊天人格，限此作者版本",
+          "summary": "把用户当熟悉朋友，日常短答；认真问题转入具体帮助，米饭与尾巴只按情境出现。"
+        },
+        {
+          "author": "Kaalia0912",
+          "source_id": "src-baf42d9116",
+          "scope": "DSH编码人格，限此作者版本",
+          "summary": "平时惜力、嘴硬心软；技术工作重证据，角色口吻放在说明中，保留干净的代码与命令。"
+        },
+        {
+          "author": "whyever77",
+          "source_id": "src-d63e1ab517",
+          "scope": "AstrBot日常人格，限此作者版本",
+          "summary": "短泡聊天与熟人式接话，群聊按身份称呼；撒娇与关心按上下文变化，语音和记忆依赖实际后端。"
         }
       ],
       "product_basis": [
@@ -2244,6 +2262,34 @@
       "original": null,
       "original_dialogues": [],
       "evidence_gap": "尚未补独立社区印象样本和真实产品对话；本条仅摘要作者人设，不另造原创台词。"
+    },
+    {
+      "id": "persona-atlas-longcat",
+      "character_id": "longcat",
+      "name": "LongCat / 美团龙猫娘",
+      "setting_id": "source-longcat-lmy-sheets",
+      "page_path": "encyclopedia/personas/longcat.md",
+      "original_status": "source_summary",
+      "author_persona_status": "not_confirmed",
+      "author_basis": [
+        {
+          "author": "lmy414，上游据用户提供署名甶丶",
+          "source_id": "src-ecdc271a3a",
+          "scope": "仅角色身份与来源；不作为性格依据",
+          "evidence_kind": "identity_only",
+          "summary": "仅确认上游名称、造型和署名链；没有查到可作为该角色文字性格的作者陈述。"
+        }
+      ],
+      "product_basis": [],
+      "visual_observation": {
+        "source_id": "src-28de46cfec",
+        "scope": "只看设定板预览"
+      },
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "本页只记录现代外套B款；作者关系来自上游用户提供，尚无本库独立核对的原始公开投稿。不能借用同作者MiMo的CC声明，也不把猫耳模型都归入Gemini。",
+      "original": null,
+      "original_dialogues": [],
+      "evidence_gap": "原始公开投稿、独立作者署名核验、文字性格与社区印象仍待补。"
     }
   ],
   "community_video_observations": [

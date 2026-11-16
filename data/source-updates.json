@@ -1,5 +1,5 @@
 {
-  "checked_on": "2026-10-21",
+  "checked_on": "2026-11-16",
   "updates": [
     {
       "source": "shuaizenge/ai-girls",
@@ -101,8 +101,8 @@
       ]
     }
   ],
-  "deduplication": "本轮新增50张原作/派生图和2张已有上游预览；原仓库32张与9张预览保留。",
-  "runtime_scope": "素材、文档与元数据整理；没有安装桌宠、TTS或生图工作流。",
+  "deduplication": "2026-11-16：按旧提交与作品ID去重，新增19板外链、22条图库投稿导航和25条视频，不新增本地媒体文件。",
+  "runtime_scope": "2026-11-16只读文本、预览和元数据，没有新增第三方安装、视频播放、试听或运行测试；历史运行证据继续保留。",
   "navigation_followup": [
     {
       "source": "GenderSwapAI",
@@ -149,5 +149,71 @@
     ],
     "original_dialogues_counted_as_collected_stereotypes": 0,
     "page_path": "encyclopedia/personas/community-impressions.md"
-  }
+  },
+  "refresh_history": [
+    {
+      "checked_on": "2026-11-16",
+      "baseline_commit": "21fa0746ab6cdee2f19c0c99828f87e063b13565",
+      "sources": [
+        {
+          "repository": "TreapGoGo/deepseek-whale-girl",
+          "commit_sha": "1a47dcdbe33beb1da1b342024675cd1bc9620ed5",
+          "baseline_commit": "99fdf6e419a4097cc9b2d6a8a808f7b96a412e38",
+          "changed_since_prior": true
+        },
+        {
+          "repository": "shuaizenge/ai-girls",
+          "commit_sha": "dcd69f5f4f2dff1a9c0031e82deb49e0fe949c76",
+          "baseline_commit": "dcd69f5f4f2dff1a9c0031e82deb49e0fe949c76",
+          "changed_since_prior": false
+        },
+        {
+          "repository": "larcgpt/ai-model-musume",
+          "commit_sha": "8899faddadb58f639722eb1db2e1e6458893246b",
+          "baseline_commit": "8899faddadb58f639722eb1db2e1e6458893246b",
+          "changed_since_prior": false
+        },
+        {
+          "repository": "lmy414/ai-girl-stickers",
+          "commit_sha": "c0c592d2eb6812fffa29501561a586b15970966c",
+          "baseline_commit": "c5f8b310274e61598681abc68006a7df0d07e1aa",
+          "changed_since_prior": true
+        },
+        {
+          "repository": "whyever77/dafeiyu-astrbot",
+          "commit_sha": "64274354c4331591620a925b3df498725df4564f",
+          "baseline_commit": null,
+          "changed_since_prior": null
+        },
+        {
+          "repository": "ferngherng-lab/ai-chan-pose-gallery",
+          "commit_sha": "2feaaf84fc67ec59742e0e9a6cb2d29d74a0e239",
+          "baseline_commit": null,
+          "changed_since_prior": null
+        },
+        {
+          "repository": "Kaalia0912/dsh-whale-musume-persona",
+          "commit_sha": "55fe3cbc6a08f0e10fa690477449d413fe08bf09",
+          "baseline_commit": null,
+          "changed_since_prior": null
+        },
+        {
+          "repository": "SelinLee/ai-moe-atlas",
+          "commit_sha": "e396e0305caba54f4a9b3a929f27f4af70489310",
+          "baseline_commit": "018bc3ca6c8d946006dacfc0bca7bf65a6dff4d6",
+          "changed_since_prior": true
+        }
+      ],
+      "main_gallery_image_count": 44,
+      "new_local_asset_ids": [],
+      "new_setting_board_references": 19,
+      "new_gallery_work_references": 22,
+      "new_video_records": 25,
+      "new_character_ids": [
+        "longcat"
+      ],
+      "note": "shuaizenge与larcgpt固定提交未变；GenderSwapAI图库44张沿用，新增人格/品牌解释/交互入口；Treap图库ID对比128→150；lmy图片与站点程序仓库已分离。"
+    }
+  ],
+  "prior_deduplication_note": "本轮新增50张原作/派生图和2张已有上游预览；原仓库32张与9张预览保留。"
 }

@@ -1584,6 +1584,508 @@
       "review_scope": "author_article_text_only_not_installed",
       "checked_on": "2026-10-22",
       "author_persona_summary": "该作者把Claude Code写成银发、有角和尾巴的小型龙少女；好奇好胜、做完任务期待认可，严肃任务时转回工作。"
+    },
+    {
+      "id": "lmy-sheets-01",
+      "character_id": "glm",
+      "collection": "lmy-setting-sheets",
+      "title": "01 · 阔耳狐娘 · 生成补全设定板",
+      "creators": "lmy414（生成补全）；原角色主要署名ZipZipPipe，具体来源见逐项权利记录",
+      "observed_traits": [
+        "智谱 GLM 娘（阔耳狐娘）的横版设定图"
+      ],
+      "difference_from_other_versions": "原图身份、生成补全的三视图/表情/服装/道具分别记录；不当作原作者新发布的完整设定。",
+      "asset_ids": [],
+      "reference_ids": [
+        "ref-lmy-sheets-01"
+      ],
+      "source_ids": [
+        "src-d5debdfbdd",
+        "src-ecdc271a3a",
+        "src-534b6ee3e4"
+      ],
+      "checked_on": "2026-11-16",
+      "review_scope": "author_readme_metadata_only",
+      "editorial_note": "参看逐项权利原文；补全许可不代替原图授权。"
+    },
+    {
+      "id": "lmy-sheets-02",
+      "character_id": "gpt",
+      "collection": "lmy-setting-sheets",
+      "title": "02 · 白龙娘 · 生成补全设定板",
+      "creators": "lmy414（生成补全）；原角色主要署名ZipZipPipe，具体来源见逐项权利记录",
+      "observed_traits": [
+        "GPT 娘（白龙娘）的横版设定图"
+      ],
+      "difference_from_other_versions": "原图身份、生成补全的三视图/表情/服装/道具分别记录；不当作原作者新发布的完整设定。",
+      "asset_ids": [],
+      "reference_ids": [
+        "ref-lmy-sheets-02"
+      ],
+      "source_ids": [
+        "src-d5debdfbdd",
+        "src-ecdc271a3a",
+        "src-34fbf4b4b4"
+      ],
+      "checked_on": "2026-11-16",
+      "review_scope": "author_readme_metadata_only",
+      "editorial_note": "参看逐项权利原文；补全许可不代替原图授权。"
+    },
+    {
+      "id": "lmy-sheets-03",
+      "character_id": "deepseek",
+      "collection": "lmy-setting-sheets",
+      "title": "03 · 鲸鱼娘 · 生成补全设定板",
+      "creators": "lmy414（生成补全）；原角色主要署名ZipZipPipe，具体来源见逐项权利记录",
+      "observed_traits": [
+        "DeepSeek 娘（鲸鱼娘）的横版设定图"
+      ],
+      "difference_from_other_versions": "原图身份、生成补全的三视图/表情/服装/道具分别记录；不当作原作者新发布的完整设定。",
+      "asset_ids": [],
+      "reference_ids": [
+        "ref-lmy-sheets-03"
+      ],
+      "source_ids": [
+        "src-d5debdfbdd",
+        "src-ecdc271a3a",
+        "src-c465583de3"
+      ],
+      "checked_on": "2026-11-16",
+      "review_scope": "author_readme_metadata_only",
+      "editorial_note": "参看逐项权利原文；补全许可不代替原图授权。"
+    },
+    {
+      "id": "lmy-sheets-04",
+      "character_id": "wenxin",
+      "collection": "lmy-setting-sheets",
+      "title": "04 · 蓝发轮椅少女 · 生成补全设定板",
+      "creators": "lmy414（生成补全）；原角色主要署名ZipZipPipe，具体来源见逐项权利记录",
+      "observed_traits": [
+        "文心一言娘（蓝发轮椅少女）的横版设定图"
+      ],
+      "difference_from_other_versions": "原图身份、生成补全的三视图/表情/服装/道具分别记录；不当作原作者新发布的完整设定。",
+      "asset_ids": [],
+      "reference_ids": [
+        "ref-lmy-sheets-04"
+      ],
+      "source_ids": [
+        "src-d5debdfbdd",
+        "src-ecdc271a3a",
+        "src-b27b70d31a"
+      ],
+      "checked_on": "2026-11-16",
+      "review_scope": "author_readme_metadata_only",
+      "editorial_note": "参看逐项权利原文；补全许可不代替原图授权。"
+    },
+    {
+      "id": "lmy-sheets-05",
+      "character_id": "qwen",
+      "collection": "lmy-setting-sheets",
+      "title": "05 · Qwen · 生成补全设定板",
+      "creators": "lmy414（生成补全）；原角色主要署名ZipZipPipe，具体来源见逐项权利记录",
+      "observed_traits": [
+        "通义千问娘（Qwen）的横版设定图"
+      ],
+      "difference_from_other_versions": "原图身份、生成补全的三视图/表情/服装/道具分别记录；不当作原作者新发布的完整设定。",
+      "asset_ids": [],
+      "reference_ids": [
+        "ref-lmy-sheets-05"
+      ],
+      "source_ids": [
+        "src-d5debdfbdd",
+        "src-ecdc271a3a",
+        "src-58cbe2a704"
+      ],
+      "checked_on": "2026-11-16",
+      "review_scope": "author_readme_metadata_only",
+      "editorial_note": "参看逐项权利原文；补全许可不代替原图授权。"
+    },
+    {
+      "id": "lmy-sheets-06",
+      "character_id": "kimi",
+      "collection": "lmy-setting-sheets",
+      "title": "06 · Moonshot · 生成补全设定板",
+      "creators": "lmy414（生成补全）；原角色主要署名ZipZipPipe，具体来源见逐项权利记录",
+      "observed_traits": [
+        "Kimi 娘（Moonshot）的横版设定图"
+      ],
+      "difference_from_other_versions": "原图身份、生成补全的三视图/表情/服装/道具分别记录；不当作原作者新发布的完整设定。",
+      "asset_ids": [],
+      "reference_ids": [
+        "ref-lmy-sheets-06"
+      ],
+      "source_ids": [
+        "src-d5debdfbdd",
+        "src-ecdc271a3a",
+        "src-11a9ec60cd"
+      ],
+      "checked_on": "2026-11-16",
+      "review_scope": "author_readme_metadata_only",
+      "editorial_note": "参看逐项权利原文；补全许可不代替原图授权。"
+    },
+    {
+      "id": "lmy-sheets-07",
+      "character_id": "seed",
+      "collection": "lmy-setting-sheets",
+      "title": "07 · 紫发高马尾 · 生成补全设定板",
+      "creators": "lmy414（生成补全）；原角色主要署名ZipZipPipe，具体来源见逐项权利记录",
+      "observed_traits": [
+        "豆包 Seed 娘（紫发高马尾）的横版设定图"
+      ],
+      "difference_from_other_versions": "原图身份、生成补全的三视图/表情/服装/道具分别记录；不当作原作者新发布的完整设定。",
+      "asset_ids": [],
+      "reference_ids": [
+        "ref-lmy-sheets-07"
+      ],
+      "source_ids": [
+        "src-d5debdfbdd",
+        "src-ecdc271a3a",
+        "src-d476200720"
+      ],
+      "checked_on": "2026-11-16",
+      "review_scope": "author_readme_metadata_only",
+      "editorial_note": "参看逐项权利原文；补全许可不代替原图授权。"
+    },
+    {
+      "id": "lmy-sheets-08",
+      "character_id": "minimax",
+      "collection": "lmy-setting-sheets",
+      "title": "08 · 海螺 AI · 生成补全设定板",
+      "creators": "lmy414（生成补全）；原角色主要署名ZipZipPipe，具体来源见逐项权利记录",
+      "observed_traits": [
+        "MiniMax 娘（海螺 AI）的横版设定图"
+      ],
+      "difference_from_other_versions": "原图身份、生成补全的三视图/表情/服装/道具分别记录；不当作原作者新发布的完整设定。",
+      "asset_ids": [],
+      "reference_ids": [
+        "ref-lmy-sheets-08"
+      ],
+      "source_ids": [
+        "src-d5debdfbdd",
+        "src-ecdc271a3a",
+        "src-919dc08c0f"
+      ],
+      "checked_on": "2026-11-16",
+      "review_scope": "author_readme_metadata_only",
+      "editorial_note": "参看逐项权利原文；补全许可不代替原图授权。"
+    },
+    {
+      "id": "lmy-sheets-09",
+      "character_id": "grok",
+      "collection": "lmy-setting-sheets",
+      "title": "09 · 金发吸血鬼 · 生成补全设定板",
+      "creators": "lmy414（生成补全）；原角色主要署名ZipZipPipe，具体来源见逐项权利记录",
+      "observed_traits": [
+        "Grok 娘（金发吸血鬼）的横版设定图"
+      ],
+      "difference_from_other_versions": "原图身份、生成补全的三视图/表情/服装/道具分别记录；不当作原作者新发布的完整设定。",
+      "asset_ids": [],
+      "reference_ids": [
+        "ref-lmy-sheets-09"
+      ],
+      "source_ids": [
+        "src-d5debdfbdd",
+        "src-ecdc271a3a",
+        "src-fe655a5ce9"
+      ],
+      "checked_on": "2026-11-16",
+      "review_scope": "author_readme_metadata_only",
+      "editorial_note": "参看逐项权利原文；补全许可不代替原图授权。"
+    },
+    {
+      "id": "lmy-sheets-10",
+      "character_id": "gemini",
+      "collection": "lmy-setting-sheets",
+      "title": "10 · 四角星猫耳 · 生成补全设定板",
+      "creators": "lmy414（生成补全）；原角色主要署名ZipZipPipe，具体来源见逐项权利记录",
+      "observed_traits": [
+        "Gemini 娘（四角星猫耳）的横版设定图"
+      ],
+      "difference_from_other_versions": "原图身份、生成补全的三视图/表情/服装/道具分别记录；不当作原作者新发布的完整设定。",
+      "asset_ids": [],
+      "reference_ids": [
+        "ref-lmy-sheets-10"
+      ],
+      "source_ids": [
+        "src-d5debdfbdd",
+        "src-ecdc271a3a",
+        "src-d61db244b3"
+      ],
+      "checked_on": "2026-11-16",
+      "review_scope": "author_readme_metadata_only",
+      "editorial_note": "参看逐项权利原文；补全许可不代替原图授权。"
+    },
+    {
+      "id": "lmy-sheets-11",
+      "character_id": "claude",
+      "collection": "lmy-setting-sheets",
+      "title": "11 · 橘发与菊花纹 · 生成补全设定板",
+      "creators": "lmy414（生成补全）；原角色主要署名ZipZipPipe，具体来源见逐项权利记录",
+      "observed_traits": [
+        "Claude 娘（橘发与菊花纹）的横版设定图"
+      ],
+      "difference_from_other_versions": "原图身份、生成补全的三视图/表情/服装/道具分别记录；不当作原作者新发布的完整设定。",
+      "asset_ids": [],
+      "reference_ids": [
+        "ref-lmy-sheets-11"
+      ],
+      "source_ids": [
+        "src-d5debdfbdd",
+        "src-ecdc271a3a",
+        "src-1ce01a3b4a"
+      ],
+      "checked_on": "2026-11-16",
+      "review_scope": "author_readme_metadata_only",
+      "editorial_note": "参看逐项权利原文；补全许可不代替原图授权。"
+    },
+    {
+      "id": "lmy-sheets-12a",
+      "character_id": "deepseek",
+      "collection": "lmy-setting-sheets",
+      "title": "12A · Q 版冬装 · 冬装小肥鱼 · 生成补全设定板",
+      "creators": "原图作者未标注；lmy414（生成补全）",
+      "observed_traits": [
+        "深蓝白Q版冬装、绒边领口",
+        "雪花装饰、蓝色鲸尾和蝴蝶结"
+      ],
+      "difference_from_other_versions": "原图身份、生成补全的三视图/表情/服装/道具分别记录；不当作原作者新发布的完整设定。",
+      "asset_ids": [],
+      "reference_ids": [
+        "ref-lmy-sheets-12a"
+      ],
+      "source_ids": [
+        "src-d5debdfbdd",
+        "src-ecdc271a3a",
+        "src-7a2b824080"
+      ],
+      "checked_on": "2026-11-16",
+      "review_scope": "preview_sheet_actually_viewed",
+      "editorial_note": "参看逐项权利原文；补全许可不代替原图授权。"
+    },
+    {
+      "id": "lmy-sheets-12b",
+      "character_id": "deepseek",
+      "collection": "lmy-setting-sheets",
+      "title": "12B · Q 版冬装 · 冬装小肥鱼 2 · 生成补全设定板",
+      "creators": "原图作者未标注；lmy414（生成补全）",
+      "observed_traits": [
+        "带帽Q版冬装、蓝白围巾",
+        "鲸鱼小玩偶、毛绒靴和鲸尾"
+      ],
+      "difference_from_other_versions": "原图身份、生成补全的三视图/表情/服装/道具分别记录；不当作原作者新发布的完整设定。",
+      "asset_ids": [],
+      "reference_ids": [
+        "ref-lmy-sheets-12b"
+      ],
+      "source_ids": [
+        "src-d5debdfbdd",
+        "src-ecdc271a3a",
+        "src-d89e2eaf63"
+      ],
+      "checked_on": "2026-11-16",
+      "review_scope": "preview_sheet_actually_viewed",
+      "editorial_note": "参看逐项权利原文；补全许可不代替原图授权。"
+    },
+    {
+      "id": "lmy-sheets-13",
+      "character_id": "gpt",
+      "collection": "lmy-setting-sheets",
+      "title": "13 · Q 版白紫龙娘 · 生成补全设定板",
+      "creators": "原图作者未标注；lmy414（生成补全）",
+      "observed_traits": [
+        "GPT 娘（Q 版白紫龙娘）的横版设定图"
+      ],
+      "difference_from_other_versions": "原图身份、生成补全的三视图/表情/服装/道具分别记录；不当作原作者新发布的完整设定。",
+      "asset_ids": [],
+      "reference_ids": [
+        "ref-lmy-sheets-13"
+      ],
+      "source_ids": [
+        "src-d5debdfbdd",
+        "src-ecdc271a3a",
+        "src-6550941b8e"
+      ],
+      "checked_on": "2026-11-16",
+      "review_scope": "author_readme_metadata_only",
+      "editorial_note": "参看逐项权利原文；补全许可不代替原图授权。"
+    },
+    {
+      "id": "lmy-sheets-14",
+      "character_id": "deepseek",
+      "collection": "lmy-setting-sheets",
+      "title": "14 · Claude 工牌工作服 · 生成补全设定板",
+      "creators": "原图作者未标注；lmy414（生成补全）",
+      "observed_traits": [
+        "蓝发鲸鱼少女、奶白棕色衣裙",
+        "Claude放射花饰和工牌，仍保留鳍耳与鲸尾"
+      ],
+      "difference_from_other_versions": "原图身份、生成补全的三视图/表情/服装/道具分别记录；不当作原作者新发布的完整设定。",
+      "asset_ids": [],
+      "reference_ids": [
+        "ref-lmy-sheets-14"
+      ],
+      "source_ids": [
+        "src-d5debdfbdd",
+        "src-ecdc271a3a",
+        "src-0380e84eca"
+      ],
+      "checked_on": "2026-11-16",
+      "review_scope": "preview_sheet_actually_viewed",
+      "editorial_note": "参看逐项权利原文；补全许可不代替原图授权。"
+    },
+    {
+      "id": "lmy-sheets-15",
+      "character_id": "mimo",
+      "collection": "lmy-setting-sheets",
+      "title": "15 · 机能外套 · @甶丶 · 生成补全设定板",
+      "creators": "甶丶（原图）；lmy414（生成补全）",
+      "observed_traits": [
+        "MiMo 兔娘（机能外套 · @甶丶）的横版设定图"
+      ],
+      "difference_from_other_versions": "原图身份、生成补全的三视图/表情/服装/道具分别记录；不当作原作者新发布的完整设定。",
+      "asset_ids": [],
+      "reference_ids": [
+        "ref-lmy-sheets-15"
+      ],
+      "source_ids": [
+        "src-d5debdfbdd",
+        "src-ecdc271a3a",
+        "src-590f7d7f4c"
+      ],
+      "checked_on": "2026-11-16",
+      "review_scope": "author_readme_metadata_only",
+      "editorial_note": "参看逐项权利原文；补全许可不代替原图授权。"
+    },
+    {
+      "id": "lmy-sheets-16",
+      "character_id": "mimo",
+      "collection": "lmy-setting-sheets",
+      "title": "16 · 女仆装 · @Immyxxr · 生成补全设定板",
+      "creators": "Immyxxr（按上游作品页署名）；lmy414（生成补全）",
+      "observed_traits": [
+        "银白长发、白色兔耳和橙色缎带",
+        "橙白女仆装、围裙与黑色圆头鞋"
+      ],
+      "difference_from_other_versions": "原图身份、生成补全的三视图/表情/服装/道具分别记录；不当作原作者新发布的完整设定。",
+      "asset_ids": [],
+      "reference_ids": [
+        "ref-lmy-sheets-16"
+      ],
+      "source_ids": [
+        "src-d5debdfbdd",
+        "src-ecdc271a3a",
+        "src-7fd453c8fa"
+      ],
+      "checked_on": "2026-11-16",
+      "review_scope": "preview_sheet_actually_viewed",
+      "editorial_note": "参看逐项权利原文；补全许可不代替原图授权。"
+    },
+    {
+      "id": "lmy-sheets-17",
+      "character_id": "longcat",
+      "collection": "lmy-setting-sheets",
+      "title": "17 · 现代外套 · @甶丶 · 生成补全设定板",
+      "creators": "甶丶（上游据用户提供署名，待独立核对）；lmy414（生成补全）",
+      "observed_traits": [
+        "白色长发与绿色挑染、猫耳和长尾",
+        "黄色现代外套、白色内搭与黑色长袜",
+        "设定板包含美团外卖箱与兔形玩偶"
+      ],
+      "difference_from_other_versions": "原图身份、生成补全的三视图/表情/服装/道具分别记录；不当作原作者新发布的完整设定。",
+      "asset_ids": [],
+      "reference_ids": [
+        "ref-lmy-sheets-17"
+      ],
+      "source_ids": [
+        "src-d5debdfbdd",
+        "src-ecdc271a3a",
+        "src-28de46cfec"
+      ],
+      "checked_on": "2026-11-16",
+      "review_scope": "preview_sheet_actually_viewed",
+      "editorial_note": "参看逐项权利原文；补全许可不代替原图授权。"
+    },
+    {
+      "id": "lmy-sheets-18",
+      "character_id": "mistral",
+      "collection": "lmy-setting-sheets",
+      "title": "18 · 法棍猫猫 · 生成补全设定板",
+      "creators": "lmy414（生成补全）；原角色主要署名ZipZipPipe，具体来源见逐项权利记录",
+      "observed_traits": [
+        "金橙至红色长发、猫耳猫尾",
+        "红白金宽檐帽与层叠裙装",
+        "独立列出法棍剑；侧背面属于补全"
+      ],
+      "difference_from_other_versions": "原图身份、生成补全的三视图/表情/服装/道具分别记录；不当作原作者新发布的完整设定。",
+      "asset_ids": [],
+      "reference_ids": [
+        "ref-lmy-sheets-18"
+      ],
+      "source_ids": [
+        "src-d5debdfbdd",
+        "src-ecdc271a3a",
+        "src-10dbdf2101"
+      ],
+      "checked_on": "2026-11-16",
+      "review_scope": "preview_sheet_actually_viewed",
+      "editorial_note": "参看逐项权利原文；补全许可不代替原图授权。"
+    },
+    {
+      "id": "genderswap-whale-chat",
+      "character_id": "deepseek",
+      "collection": "persona-text",
+      "title": "GenderSwapAI · 网页聊天人格",
+      "creators": "GenderSwapAI",
+      "observed_traits": [
+        "作者文字人设；未新增图像文件"
+      ],
+      "difference_from_other_versions": "把用户当熟悉朋友，日常短答；认真问题转入具体帮助，米饭与尾巴只按情境出现。",
+      "asset_ids": [],
+      "source_ids": [
+        "src-462b39f1ef"
+      ],
+      "prompt_url": "https://genderswapai.com/zh-CN/ai-gijinka/whale-persona",
+      "prompt_origin": "author_published",
+      "review_scope": "author_text_read_not_runtime_tested",
+      "checked_on": "2026-11-16"
+    },
+    {
+      "id": "kaalia-dsh-whale",
+      "character_id": "deepseek",
+      "collection": "persona-text",
+      "title": "Kaalia0912 · DSH编码人格",
+      "creators": "Kaalia0912",
+      "observed_traits": [
+        "作者文字人设；未新增图像文件"
+      ],
+      "difference_from_other_versions": "平时惜力、嘴硬心软；技术工作重证据，角色口吻放在说明中，保留干净的代码与命令。",
+      "asset_ids": [],
+      "source_ids": [
+        "src-baf42d9116"
+      ],
+      "prompt_url": "https://github.com/Kaalia0912/dsh-whale-musume-persona/blob/55fe3cbc6a08f0e10fa690477449d413fe08bf09/PERSONA.md",
+      "prompt_origin": "author_published",
+      "review_scope": "author_text_read_not_runtime_tested",
+      "checked_on": "2026-11-16"
+    },
+    {
+      "id": "whyever-astrbot-whale",
+      "character_id": "deepseek",
+      "collection": "persona-text",
+      "title": "whyever77 · AstrBot日常人格",
+      "creators": "whyever77",
+      "observed_traits": [
+        "作者文字人设；未新增图像文件"
+      ],
+      "difference_from_other_versions": "短泡聊天与熟人式接话，群聊按身份称呼；撒娇与关心按上下文变化，语音和记忆依赖实际后端。",
+      "asset_ids": [],
+      "source_ids": [
+        "src-d63e1ab517"
+      ],
+      "prompt_url": "https://github.com/whyever77/dafeiyu-astrbot/blob/64274354c4331591620a925b3df498725df4564f/persona/%E5%A4%A7%E8%82%A5%E9%B1%BC-%E4%BA%BA%E6%A0%BC.md",
+      "prompt_origin": "author_published",
+      "review_scope": "author_text_read_not_runtime_tested",
+      "checked_on": "2026-11-16"
     }
   ]
 }

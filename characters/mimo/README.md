@@ -68,3 +68,10 @@
 | [作者角色卡](https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/Mimo/Mimo_%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87_%E8%A7%92%E8%89%B2%E8%A8%AD%E5%AE%9A_1.png) | 棕金色高马尾、橙色眼睛与耳机。；橙白黑机能短装和外套，手里持手机；背景是城市与设备图像。；卡片直接写MiMo娘、Xiaomi，另有同版Q版图、手机/手环/音箱等道具。 | 与甶丶银白双马尾、mi兔子分支在发型、服装、道具和比例上都不同；作为独立作者版本。 |
 
 原有甶丶立绘与三视图已在本库，本次继续复用。
+
+## 2026-11-16设定板补充
+
+- [15 · 机能外套 · @甶丶](https://github.com/lmy414/ai-chan-sheets/tree/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/15_MiMo%E5%85%94%E5%A8%98_%E7%94%B6%E4%B8%B6_%E6%9C%BA%E8%83%BD%E5%A4%96%E5%A5%97)：本轮仅查目录；lmy414生成补全。
+- [16 · 女仆装 · @Immyxxr](https://github.com/lmy414/ai-chan-sheets/tree/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/16_MiMo%E5%85%94%E5%A8%98_Immyxxr_%E5%A5%B3%E4%BB%86%E8%A3%85)：本轮查看预览；lmy414生成补全。
+
+原图、推定侧背面和表情差分分别看；署名与使用范围见[本轮更新](../../docs/13-update-2026-11-16.md)。

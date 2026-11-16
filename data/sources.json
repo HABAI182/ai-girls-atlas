@@ -2952,6 +2952,486 @@
       "checked_on": "2026-10-22",
       "evidence_level": "author_published_persona_text",
       "note": "读取2026-02-22作者文章及说明；作者注明设定由AI辅助编写。只提炼文字角色，不复制整份提示词、未实际安装配置。"
+    },
+    {
+      "id": "src-d5debdfbdd",
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/171116808adad57f1c0ec347ff50c07d5095676f/README.md",
+      "title": "lmy414横版设定图集：18条目/19板",
+      "checked_on": "2026-11-16",
+      "evidence_level": "pinned_repository_text",
+      "note": "读取角色目录与生成补全说明；没有把19板当作19个新角色。"
+    },
+    {
+      "id": "src-ecdc271a3a",
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/171116808adad57f1c0ec347ff50c07d5095676f/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+      "title": "设定图集：逐来源署名与授权记录",
+      "checked_on": "2026-11-16",
+      "evidence_level": "pinned_repository_text",
+      "note": "补全许可与原始立绘各自记录；12至14原作者未标注，16和17原图授权未知；LongCat作者关系来自上游用户提供。"
+    },
+    {
+      "id": "src-534b6ee3e4",
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/01_%E6%99%BA%E8%B0%B1GLM%E5%A8%98_%E9%98%94%E8%80%B3%E7%8B%90%E5%A8%98/%E5%AE%8C%E6%95%B4%E8%AE%BE%E5%AE%9A%E5%9B%BE_%E6%B5%8F%E8%A7%88%E9%A2%84%E8%A7%88.jpg",
+      "title": "智谱 GLM 娘（阔耳狐娘）的横版设定图",
+      "checked_on": "2026-11-16",
+      "evidence_level": "pinned_author_catalog_label",
+      "note": "按固定README标签与链接登记；本轮未逐图查看该板。"
+    },
+    {
+      "id": "src-34fbf4b4b4",
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/02_GPT%E5%A8%98_%E7%99%BD%E9%BE%99%E5%A8%98/%E5%AE%8C%E6%95%B4%E8%AE%BE%E5%AE%9A%E5%9B%BE_%E6%B5%8F%E8%A7%88%E9%A2%84%E8%A7%88.jpg",
+      "title": "GPT 娘（白龙娘）的横版设定图",
+      "checked_on": "2026-11-16",
+      "evidence_level": "pinned_author_catalog_label",
+      "note": "按固定README标签与链接登记；本轮未逐图查看该板。"
+    },
+    {
+      "id": "src-c465583de3",
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/03_DeepSeek%E5%A8%98_%E9%B2%B8%E9%B1%BC%E5%A8%98/%E5%AE%8C%E6%95%B4%E8%AE%BE%E5%AE%9A%E5%9B%BE_%E6%B5%8F%E8%A7%88%E9%A2%84%E8%A7%88.jpg",
+      "title": "DeepSeek 娘（鲸鱼娘）的横版设定图",
+      "checked_on": "2026-11-16",
+      "evidence_level": "pinned_author_catalog_label",
+      "note": "按固定README标签与链接登记；本轮未逐图查看该板。"
+    },
+    {
+      "id": "src-b27b70d31a",
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/04_%E6%96%87%E5%BF%83%E4%B8%80%E8%A8%80%E5%A8%98/%E5%AE%8C%E6%95%B4%E8%AE%BE%E5%AE%9A%E5%9B%BE_%E6%B5%8F%E8%A7%88%E9%A2%84%E8%A7%88.jpg",
+      "title": "文心一言娘（蓝发轮椅少女）的横版设定图",
+      "checked_on": "2026-11-16",
+      "evidence_level": "pinned_author_catalog_label",
+      "note": "按固定README标签与链接登记；本轮未逐图查看该板。"
+    },
+    {
+      "id": "src-58cbe2a704",
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/05_%E9%80%9A%E4%B9%89%E5%8D%83%E9%97%AE%E5%A8%98_Qwen/%E5%AE%8C%E6%95%B4%E8%AE%BE%E5%AE%9A%E5%9B%BE_%E6%B5%8F%E8%A7%88%E9%A2%84%E8%A7%88.jpg",
+      "title": "通义千问娘（Qwen）的横版设定图",
+      "checked_on": "2026-11-16",
+      "evidence_level": "pinned_author_catalog_label",
+      "note": "按固定README标签与链接登记；本轮未逐图查看该板。"
+    },
+    {
+      "id": "src-11a9ec60cd",
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/06_Kimi%E5%A8%98_Moonshot/%E5%AE%8C%E6%95%B4%E8%AE%BE%E5%AE%9A%E5%9B%BE_%E6%B5%8F%E8%A7%88%E9%A2%84%E8%A7%88.jpg",
+      "title": "Kimi 娘（Moonshot）的横版设定图",
+      "checked_on": "2026-11-16",
+      "evidence_level": "pinned_author_catalog_label",
+      "note": "按固定README标签与链接登记；本轮未逐图查看该板。"
+    },
+    {
+      "id": "src-d476200720",
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/07_%E8%B1%86%E5%8C%85Seed%E5%A8%98/%E5%AE%8C%E6%95%B4%E8%AE%BE%E5%AE%9A%E5%9B%BE_%E6%B5%8F%E8%A7%88%E9%A2%84%E8%A7%88.jpg",
+      "title": "豆包 Seed 娘（紫发高马尾）的横版设定图",
+      "checked_on": "2026-11-16",
+      "evidence_level": "pinned_author_catalog_label",
+      "note": "按固定README标签与链接登记；本轮未逐图查看该板。"
+    },
+    {
+      "id": "src-919dc08c0f",
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/08_MiniMax%E5%A8%98_%E6%B5%B7%E8%9E%BAAI/%E5%AE%8C%E6%95%B4%E8%AE%BE%E5%AE%9A%E5%9B%BE_%E6%B5%8F%E8%A7%88%E9%A2%84%E8%A7%88.jpg",
+      "title": "MiniMax 娘（海螺 AI）的横版设定图",
+      "checked_on": "2026-11-16",
+      "evidence_level": "pinned_author_catalog_label",
+      "note": "按固定README标签与链接登记；本轮未逐图查看该板。"
+    },
+    {
+      "id": "src-fe655a5ce9",
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/09_Grok%E5%A8%98_xAI/%E5%AE%8C%E6%95%B4%E8%AE%BE%E5%AE%9A%E5%9B%BE_%E6%B5%8F%E8%A7%88%E9%A2%84%E8%A7%88.jpg",
+      "title": "Grok 娘（金发吸血鬼）的横版设定图",
+      "checked_on": "2026-11-16",
+      "evidence_level": "pinned_author_catalog_label",
+      "note": "按固定README标签与链接登记；本轮未逐图查看该板。"
+    },
+    {
+      "id": "src-d61db244b3",
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/10_Gemini%E5%A8%98/%E5%AE%8C%E6%95%B4%E8%AE%BE%E5%AE%9A%E5%9B%BE_%E6%B5%8F%E8%A7%88%E9%A2%84%E8%A7%88.jpg",
+      "title": "Gemini 娘（四角星猫耳）的横版设定图",
+      "checked_on": "2026-11-16",
+      "evidence_level": "pinned_author_catalog_label",
+      "note": "按固定README标签与链接登记；本轮未逐图查看该板。"
+    },
+    {
+      "id": "src-1ce01a3b4a",
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/11_Claude%E5%A8%98_Anthropic/%E5%AE%8C%E6%95%B4%E8%AE%BE%E5%AE%9A%E5%9B%BE_%E6%B5%8F%E8%A7%88%E9%A2%84%E8%A7%88.jpg",
+      "title": "Claude 娘（橘发与菊花纹）的横版设定图",
+      "checked_on": "2026-11-16",
+      "evidence_level": "pinned_author_catalog_label",
+      "note": "按固定README标签与链接登记；本轮未逐图查看该板。"
+    },
+    {
+      "id": "src-7a2b824080",
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/12_DeepSeek%E5%A8%98_Q%E7%89%88%E5%86%AC%E8%A3%85/%E5%86%AC%E8%A3%85%E5%B0%8F%E8%82%A5%E9%B1%BC/%E5%AE%8C%E6%95%B4%E8%AE%BE%E5%AE%9A%E5%9B%BE_%E6%B5%8F%E8%A7%88%E9%A2%84%E8%A7%88.jpg",
+      "title": "DeepSeek 娘（Q 版冬装 · 冬装小肥鱼）的横版设定图",
+      "checked_on": "2026-11-16",
+      "evidence_level": "setting_board_preview_viewed",
+      "note": "本轮查看缩略设定板；未逐项读取全部原尺寸素材。"
+    },
+    {
+      "id": "src-d89e2eaf63",
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/12_DeepSeek%E5%A8%98_Q%E7%89%88%E5%86%AC%E8%A3%85/%E5%86%AC%E8%A3%85%E5%B0%8F%E8%82%A5%E9%B1%BC2/%E5%AE%8C%E6%95%B4%E8%AE%BE%E5%AE%9A%E5%9B%BE_%E6%B5%8F%E8%A7%88%E9%A2%84%E8%A7%88.jpg",
+      "title": "DeepSeek 娘（Q 版冬装 · 冬装小肥鱼 2）的横版设定图",
+      "checked_on": "2026-11-16",
+      "evidence_level": "setting_board_preview_viewed",
+      "note": "本轮查看缩略设定板；未逐项读取全部原尺寸素材。"
+    },
+    {
+      "id": "src-6550941b8e",
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/13_GPT%E5%A8%98_Q%E7%89%88%E7%99%BD%E7%B4%AB%E9%BE%99%E5%A8%98/%E5%AE%8C%E6%95%B4%E8%AE%BE%E5%AE%9A%E5%9B%BE_%E6%B5%8F%E8%A7%88%E9%A2%84%E8%A7%88.jpg",
+      "title": "GPT 娘（Q 版白紫龙娘）的横版设定图",
+      "checked_on": "2026-11-16",
+      "evidence_level": "pinned_author_catalog_label",
+      "note": "按固定README标签与链接登记；本轮未逐图查看该板。"
+    },
+    {
+      "id": "src-0380e84eca",
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/14_DeepSeek%E5%A8%98_Claude%E5%B7%A5%E7%89%8C%E5%B7%A5%E4%BD%9C%E6%9C%8D/%E5%AE%8C%E6%95%B4%E8%AE%BE%E5%AE%9A%E5%9B%BE_%E6%B5%8F%E8%A7%88%E9%A2%84%E8%A7%88.jpg",
+      "title": "DeepSeek 娘（Claude 工牌工作服）的横版设定图",
+      "checked_on": "2026-11-16",
+      "evidence_level": "setting_board_preview_viewed",
+      "note": "本轮查看缩略设定板；未逐项读取全部原尺寸素材。"
+    },
+    {
+      "id": "src-590f7d7f4c",
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/15_MiMo%E5%85%94%E5%A8%98_%E7%94%B6%E4%B8%B6_%E6%9C%BA%E8%83%BD%E5%A4%96%E5%A5%97/%E5%AE%8C%E6%95%B4%E8%AE%BE%E5%AE%9A%E5%9B%BE_%E6%B5%8F%E8%A7%88%E9%A2%84%E8%A7%88.jpg",
+      "title": "MiMo 兔娘（机能外套 · @甶丶）的横版设定图",
+      "checked_on": "2026-11-16",
+      "evidence_level": "pinned_author_catalog_label",
+      "note": "按固定README标签与链接登记；本轮未逐图查看该板。"
+    },
+    {
+      "id": "src-7fd453c8fa",
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/16_MiMo%E5%85%94%E5%A8%98_Immyxxr_%E5%A5%B3%E4%BB%86%E8%A3%85/%E5%AE%8C%E6%95%B4%E8%AE%BE%E5%AE%9A%E5%9B%BE_%E6%B5%8F%E8%A7%88%E9%A2%84%E8%A7%88.jpg",
+      "title": "MiMo 兔娘（女仆装 · @Immyxxr）的横版设定图",
+      "checked_on": "2026-11-16",
+      "evidence_level": "setting_board_preview_viewed",
+      "note": "本轮查看缩略设定板；未逐项读取全部原尺寸素材。"
+    },
+    {
+      "id": "src-28de46cfec",
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/17_LongCat%E5%A8%98_%E7%BE%8E%E5%9B%A2%E9%BE%99%E7%8C%AB_%E7%8E%B0%E4%BB%A3%E5%A4%96%E5%A5%97/%E5%AE%8C%E6%95%B4%E8%AE%BE%E5%AE%9A%E5%9B%BE_%E6%B5%8F%E8%A7%88%E9%A2%84%E8%A7%88.jpg",
+      "title": "LongCat 娘（现代外套 · @甶丶）的横版设定图",
+      "checked_on": "2026-11-16",
+      "evidence_level": "setting_board_preview_viewed",
+      "note": "本轮查看缩略设定板；未逐项读取全部原尺寸素材。"
+    },
+    {
+      "id": "src-10dbdf2101",
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/18_Mistral%E5%A8%98_%E6%B3%95%E6%A3%8D%E7%8C%AB%E7%8C%AB/%E5%AE%8C%E6%95%B4%E8%AE%BE%E5%AE%9A%E5%9B%BE_%E6%B5%8F%E8%A7%88%E9%A2%84%E8%A7%88.jpg",
+      "title": "Mistral 娘（法棍猫猫）的横版设定图",
+      "checked_on": "2026-11-16",
+      "evidence_level": "setting_board_preview_viewed",
+      "note": "本轮查看缩略设定板；未逐项读取全部原尺寸素材。"
+    },
+    {
+      "id": "src-fafc788f42",
+      "url": "https://github.com/TreapGoGo/deepseek-whale-girl/blob/1a47dcdbe33beb1da1b342024675cd1bc9620ed5/site/assets/gallery/manifest.json",
+      "title": "TreapGoGo图库：150条作品元数据",
+      "checked_on": "2026-11-16",
+      "evidence_level": "pinned_gallery_manifest",
+      "note": "对比原128条快照得到22个新增作品ID；未下载或逐图审核新增作品。清单内部updated字段仍为2026-10-04，目录进度以固定提交与ID差异为准。"
+    },
+    {
+      "id": "src-a48dddef0b",
+      "url": "https://weekly.xn--pssy23gqgbz2d718b.com/issues/weekly-004/",
+      "title": "AI娘周刊第4期：11月7至15日发现入口",
+      "checked_on": "2026-11-16",
+      "evidence_level": "curator_metadata_only",
+      "note": "用作新作品发现入口；本库另读B站元数据，不把周刊榜位当成全站排名。"
+    },
+    {
+      "id": "src-84bb2545dc",
+      "url": "https://weekly.xn--pssy23gqgbz2d718b.com/rules/",
+      "title": "AI娘周刊计分与收录规则",
+      "checked_on": "2026-11-16",
+      "evidence_level": "web_page_text",
+      "note": "常规榜使用周期指标净增量，点赞与分享不参与当前公式；只是周刊已发现作品的榜单。"
+    },
+    {
+      "id": "src-d7fdd860c4",
+      "url": "https://www.bilibili.com/video/BV1GJWy6rEQz/",
+      "title": "【带着AI穿越2018】#6 蓝色大肥鱼单刀赴会阿美莉卡",
+      "checked_on": "2026-11-16",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "本轮读取标题、UP主、简介、分P及公开指标，未完整播放、抽帧或试听。"
+    },
+    {
+      "id": "src-3cd4a9861d",
+      "url": "https://www.bilibili.com/video/BV13hWj68ELy/",
+      "title": "大肥鱼适合做女朋友吗？（3）",
+      "checked_on": "2026-11-16",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "本轮读取标题、UP主、简介、分P及公开指标，未完整播放、抽帧或试听。"
+    },
+    {
+      "id": "src-30db7a3996",
+      "url": "https://www.bilibili.com/video/BV1dGWg67Evr/",
+      "title": "养了大肥鱼以后，家里的米就没够吃过",
+      "checked_on": "2026-11-16",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "本轮读取标题、UP主、简介、分P及公开指标，未完整播放、抽帧或试听。"
+    },
+    {
+      "id": "src-1fa68e93d1",
+      "url": "https://www.bilibili.com/video/BV1GsWv6jErZ/",
+      "title": "当家里的大肥鱼被饿了好几个小时以后",
+      "checked_on": "2026-11-16",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "本轮读取标题、UP主、简介、分P及公开指标，未完整播放、抽帧或试听。"
+    },
+    {
+      "id": "src-3be8fc0a3a",
+      "url": "https://www.bilibili.com/video/BV1MaWv6rEo3/",
+      "title": "臭肥鱼害我把情书交给辅导员了！【人和肥鱼03】",
+      "checked_on": "2026-11-16",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "本轮读取标题、UP主、简介、分P及公开指标，未完整播放、抽帧或试听。"
+    },
+    {
+      "id": "src-76de574afd",
+      "url": "https://www.bilibili.com/video/BV1JrWJ6JERj/",
+      "title": "【大肥鱼×claude】非凡之爱",
+      "checked_on": "2026-11-16",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "本轮读取标题、UP主、简介、分P及公开指标，未完整播放、抽帧或试听。"
+    },
+    {
+      "id": "src-508e25775d",
+      "url": "https://www.bilibili.com/video/BV1ziWP6qEPU/",
+      "title": "豆包：那条大肥鱼到底哪里好，让你迷恋了这么多年",
+      "checked_on": "2026-11-16",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "本轮读取标题、UP主、简介、分P及公开指标，未完整播放、抽帧或试听。"
+    },
+    {
+      "id": "src-4078594466",
+      "url": "https://www.bilibili.com/video/BV1sgWn68Ewt/",
+      "title": "用户：不，大肥鱼你来的正是时候",
+      "checked_on": "2026-11-16",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "本轮读取标题、UP主、简介、分P及公开指标，未完整播放、抽帧或试听。"
+    },
+    {
+      "id": "src-b120f1fea6",
+      "url": "https://www.bilibili.com/video/BV1TLWi6GEfi/",
+      "title": "首先大肥鱼没这么智能，其次快给我关掉啊喂！",
+      "checked_on": "2026-11-16",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "本轮读取标题、UP主、简介、分P及公开指标，未完整播放、抽帧或试听。"
+    },
+    {
+      "id": "src-f5d0d72e3c",
+      "url": "https://www.bilibili.com/video/BV1vB4p6fEu1/",
+      "title": "【大肥鱼短片】请你扮演昨天的自己【HiShorts! × updream AI短片大赛-剧情单元】",
+      "checked_on": "2026-11-16",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "本轮读取标题、UP主、简介、分P及公开指标，未完整播放、抽帧或试听。"
+    },
+    {
+      "id": "src-1cae6b36fc",
+      "url": "https://www.bilibili.com/video/BV1VM4L6TEyL/",
+      "title": "首先大肥鱼还没那么智能其次快给我关掉它",
+      "checked_on": "2026-11-16",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "本轮读取标题、UP主、简介、分P及公开指标，未完整播放、抽帧或试听。"
+    },
+    {
+      "id": "src-4b9800aede",
+      "url": "https://www.bilibili.com/video/BV1Vt4x6PENC/",
+      "title": "DeepSeek入侵每个游戏Pt. 3",
+      "checked_on": "2026-11-16",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "本轮读取标题、UP主、简介、分P及公开指标，未完整播放、抽帧或试听。"
+    },
+    {
+      "id": "src-536202ea53",
+      "url": "https://www.bilibili.com/video/BV1HFWY6REJD/",
+      "title": "梁武帝携大肥鱼热跳dangerous",
+      "checked_on": "2026-11-16",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "本轮读取标题、UP主、简介、分P及公开指标，未完整播放、抽帧或试听。"
+    },
+    {
+      "id": "src-6b01a06b3c",
+      "url": "https://www.bilibili.com/video/BV1YGWQ6bEn5/",
+      "title": "小傻龙：“最近家里好多鱼……”",
+      "checked_on": "2026-11-16",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "本轮读取标题、UP主、简介、分P及公开指标，未完整播放、抽帧或试听。"
+    },
+    {
+      "id": "src-475b03af95",
+      "url": "https://www.bilibili.com/video/BV1QrWn6MEus/",
+      "title": "梁&大肥鱼：非凡之爱",
+      "checked_on": "2026-11-16",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "本轮读取标题、UP主、简介、分P及公开指标，未完整播放、抽帧或试听。"
+    },
+    {
+      "id": "src-c793453c6f",
+      "url": "https://www.bilibili.com/video/BV14C456WEXN/",
+      "title": "谁是最适合当老婆的AI？五个AI挑战逆天恋爱测试题！【牢大百科16】",
+      "checked_on": "2026-11-16",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "本轮读取标题、UP主、简介、分P及公开指标，未完整播放、抽帧或试听。"
+    },
+    {
+      "id": "src-f87064457d",
+      "url": "https://www.bilibili.com/video/BV1aiW86YE5K/",
+      "title": "🐟️等智械危机我第一个枪毙你！🐟️",
+      "checked_on": "2026-11-16",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "本轮读取标题、UP主、简介、分P及公开指标，未完整播放、抽帧或试听。"
+    },
+    {
+      "id": "src-1559938881",
+      "url": "https://www.bilibili.com/video/BV1U4Wd6vEWj/",
+      "title": "啊？那地上这根竹签都是狗吃的",
+      "checked_on": "2026-11-16",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "本轮读取标题、UP主、简介、分P及公开指标，未完整播放、抽帧或试听。"
+    },
+    {
+      "id": "src-ac5bfcd60d",
+      "url": "https://www.bilibili.com/video/BV1Qw4n61ELE/",
+      "title": "大肥鱼唱《海阔天空》纯享版",
+      "checked_on": "2026-11-16",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "本轮读取标题、UP主、简介、分P及公开指标，未完整播放、抽帧或试听。"
+    },
+    {
+      "id": "src-0fe554abf3",
+      "url": "https://www.bilibili.com/video/BV1brW86FEKb/",
+      "title": "肥鱼笑传之Clip Caught Busted",
+      "checked_on": "2026-11-16",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "本轮读取标题、UP主、简介、分P及公开指标，未完整播放、抽帧或试听。"
+    },
+    {
+      "id": "src-2d17694185",
+      "url": "https://www.bilibili.com/video/BV1oA446uEKW/",
+      "title": "家养ai太花token了:吃自助吃到被禁止入内是什么体验",
+      "checked_on": "2026-11-16",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "本轮读取标题、UP主、简介、分P及公开指标，未完整播放、抽帧或试听。"
+    },
+    {
+      "id": "src-08400cb9db",
+      "url": "https://www.bilibili.com/video/BV1Jo456yES9/",
+      "title": "当你对7个AI说：我要去用别的AI了",
+      "checked_on": "2026-11-16",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "本轮读取标题、UP主、简介、分P及公开指标，未完整播放、抽帧或试听。"
+    },
+    {
+      "id": "src-cea9b8ee5f",
+      "url": "https://www.bilibili.com/video/BV1sUW86sEC3/",
+      "title": "大肥鱼唱《Billie Jean》纯享版",
+      "checked_on": "2026-11-16",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "本轮读取标题、UP主、简介、分P及公开指标，未完整播放、抽帧或试听。"
+    },
+    {
+      "id": "src-065aaca1a2",
+      "url": "https://www.bilibili.com/video/BV14eWv6gEL7/",
+      "title": "大肥鱼你再串我就保不住你了",
+      "checked_on": "2026-11-16",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "本轮读取标题、UP主、简介、分P及公开指标，未完整播放、抽帧或试听。"
+    },
+    {
+      "id": "src-7fb960a76e",
+      "url": "https://www.bilibili.com/video/BV1qcWJ62EXu/",
+      "title": "大肥鱼：鱼音绕梁～",
+      "checked_on": "2026-11-16",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "本轮读取标题、UP主、简介、分P及公开指标，未完整播放、抽帧或试听。"
+    },
+    {
+      "id": "src-462b39f1ef",
+      "url": "https://genderswapai.com/zh-CN/ai-gijinka/whale-persona",
+      "title": "GenderSwapAI原创鲸鱼娘聊天人格",
+      "checked_on": "2026-11-16",
+      "evidence_level": "author_published_persona_text",
+      "note": "本站独立提示词及编辑写作演示；页面明确演示未经过模型实测。"
+    },
+    {
+      "id": "src-baf42d9116",
+      "url": "https://github.com/Kaalia0912/dsh-whale-musume-persona/blob/55fe3cbc6a08f0e10fa690477449d413fe08bf09/PERSONA.md",
+      "title": "Kaalia0912：DSH编码人格",
+      "checked_on": "2026-11-16",
+      "evidence_level": "pinned_author_persona_text",
+      "note": "只阅读原文与导入说明，没有安装、调用或测试该项目；作者文字设定不当作真实模型默认人格。"
+    },
+    {
+      "id": "src-d63e1ab517",
+      "url": "https://github.com/whyever77/dafeiyu-astrbot/blob/64274354c4331591620a925b3df498725df4564f/persona/%E5%A4%A7%E8%82%A5%E9%B1%BC-%E4%BA%BA%E6%A0%BC.md",
+      "title": "whyever77：AstrBot日常人格",
+      "checked_on": "2026-11-16",
+      "evidence_level": "pinned_author_persona_text",
+      "note": "只阅读原文与导入说明，没有安装、调用或测试该项目；作者文字设定不当作真实模型默认人格。"
+    },
+    {
+      "id": "src-da3d2680ed",
+      "url": "https://github.com/ferngherng-lab/ai-chan-pose-gallery/blob/2feaaf84fc67ec59742e0e9a6cb2d29d74a0e239/README.md",
+      "title": "ferngherng-lab/ai-chan-pose-gallery：固定项目说明",
+      "checked_on": "2026-11-16",
+      "evidence_level": "pinned_repository_text",
+      "note": "读取项目入口与适用范围，未安装第三方程序。"
+    },
+    {
+      "id": "src-46b5e89f12",
+      "url": "https://github.com/Kaalia0912/dsh-whale-musume-persona/blob/55fe3cbc6a08f0e10fa690477449d413fe08bf09/README.md",
+      "title": "Kaalia0912/dsh-whale-musume-persona：固定项目说明",
+      "checked_on": "2026-11-16",
+      "evidence_level": "pinned_repository_text",
+      "note": "读取项目入口与适用范围，未安装第三方程序。"
+    },
+    {
+      "id": "src-113d2d96fd",
+      "url": "https://github.com/whyever77/dafeiyu-astrbot/blob/64274354c4331591620a925b3df498725df4564f/README.md",
+      "title": "whyever77/dafeiyu-astrbot：固定项目说明",
+      "checked_on": "2026-11-16",
+      "evidence_level": "pinned_repository_text",
+      "note": "读取项目入口与适用范围，未安装第三方程序。"
+    },
+    {
+      "id": "src-10117d9e0a",
+      "url": "https://github.com/SelinLee/ai-moe-atlas/blob/e396e0305caba54f4a9b3a929f27f4af70489310/content/research/2026-11-07/cancan-ai-girl-character-gallery.json",
+      "title": "AI Moe Atlas近期作者资料索引",
+      "checked_on": "2026-11-16",
+      "evidence_level": "pinned_repository_index",
+      "note": "用作灿灿同学原帖的发现入口，本库另读原帖文字；未把维护者记录直接当作逐图复核。"
+    },
+    {
+      "id": "src-8824dbce95",
+      "url": "https://www.bilibili.com/opus/1259662694779191301",
+      "title": "灿灿同学：视频中用到的AI娘形象",
+      "checked_on": "2026-11-16",
+      "evidence_level": "author_publication_text",
+      "note": "作者明确称多数原设来自ZipZipPipe、由GPT二创；正文列11个角色标签，本轮只读标签与署名，未逐图判定对应关系。"
+    },
+    {
+      "id": "src-98c288b459",
+      "url": "https://genderswapai.com/zh-CN/ai-gijinka/brand-to-character",
+      "title": "GenderSwapAI：品牌标志与九位角色设计",
+      "checked_on": "2026-11-16",
+      "evidence_level": "web_page_text",
+      "note": "比较标志与衣饰；复用已有原图来源，不把此页当作新图或独立许可。"
+    },
+    {
+      "id": "src-91cd4bef0a",
+      "url": "https://wulusai.net/AI/AI%E5%A8%98%E6%A1%A3%E6%A1%88",
+      "title": "呜路塞：13位AI娘档案与场景图说明",
+      "checked_on": "2026-11-16",
+      "evidence_level": "web_page_text",
+      "note": "已有立绘的二次导航，场景重绘与原图分开，不重复计成13个新角色。"
+    },
+    {
+      "id": "src-61bdef6382",
+      "url": "https://github.com/lmy414/ai-girl-stickers/blob/c0c592d2eb6812fffa29501561a586b15970966c/README.md",
+      "title": "lmy414图片存档：站点源码已分离至bluedafeiyu",
+      "checked_on": "2026-11-16",
+      "evidence_level": "pinned_repository_text",
+      "note": "读取现行README，图片、投稿和下架入口仍在本仓库；站点页面、结构化数据与程序移至独立仓库。"
     }
   ]
 }

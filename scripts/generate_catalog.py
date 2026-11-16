@@ -72,7 +72,7 @@ def outputs():
         all_rows.append({
             'video_id': video['id'], 'title': video['title'], 'author': video['author'],
             'url': video['url'], 'primary_genre': genre,
-            'genre_title': category_names.get(genre, '社区印象语境（未作画面品类分析）'),
+            'genre_title': category_names.get(genre, video.get('category', '尚未分类，观察范围见记录')),
             'classification_basis': video.get('classification_basis', video['review_scope']),
             'visual_styles_observed': study.get('visual_styles', video.get('visual_styles', [])),
             'duration_seconds': video.get('duration_seconds'),
@@ -94,7 +94,7 @@ def outputs():
     result['README.md'] = block((ROOT / 'README.md').read_text(encoding='utf-8'), 'stats', stats)
     video_stats = (
         f"当前 **{coverage['video_records']} 条视频记录**：{classified} 条进入现有主品类索引，"
-        f"另 {unclassified} 条仅用于社区印象语境，尚未归入画面品类；"
+        f"另 {unclassified} 条为社区印象或近期作品发现入口，尚未归入画面品类；"
         f"**{coverage['video_study_cases']} 篇抽帧案例**覆盖 {coverage['video_content_categories']} 个内容品类。"
         "其中21篇是AI娘作品、2篇是关联制作方法参考。观察范围以每条记录为准。")
     result['videos/README.md'] = block((ROOT / 'videos/README.md').read_text(encoding='utf-8'), 'video-stats', video_stats)
@@ -108,7 +108,7 @@ def outputs():
     persona_stats = (
         f"当前共 **{coverage['persona_profiles']} 份人设资料**："
         f"{coverage['editorial_persona_profiles']} 份本库原创工作草案、"
-        f"{coverage['source_summary_persona_profiles']} 份作者原设摘要；"
+        f"{coverage['source_summary_persona_profiles']} 份来源资料摘要；"
         f"**{coverage['original_persona_dialogues']} 句同题原创对白**。"
         f"{coverage['written_persona_branch_entities']} 个条目有作者文字分支，"
         f"{coverage['persona_official_context_entities']} 个条目接入产品资料语境。"
@@ -137,11 +137,11 @@ def outputs():
         'creator_records': '贡献者/作者记录', 'community_impression_records': '社区印象记录',
         'community_impression_characters': '社区印象涉及角色', 'community_pending_leads': '社区印象待核线索',
         'public_comment_samples': '公开评论样本', 'persona_profiles': '人设资料档案（含来源摘要）',
-        'editorial_persona_profiles': '本库原创工作人设', 'source_summary_persona_profiles': '作者原设摘要',
+        'editorial_persona_profiles': '本库原创工作人设', 'source_summary_persona_profiles': '来源资料摘要（可含待补性格）',
         'original_persona_dialogues': '原创对白', 'real_product_dialogue_samples': '真实产品对话采样',
         'model_branch_collection_records': '模型与工具分支专题记录',
-        'model_branch_image_reviews': '本轮分支原图实际查看',
-        'model_branch_text_only_records': '本轮仅文字分支',
+        'model_branch_image_reviews': '模型分支专题已查看原图（2026-10）',
+        'model_branch_text_only_records': '模型分支专题仅文字（2026-10）',
     }
     rows = [f'| {label} | {coverage[key]} |' for key, label in labels.items()]
     result['docs/collection-status.md'] = (
@@ -149,7 +149,7 @@ def outputs():
         f"目录整理日期：{coverage['checked_on']}；来源采集日期各自保留，不能把目录更新理解为全部来源当天重查。\n\n"
         '由 `data/coverage.json` 生成，`verify.py` 再与主记录逐项对照。\n\n'
         '| 项目 | 数量 |\n| --- | ---: |\n' + '\n'.join(rows) + '\n\n'
-        f'视频的 {classified} 条已有主品类，{unclassified} 条仅作社区印象语境；抽帧不等于完整观看或试听。'
+        f'视频的 {classified} 条已有主品类，{unclassified} 条尚未进入画面分类，具体用途与观察范围见记录；抽帧不等于完整观看或试听。'
         '角色单位含模型、产品、工具、平台与历史项目，不能当作市场覆盖率。'
         '原创人设与对白不等于社区共识或真实模型输出。\n')
     return result

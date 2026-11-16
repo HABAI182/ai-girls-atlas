@@ -6,8 +6,8 @@
       "repository": "SelinLee/ai-moe-atlas",
       "url": "https://github.com/SelinLee/ai-moe-atlas",
       "homepage": "https://selinlee.github.io/ai-moe-atlas/",
-      "commit_sha": "018bc3ca6c8d946006dacfc0bca7bf65a6dff4d6",
-      "git_tree_sha": "0d954517b34f94b133e67aa72e099cfc24a79678",
+      "commit_sha": "e396e0305caba54f4a9b3a929f27f4af70489310",
+      "git_tree_sha": "e396e0305caba54f4a9b3a929f27f4af70489310",
       "kind": "多语图鉴与素材工坊",
       "value_for_atlas": "补全MiniMax/Llama原图，借鉴逐作品来源与文件处理记录。",
       "rights_note": "逐图条件；生成参考与作者原图分开。",
@@ -26,11 +26,19 @@
         "zipzippipe-pixiv-148186519-p15"
       ],
       "source_ids": [
-        "src-2f1b5b7594"
+        "src-2f1b5b7594",
+        "src-10117d9e0a"
       ],
       "review_scope": "public_repository_docs_and_tree",
       "runtime_tested": false,
-      "checked_on": "2026-10-21"
+      "checked_on": "2026-11-16",
+      "previous_snapshots": [
+        {
+          "commit_sha": "018bc3ca6c8d946006dacfc0bca7bf65a6dff4d6",
+          "git_tree_sha": "0d954517b34f94b133e67aa72e099cfc24a79678",
+          "checked_on": "2026-10-21"
+        }
+      ]
     },
     {
       "id": "project-apprentice-geo",
@@ -169,21 +177,29 @@
       "repository": "TreapGoGo/deepseek-whale-girl",
       "url": "https://github.com/TreapGoGo/deepseek-whale-girl",
       "homepage": "https://treapgogo.github.io/deepseek-whale-girl/",
-      "commit_sha": "99fdf6e419a4097cc9b2d6a8a808f7b96a412e38",
-      "git_tree_sha": "fc8e91a6136046207b217237ac1d400a62c741c2",
+      "commit_sha": "1a47dcdbe33beb1da1b342024675cd1bc9620ed5",
+      "git_tree_sha": "1a47dcdbe33beb1da1b342024675cd1bc9620ed5",
       "kind": "二创资源与工作流",
-      "value_for_atlas": "从单一角色入口继续发现服装、绘画和社区项目。",
+      "value_for_atlas": "从单一角色入口继续发现服装、绘画和社区项目。 本轮图库128→150，新增22个作品ID导航。",
       "rights_note": "网站MIT不覆盖所有角色图；工作流为参考链接。",
       "character_ids": [
         "deepseek"
       ],
       "local_asset_ids": [],
       "source_ids": [
-        "src-8b2c1a1e58"
+        "src-8b2c1a1e58",
+        "src-fafc788f42"
       ],
       "review_scope": "public_repository_docs_and_tree",
       "runtime_tested": false,
-      "checked_on": "2026-10-21"
+      "checked_on": "2026-11-16",
+      "previous_snapshots": [
+        {
+          "commit_sha": "99fdf6e419a4097cc9b2d6a8a808f7b96a412e38",
+          "git_tree_sha": "fc8e91a6136046207b217237ac1d400a62c741c2",
+          "checked_on": "2026-10-21"
+        }
+      ]
     },
     {
       "id": "project-aatinf",
@@ -464,6 +480,112 @@
       "review_scope": "pinned_repository_files_and_actual_model_or_image_checks",
       "runtime_tested": true,
       "checked_on": "2026-10-21"
+    },
+    {
+      "id": "project-lmy-sheets",
+      "repository": "lmy414/ai-chan-sheets",
+      "url": "https://github.com/lmy414/ai-chan-sheets",
+      "homepage": "",
+      "commit_sha": "171116808adad57f1c0ec347ff50c07d5095676f",
+      "kind": "完整设定板与切片来源",
+      "value_for_atlas": "19板；作者原图与推定补全分开，6张预览本轮实际查看。",
+      "rights_note": "代码、提示词、角色原图与补全各按来源范围；本轮不加入Release。",
+      "character_ids": [
+        "glm",
+        "gpt",
+        "deepseek",
+        "wenxin",
+        "qwen",
+        "kimi",
+        "seed",
+        "minimax",
+        "grok",
+        "gemini",
+        "claude",
+        "mimo",
+        "longcat",
+        "mistral"
+      ],
+      "local_asset_ids": [],
+      "source_ids": [
+        "src-d5debdfbdd"
+      ],
+      "review_scope": "pinned_repository_text_only",
+      "runtime_tested": false,
+      "checked_on": "2026-11-16"
+    },
+    {
+      "id": "project-ferngherng-pose",
+      "repository": "ferngherng-lab/ai-chan-pose-gallery",
+      "url": "https://github.com/ferngherng-lab/ai-chan-pose-gallery",
+      "homepage": "",
+      "commit_sha": "2feaaf84fc67ec59742e0e9a6cb2d29d74a0e239",
+      "kind": "姿势、服装与AI娘参考台",
+      "value_for_atlas": "对接设定板的形象、服饰与14槽位换装入口；只读README，未验证合成效果。",
+      "rights_note": "代码、提示词、角色原图与补全各按来源范围；本轮不加入Release。",
+      "character_ids": [
+        "glm",
+        "gpt",
+        "deepseek",
+        "wenxin",
+        "qwen",
+        "kimi",
+        "seed",
+        "minimax",
+        "grok",
+        "gemini",
+        "claude",
+        "mimo",
+        "longcat",
+        "mistral"
+      ],
+      "local_asset_ids": [],
+      "source_ids": [
+        "src-da3d2680ed"
+      ],
+      "review_scope": "pinned_repository_text_only",
+      "runtime_tested": false,
+      "checked_on": "2026-11-16"
+    },
+    {
+      "id": "project-kaalia-persona",
+      "repository": "Kaalia0912/dsh-whale-musume-persona",
+      "url": "https://github.com/Kaalia0912/dsh-whale-musume-persona",
+      "homepage": "",
+      "commit_sha": "55fe3cbc6a08f0e10fa690477449d413fe08bf09",
+      "kind": "DSH人格提示词",
+      "value_for_atlas": "声明式preset的文字人格参考；未安装。",
+      "rights_note": "代码、提示词、角色原图与补全各按来源范围；本轮不加入Release。",
+      "character_ids": [
+        "deepseek"
+      ],
+      "local_asset_ids": [],
+      "source_ids": [
+        "src-46b5e89f12"
+      ],
+      "review_scope": "pinned_repository_text_only",
+      "runtime_tested": false,
+      "checked_on": "2026-11-16"
+    },
+    {
+      "id": "project-whyever-astrbot",
+      "repository": "whyever77/dafeiyu-astrbot",
+      "url": "https://github.com/whyever77/dafeiyu-astrbot",
+      "homepage": "",
+      "commit_sha": "64274354c4331591620a925b3df498725df4564f",
+      "kind": "聊天、语音与记忆接入参考",
+      "value_for_atlas": "人格文本、导入指南和音色链路文档；作者测试记录不作为本库实测。",
+      "rights_note": "代码、提示词、角色原图与补全各按来源范围；本轮不加入Release。",
+      "character_ids": [
+        "deepseek"
+      ],
+      "local_asset_ids": [],
+      "source_ids": [
+        "src-113d2d96fd"
+      ],
+      "review_scope": "pinned_repository_text_only",
+      "runtime_tested": false,
+      "checked_on": "2026-11-16"
     }
   ]
 }

@@ -52,3 +52,13 @@
 选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。
 
 [真实对话样本的当前状态与记录格式](real-dialogue-samples.md)。
+
+## 2026-11-16新增独立人格参考
+
+| 来源 | 人设适用场景 | 原文 |
+| --- | --- | --- |
+| GenderSwapAI | 把用户当熟悉朋友，日常短答；认真问题转入具体帮助，米饭与尾巴只按情境出现。 | [作者文本](https://genderswapai.com/zh-CN/ai-gijinka/whale-persona) |
+| Kaalia0912 | 平时惜力、嘴硬心软；技术工作重证据，角色口吻放在说明中，保留干净的代码与命令。 | [作者文本](https://github.com/Kaalia0912/dsh-whale-musume-persona/blob/55fe3cbc6a08f0e10fa690477449d413fe08bf09/PERSONA.md) |
+| whyever77 | 短泡聊天与熟人式接话，群聊按身份称呼；撒娇与关心按上下文变化，语音和记忆依赖实际后端。 | [作者文本](https://github.com/whyever77/dafeiyu-astrbot/blob/64274354c4331591620a925b3df498725df4564f/persona/%E5%A4%A7%E8%82%A5%E9%B1%BC-%E4%BA%BA%E6%A0%BC.md) |
+
+只读作者文本，未安装或采样，不替代已有社区印象与原有原创草案。

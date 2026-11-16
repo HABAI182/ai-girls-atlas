@@ -1,0 +1,538 @@
+{
+  "schema_version": 1,
+  "checked_on": "2026-11-16",
+  "baseline_commit": "21fa0746ab6cdee2f19c0c99828f87e063b13565",
+  "upstream_heads": [
+    {
+      "repository": "HABAI182/ai-girls-atlas",
+      "commit_sha": "21fa0746ab6cdee2f19c0c99828f87e063b13565",
+      "committed_on": "2026-10-22T06:20:39Z",
+      "message": "Collect six model characters and nine model-specific design branches"
+    },
+    {
+      "repository": "TreapGoGo/deepseek-whale-girl",
+      "commit_sha": "1a47dcdbe33beb1da1b342024675cd1bc9620ed5",
+      "committed_on": "2026-10-24T09:29:56Z",
+      "message": "Curate-October-community-artwork-and-resources"
+    },
+    {
+      "repository": "shuaizenge/ai-girls",
+      "commit_sha": "dcd69f5f4f2dff1a9c0031e82deb49e0fe949c76",
+      "committed_on": "2026-10-20T15:08:37Z",
+      "message": "add: 新增llama、mistral、混元、小米、豆包形象"
+    },
+    {
+      "repository": "larcgpt/ai-model-musume",
+      "commit_sha": "8899faddadb58f639722eb1db2e1e6458893246b",
+      "committed_on": "2026-06-30T05:52:19Z",
+      "message": "Update README: add character numbers, detailed table from settings.md"
+    },
+    {
+      "repository": "lmy414/ai-girl-stickers",
+      "commit_sha": "c0c592d2eb6812fffa29501561a586b15970966c",
+      "committed_on": "2026-11-15T16:11:08Z",
+      "message": "feat: 后台发布 run_1794758420805_c572e121（新增 2、修改 0、隐藏 0、删除 0、专题 0）"
+    },
+    {
+      "repository": "whyever77/dafeiyu-astrbot",
+      "commit_sha": "64274354c4331591620a925b3df498725df4564f",
+      "committed_on": "2026-11-10T10:23:03Z",
+      "message": "test(proactive_chat): 安装器基线测试适配方括号分泡补丁 (#39)"
+    },
+    {
+      "repository": "ferngherng-lab/ai-chan-pose-gallery",
+      "commit_sha": "2feaaf84fc67ec59742e0e9a6cb2d29d74a0e239",
+      "committed_on": "2026-11-07T16:42:19Z",
+      "message": "v34: bat 遷移自癒 + plan release（sujmao 鏡像操作）"
+    },
+    {
+      "repository": "Kaalia0912/dsh-whale-musume-persona",
+      "commit_sha": "55fe3cbc6a08f0e10fa690477449d413fe08bf09",
+      "committed_on": "2026-11-12T13:24:26Z",
+      "message": "feat: migrate whale persona to declarative DSH preset"
+    },
+    {
+      "repository": "SelinLee/ai-moe-atlas",
+      "commit_sha": "e396e0305caba54f4a9b3a929f27f4af70489310",
+      "committed_on": "2026-11-09T05:08:51Z",
+      "message": "Use plain text for song table credits, versions and likes"
+    },
+    {
+      "repository": "lmy414/ai-chan-sheets",
+      "sha": "171116808adad57f1c0ec347ff50c07d5095676f",
+      "date": "2026-11-12T07:38:45Z"
+    }
+  ],
+  "boards": [
+    {
+      "id": "lmy-sheets-01",
+      "character_id": "glm",
+      "title": "01 · 阔耳狐娘",
+      "source_id": "src-534b6ee3e4",
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/01_%E6%99%BA%E8%B0%B1GLM%E5%A8%98_%E9%98%94%E8%80%B3%E7%8B%90%E5%A8%98/%E5%AE%8C%E6%95%B4%E8%AE%BE%E5%AE%9A%E5%9B%BE_%E6%B5%8F%E8%A7%88%E9%A2%84%E8%A7%88.jpg",
+      "folder_url": "https://github.com/lmy414/ai-chan-sheets/tree/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/01_%E6%99%BA%E8%B0%B1GLM%E5%A8%98_%E9%98%94%E8%80%B3%E7%8B%90%E5%A8%98",
+      "review_scope": "author_readme_metadata_only"
+    },
+    {
+      "id": "lmy-sheets-02",
+      "character_id": "gpt",
+      "title": "02 · 白龙娘",
+      "source_id": "src-34fbf4b4b4",
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/02_GPT%E5%A8%98_%E7%99%BD%E9%BE%99%E5%A8%98/%E5%AE%8C%E6%95%B4%E8%AE%BE%E5%AE%9A%E5%9B%BE_%E6%B5%8F%E8%A7%88%E9%A2%84%E8%A7%88.jpg",
+      "folder_url": "https://github.com/lmy414/ai-chan-sheets/tree/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/02_GPT%E5%A8%98_%E7%99%BD%E9%BE%99%E5%A8%98",
+      "review_scope": "author_readme_metadata_only"
+    },
+    {
+      "id": "lmy-sheets-03",
+      "character_id": "deepseek",
+      "title": "03 · 鲸鱼娘",
+      "source_id": "src-c465583de3",
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/03_DeepSeek%E5%A8%98_%E9%B2%B8%E9%B1%BC%E5%A8%98/%E5%AE%8C%E6%95%B4%E8%AE%BE%E5%AE%9A%E5%9B%BE_%E6%B5%8F%E8%A7%88%E9%A2%84%E8%A7%88.jpg",
+      "folder_url": "https://github.com/lmy414/ai-chan-sheets/tree/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/03_DeepSeek%E5%A8%98_%E9%B2%B8%E9%B1%BC%E5%A8%98",
+      "review_scope": "author_readme_metadata_only"
+    },
+    {
+      "id": "lmy-sheets-04",
+      "character_id": "wenxin",
+      "title": "04 · 蓝发轮椅少女",
+      "source_id": "src-b27b70d31a",
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/04_%E6%96%87%E5%BF%83%E4%B8%80%E8%A8%80%E5%A8%98/%E5%AE%8C%E6%95%B4%E8%AE%BE%E5%AE%9A%E5%9B%BE_%E6%B5%8F%E8%A7%88%E9%A2%84%E8%A7%88.jpg",
+      "folder_url": "https://github.com/lmy414/ai-chan-sheets/tree/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/04_%E6%96%87%E5%BF%83%E4%B8%80%E8%A8%80%E5%A8%98",
+      "review_scope": "author_readme_metadata_only"
+    },
+    {
+      "id": "lmy-sheets-05",
+      "character_id": "qwen",
+      "title": "05 · Qwen",
+      "source_id": "src-58cbe2a704",
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/05_%E9%80%9A%E4%B9%89%E5%8D%83%E9%97%AE%E5%A8%98_Qwen/%E5%AE%8C%E6%95%B4%E8%AE%BE%E5%AE%9A%E5%9B%BE_%E6%B5%8F%E8%A7%88%E9%A2%84%E8%A7%88.jpg",
+      "folder_url": "https://github.com/lmy414/ai-chan-sheets/tree/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/05_%E9%80%9A%E4%B9%89%E5%8D%83%E9%97%AE%E5%A8%98_Qwen",
+      "review_scope": "author_readme_metadata_only"
+    },
+    {
+      "id": "lmy-sheets-06",
+      "character_id": "kimi",
+      "title": "06 · Moonshot",
+      "source_id": "src-11a9ec60cd",
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/06_Kimi%E5%A8%98_Moonshot/%E5%AE%8C%E6%95%B4%E8%AE%BE%E5%AE%9A%E5%9B%BE_%E6%B5%8F%E8%A7%88%E9%A2%84%E8%A7%88.jpg",
+      "folder_url": "https://github.com/lmy414/ai-chan-sheets/tree/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/06_Kimi%E5%A8%98_Moonshot",
+      "review_scope": "author_readme_metadata_only"
+    },
+    {
+      "id": "lmy-sheets-07",
+      "character_id": "seed",
+      "title": "07 · 紫发高马尾",
+      "source_id": "src-d476200720",
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/07_%E8%B1%86%E5%8C%85Seed%E5%A8%98/%E5%AE%8C%E6%95%B4%E8%AE%BE%E5%AE%9A%E5%9B%BE_%E6%B5%8F%E8%A7%88%E9%A2%84%E8%A7%88.jpg",
+      "folder_url": "https://github.com/lmy414/ai-chan-sheets/tree/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/07_%E8%B1%86%E5%8C%85Seed%E5%A8%98",
+      "review_scope": "author_readme_metadata_only"
+    },
+    {
+      "id": "lmy-sheets-08",
+      "character_id": "minimax",
+      "title": "08 · 海螺 AI",
+      "source_id": "src-919dc08c0f",
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/08_MiniMax%E5%A8%98_%E6%B5%B7%E8%9E%BAAI/%E5%AE%8C%E6%95%B4%E8%AE%BE%E5%AE%9A%E5%9B%BE_%E6%B5%8F%E8%A7%88%E9%A2%84%E8%A7%88.jpg",
+      "folder_url": "https://github.com/lmy414/ai-chan-sheets/tree/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/08_MiniMax%E5%A8%98_%E6%B5%B7%E8%9E%BAAI",
+      "review_scope": "author_readme_metadata_only"
+    },
+    {
+      "id": "lmy-sheets-09",
+      "character_id": "grok",
+      "title": "09 · 金发吸血鬼",
+      "source_id": "src-fe655a5ce9",
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/09_Grok%E5%A8%98_xAI/%E5%AE%8C%E6%95%B4%E8%AE%BE%E5%AE%9A%E5%9B%BE_%E6%B5%8F%E8%A7%88%E9%A2%84%E8%A7%88.jpg",
+      "folder_url": "https://github.com/lmy414/ai-chan-sheets/tree/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/09_Grok%E5%A8%98_xAI",
+      "review_scope": "author_readme_metadata_only"
+    },
+    {
+      "id": "lmy-sheets-10",
+      "character_id": "gemini",
+      "title": "10 · 四角星猫耳",
+      "source_id": "src-d61db244b3",
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/10_Gemini%E5%A8%98/%E5%AE%8C%E6%95%B4%E8%AE%BE%E5%AE%9A%E5%9B%BE_%E6%B5%8F%E8%A7%88%E9%A2%84%E8%A7%88.jpg",
+      "folder_url": "https://github.com/lmy414/ai-chan-sheets/tree/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/10_Gemini%E5%A8%98",
+      "review_scope": "author_readme_metadata_only"
+    },
+    {
+      "id": "lmy-sheets-11",
+      "character_id": "claude",
+      "title": "11 · 橘发与菊花纹",
+      "source_id": "src-1ce01a3b4a",
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/11_Claude%E5%A8%98_Anthropic/%E5%AE%8C%E6%95%B4%E8%AE%BE%E5%AE%9A%E5%9B%BE_%E6%B5%8F%E8%A7%88%E9%A2%84%E8%A7%88.jpg",
+      "folder_url": "https://github.com/lmy414/ai-chan-sheets/tree/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/11_Claude%E5%A8%98_Anthropic",
+      "review_scope": "author_readme_metadata_only"
+    },
+    {
+      "id": "lmy-sheets-12a",
+      "character_id": "deepseek",
+      "title": "12A · Q 版冬装 · 冬装小肥鱼",
+      "source_id": "src-7a2b824080",
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/12_DeepSeek%E5%A8%98_Q%E7%89%88%E5%86%AC%E8%A3%85/%E5%86%AC%E8%A3%85%E5%B0%8F%E8%82%A5%E9%B1%BC/%E5%AE%8C%E6%95%B4%E8%AE%BE%E5%AE%9A%E5%9B%BE_%E6%B5%8F%E8%A7%88%E9%A2%84%E8%A7%88.jpg",
+      "folder_url": "https://github.com/lmy414/ai-chan-sheets/tree/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/12_DeepSeek%E5%A8%98_Q%E7%89%88%E5%86%AC%E8%A3%85/%E5%86%AC%E8%A3%85%E5%B0%8F%E8%82%A5%E9%B1%BC",
+      "review_scope": "preview_sheet_actually_viewed"
+    },
+    {
+      "id": "lmy-sheets-12b",
+      "character_id": "deepseek",
+      "title": "12B · Q 版冬装 · 冬装小肥鱼 2",
+      "source_id": "src-d89e2eaf63",
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/12_DeepSeek%E5%A8%98_Q%E7%89%88%E5%86%AC%E8%A3%85/%E5%86%AC%E8%A3%85%E5%B0%8F%E8%82%A5%E9%B1%BC2/%E5%AE%8C%E6%95%B4%E8%AE%BE%E5%AE%9A%E5%9B%BE_%E6%B5%8F%E8%A7%88%E9%A2%84%E8%A7%88.jpg",
+      "folder_url": "https://github.com/lmy414/ai-chan-sheets/tree/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/12_DeepSeek%E5%A8%98_Q%E7%89%88%E5%86%AC%E8%A3%85/%E5%86%AC%E8%A3%85%E5%B0%8F%E8%82%A5%E9%B1%BC2",
+      "review_scope": "preview_sheet_actually_viewed"
+    },
+    {
+      "id": "lmy-sheets-13",
+      "character_id": "gpt",
+      "title": "13 · Q 版白紫龙娘",
+      "source_id": "src-6550941b8e",
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/13_GPT%E5%A8%98_Q%E7%89%88%E7%99%BD%E7%B4%AB%E9%BE%99%E5%A8%98/%E5%AE%8C%E6%95%B4%E8%AE%BE%E5%AE%9A%E5%9B%BE_%E6%B5%8F%E8%A7%88%E9%A2%84%E8%A7%88.jpg",
+      "folder_url": "https://github.com/lmy414/ai-chan-sheets/tree/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/13_GPT%E5%A8%98_Q%E7%89%88%E7%99%BD%E7%B4%AB%E9%BE%99%E5%A8%98",
+      "review_scope": "author_readme_metadata_only"
+    },
+    {
+      "id": "lmy-sheets-14",
+      "character_id": "deepseek",
+      "title": "14 · Claude 工牌工作服",
+      "source_id": "src-0380e84eca",
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/14_DeepSeek%E5%A8%98_Claude%E5%B7%A5%E7%89%8C%E5%B7%A5%E4%BD%9C%E6%9C%8D/%E5%AE%8C%E6%95%B4%E8%AE%BE%E5%AE%9A%E5%9B%BE_%E6%B5%8F%E8%A7%88%E9%A2%84%E8%A7%88.jpg",
+      "folder_url": "https://github.com/lmy414/ai-chan-sheets/tree/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/14_DeepSeek%E5%A8%98_Claude%E5%B7%A5%E7%89%8C%E5%B7%A5%E4%BD%9C%E6%9C%8D",
+      "review_scope": "preview_sheet_actually_viewed"
+    },
+    {
+      "id": "lmy-sheets-15",
+      "character_id": "mimo",
+      "title": "15 · 机能外套 · @甶丶",
+      "source_id": "src-590f7d7f4c",
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/15_MiMo%E5%85%94%E5%A8%98_%E7%94%B6%E4%B8%B6_%E6%9C%BA%E8%83%BD%E5%A4%96%E5%A5%97/%E5%AE%8C%E6%95%B4%E8%AE%BE%E5%AE%9A%E5%9B%BE_%E6%B5%8F%E8%A7%88%E9%A2%84%E8%A7%88.jpg",
+      "folder_url": "https://github.com/lmy414/ai-chan-sheets/tree/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/15_MiMo%E5%85%94%E5%A8%98_%E7%94%B6%E4%B8%B6_%E6%9C%BA%E8%83%BD%E5%A4%96%E5%A5%97",
+      "review_scope": "author_readme_metadata_only"
+    },
+    {
+      "id": "lmy-sheets-16",
+      "character_id": "mimo",
+      "title": "16 · 女仆装 · @Immyxxr",
+      "source_id": "src-7fd453c8fa",
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/16_MiMo%E5%85%94%E5%A8%98_Immyxxr_%E5%A5%B3%E4%BB%86%E8%A3%85/%E5%AE%8C%E6%95%B4%E8%AE%BE%E5%AE%9A%E5%9B%BE_%E6%B5%8F%E8%A7%88%E9%A2%84%E8%A7%88.jpg",
+      "folder_url": "https://github.com/lmy414/ai-chan-sheets/tree/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/16_MiMo%E5%85%94%E5%A8%98_Immyxxr_%E5%A5%B3%E4%BB%86%E8%A3%85",
+      "review_scope": "preview_sheet_actually_viewed"
+    },
+    {
+      "id": "lmy-sheets-17",
+      "character_id": "longcat",
+      "title": "17 · 现代外套 · @甶丶",
+      "source_id": "src-28de46cfec",
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/17_LongCat%E5%A8%98_%E7%BE%8E%E5%9B%A2%E9%BE%99%E7%8C%AB_%E7%8E%B0%E4%BB%A3%E5%A4%96%E5%A5%97/%E5%AE%8C%E6%95%B4%E8%AE%BE%E5%AE%9A%E5%9B%BE_%E6%B5%8F%E8%A7%88%E9%A2%84%E8%A7%88.jpg",
+      "folder_url": "https://github.com/lmy414/ai-chan-sheets/tree/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/17_LongCat%E5%A8%98_%E7%BE%8E%E5%9B%A2%E9%BE%99%E7%8C%AB_%E7%8E%B0%E4%BB%A3%E5%A4%96%E5%A5%97",
+      "review_scope": "preview_sheet_actually_viewed"
+    },
+    {
+      "id": "lmy-sheets-18",
+      "character_id": "mistral",
+      "title": "18 · 法棍猫猫",
+      "source_id": "src-10dbdf2101",
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/18_Mistral%E5%A8%98_%E6%B3%95%E6%A3%8D%E7%8C%AB%E7%8C%AB/%E5%AE%8C%E6%95%B4%E8%AE%BE%E5%AE%9A%E5%9B%BE_%E6%B5%8F%E8%A7%88%E9%A2%84%E8%A7%88.jpg",
+      "folder_url": "https://github.com/lmy414/ai-chan-sheets/tree/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/18_Mistral%E5%A8%98_%E6%B3%95%E6%A3%8D%E7%8C%AB%E7%8C%AB",
+      "review_scope": "preview_sheet_actually_viewed"
+    }
+  ],
+  "visual_review_receipts": [
+    {
+      "id": "review-lmy-sheets-12a",
+      "source_id": "src-7a2b824080",
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/171116808adad57f1c0ec347ff50c07d5095676f/docs/previews/12a.webp",
+      "bytes": 53376,
+      "sha256": "c8c8a56a375b54b8d5d094ec901ff246ab25c0b92223991c368eae670fa72c7c",
+      "scope": "preview_only_not_full_resolution_sheet",
+      "published_copy": false
+    },
+    {
+      "id": "review-lmy-sheets-12b",
+      "source_id": "src-d89e2eaf63",
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/171116808adad57f1c0ec347ff50c07d5095676f/docs/previews/12b.webp",
+      "bytes": 54382,
+      "sha256": "c227da9ca669ac91c9e1f1e4723ef877cb86e1cacf44fe922a74657d8fde3eb3",
+      "scope": "preview_only_not_full_resolution_sheet",
+      "published_copy": false
+    },
+    {
+      "id": "review-lmy-sheets-14",
+      "source_id": "src-0380e84eca",
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/171116808adad57f1c0ec347ff50c07d5095676f/docs/previews/14.webp",
+      "bytes": 34922,
+      "sha256": "f430d36a734a8f1e94c375cae386df68e2364c3d1f6628539130a9c158ce0fc2",
+      "scope": "preview_only_not_full_resolution_sheet",
+      "published_copy": false
+    },
+    {
+      "id": "review-lmy-sheets-16",
+      "source_id": "src-7fd453c8fa",
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/171116808adad57f1c0ec347ff50c07d5095676f/docs/previews/16.webp",
+      "bytes": 46432,
+      "sha256": "d88d3867dbceb0ff40a83055022b0af4dc696d9194ee327ef86aac590936907c",
+      "scope": "preview_only_not_full_resolution_sheet",
+      "published_copy": false
+    },
+    {
+      "id": "review-lmy-sheets-17",
+      "source_id": "src-28de46cfec",
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/171116808adad57f1c0ec347ff50c07d5095676f/docs/previews/17.webp",
+      "bytes": 54026,
+      "sha256": "6c0ffef4535a19dcaf18b430dff134f41b9dd7c3ebdb66bda036ecf0f787aa39",
+      "scope": "preview_only_not_full_resolution_sheet",
+      "published_copy": false
+    },
+    {
+      "id": "review-lmy-sheets-18",
+      "source_id": "src-10dbdf2101",
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/171116808adad57f1c0ec347ff50c07d5095676f/docs/previews/18.webp",
+      "bytes": 255864,
+      "sha256": "eeec90e377f723a66a1c15ae3ac21a0040b02d5bcad6c029208181ab96255c0c",
+      "scope": "preview_only_not_full_resolution_sheet",
+      "published_copy": false
+    }
+  ],
+  "gallery_additions": [
+    {
+      "id": "issue-31-01",
+      "title": "DSH？DeepSeek Hentai？",
+      "author_as_recorded": "beautymonkey1437",
+      "reference_id": "ref-treap-issue-31-01",
+      "source_id": "src-fafc788f42",
+      "url": "https://github.com/TreapGoGo/deepseek-whale-girl/issues/31"
+    },
+    {
+      "id": "issue-53-01",
+      "title": "Ciallo～ · 海底招呼",
+      "author_as_recorded": "才不是败犬",
+      "reference_id": "ref-treap-issue-53-01",
+      "source_id": "src-fafc788f42",
+      "url": "https://github.com/TreapGoGo/deepseek-whale-girl/issues/53"
+    },
+    {
+      "id": "issue-53-02",
+      "title": "Ciallo～ · 海底坐姿",
+      "author_as_recorded": "才不是败犬",
+      "reference_id": "ref-treap-issue-53-02",
+      "source_id": "src-fafc788f42",
+      "url": "https://github.com/TreapGoGo/deepseek-whale-girl/issues/53"
+    },
+    {
+      "id": "issue-53-03",
+      "title": "Ciallo～ · 白底招呼",
+      "author_as_recorded": "才不是败犬",
+      "reference_id": "ref-treap-issue-53-03",
+      "source_id": "src-fafc788f42",
+      "url": "https://github.com/TreapGoGo/deepseek-whale-girl/issues/53"
+    },
+    {
+      "id": "issue-53-04",
+      "title": "Ciallo～ · 白底坐姿",
+      "author_as_recorded": "才不是败犬",
+      "reference_id": "ref-treap-issue-53-04",
+      "source_id": "src-fafc788f42",
+      "url": "https://github.com/TreapGoGo/deepseek-whale-girl/issues/53"
+    },
+    {
+      "id": "issue-54-01",
+      "title": "可爱的鲸鱼娘",
+      "author_as_recorded": "fxds_AI",
+      "reference_id": "ref-treap-issue-54-01",
+      "source_id": "src-fafc788f42",
+      "url": "https://github.com/TreapGoGo/deepseek-whale-girl/issues/54"
+    },
+    {
+      "id": "issue-55-01",
+      "title": "这才是真正的男D！· 黑白原始风格",
+      "author_as_recorded": "SOFD_PX / SpaceOFDust_PX",
+      "reference_id": "ref-treap-issue-55-01",
+      "source_id": "src-fafc788f42",
+      "url": "https://github.com/TreapGoGo/deepseek-whale-girl/issues/55"
+    },
+    {
+      "id": "issue-55-02",
+      "title": "这才是真正的男D！· 充满力量",
+      "author_as_recorded": "SOFD_PX / SpaceOFDust_PX",
+      "reference_id": "ref-treap-issue-55-02",
+      "source_id": "src-fafc788f42",
+      "url": "https://github.com/TreapGoGo/deepseek-whale-girl/issues/55"
+    },
+    {
+      "id": "issue-55-03",
+      "title": "这才是真正的男D！· 没有力量",
+      "author_as_recorded": "SOFD_PX / SpaceOFDust_PX",
+      "reference_id": "ref-treap-issue-55-03",
+      "source_id": "src-fafc788f42",
+      "url": "https://github.com/TreapGoGo/deepseek-whale-girl/issues/55"
+    },
+    {
+      "id": "issue-56-01",
+      "title": "蓝发鲸鱼娘 · 蝶与鲸尾",
+      "author_as_recorded": "陆玖叁（says693）",
+      "reference_id": "ref-treap-issue-56-01",
+      "source_id": "src-fafc788f42",
+      "url": "https://github.com/TreapGoGo/deepseek-whale-girl/issues/56"
+    },
+    {
+      "id": "issue-57-01",
+      "title": "鲸鱼娘需要充值",
+      "author_as_recorded": "作者未知",
+      "reference_id": "ref-treap-issue-57-01",
+      "source_id": "src-fafc788f42",
+      "url": "https://github.com/TreapGoGo/deepseek-whale-girl/issues/57"
+    },
+    {
+      "id": "issue-60-01",
+      "title": "大肥鱼 Absolute Cinema · 黑白版",
+      "author_as_recorded": "罗浮的青雀本人（B站）",
+      "reference_id": "ref-treap-issue-60-01",
+      "source_id": "src-fafc788f42",
+      "url": "https://github.com/TreapGoGo/deepseek-whale-girl/issues/60"
+    },
+    {
+      "id": "issue-60-02",
+      "title": "大肥鱼 Absolute Cinema · 彩色版",
+      "author_as_recorded": "罗浮的青雀本人（B站）",
+      "reference_id": "ref-treap-issue-60-02",
+      "source_id": "src-fafc788f42",
+      "url": "https://github.com/TreapGoGo/deepseek-whale-girl/issues/60"
+    },
+    {
+      "id": "issue-62-01",
+      "title": "云海妖鲸",
+      "author_as_recorded": "时运tk",
+      "reference_id": "ref-treap-issue-62-01",
+      "source_id": "src-fafc788f42",
+      "url": "https://github.com/TreapGoGo/deepseek-whale-girl/issues/62"
+    },
+    {
+      "id": "issue-64-01",
+      "title": "神秘蓝色大肥鱼表示非常震惊！",
+      "author_as_recorded": "qwt",
+      "reference_id": "ref-treap-issue-64-01",
+      "source_id": "src-fafc788f42",
+      "url": "https://github.com/TreapGoGo/deepseek-whale-girl/issues/64"
+    },
+    {
+      "id": "issue-66-01",
+      "title": "大肥鱼三视图 · 长裙版",
+      "author_as_recorded": "世界猫 · 上游：ZipZipPipe / 上善无形",
+      "reference_id": "ref-treap-issue-66-01",
+      "source_id": "src-fafc788f42",
+      "url": "https://github.com/TreapGoGo/deepseek-whale-girl/issues/66"
+    },
+    {
+      "id": "issue-66-02",
+      "title": "大肥鱼三视图 · 女仆版",
+      "author_as_recorded": "世界猫 · 上游：ZipZipPipe / 上善无形",
+      "reference_id": "ref-treap-issue-66-02",
+      "source_id": "src-fafc788f42",
+      "url": "https://github.com/TreapGoGo/deepseek-whale-girl/issues/66"
+    },
+    {
+      "id": "issue-66-03",
+      "title": "大肥鱼三视图 · 蕾丝裙版",
+      "author_as_recorded": "世界猫 · 上游：ZipZipPipe / 上善无形",
+      "reference_id": "ref-treap-issue-66-03",
+      "source_id": "src-fafc788f42",
+      "url": "https://github.com/TreapGoGo/deepseek-whale-girl/issues/66"
+    },
+    {
+      "id": "issue-68-01",
+      "title": "船上的鲸鱼娘",
+      "author_as_recorded": "开心果",
+      "reference_id": "ref-treap-issue-68-01",
+      "source_id": "src-fafc788f42",
+      "url": "https://github.com/TreapGoGo/deepseek-whale-girl/issues/68"
+    },
+    {
+      "id": "issue-69-01",
+      "title": "鲸鱼娘的数学翻车现场",
+      "author_as_recorded": "CanYouImag",
+      "reference_id": "ref-treap-issue-69-01",
+      "source_id": "src-fafc788f42",
+      "url": "https://github.com/TreapGoGo/deepseek-whale-girl/issues/69"
+    },
+    {
+      "id": "issue-72-01",
+      "title": "Claude 之怒",
+      "author_as_recorded": "二十一世纪旅行者",
+      "reference_id": "ref-treap-issue-72-01",
+      "source_id": "src-fafc788f42",
+      "url": "https://github.com/TreapGoGo/deepseek-whale-girl/issues/72"
+    },
+    {
+      "id": "issue-73-01",
+      "title": "这个问题我无法回答，咱们换个话题聊聊吧",
+      "author_as_recorded": "Pfolg",
+      "reference_id": "ref-treap-issue-73-01",
+      "source_id": "src-fafc788f42",
+      "url": "https://github.com/TreapGoGo/deepseek-whale-girl/issues/73"
+    }
+  ],
+  "new_video_ids": [
+    "BV1GJWy6rEQz",
+    "BV13hWj68ELy",
+    "BV1dGWg67Evr",
+    "BV1GsWv6jErZ",
+    "BV1MaWv6rEo3",
+    "BV1JrWJ6JERj",
+    "BV1ziWP6qEPU",
+    "BV1sgWn68Ewt",
+    "BV1TLWi6GEfi",
+    "BV1vB4p6fEu1",
+    "BV1VM4L6TEyL",
+    "BV1Vt4x6PENC",
+    "BV1HFWY6REJD",
+    "BV1YGWQ6bEn5",
+    "BV1QrWn6MEus",
+    "BV14C456WEXN",
+    "BV1aiW86YE5K",
+    "BV1U4Wd6vEWj",
+    "BV1Qw4n61ELE",
+    "BV1brW86FEKb",
+    "BV1oA446uEKW",
+    "BV1Jo456yES9",
+    "BV1sUW86sEC3",
+    "BV14eWv6gEL7",
+    "BV1qcWJ62EXu"
+  ],
+  "weekly_source_id": "src-a48dddef0b",
+  "persona_sources": [
+    {
+      "id": "genderswap-whale-chat",
+      "source_id": "src-462b39f1ef",
+      "author": "GenderSwapAI",
+      "kind": "网页聊天人格",
+      "url": "https://genderswapai.com/zh-CN/ai-gijinka/whale-persona",
+      "summary": "把用户当熟悉朋友，日常短答；认真问题转入具体帮助，米饭与尾巴只按情境出现。",
+      "runtime_tested": false
+    },
+    {
+      "id": "kaalia-dsh-whale",
+      "source_id": "src-baf42d9116",
+      "author": "Kaalia0912",
+      "kind": "DSH编码人格",
+      "url": "https://github.com/Kaalia0912/dsh-whale-musume-persona/blob/55fe3cbc6a08f0e10fa690477449d413fe08bf09/PERSONA.md",
+      "summary": "平时惜力、嘴硬心软；技术工作重证据，角色口吻放在说明中，保留干净的代码与命令。",
+      "runtime_tested": false
+    },
+    {
+      "id": "whyever-astrbot-whale",
+      "source_id": "src-d63e1ab517",
+      "author": "whyever77",
+      "kind": "AstrBot日常人格",
+      "url": "https://github.com/whyever77/dafeiyu-astrbot/blob/64274354c4331591620a925b3df498725df4564f/persona/%E5%A4%A7%E8%82%A5%E9%B1%BC-%E4%BA%BA%E6%A0%BC.md",
+      "summary": "短泡聊天与熟人式接话，群聊按身份称呼；撒娇与关心按上下文变化，语音和记忆依赖实际后端。",
+      "runtime_tested": false
+    }
+  ],
+  "auxiliary_source_ids": [
+    "src-84bb2545dc",
+    "src-8824dbce95",
+    "src-98c288b459",
+    "src-91cd4bef0a"
+  ],
+  "scope": "只读原帖、目录、设定板预览与视频元数据；无新增视频完整播放、抽帧或试听，无新增第三方运行测试，Release未变。",
+  "catalog_timezone": "America/Los_Angeles"
+}

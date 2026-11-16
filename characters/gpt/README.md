@@ -124,3 +124,10 @@ tenghuan123 独立制作的 V2 Q 版，包含九组动画和 16 个环视方向�
 ## 演出与创作关联
 
 [作品限定反应档案](../../encyclopedia/performances/gpt.md) · [同情境原创对照](../../encyclopedia/performances/same-situation.md) · [素材关联包](../../encyclopedia/production/README.md)
+
+## 2026-11-16设定板补充
+
+- [02 · 白龙娘](https://github.com/lmy414/ai-chan-sheets/tree/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/02_GPT%E5%A8%98_%E7%99%BD%E9%BE%99%E5%A8%98)：本轮仅查目录；lmy414生成补全。
+- [13 · Q 版白紫龙娘](https://github.com/lmy414/ai-chan-sheets/tree/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/13_GPT%E5%A8%98_Q%E7%89%88%E7%99%BD%E7%B4%AB%E9%BE%99%E5%A8%98)：本轮仅查目录；lmy414生成补全。
+
+原图、推定侧背面和表情差分分别看；署名与使用范围见[本轮更新](../../docs/13-update-2026-11-16.md)。

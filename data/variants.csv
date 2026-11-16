@@ -65,3 +65,25 @@ larcgpt-seedance,seedance,larcgpt-model-musume,Seedance娘 · Main_1版本,larcg
 larcgpt-claude-opus-larcgpt,claude,larcgpt-model-musume,Claude Opus娘 · larcgpt · Main_1版本,larcgpt（ChatGPT辅助生成）,金色盘发与黑色缎带、金色花饰 | 黑金礼服与披肩 | 手边有书本，背景为暖色图书馆,同作者Opus与Sonnet分列设计；不直接套到ZipZipPipe橙发花饰版。,,
 larcgpt-claude-sonnet-larcgpt,claude,larcgpt-model-musume,Claude Sonnet娘 · larcgpt · Main_1版本,larcgpt（ChatGPT辅助生成）,浅金长发、花饰与橙色缎带 | 白金橙色礼服与轻薄披肩 | 旁有乐谱与钢琴，整体使用暖色窗光,以白橙配色和音乐/文字道具区别于同作者黑金Opus版。,,
 gami-claude-code-silver-dragon,claude,gami-output-style,Claude Code银发龙娘 · 文字人设,がみ / gami113（作者注明AI辅助编写）,文字设定：银发、龙角、龙尾、小型人形,Claude Code专用Output Style文字分支；未提供经本轮查看的角色立绘，不并入GPT白龙或ZipZipPipe橙发Claude。,,https://zenn.dev/gami113/articles/20250222-claude-code-807943b37ecd9d
+lmy-sheets-01,glm,lmy-setting-sheets,01 · 阔耳狐娘 · 生成补全设定板,lmy414（生成补全）；原角色主要署名ZipZipPipe，具体来源见逐项权利记录,智谱 GLM 娘（阔耳狐娘）的横版设定图,原图身份、生成补全的三视图/表情/服装/道具分别记录；不当作原作者新发布的完整设定。,,
+lmy-sheets-02,gpt,lmy-setting-sheets,02 · 白龙娘 · 生成补全设定板,lmy414（生成补全）；原角色主要署名ZipZipPipe，具体来源见逐项权利记录,GPT 娘（白龙娘）的横版设定图,原图身份、生成补全的三视图/表情/服装/道具分别记录；不当作原作者新发布的完整设定。,,
+lmy-sheets-03,deepseek,lmy-setting-sheets,03 · 鲸鱼娘 · 生成补全设定板,lmy414（生成补全）；原角色主要署名ZipZipPipe，具体来源见逐项权利记录,DeepSeek 娘（鲸鱼娘）的横版设定图,原图身份、生成补全的三视图/表情/服装/道具分别记录；不当作原作者新发布的完整设定。,,
+lmy-sheets-04,wenxin,lmy-setting-sheets,04 · 蓝发轮椅少女 · 生成补全设定板,lmy414（生成补全）；原角色主要署名ZipZipPipe，具体来源见逐项权利记录,文心一言娘（蓝发轮椅少女）的横版设定图,原图身份、生成补全的三视图/表情/服装/道具分别记录；不当作原作者新发布的完整设定。,,
+lmy-sheets-05,qwen,lmy-setting-sheets,05 · Qwen · 生成补全设定板,lmy414（生成补全）；原角色主要署名ZipZipPipe，具体来源见逐项权利记录,通义千问娘（Qwen）的横版设定图,原图身份、生成补全的三视图/表情/服装/道具分别记录；不当作原作者新发布的完整设定。,,
+lmy-sheets-06,kimi,lmy-setting-sheets,06 · Moonshot · 生成补全设定板,lmy414（生成补全）；原角色主要署名ZipZipPipe，具体来源见逐项权利记录,Kimi 娘（Moonshot）的横版设定图,原图身份、生成补全的三视图/表情/服装/道具分别记录；不当作原作者新发布的完整设定。,,
+lmy-sheets-07,seed,lmy-setting-sheets,07 · 紫发高马尾 · 生成补全设定板,lmy414（生成补全）；原角色主要署名ZipZipPipe，具体来源见逐项权利记录,豆包 Seed 娘（紫发高马尾）的横版设定图,原图身份、生成补全的三视图/表情/服装/道具分别记录；不当作原作者新发布的完整设定。,,
+lmy-sheets-08,minimax,lmy-setting-sheets,08 · 海螺 AI · 生成补全设定板,lmy414（生成补全）；原角色主要署名ZipZipPipe，具体来源见逐项权利记录,MiniMax 娘（海螺 AI）的横版设定图,原图身份、生成补全的三视图/表情/服装/道具分别记录；不当作原作者新发布的完整设定。,,
+lmy-sheets-09,grok,lmy-setting-sheets,09 · 金发吸血鬼 · 生成补全设定板,lmy414（生成补全）；原角色主要署名ZipZipPipe，具体来源见逐项权利记录,Grok 娘（金发吸血鬼）的横版设定图,原图身份、生成补全的三视图/表情/服装/道具分别记录；不当作原作者新发布的完整设定。,,
+lmy-sheets-10,gemini,lmy-setting-sheets,10 · 四角星猫耳 · 生成补全设定板,lmy414（生成补全）；原角色主要署名ZipZipPipe，具体来源见逐项权利记录,Gemini 娘（四角星猫耳）的横版设定图,原图身份、生成补全的三视图/表情/服装/道具分别记录；不当作原作者新发布的完整设定。,,
+lmy-sheets-11,claude,lmy-setting-sheets,11 · 橘发与菊花纹 · 生成补全设定板,lmy414（生成补全）；原角色主要署名ZipZipPipe，具体来源见逐项权利记录,Claude 娘（橘发与菊花纹）的横版设定图,原图身份、生成补全的三视图/表情/服装/道具分别记录；不当作原作者新发布的完整设定。,,
+lmy-sheets-12a,deepseek,lmy-setting-sheets,12A · Q 版冬装 · 冬装小肥鱼 · 生成补全设定板,原图作者未标注；lmy414（生成补全）,深蓝白Q版冬装、绒边领口 | 雪花装饰、蓝色鲸尾和蝴蝶结,原图身份、生成补全的三视图/表情/服装/道具分别记录；不当作原作者新发布的完整设定。,,
+lmy-sheets-12b,deepseek,lmy-setting-sheets,12B · Q 版冬装 · 冬装小肥鱼 2 · 生成补全设定板,原图作者未标注；lmy414（生成补全）,带帽Q版冬装、蓝白围巾 | 鲸鱼小玩偶、毛绒靴和鲸尾,原图身份、生成补全的三视图/表情/服装/道具分别记录；不当作原作者新发布的完整设定。,,
+lmy-sheets-13,gpt,lmy-setting-sheets,13 · Q 版白紫龙娘 · 生成补全设定板,原图作者未标注；lmy414（生成补全）,GPT 娘（Q 版白紫龙娘）的横版设定图,原图身份、生成补全的三视图/表情/服装/道具分别记录；不当作原作者新发布的完整设定。,,
+lmy-sheets-14,deepseek,lmy-setting-sheets,14 · Claude 工牌工作服 · 生成补全设定板,原图作者未标注；lmy414（生成补全）,蓝发鲸鱼少女、奶白棕色衣裙 | Claude放射花饰和工牌，仍保留鳍耳与鲸尾,原图身份、生成补全的三视图/表情/服装/道具分别记录；不当作原作者新发布的完整设定。,,
+lmy-sheets-15,mimo,lmy-setting-sheets,15 · 机能外套 · @甶丶 · 生成补全设定板,甶丶（原图）；lmy414（生成补全）,MiMo 兔娘（机能外套 · @甶丶）的横版设定图,原图身份、生成补全的三视图/表情/服装/道具分别记录；不当作原作者新发布的完整设定。,,
+lmy-sheets-16,mimo,lmy-setting-sheets,16 · 女仆装 · @Immyxxr · 生成补全设定板,Immyxxr（按上游作品页署名）；lmy414（生成补全）,银白长发、白色兔耳和橙色缎带 | 橙白女仆装、围裙与黑色圆头鞋,原图身份、生成补全的三视图/表情/服装/道具分别记录；不当作原作者新发布的完整设定。,,
+lmy-sheets-17,longcat,lmy-setting-sheets,17 · 现代外套 · @甶丶 · 生成补全设定板,甶丶（上游据用户提供署名，待独立核对）；lmy414（生成补全）,白色长发与绿色挑染、猫耳和长尾 | 黄色现代外套、白色内搭与黑色长袜 | 设定板包含美团外卖箱与兔形玩偶,原图身份、生成补全的三视图/表情/服装/道具分别记录；不当作原作者新发布的完整设定。,,
+lmy-sheets-18,mistral,lmy-setting-sheets,18 · 法棍猫猫 · 生成补全设定板,lmy414（生成补全）；原角色主要署名ZipZipPipe，具体来源见逐项权利记录,金橙至红色长发、猫耳猫尾 | 红白金宽檐帽与层叠裙装 | 独立列出法棍剑；侧背面属于补全,原图身份、生成补全的三视图/表情/服装/道具分别记录；不当作原作者新发布的完整设定。,,
+genderswap-whale-chat,deepseek,persona-text,GenderSwapAI · 网页聊天人格,GenderSwapAI,作者文字人设；未新增图像文件,把用户当熟悉朋友，日常短答；认真问题转入具体帮助，米饭与尾巴只按情境出现。,,https://genderswapai.com/zh-CN/ai-gijinka/whale-persona
+kaalia-dsh-whale,deepseek,persona-text,Kaalia0912 · DSH编码人格,Kaalia0912,作者文字人设；未新增图像文件,平时惜力、嘴硬心软；技术工作重证据，角色口吻放在说明中，保留干净的代码与命令。,,https://github.com/Kaalia0912/dsh-whale-musume-persona/blob/55fe3cbc6a08f0e10fa690477449d413fe08bf09/PERSONA.md
+whyever-astrbot-whale,deepseek,persona-text,whyever77 · AstrBot日常人格,whyever77,作者文字人设；未新增图像文件,短泡聊天与熟人式接话，群聊按身份称呼；撒娇与关心按上下文变化，语音和记忆依赖实际后端。,,https://github.com/whyever77/dafeiyu-astrbot/blob/64274354c4331591620a925b3df498725df4564f/persona/%E5%A4%A7%E8%82%A5%E9%B1%BC-%E4%BA%BA%E6%A0%BC.md

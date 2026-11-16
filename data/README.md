@@ -1,6 +1,6 @@
 # 数据入口
 
-资料主要采集于2026-10-20至21日；目录维护于2026-10-22，具体来源日期保留在各条记录。`characters`的单位混合产品、模型家族、工具和平台，用`entity_kind`明确区分。`status=wanted`没有已确认形象；`visual_lead`或`external_work_lead`只有作品线索；`profile_and_references`有文字档案和外链；`local_assets`有本地图片。
+保留2026-10起的资料采集快照；目录维护于2026-11-16，具体来源日期保留在各条记录。`characters`的单位混合产品、模型家族、工具和平台，用`entity_kind`明确区分。`status=wanted`没有已确认形象；`visual_lead`或`external_work_lead`只有作品线索；`profile_and_references`有文字档案和外链；`local_assets`有本地图片。
 
 | 文件 | 用途 |
 | --- | --- |
@@ -23,7 +23,7 @@ JSON是主记录，CSV为便于阅读的导出。数据中所有引用的source 
 | --- | --- |
 | variants.json / variants.csv | 按作者系列比较造型、关联图片与提示词 |
 | projects.json | 参考GitHub项目与固定提交、固定提交与用途 |
-| audio.json / audio.csv | 19条声音、歌曲与原曲来源；不含音频文件 |
+| audio.json / audio.csv | 声音、歌曲与原曲来源；不含音频文件 |
 | expressions.json / expressions.csv | 11张本地表情的情绪与对话用途 |
 | source-updates.json | 重点来源的差异和去重处理，含TreapGoGo复用记录 |
 
@@ -59,4 +59,6 @@ Copilot校园项目未区分具体产品，使用独立条目copilot-school。va
 
 `coverage.json`是统一统计入口，完整数量见[当前统计](../docs/collection-status.md)。修改主JSON后运行`python scripts/generate_catalog.py`，同步角色索引、首页/视频/缺口统计和全部CSV。`package-rights.json`保存逐包许可范围、声明层级和未确定项。核心字段约束见[JSON Schema](../schemas/catalog.schema.json)，提交检查见[维护说明](../docs/maintenance.md)。
 
-`model-branches.json`记录本轮具名模型/子系列/工具分支及观察范围。`personas.json`中`original_status=source_summary`仅摘要作者原设，`original=null`且无原创对白；原有`editorial_draft`继续保留三句原创示范。数量分别计入coverage。
+`model-branches.json`记录本轮具名模型/子系列/工具分支及观察范围。`personas.json`中`original_status=source_summary`仅保存来源资料摘要，`original=null`且无原创对白；原有`editorial_draft`继续保留三句原创示范。数量分别计入coverage。
+
+`refresh-2026-11-16.json`保存本轮上游提交、19份设定板、6份预览观察摘要、22条图库增量与25条视频ID。仅有身份来源的人设用`evidence_kind=identity_only`标明，不计入已找到作者文字性格的条目。

@@ -65,7 +65,16 @@
         "src-991f9bd632",
         "src-92e69aeb51",
         "src-b63e39190c",
-        "src-8b1a1d16b3"
+        "src-8b1a1d16b3",
+        "src-d5debdfbdd",
+        "src-ecdc271a3a",
+        "src-c465583de3",
+        "src-7a2b824080",
+        "src-d89e2eaf63",
+        "src-0380e84eca",
+        "src-462b39f1ef",
+        "src-baf42d9116",
+        "src-d63e1ab517"
       ],
       "local_asset_ids": [
         "zipzippipe-pixiv-148186519-p00",
@@ -103,7 +112,14 @@
         "pet-deepseek-girl--legeling",
         "pet-deepseek-whalechan--qimi",
         "andersen-liuqing-whale-live2d",
-        "7l-whale-live2d-source"
+        "7l-whale-live2d-source",
+        "lmy-sheets-03",
+        "lmy-sheets-12a",
+        "lmy-sheets-12b",
+        "lmy-sheets-14",
+        "genderswap-whale-chat",
+        "kaalia-dsh-whale",
+        "whyever-astrbot-whale"
       ],
       "persona_profile_id": "persona-atlas-deepseek",
       "persona_profile_path": "encyclopedia/personas/deepseek.md",
@@ -112,9 +128,16 @@
         "community-deepseek-02",
         "community-deepseek-03",
         "community-deepseek-04",
-        "community-deepseek-05"
+        "community-deepseek-05",
+        "community-nov16-deepseek-switch-ai"
       ],
-      "community_impressions_path": "encyclopedia/personas/community-impressions.md#deepseek"
+      "community_impressions_path": "encyclopedia/personas/community-impressions.md#deepseek",
+      "reference_ids": [
+        "ref-lmy-sheets-03",
+        "ref-lmy-sheets-12a",
+        "ref-lmy-sheets-12b",
+        "ref-lmy-sheets-14"
+      ]
     },
     {
       "id": "gpt",
@@ -156,7 +179,11 @@
         "src-f7d330c3ae",
         "src-5746a29c51",
         "src-ddf6cc3468",
-        "src-e1e27a18a5"
+        "src-e1e27a18a5",
+        "src-d5debdfbdd",
+        "src-ecdc271a3a",
+        "src-34fbf4b4b4",
+        "src-6550941b8e"
       ],
       "local_asset_ids": [
         "zipzippipe-pixiv-148186519-p03",
@@ -175,7 +202,9 @@
         "school-op-gpt",
         "apprentice-chatgpt",
         "pet-gpt-dragon-girl--legeling",
-        "pet-gpt-dragon-girl--tenghuan123"
+        "pet-gpt-dragon-girl--tenghuan123",
+        "lmy-sheets-02",
+        "lmy-sheets-13"
       ],
       "persona_profile_id": "persona-atlas-gpt",
       "persona_profile_path": "encyclopedia/personas/gpt.md",
@@ -183,9 +212,14 @@
         "community-gpt-01",
         "community-gpt-02",
         "community-gpt-03",
-        "community-gpt-04"
+        "community-gpt-04",
+        "community-nov16-gpt-switch-ai"
       ],
-      "community_impressions_path": "encyclopedia/personas/community-impressions.md#gpt"
+      "community_impressions_path": "encyclopedia/personas/community-impressions.md#gpt",
+      "reference_ids": [
+        "ref-lmy-sheets-02",
+        "ref-lmy-sheets-13"
+      ]
     },
     {
       "id": "claude",
@@ -222,7 +256,10 @@
         "src-5746a29c51",
         "src-acf2246142",
         "src-6103076b68",
-        "src-f5a66e9033"
+        "src-f5a66e9033",
+        "src-d5debdfbdd",
+        "src-ecdc271a3a",
+        "src-1ce01a3b4a"
       ],
       "local_asset_ids": [
         "zipzippipe-pixiv-148186519-p02",
@@ -244,7 +281,8 @@
         "priority-zipzippipe-pixiv-150718881-p04-variant",
         "larcgpt-claude-opus-larcgpt",
         "larcgpt-claude-sonnet-larcgpt",
-        "gami-claude-code-silver-dragon"
+        "gami-claude-code-silver-dragon",
+        "lmy-sheets-11"
       ],
       "persona_profile_id": "persona-atlas-claude",
       "persona_profile_path": "encyclopedia/personas/claude.md",
@@ -254,9 +292,13 @@
         "community-claude-03",
         "community-claude-04",
         "community-claude-05",
-        "community-claude-06"
+        "community-claude-06",
+        "community-nov16-claude-switch-ai"
       ],
-      "community_impressions_path": "encyclopedia/personas/community-impressions.md#claude"
+      "community_impressions_path": "encyclopedia/personas/community-impressions.md#claude",
+      "reference_ids": [
+        "ref-lmy-sheets-11"
+      ]
     },
     {
       "id": "gemini",
@@ -288,7 +330,10 @@
         "src-2f1b5b7594",
         "src-9b9a6a8a5d",
         "src-f7d330c3ae",
-        "src-5746a29c51"
+        "src-5746a29c51",
+        "src-d5debdfbdd",
+        "src-ecdc271a3a",
+        "src-d61db244b3"
       ],
       "local_asset_ids": [
         "zipzippipe-pixiv-148186519-p04",
@@ -305,7 +350,8 @@
       ],
       "variant_ids": [
         "school-op-gemini",
-        "apprentice-gemini"
+        "apprentice-gemini",
+        "lmy-sheets-10"
       ],
       "persona_profile_id": "persona-atlas-gemini",
       "persona_profile_path": "encyclopedia/personas/gemini.md",
@@ -314,9 +360,13 @@
         "community-gemini-02",
         "community-gemini-03",
         "community-gemini-04",
-        "community-gemini-05"
+        "community-gemini-05",
+        "community-nov16-gemini-switch-ai"
       ],
-      "community_impressions_path": "encyclopedia/personas/community-impressions.md#gemini"
+      "community_impressions_path": "encyclopedia/personas/community-impressions.md#gemini",
+      "reference_ids": [
+        "ref-lmy-sheets-10"
+      ]
     },
     {
       "id": "grok",
@@ -344,7 +394,10 @@
         "src-ce62ff9f96",
         "src-22fa810a0e",
         "src-57ada90d6d",
-        "src-9b9a6a8a5d"
+        "src-9b9a6a8a5d",
+        "src-d5debdfbdd",
+        "src-ecdc271a3a",
+        "src-fe655a5ce9"
       ],
       "local_asset_ids": [
         "zipzippipe-pixiv-148186519-p07",
@@ -361,15 +414,20 @@
       ],
       "variant_ids": [
         "school-op-grok",
-        "apprentice-grok"
+        "apprentice-grok",
+        "lmy-sheets-09"
       ],
       "persona_profile_id": "persona-atlas-grok",
       "persona_profile_path": "encyclopedia/personas/grok.md",
       "community_impression_record_ids": [
         "community-grok-01",
-        "community-grok-02"
+        "community-grok-02",
+        "community-nov16-grok-switch-ai"
       ],
-      "community_impressions_path": "encyclopedia/personas/community-impressions.md#grok"
+      "community_impressions_path": "encyclopedia/personas/community-impressions.md#grok",
+      "reference_ids": [
+        "ref-lmy-sheets-09"
+      ]
     },
     {
       "id": "kimi",
@@ -400,7 +458,10 @@
         "src-22fa810a0e",
         "src-57ada90d6d",
         "src-2f1b5b7594",
-        "src-9b9a6a8a5d"
+        "src-9b9a6a8a5d",
+        "src-d5debdfbdd",
+        "src-ecdc271a3a",
+        "src-11a9ec60cd"
       ],
       "local_asset_ids": [
         "zipzippipe-pixiv-148186519-p05",
@@ -417,7 +478,8 @@
       ],
       "variant_ids": [
         "school-op-kimi",
-        "apprentice-kimi"
+        "apprentice-kimi",
+        "lmy-sheets-06"
       ],
       "persona_profile_id": "persona-atlas-kimi",
       "persona_profile_path": "encyclopedia/personas/kimi.md",
@@ -425,7 +487,10 @@
         "community-kimi-01",
         "community-kimi-02"
       ],
-      "community_impressions_path": "encyclopedia/personas/community-impressions.md#kimi"
+      "community_impressions_path": "encyclopedia/personas/community-impressions.md#kimi",
+      "reference_ids": [
+        "ref-lmy-sheets-06"
+      ]
     },
     {
       "id": "glm",
@@ -456,7 +521,10 @@
         "src-22fa810a0e",
         "src-57ada90d6d",
         "src-9b9a6a8a5d",
-        "src-5746a29c51"
+        "src-5746a29c51",
+        "src-d5debdfbdd",
+        "src-ecdc271a3a",
+        "src-534b6ee3e4"
       ],
       "local_asset_ids": [
         "zipzippipe-pixiv-148186519-p06",
@@ -475,15 +543,20 @@
       "variant_ids": [
         "school-op-glm",
         "apprentice-glm",
-        "apprentice-glm-fox"
+        "apprentice-glm-fox",
+        "lmy-sheets-01"
       ],
       "persona_profile_id": "persona-atlas-glm",
       "persona_profile_path": "encyclopedia/personas/glm.md",
       "community_impression_record_ids": [
         "community-glm-01",
-        "community-glm-02"
+        "community-glm-02",
+        "community-nov16-glm-switch-ai"
       ],
-      "community_impressions_path": "encyclopedia/personas/community-impressions.md#glm"
+      "community_impressions_path": "encyclopedia/personas/community-impressions.md#glm",
+      "reference_ids": [
+        "ref-lmy-sheets-01"
+      ]
     },
     {
       "id": "qwen",
@@ -516,7 +589,10 @@
         "src-57ada90d6d",
         "src-2f1b5b7594",
         "src-9b9a6a8a5d",
-        "src-5746a29c51"
+        "src-5746a29c51",
+        "src-d5debdfbdd",
+        "src-ecdc271a3a",
+        "src-58cbe2a704"
       ],
       "local_asset_ids": [
         "zipzippipe-pixiv-148186519-p12",
@@ -532,15 +608,20 @@
       ],
       "variant_ids": [
         "school-op-qwen",
-        "apprentice-qwen"
+        "apprentice-qwen",
+        "lmy-sheets-05"
       ],
       "persona_profile_id": "persona-atlas-qwen",
       "persona_profile_path": "encyclopedia/personas/qwen.md",
       "community_impression_record_ids": [
         "community-qwen-01",
-        "community-qwen-02"
+        "community-qwen-02",
+        "community-nov16-qwen-switch-ai"
       ],
-      "community_impressions_path": "encyclopedia/personas/community-impressions.md#qwen"
+      "community_impressions_path": "encyclopedia/personas/community-impressions.md#qwen",
+      "reference_ids": [
+        "ref-lmy-sheets-05"
+      ]
     },
     {
       "id": "seed",
@@ -563,7 +644,10 @@
       "sources": [
         "src-efb5b349f0",
         "src-f54f4048e7",
-        "src-b934d159f4"
+        "src-b934d159f4",
+        "src-d5debdfbdd",
+        "src-ecdc271a3a",
+        "src-d476200720"
       ],
       "local_asset_ids": [
         "zipzippipe-pixiv-148186519-p10-seed"
@@ -573,9 +657,14 @@
         "当前能力排名",
         "所有版本均开放商用"
       ],
-      "variant_ids": [],
+      "variant_ids": [
+        "lmy-sheets-07"
+      ],
       "persona_profile_id": "persona-atlas-seed",
-      "persona_profile_path": "encyclopedia/personas/seed.md"
+      "persona_profile_path": "encyclopedia/personas/seed.md",
+      "reference_ids": [
+        "ref-lmy-sheets-07"
+      ]
     },
     {
       "id": "minimax",
@@ -607,7 +696,10 @@
         "src-57ada90d6d",
         "src-e3b48382d0",
         "src-2f1b5b7594",
-        "src-9b9a6a8a5d"
+        "src-9b9a6a8a5d",
+        "src-d5debdfbdd",
+        "src-ecdc271a3a",
+        "src-919dc08c0f"
       ],
       "local_asset_ids": [
         "school-op-minimax",
@@ -622,14 +714,18 @@
       ],
       "variant_ids": [
         "school-op-minimax",
-        "apprentice-minimax"
+        "apprentice-minimax",
+        "lmy-sheets-08"
       ],
       "persona_profile_id": "persona-atlas-minimax",
       "persona_profile_path": "encyclopedia/personas/minimax.md",
       "community_impression_record_ids": [
         "community-minimax-01"
       ],
-      "community_impressions_path": "encyclopedia/personas/community-impressions.md#minimax"
+      "community_impressions_path": "encyclopedia/personas/community-impressions.md#minimax",
+      "reference_ids": [
+        "ref-lmy-sheets-08"
+      ]
     },
     {
       "id": "llama",
@@ -703,7 +799,10 @@
         "src-863473febf",
         "src-7519e41294",
         "src-64550de9e4",
-        "src-b9006a9bef"
+        "src-b9006a9bef",
+        "src-d5debdfbdd",
+        "src-ecdc271a3a",
+        "src-10dbdf2101"
       ],
       "local_asset_ids": [
         "school-op-mistral",
@@ -716,10 +815,14 @@
       ],
       "variant_ids": [
         "school-op-mistral",
-        "priority-zipzippipe-pixiv-148186519-p09"
+        "priority-zipzippipe-pixiv-148186519-p09",
+        "lmy-sheets-18"
       ],
       "persona_profile_id": "persona-atlas-mistral",
-      "persona_profile_path": "encyclopedia/personas/mistral.md"
+      "persona_profile_path": "encyclopedia/personas/mistral.md",
+      "reference_ids": [
+        "ref-lmy-sheets-18"
+      ]
     },
     {
       "id": "perplexity",
@@ -787,7 +890,10 @@
         "src-3a08dd5da9",
         "src-7d6d1d5015",
         "src-863473febf",
-        "src-8fafda5907"
+        "src-8fafda5907",
+        "src-d5debdfbdd",
+        "src-ecdc271a3a",
+        "src-b27b70d31a"
       ],
       "local_asset_ids": [
         "school-op-ernie"
@@ -798,10 +904,14 @@
         "所有版本均开放商用"
       ],
       "variant_ids": [
-        "school-op-wenxin"
+        "school-op-wenxin",
+        "lmy-sheets-04"
       ],
       "persona_profile_id": "persona-atlas-wenxin",
-      "persona_profile_path": "encyclopedia/personas/wenxin.md"
+      "persona_profile_path": "encyclopedia/personas/wenxin.md",
+      "reference_ids": [
+        "ref-lmy-sheets-04"
+      ]
     },
     {
       "id": "rwkv",
@@ -1287,7 +1397,11 @@
         "src-64550de9e4",
         "src-b9006a9bef",
         "src-09cee6cfdb",
-        "src-fe6fc07eca"
+        "src-fe6fc07eca",
+        "src-d5debdfbdd",
+        "src-ecdc271a3a",
+        "src-590f7d7f4c",
+        "src-7fd453c8fa"
       ],
       "local_asset_ids": [
         "mimo-adult-01",
@@ -1301,10 +1415,16 @@
       "variant_ids": [
         "priority-mimo-adult-01",
         "priority-mimo-turnaround-02",
-        "larcgpt-mimo-digital-city"
+        "larcgpt-mimo-digital-city",
+        "lmy-sheets-15",
+        "lmy-sheets-16"
       ],
       "persona_profile_id": "persona-atlas-mimo",
-      "persona_profile_path": "encyclopedia/personas/mimo.md"
+      "persona_profile_path": "encyclopedia/personas/mimo.md",
+      "reference_ids": [
+        "ref-lmy-sheets-15",
+        "ref-lmy-sheets-16"
+      ]
     },
     {
       "id": "huggingface",
@@ -1920,6 +2040,45 @@
       ],
       "persona_profile_id": "persona-atlas-seedance",
       "persona_profile_path": "encyclopedia/personas/seedance.md"
+    },
+    {
+      "id": "longcat",
+      "name": "LongCat / 美团龙猫娘",
+      "entity_kind": "model-family-reference",
+      "status": "visual_lead",
+      "design_family": "fuh-attributed-lmy-sheets",
+      "creators": "甶丶（上游据用户提供署名，待独立核对）；lmy414（生成补全）",
+      "aliases": [
+        "LongCat娘",
+        "美团龙猫",
+        "美团模型娘"
+      ],
+      "observed_traits": [
+        "白色长发与绿色挑染、猫耳和长尾",
+        "黄色现代外套、白色内搭与黑色长袜",
+        "设定板包含美团外卖箱与兔形玩偶"
+      ],
+      "identity_rules": "本页只记录现代外套B款；作者关系来自上游用户提供，尚无本库独立核对的原始公开投稿。不能借用同作者MiMo的CC声明，也不把猫耳模型都归入Gemini。",
+      "creative_options_original": "",
+      "sources": [
+        "src-d5debdfbdd",
+        "src-ecdc271a3a",
+        "src-28de46cfec"
+      ],
+      "local_asset_ids": [],
+      "variant_ids": [
+        "lmy-sheets-17"
+      ],
+      "reference_ids": [
+        "ref-lmy-sheets-17"
+      ],
+      "not_claimed": [
+        "官方形象",
+        "社区统一性格",
+        "已核实原作者完整授权"
+      ],
+      "persona_profile_id": "persona-atlas-longcat",
+      "persona_profile_path": "encyclopedia/personas/longcat.md"
     }
   ]
 }

@@ -203,3 +203,12 @@ An independent qimi variant of the existing DeepSeek whale-girl entry: a super-d
 ## 实际取得的两套Live2D与静态3D
 
 [14组下载包](../../encyclopedia/ready-packages.md)含氵六青运行模型、7l-ui PSD/CMO3与运行模型，以及MaidAtelier静态Blend/GLB。模型分支各自署名；[本次实际运行结果](../../encyclopedia/runtime-materials.md)明确可见变化与未确认项。
+
+## 2026-11-16设定板补充
+
+- [03 · 鲸鱼娘](https://github.com/lmy414/ai-chan-sheets/tree/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/03_DeepSeek%E5%A8%98_%E9%B2%B8%E9%B1%BC%E5%A8%98)：本轮仅查目录；lmy414生成补全。
+- [12A · Q 版冬装 · 冬装小肥鱼](https://github.com/lmy414/ai-chan-sheets/tree/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/12_DeepSeek%E5%A8%98_Q%E7%89%88%E5%86%AC%E8%A3%85/%E5%86%AC%E8%A3%85%E5%B0%8F%E8%82%A5%E9%B1%BC)：本轮查看预览；lmy414生成补全。
+- [12B · Q 版冬装 · 冬装小肥鱼 2](https://github.com/lmy414/ai-chan-sheets/tree/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/12_DeepSeek%E5%A8%98_Q%E7%89%88%E5%86%AC%E8%A3%85/%E5%86%AC%E8%A3%85%E5%B0%8F%E8%82%A5%E9%B1%BC2)：本轮查看预览；lmy414生成补全。
+- [14 · Claude 工牌工作服](https://github.com/lmy414/ai-chan-sheets/tree/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/14_DeepSeek%E5%A8%98_Claude%E5%B7%A5%E7%89%8C%E5%B7%A5%E4%BD%9C%E6%9C%8D)：本轮查看预览；lmy414生成补全。
+
+原图、推定侧背面和表情差分分别看；署名与使用范围见[本轮更新](../../docs/13-update-2026-11-16.md)。

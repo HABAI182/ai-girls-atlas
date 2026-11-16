@@ -68,3 +68,9 @@
 - [shuaizenge/ai-girls更新后的作者与声音说明](https://github.com/shuaizenge/ai-girls/blob/dcd69f5f4f2dff1a9c0031e82deb49e0fe949c76/NOTICE.md) · `pinned_repository_text`
 
 返回[角色总览](../../README.md) · [新增资料评述](../../docs/09-more-sources.md) · [版本比较](../../docs/10-variant-guide.md)。
+
+## 2026-11-16设定板补充
+
+- [18 · 法棍猫猫](https://github.com/lmy414/ai-chan-sheets/tree/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/18_Mistral%E5%A8%98_%E6%B3%95%E6%A3%8D%E7%8C%AB%E7%8C%AB)：本轮查看预览；lmy414生成补全。
+
+原图、推定侧背面和表情差分分别看；署名与使用范围见[本轮更新](../../docs/13-update-2026-11-16.md)。

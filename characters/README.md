@@ -51,3 +51,4 @@
 | [NVIDIA Nemotron娘](nemotron/README.md) | model-family | 档案与外链 | 黑发配荧光绿发丝，盘发与长发并存；黑绿科技服、长手套与绿色透明外披；坐在机柜之间，画面有管线和绿色运算界面 |
 | [MAI / Mai娘](mai/README.md) | model-family-reference | 档案与外链 | 深色长发与蓝色发尾、蓝眼；白色长研究外套、黑色高领衣裤、MAI工牌；手持透明平板，周围有语音、代码与图像面板 |
 | [Seedance娘](seedance/README.md) | video-model-family-reference | 档案与外链 | 深色盘发、红色发簪与黑红衣装；坐导演椅并持笔，旁边有大型摄像机；分镜预览、剪辑时间轴、城市片场与小型投影 |
+| [LongCat / 美团龙猫娘](longcat/README.md) | model-family-reference | 作品线索 | 白色长发与绿色挑染、猫耳和长尾；黄色现代外套、白色内搭与黑色长袜；设定板包含美团外卖箱与兔形玩偶 |

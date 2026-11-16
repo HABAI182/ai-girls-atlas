@@ -411,6 +411,48 @@
       "review_scope": "metadata_and_source_links_only",
       "rights_as_recorded": "保留原作品入口，未取得声音权重或分发许可。",
       "checked_on": "2026-10-21"
+    },
+    {
+      "id": "audio-BV1Qw4n61ELE",
+      "title": "大肥鱼《海阔天空》纯享版",
+      "kind": "翻唱/歌曲作品入口",
+      "character_ids": [
+        "deepseek"
+      ],
+      "video_id": "BV1Qw4n61ELE",
+      "source_id": "src-ac5bfcd60d",
+      "source_url": "https://www.bilibili.com/video/BV1Qw4n61ELE/",
+      "publisher": "一风之瑜",
+      "duration_seconds": 273,
+      "source_chain_ids": [],
+      "content_summary": "原作歌曲/人声入口；本轮仅元数据，不推定具体音色模型或制作工具。",
+      "access_mode": "original_publication",
+      "local_copy": false,
+      "voice_model_download": null,
+      "review_scope": "metadata_and_source_links_only",
+      "rights_as_recorded": "声音、歌曲与角色图许可分开，未确认音频再分发条件。",
+      "checked_on": "2026-11-16"
+    },
+    {
+      "id": "audio-BV1sUW86sEC3",
+      "title": "大肥鱼《Billie Jean》纯享版",
+      "kind": "翻唱/歌曲作品入口",
+      "character_ids": [
+        "deepseek"
+      ],
+      "video_id": "BV1sUW86sEC3",
+      "source_id": "src-cea9b8ee5f",
+      "source_url": "https://www.bilibili.com/video/BV1sUW86sEC3/",
+      "publisher": "一风之瑜",
+      "duration_seconds": 214,
+      "source_chain_ids": [],
+      "content_summary": "原作歌曲/人声入口；本轮仅元数据，不推定具体音色模型或制作工具。",
+      "access_mode": "original_publication",
+      "local_copy": false,
+      "voice_model_download": null,
+      "review_scope": "metadata_and_source_links_only",
+      "rights_as_recorded": "声音、歌曲与角色图许可分开，未确认音频再分发条件。",
+      "checked_on": "2026-11-16"
     }
   ]
 }

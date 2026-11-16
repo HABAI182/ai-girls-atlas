@@ -46,3 +46,9 @@
 - [ZipZipPipe的动态 - 哔哩哔哩](https://www.bilibili.com/opus/1240293504667615233) · `web_text`
 
 返回[角色总览](../../README.md) · [新增资料评述](../../docs/09-more-sources.md) · [版本比较](../../docs/10-variant-guide.md)。
+
+## 2026-11-16设定板补充
+
+- [07 · 紫发高马尾](https://github.com/lmy414/ai-chan-sheets/tree/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/07_%E8%B1%86%E5%8C%85Seed%E5%A8%98)：本轮仅查目录；lmy414生成补全。
+
+原图、推定侧背面和表情差分分别看；署名与使用范围见[本轮更新](../../docs/13-update-2026-11-16.md)。

@@ -606,6 +606,162 @@
       ],
       "contribution": "独立AI生成立绘与自动分层/绑定分支，附PSD和CMO3；不和氵六青的模型合并。",
       "date_note": "以固定仓库快照记录。"
+    },
+    {
+      "id": "author-lmy414",
+      "name": "lmy414",
+      "roles": [
+        "setting_sheet_completion"
+      ],
+      "character_ids": [
+        "glm",
+        "gpt",
+        "deepseek",
+        "wenxin",
+        "qwen",
+        "kimi",
+        "seed",
+        "minimax",
+        "grok",
+        "gemini",
+        "claude",
+        "mimo",
+        "longcat",
+        "mistral"
+      ],
+      "source_ids": [
+        "src-d5debdfbdd",
+        "src-ecdc271a3a"
+      ],
+      "source_urls": [
+        "https://github.com/lmy414/ai-chan-sheets/blob/171116808adad57f1c0ec347ff50c07d5095676f/README.md"
+      ],
+      "contribution": "原图切片、生成补全、设定板与来源记录；不等同于全部角色原作者。",
+      "date_note": "本轮收录日期不是创作首发日期。"
+    },
+    {
+      "id": "author-immyxxr",
+      "name": "Immyxxr（上游作品页署名）",
+      "roles": [
+        "character_design_reference"
+      ],
+      "character_ids": [
+        "mimo"
+      ],
+      "source_ids": [
+        "src-ecdc271a3a"
+      ],
+      "source_urls": [
+        "https://github.com/lmy414/ai-chan-sheets/blob/171116808adad57f1c0ec347ff50c07d5095676f/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md"
+      ],
+      "contribution": "MiMo女仆装分支，署名按上游记录，原图许可仍未知。",
+      "date_note": "本轮收录日期不是创作首发日期。"
+    },
+    {
+      "id": "author-kaalia0912",
+      "name": "Kaalia0912",
+      "roles": [
+        "persona_author"
+      ],
+      "character_ids": [
+        "deepseek"
+      ],
+      "source_ids": [
+        "src-baf42d9116"
+      ],
+      "source_urls": [
+        "https://github.com/Kaalia0912/dsh-whale-musume-persona/blob/55fe3cbc6a08f0e10fa690477449d413fe08bf09/PERSONA.md"
+      ],
+      "contribution": "DSH编码场景的鲸鱼娘人格。",
+      "date_note": "本轮收录日期不是创作首发日期。"
+    },
+    {
+      "id": "author-whyever77",
+      "name": "whyever77",
+      "roles": [
+        "persona_integration"
+      ],
+      "character_ids": [
+        "deepseek"
+      ],
+      "source_ids": [
+        "src-d63e1ab517"
+      ],
+      "source_urls": [
+        "https://github.com/whyever77/dafeiyu-astrbot/blob/64274354c4331591620a925b3df498725df4564f/persona/%E5%A4%A7%E8%82%A5%E9%B1%BC-%E4%BA%BA%E6%A0%BC.md"
+      ],
+      "contribution": "AstrBot人格、语音与记忆接入参考。",
+      "date_note": "本轮收录日期不是创作首发日期。"
+    },
+    {
+      "id": "author-genderswap-persona",
+      "name": "GenderSwapAI编辑",
+      "roles": [
+        "persona_author"
+      ],
+      "character_ids": [
+        "deepseek"
+      ],
+      "source_ids": [
+        "src-462b39f1ef"
+      ],
+      "source_urls": [
+        "https://genderswapai.com/zh-CN/ai-gijinka/whale-persona"
+      ],
+      "contribution": "站点独立聊天人格和未实测的编辑示范。",
+      "date_note": "本轮收录日期不是创作首发日期。"
+    },
+    {
+      "id": "author-xiaochanmao",
+      "name": "一支小馋猫",
+      "roles": [
+        "fictional_script"
+      ],
+      "character_ids": [
+        "deepseek",
+        "qwen",
+        "claude",
+        "gemini",
+        "gpt",
+        "grok",
+        "glm"
+      ],
+      "source_ids": [
+        "src-08400cb9db"
+      ],
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1Jo456yES9/"
+      ],
+      "contribution": "七位AI挽留剧情；作者明确不是实际模型回答。",
+      "date_note": "本轮收录日期不是创作首发日期。"
+    },
+    {
+      "id": "author-cancan",
+      "name": "灿灿同学",
+      "roles": [
+        "character_adaptation"
+      ],
+      "character_ids": [
+        "deepseek",
+        "kimi",
+        "gpt",
+        "claude",
+        "qwen",
+        "gemini",
+        "glm",
+        "grok",
+        "seed",
+        "mimo",
+        "minimax"
+      ],
+      "source_ids": [
+        "src-8824dbce95"
+      ],
+      "source_urls": [
+        "https://www.bilibili.com/opus/1259662694779191301"
+      ],
+      "contribution": "角色改编图的作者说明与标签，未逐图核验。",
+      "date_note": "本轮收录日期不是创作首发日期。"
     }
   ]
 }

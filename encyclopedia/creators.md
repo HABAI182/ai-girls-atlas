@@ -43,3 +43,13 @@
 | raikajones / RAIKA（作者公开对话和制作截图） | AI人格図鑑：raikajones的Sora(OpenAI)自设分支；只确认该作者分支，不向所有社区作品扩展。 | Sora（历史产品） | [原入口](https://note.com/raikajones/n/n8862bdd081a9) |
 | Andersen216 | 整理氵六青模型相对资源、8组动作与表情参数；并非原模型建模作者。 | DeepSeek / 深度求索 | [原入口](https://github.com/Andersen216/dsh-whale-girl-live2d) |
 | 7l-ui | 独立AI生成立绘与自动分层/绑定分支，附PSD和CMO3；不和氵六青的模型合并。 | DeepSeek / 深度求索 | [原入口](https://github.com/7l-ui/whalegirl-pet) |
+
+## 2026-11-16补充署名
+
+- **lmy414**：原图切片、生成补全、设定板与来源记录；不等同于全部角色原作者。
+- **Immyxxr（上游作品页署名）**：MiMo女仆装分支，署名按上游记录，原图许可仍未知。
+- **Kaalia0912**：DSH编码场景的鲸鱼娘人格。
+- **whyever77**：AstrBot人格、语音与记忆接入参考。
+- **GenderSwapAI编辑**：站点独立聊天人格和未实测的编辑示范。
+- **一支小馋猫**：七位AI挽留剧情；作者明确不是实际模型回答。
+- **灿灿同学**：角色改编图的作者说明与标签，未逐图核验。
