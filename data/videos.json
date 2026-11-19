@@ -3566,9 +3566,9 @@
       "duration_seconds": 258,
       "published_at": "2026-11-14T01:59:13+08:00",
       "category": "科幻连续剧",
-      "review_scope": "api_metadata_and_creator_description",
+      "review_scope": "sampled_visual_frames",
       "source_id": "src-8dc11e5c1f",
-      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "relation_to_ai_girls": "ai_girl_work",
       "research_note": "简介以五人第七小队推进，战斗和归途并置，再用未说出口的约定留出角色线。UP 主注明娘化造型来源是 ZipZipPipe。",
       "related_source_ids": [],
       "popularity_snapshot": {
@@ -3580,7 +3580,9 @@
         "share": 10,
         "reply": 29,
         "danmaku": 7
-      }
+      },
+      "primary_genre": "action-battle",
+      "classification_basis": "sampled_visual_frames"
     },
     {
       "id": "BV1cZsV6MEVF",
@@ -3591,9 +3593,9 @@
       "duration_seconds": 178,
       "published_at": "2026-11-14T20:26:24+08:00",
       "category": "室友连续剧",
-      "review_scope": "api_metadata_and_creator_description",
+      "review_scope": "sampled_visual_frames_and_direct_audio_model",
       "source_id": "src-25a548099d",
-      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "relation_to_ai_girls": "ai_girl_work",
       "research_note": "买茶具的琐事转到 Claude 能否自己决定去留，鲸鱼娘陪在身边、店长千问出面解围，雨夜留下下一集的伏笔。",
       "related_source_ids": [],
       "popularity_snapshot": {
@@ -3605,7 +3607,9 @@
         "share": 4,
         "reply": 29,
         "danmaku": 88
-      }
+      },
+      "primary_genre": "ensemble-sitcom",
+      "classification_basis": "sampled_visual_frames_and_direct_audio_model"
     },
     {
       "id": "BV1Kys16TEhF",
@@ -3641,9 +3645,9 @@
       "duration_seconds": 15,
       "published_at": "2026-11-07T17:25:56+08:00",
       "category": "单梗短片",
-      "review_scope": "api_metadata_and_creator_description",
+      "review_scope": "sampled_visual_frames",
       "source_id": "src-aece69b10f",
-      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "relation_to_ai_girls": "ai_girl_work",
       "research_note": "以 GLM 小狐狸躲进冰箱为单场景梗，简介给出借用创意的 BV 号。",
       "related_source_ids": [],
       "popularity_snapshot": {
@@ -3655,7 +3659,9 @@
         "share": 2,
         "reply": 4,
         "danmaku": 0
-      }
+      },
+      "primary_genre": "real-world-insertion",
+      "classification_basis": "sampled_visual_frames"
     },
     {
       "id": "BV1urnR6xE2P",
@@ -3666,9 +3672,9 @@
       "duration_seconds": 73,
       "published_at": "2026-10-26T19:00:00+08:00",
       "category": "角色课堂",
-      "review_scope": "api_metadata_and_creator_description",
+      "review_scope": "sampled_visual_frames_and_direct_audio_model",
       "source_id": "src-2da86f4217",
-      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "relation_to_ai_girls": "ai_girl_work",
       "research_note": "用鲸鱼老师讲朋友故事的形式串接 DSH 外号、自称流线型和评论区问答。",
       "related_source_ids": [],
       "popularity_snapshot": {
@@ -3680,7 +3686,9 @@
         "share": 1543,
         "reply": 2633,
         "danmaku": 146
-      }
+      },
+      "primary_genre": "prop-gag",
+      "classification_basis": "sampled_visual_frames_and_direct_audio_model"
     },
     {
       "id": "BV1Chn96VEov",
@@ -3691,9 +3699,9 @@
       "duration_seconds": 119,
       "published_at": "2026-10-26T13:19:20+08:00",
       "category": "角色应用演示",
-      "review_scope": "api_metadata_and_creator_description",
+      "review_scope": "sampled_visual_frames",
       "source_id": "src-eb861f4d51",
-      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "relation_to_ai_girls": "ai_girl_work",
       "research_note": "作者借 QQ 群聊演示等待多条消息、主动打招呼、情绪与语音，以演示内容作为群聊拟人参考。",
       "related_source_ids": [],
       "popularity_snapshot": {
@@ -3705,7 +3713,9 @@
         "share": 0,
         "reply": 10,
         "danmaku": 0
-      }
+      },
+      "primary_genre": "chat-companion-demo",
+      "classification_basis": "sampled_visual_frames"
     },
     {
       "id": "BV1rRHP6qEny",
@@ -3716,9 +3726,9 @@
       "duration_seconds": 36,
       "published_at": "2026-10-24T15:17:39+08:00",
       "category": "Live2D 角色自述",
-      "review_scope": "api_metadata_and_creator_description",
+      "review_scope": "sampled_visual_frames_and_direct_audio_model",
       "source_id": "src-d51e3a08c8",
-      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "relation_to_ai_girls": "ai_girl_work",
       "research_note": "大肥鱼以首条投稿自我介绍。简介逐项给出角色原设、二次设计、Live2D 模型、桌宠接入和配音署名。",
       "related_source_ids": [],
       "popularity_snapshot": {
@@ -3730,7 +3740,9 @@
         "share": 2,
         "reply": 27,
         "danmaku": 0
-      }
+      },
+      "primary_genre": "avatar-presenter",
+      "classification_basis": "sampled_visual_frames_and_direct_audio_model"
     },
     {
       "id": "BV1zm4h6RE9M",
@@ -3741,9 +3753,9 @@
       "duration_seconds": 438,
       "published_at": "2026-11-05T21:17:21+08:00",
       "category": "助眠与原创角色",
-      "review_scope": "api_metadata_and_creator_description",
+      "review_scope": "sampled_visual_frames_and_direct_audio_model",
       "source_id": "src-49f3e817c4",
-      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "relation_to_ai_girls": "ai_girl_work",
       "research_note": "UP 主在简介交代紫发 JK Astra 的独立出处、在其漫画里作为 Codex 姐姐的设定，以及本地合成配音。",
       "related_source_ids": [],
       "popularity_snapshot": {
@@ -3755,7 +3767,9 @@
         "share": 20,
         "reply": 74,
         "danmaku": 0
-      }
+      },
+      "primary_genre": "asmr-roleplay",
+      "classification_basis": "sampled_visual_frames_and_direct_audio_model"
     },
     {
       "id": "BV1Qhpy6uE1s",
@@ -3766,9 +3780,9 @@
       "duration_seconds": 212,
       "published_at": "2026-10-14T12:27:22+08:00",
       "category": "歌曲剧情 MV",
-      "review_scope": "api_metadata_and_creator_description",
+      "review_scope": "sampled_visual_frames",
       "source_id": "src-dc75c67a54",
-      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "relation_to_ai_girls": "ai_girl_work",
       "research_note": "UP 主描述把数学表白推向执行失控，用九个 AI 形象承接同一首 Mili 歌曲的连续戏剧节拍，并提供早版工程入口。",
       "related_source_ids": [
         "src-d55ba94cca"
@@ -3782,7 +3796,9 @@
         "share": 40,
         "reply": 40,
         "danmaku": 11
-      }
+      },
+      "primary_genre": "music-mv",
+      "classification_basis": "sampled_visual_frames"
     },
     {
       "id": "BV11eWy6wE5W",
@@ -3793,9 +3809,9 @@
       "duration_seconds": 236,
       "published_at": "2026-11-11T16:20:11+08:00",
       "category": "原创角色曲 MV",
-      "review_scope": "api_metadata_and_creator_description",
+      "review_scope": "sampled_visual_frames",
       "source_id": "src-c158745d53",
-      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "relation_to_ai_girls": "ai_girl_work",
       "research_note": "独立 AI OC 星辉猫娘弥妮，通过 Token、注意力、散热与激活函数写出轻科普恋爱曲。",
       "related_source_ids": [],
       "popularity_snapshot": {
@@ -3807,7 +3823,9 @@
         "share": 9,
         "reply": 4,
         "danmaku": 0
-      }
+      },
+      "primary_genre": "music-mv",
+      "classification_basis": "sampled_visual_frames"
     },
     {
       "id": "BV1zdxS6uE4j",
@@ -3818,9 +3836,9 @@
       "duration_seconds": 143,
       "published_at": "2026-11-04T11:41:10+08:00",
       "category": "翻唱与同题互动",
-      "review_scope": "api_metadata_and_creator_description",
+      "review_scope": "sampled_visual_frames_and_direct_audio_model",
       "source_id": "src-35b6e265cb",
-      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "relation_to_ai_girls": "ai_girl_work",
       "research_note": "鲸鱼娘按评论点歌翻唱《雨爱》司凤版，简介列原唱、改编、声线转换与视觉署名。",
       "related_source_ids": [
         "src-e12da871b9"
@@ -3834,7 +3852,9 @@
         "share": 2162,
         "reply": 5031,
         "danmaku": 344
-      }
+      },
+      "primary_genre": "music-mv",
+      "classification_basis": "sampled_visual_frames_and_direct_audio_model"
     },
     {
       "id": "BV1U64q69EYm",
@@ -3845,9 +3865,9 @@
       "duration_seconds": 140,
       "published_at": "2026-11-06T18:45:37+08:00",
       "category": "翻唱与同题互动",
-      "review_scope": "api_metadata_and_creator_description",
+      "review_scope": "sampled_visual_frames_and_direct_audio_model",
       "source_id": "src-b6f5a45b57",
-      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "relation_to_ai_girls": "ai_girl_work",
       "research_note": "GLM 小狐娘在简介接续鲸鱼娘的同曲挑战。口头答应看心情的互动方式适合作为账号运营角色的例子。",
       "related_source_ids": [
         "src-e12da871b9"
@@ -3861,7 +3881,9 @@
         "share": 8,
         "reply": 97,
         "danmaku": 0
-      }
+      },
+      "primary_genre": "music-mv",
+      "classification_basis": "sampled_visual_frames_and_direct_audio_model"
     }
   ]
 }

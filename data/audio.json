@@ -473,9 +473,17 @@
       "access_mode": "original_publication",
       "local_copy": false,
       "voice_model_download": null,
-      "review_scope": "metadata_and_source_links_only",
+      "review_scope": "direct_audio_model_from_original_stream",
       "rights_as_recorded": "原作声音入口，目录未核实具体音频授权。",
-      "checked_on": "2026-11-19"
+      "checked_on": "2026-11-19",
+      "performance_case_path": "videos/cases/BV1zm4h6RE9M.md",
+      "direct_audio_performance_ids": [
+        "voice-performance-BV1zm4h6RE9M-8",
+        "voice-performance-BV1zm4h6RE9M-155",
+        "voice-performance-BV1zm4h6RE9M-245",
+        "voice-performance-BV1zm4h6RE9M-329",
+        "voice-performance-BV1zm4h6RE9M-395"
+      ]
     },
     {
       "id": "audio-BV1rRHP6qEny",
@@ -495,9 +503,13 @@
       "access_mode": "original_publication",
       "local_copy": false,
       "voice_model_download": null,
-      "review_scope": "metadata_and_source_links_only",
+      "review_scope": "direct_audio_model_from_original_stream",
       "rights_as_recorded": "原作声音入口，目录未核实具体音频授权。",
-      "checked_on": "2026-11-19"
+      "checked_on": "2026-11-19",
+      "performance_case_path": "videos/cases/BV1rRHP6qEny.md",
+      "direct_audio_performance_ids": [
+        "voice-performance-BV1rRHP6qEny-0"
+      ]
     },
     {
       "id": "audio-BV1zdxS6uE4j",
@@ -519,9 +531,15 @@
       "access_mode": "original_publication",
       "local_copy": false,
       "voice_model_download": null,
-      "review_scope": "metadata_and_source_links_only",
+      "review_scope": "direct_audio_model_from_original_stream",
       "rights_as_recorded": "原作声音入口，目录未核实具体音频授权。",
-      "checked_on": "2026-11-19"
+      "checked_on": "2026-11-19",
+      "performance_case_path": "videos/cases/BV1zdxS6uE4j.md",
+      "direct_audio_performance_ids": [
+        "voice-performance-BV1zdxS6uE4j-8",
+        "voice-performance-BV1zdxS6uE4j-49",
+        "voice-performance-BV1zdxS6uE4j-100"
+      ]
     },
     {
       "id": "audio-BV1U64q69EYm",
@@ -543,9 +561,15 @@
       "access_mode": "original_publication",
       "local_copy": false,
       "voice_model_download": null,
-      "review_scope": "metadata_and_source_links_only",
+      "review_scope": "direct_audio_model_from_original_stream",
       "rights_as_recorded": "原作声音入口，目录未核实具体音频授权。",
-      "checked_on": "2026-11-19"
+      "checked_on": "2026-11-19",
+      "performance_case_path": "videos/cases/BV1U64q69EYm.md",
+      "direct_audio_performance_ids": [
+        "voice-performance-BV1U64q69EYm-8",
+        "voice-performance-BV1U64q69EYm-49",
+        "voice-performance-BV1U64q69EYm-100"
+      ]
     },
     {
       "id": "audio-BV11eWy6wE5W",

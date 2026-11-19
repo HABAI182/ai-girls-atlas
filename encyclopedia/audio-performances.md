@@ -24,3 +24,7 @@
 ## 可复用记录
 
 [audio-performances.json](../data/audio-performances.json)记录片段、方法、模型权重校验和摘要；不含原音轨或完整歌词。原声音仍从作者投稿收听。
+
+## 11 月 19 日补充片段
+
+[助眠、配音与翻唱](../videos/persona-performance.md#声音怎么参与人设)新增原音轨片段和相应案例。前表保留 10 月 21 日的六段记录。

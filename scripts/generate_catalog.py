@@ -45,6 +45,7 @@ def outputs():
     videos = read('videos', 'videos')
     categories = read('video-categories', 'categories')
     studies = {s['video_id']: s for s in read('video-studies', 'studies')}
+    method_cases = sum(s.get('relation_to_ai_girls') == 'related_production_reference' for s in studies.values())
     supplementary = {s['video_id']: s for s in read('video-observations', 'observations')}
     category_names = {c['id']: c['title'] for c in categories}
     indexed_genres = {vid: c['id'] for c in categories for vid in c['indexed_video_ids']}
@@ -96,7 +97,7 @@ def outputs():
         f"当前 **{coverage['video_records']} 条视频记录**：{classified} 条进入现有主品类索引，"
         f"另 {unclassified} 条为社区印象或近期作品发现入口，尚未归入画面品类；"
         f"**{coverage['video_study_cases']} 篇抽帧案例**覆盖 {coverage['video_content_categories']} 个内容品类。"
-        "其中21篇是AI娘作品、2篇是关联制作方法参考。观察范围以每条记录为准。")
+        f"其中 {len(studies) - method_cases} 篇是 AI 娘作品、{method_cases} 篇是关联制作方法参考。观察范围以每条记录为准。")
     result['videos/README.md'] = block((ROOT / 'videos/README.md').read_text(encoding='utf-8'), 'video-stats', video_stats)
     gap_stats = (
         f"以[data/coverage.json](../data/coverage.json)为准。当前 {coverage['entity_records']} 个条目，"

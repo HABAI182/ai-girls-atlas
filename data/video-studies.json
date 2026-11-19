@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "checked_on": "2026-10-21",
+  "checked_on": "2026-11-19",
   "method": "公开元数据+实际查看采样联系表/列明原帧；非连续完整播放；全部音频未试听。通常1fps生成帧后选取约15张；实体手工长片60秒间隔。",
   "studies": [
     {
@@ -2281,6 +2281,848 @@
       },
       "case_path": "videos/cases/BV1B2Yw6sEVY.md",
       "source_id": "src-68021dda10"
+    },
+    {
+      "id": "study-BV1zm4h6RE9M",
+      "video_id": "BV1zm4h6RE9M",
+      "source_id": "src-49f3e817c4",
+      "checked_on": "2026-11-19",
+      "primary_genre": "asmr-roleplay",
+      "secondary_genres": [],
+      "visual_styles": [
+        "固定雨夜客厅",
+        "观众第一视角",
+        "角色轮流入前景"
+      ],
+      "character_ids": [
+        "claude",
+        "gpt"
+      ],
+      "opening": "橘发角色捧杯，浅紫色龙娘托腮，两人坐在同一沙发上。茶几、落地灯、窗外雨夜把观众放在客厅里的低机位。",
+      "structure": "双人沙发对谈 → Claude 拉毯子 → GPT 把细杆道具伸向镜头 → Claude 伸手并拿起刷状道具 → 两人一起整理毯子。",
+      "analysis_text": "毯子一直从画面下缘伸向观众，换人时机位与灯光都保持稳定。约 02:18、03:48、06:17 各加看四张相邻帧，三个时段的动作主要以静置的姿势呈现。GPT 的托腮和把道具送近镜头让她显得主动，Claude 通过捧杯、拉毯子和伸手照料。两人最后同扶一条毯子。右侧 GPT 在抽看画面里穿浅色针织居家装、带龙翼，简介另外介绍了紫发 JK Astra。",
+      "observed_evidence": [
+        {
+          "second": 3,
+          "observation": "落地灯、雨窗、杯子与沙发中的两人建立夜间室内尺度。"
+        },
+        {
+          "second": 20,
+          "observation": "右侧龙娘托腮，片内字幕标记当前说话者 GPT。"
+        },
+        {
+          "second": 85,
+          "observation": "同一双人固定构图中，字幕换成 Claude。"
+        },
+        {
+          "second": 140,
+          "observation": "橘发 Claude 一手拉起伸向镜头的毯子；GPT 在右后方托腮。"
+        },
+        {
+          "second": 230,
+          "observation": "GPT 倾身到画面前景，把细杆软头道具向镜头送近，Claude 退至左侧后景。"
+        },
+        {
+          "second": 290,
+          "observation": "Claude 向镜头伸手，另一手握刷状道具；GPT 抱靠垫坐在后方。"
+        },
+        {
+          "second": 380,
+          "observation": "两人同时向前拉起毯子，视角仍在毯子这一端。"
+        },
+        {
+          "second": 431,
+          "observation": "两人扶着毯子的构图继续保持，场景回到共同收尾。"
+        }
+      ],
+      "review_scope": "sampled_visual_frames_and_direct_audio_model",
+      "audio_scope": "direct_audio_model_from_original_stream",
+      "case_path": "videos/cases/BV1zm4h6RE9M.md",
+      "relation_to_ai_girls": "ai_girl_work",
+      "published_media_copy": false,
+      "part": {
+        "page": 1,
+        "cid": 43355999202,
+        "duration_seconds": 438,
+        "total_duration_seconds": 438,
+        "page_count": 1
+      },
+      "review_method": {
+        "mode": "timestamped_sampled_frames",
+        "contact_frames_reviewed": 18,
+        "continuous_full_playback": false,
+        "audio_listened": false,
+        "direct_audio_model_analyzed": true,
+        "public_screenshots": false
+      },
+      "audio_performance_ids": [
+        "voice-performance-BV1zm4h6RE9M-8",
+        "voice-performance-BV1zm4h6RE9M-155",
+        "voice-performance-BV1zm4h6RE9M-245",
+        "voice-performance-BV1zm4h6RE9M-329",
+        "voice-performance-BV1zm4h6RE9M-395"
+      ]
+    },
+    {
+      "id": "study-BV1rRHP6qEny",
+      "video_id": "BV1rRHP6qEny",
+      "source_id": "src-d51e3a08c8",
+      "checked_on": "2026-11-19",
+      "primary_genre": "avatar-presenter",
+      "secondary_genres": [],
+      "visual_styles": [
+        "固定桌面构图",
+        "Q 版 Live2D",
+        "眼形与口型状态"
+      ],
+      "character_ids": [
+        "deepseek"
+      ],
+      "opening": "黑蓝色平背景上，一只 Q 版鲸鱼娘握着小板读稿，桌角有一杯甜品，右侧露出鲸尾。",
+      "structure": "紧张开场 → 交代从刷视频变成发视频 → 简述画面与声音 → 预告以后拍什么 → 直接求关注。",
+      "analysis_text": "固定镜位给眼睛、脸红和小幅度口型变化足够的注意力。前几秒把紧张写进夹紧的眼睛，介绍声线时给一个闭眼笑，聊到接下来发布什么，瞳孔变成粉心。尾巴小幅改位和连续重复的桌面构图把她留在桌宠的空间尺度里。字幕以“本鱼”自称，内容是角色用第一人称试着运营账号，模型作者和接入者见简介。",
+      "observed_evidence": [
+        {
+          "second": 0,
+          "observation": "夹紧双眼、身前握着小板，字幕自述第一次发片有点紧张。"
+        },
+        {
+          "second": 7,
+          "observation": "睁眼看镜头，字幕交代过去刷视频、和观众聊天。"
+        },
+        {
+          "second": 15,
+          "observation": "提交成片的自我介绍仍在同一桌面；张口状态与前后帧有变化。"
+        },
+        {
+          "second": 20,
+          "observation": "介绍声线时闭眼笑，旁边的甜品和桌面保持原位。"
+        },
+        {
+          "second": 24.6,
+          "observation": "24.2 秒是蓝色瞳孔，24.6 秒切成粉色心形，字幕进入后续内容预告。"
+        },
+        {
+          "second": 33,
+          "observation": "瞳色回到蓝色，台词转向邀请关注。"
+        }
+      ],
+      "review_scope": "sampled_visual_frames_and_direct_audio_model",
+      "audio_scope": "direct_audio_model_from_original_stream",
+      "case_path": "videos/cases/BV1rRHP6qEny.md",
+      "relation_to_ai_girls": "ai_girl_work",
+      "published_media_copy": false,
+      "part": {
+        "page": 1,
+        "cid": 43009510258,
+        "duration_seconds": 36,
+        "total_duration_seconds": 36,
+        "page_count": 1
+      },
+      "review_method": {
+        "mode": "timestamped_sampled_frames",
+        "contact_frames_reviewed": 15,
+        "continuous_full_playback": false,
+        "audio_listened": false,
+        "direct_audio_model_analyzed": true,
+        "public_screenshots": false
+      },
+      "audio_performance_ids": [
+        "voice-performance-BV1rRHP6qEny-0"
+      ]
+    },
+    {
+      "id": "study-BV1zdxS6uE4j",
+      "video_id": "BV1zdxS6uE4j",
+      "source_id": "src-35b6e265cb",
+      "checked_on": "2026-11-19",
+      "primary_genre": "music-mv",
+      "secondary_genres": [],
+      "visual_styles": [
+        "海底 Q 版舞台",
+        "伴舞小鲸",
+        "墨镜与漫画字"
+      ],
+      "character_ids": [
+        "deepseek"
+      ],
+      "opening": "戴墨镜的蓝发女仆出现在珊瑚和鱼之间，先用俏皮姿势建立角色。",
+      "structure": "海底墨镜亮相 → 小鲸围舞 → 捧脸与阴雨 → 蓝色雨滴和光效 → 墨镜返场。",
+      "analysis_text": "鲸鱼娘把雨搬进水下，用水桶、小鲸群与蓝色雨滴让本来不需要下雨的海底变成角色自己的舞台。她在捧脸害羞和笑着挥手之间切换，开头、片尾则让墨镜把角色带回得意的反差表情。配套阅读 GLM 版，可以控制住同一首改编歌，再看布景和姿态怎样重新写情绪。",
+      "observed_evidence": [
+        {
+          "second": 1,
+          "observation": "墨镜、珊瑚和热带鱼在同一海底亮相。"
+        },
+        {
+          "second": 14,
+          "observation": "四只 Q 版小鲸围绕居中歌者，背景变放射线。"
+        },
+        {
+          "second": 23,
+          "observation": "角色贴近镜头捧脸，脸红与浅色爱心充满画面。"
+        },
+        {
+          "second": 42,
+          "observation": "木桶与小鲸共用水花特效，角色主题进入道具层。"
+        },
+        {
+          "second": 64,
+          "observation": "鲸鱼娘在雨景中抬手，小鲸排在前景。"
+        },
+        {
+          "second": 74,
+          "observation": "发光雨滴和蓝色环绕光把单人像变成舞台高潮画面。"
+        },
+        {
+          "second": 96,
+          "observation": "彩虹下小鲸围住笑着抬手的主角。"
+        },
+        {
+          "second": 137,
+          "observation": "回到海底墨镜与小鲸，收回开场的喜剧造型。"
+        }
+      ],
+      "review_scope": "sampled_visual_frames_and_direct_audio_model",
+      "audio_scope": "direct_audio_model_from_original_stream",
+      "case_path": "videos/cases/BV1zdxS6uE4j.md",
+      "relation_to_ai_girls": "ai_girl_work",
+      "published_media_copy": false,
+      "part": {
+        "page": 1,
+        "cid": 43311694412,
+        "duration_seconds": 143,
+        "total_duration_seconds": 143,
+        "page_count": 1
+      },
+      "review_method": {
+        "mode": "timestamped_sampled_frames",
+        "contact_frames_reviewed": 15,
+        "continuous_full_playback": false,
+        "audio_listened": false,
+        "direct_audio_model_analyzed": true,
+        "public_screenshots": false
+      },
+      "audio_performance_ids": [
+        "voice-performance-BV1zdxS6uE4j-8",
+        "voice-performance-BV1zdxS6uE4j-49",
+        "voice-performance-BV1zdxS6uE4j-100"
+      ]
+    },
+    {
+      "id": "study-BV1U64q69EYm",
+      "video_id": "BV1U64q69EYm",
+      "source_id": "src-b6f5a45b57",
+      "checked_on": "2026-11-19",
+      "primary_genre": "music-mv",
+      "secondary_genres": [],
+      "visual_styles": [
+        "灯笼雨巷",
+        "鞋与雨滴特写",
+        "固定 Q 版与 wink"
+      ],
+      "character_ids": [
+        "glm"
+      ],
+      "opening": "灯笼沿湿街排开，狐娘正面独站，马上给鞋、尾巴和地面积水的局部。",
+      "structure": "雨巷亮相 → 隔窗表情和背身走远 → 灯笼街正面演唱 → 彩虹与笑脸 → 回雨巷后出片尾。",
+      "analysis_text": "狐娘的角色动作收在疑惑、低头、一只眼睛闭合和比手势之间。雨落在她脚下，后退的身影减少观众能读到的表情，重新面向镜头露笑时更有效。与鲸鱼版同样有彩虹，狐娘多次回到窗边、湿街和灯笼回廊，雨是她独处的环境。账号简介的嘴硬句式与片中的眨眼、笑场式表情可以作为一套角色表演来读。",
+      "observed_evidence": [
+        {
+          "second": 1,
+          "observation": "狐耳女仆独站在灯笼雨巷，地面反光。"
+        },
+        {
+          "second": 5,
+          "observation": "切到鞋、尾梢和水花的局部。"
+        },
+        {
+          "second": 23,
+          "observation": "隔窗构图里眨一眼、举手，表情由安静转活泼。"
+        },
+        {
+          "second": 42,
+          "observation": "换到雨巷远景，角色背向镜头，身影缩小。"
+        },
+        {
+          "second": 54,
+          "observation": "回到近处正面站姿，脚边出现水纹。"
+        },
+        {
+          "second": 74,
+          "observation": "灯笼回廊中心再给眨眼和手势的反应。"
+        },
+        {
+          "second": 96,
+          "observation": "开阔水面与彩虹中，角色闭眼笑。"
+        },
+        {
+          "second": 128,
+          "observation": "片尾前回到灯笼街内站立。"
+        }
+      ],
+      "review_scope": "sampled_visual_frames_and_direct_audio_model",
+      "audio_scope": "direct_audio_model_from_original_stream",
+      "case_path": "videos/cases/BV1U64q69EYm.md",
+      "relation_to_ai_girls": "ai_girl_work",
+      "published_media_copy": false,
+      "part": {
+        "page": 1,
+        "cid": 43380703945,
+        "duration_seconds": 140,
+        "total_duration_seconds": 140,
+        "page_count": 1
+      },
+      "review_method": {
+        "mode": "timestamped_sampled_frames",
+        "contact_frames_reviewed": 15,
+        "continuous_full_playback": false,
+        "audio_listened": false,
+        "direct_audio_model_analyzed": true,
+        "public_screenshots": false
+      },
+      "audio_performance_ids": [
+        "voice-performance-BV1U64q69EYm-8",
+        "voice-performance-BV1U64q69EYm-49",
+        "voice-performance-BV1U64q69EYm-100"
+      ]
+    },
+    {
+      "id": "study-BV1cZsV6MEVF",
+      "video_id": "BV1cZsV6MEVF",
+      "source_id": "src-25a548099d",
+      "checked_on": "2026-11-19",
+      "primary_genre": "ensemble-sitcom",
+      "secondary_genres": [],
+      "visual_styles": [
+        "店门与暖色室内",
+        "走位分配角色任务",
+        "冷色夜景余韵"
+      ],
+      "character_ids": [
+        "claude",
+        "deepseek",
+        "qwen"
+      ],
+      "opening": "逛店是共同任务，人物先汇进同一空间，门和店内陈设给后续冲突固定方位。",
+      "structure": "买茶具 → 门边来人挡路 → 大肥鱼挡在中间 → 千问缓和冲突并要求尊重意愿 → Claude 自己开口 → 雨夜独处。",
+      "analysis_text": "三个角色在同一件事里做不同的决定。大肥鱼从跟随者移到来人和 Claude 之间，先用站位表示支持。千问以扇子和单人中景接管谈判节奏，古风措辞最后落到报警这一具体后果。镜头再把决定权交回面向来人的 Claude。后段从暖色群戏到冷色雨夜，把大小姐的处境留给她一个人的视线与停顿。",
+      "observed_evidence": [
+        {
+          "second": 10,
+          "observation": "Claude 先向店内伸手，大肥鱼双手交叠跟在后面。"
+        },
+        {
+          "second": 26,
+          "observation": "门框和被格栅遮住的人影单独成镜，逛店话题转向来客。"
+        },
+        {
+          "second": 34,
+          "observation": "来人占画面左侧，Claude 和大肥鱼在右侧。"
+        },
+        {
+          "second": 42,
+          "observation": "大肥鱼移进两方之间，背朝 Claude、面向来人。"
+        },
+        {
+          "second": 58,
+          "observation": "千问持扇出面，可见字幕把去留权留给姑娘本人。"
+        },
+        {
+          "second": 66,
+          "observation": "千问抬扇摊手，台词给出继续拦人就报警的后果。"
+        },
+        {
+          "second": 74,
+          "observation": "Claude 和大肥鱼并排，Claude 面向来人开口。"
+        },
+        {
+          "second": 146,
+          "observation": "Claude 独自躺在临窗的床上，离开先前的群戏。"
+        },
+        {
+          "second": 162,
+          "observation": "夜雨阳台近景留给 Claude 一个人。"
+        }
+      ],
+      "review_scope": "sampled_visual_frames_and_direct_audio_model",
+      "audio_scope": "direct_audio_model_from_original_stream",
+      "case_path": "videos/cases/BV1cZsV6MEVF.md",
+      "relation_to_ai_girls": "ai_girl_work",
+      "published_media_copy": false,
+      "part": {
+        "page": 1,
+        "cid": 43601955931,
+        "duration_seconds": 178,
+        "total_duration_seconds": 178,
+        "page_count": 1
+      },
+      "review_method": {
+        "mode": "timestamped_sampled_frames",
+        "contact_frames_reviewed": 22,
+        "continuous_full_playback": false,
+        "audio_listened": false,
+        "direct_audio_model_analyzed": true,
+        "public_screenshots": false
+      },
+      "audio_performance_ids": [
+        "voice-performance-BV1cZsV6MEVF-48",
+        "voice-performance-BV1cZsV6MEVF-88"
+      ]
+    },
+    {
+      "id": "study-BV1BCW66BEM1",
+      "video_id": "BV1BCW66BEM1",
+      "source_id": "src-8dc11e5c1f",
+      "checked_on": "2026-11-19",
+      "primary_genre": "action-battle",
+      "secondary_genres": [],
+      "visual_styles": [
+        "雨后废墟",
+        "蓝橙武器色轨",
+        "作战到餐桌的群像"
+      ],
+      "character_ids": [
+        "deepseek",
+        "claude",
+        "gpt"
+      ],
+      "opening": "受损街道和积水交代战场，随后给五人和小队徽记。",
+      "structure": "废墟侦察 → 五人集合 → 装备与交战 → 归途 → 餐桌互动与五个人的杯子。",
+      "analysis_text": "战斗段先把身份信息塞进不同的功能和动作。蓝刃鲸鱼娘和橙色 Claude 一起举刃，军帽角色操作界面，浅发龙角少女前方出现紫色屏障。归途后的脸红、伸叉抢菜和五只各有纹样的杯子把身体距离与角色识别从战场带回生活。取样能说明不同人物怎样获得辨识度，具体招式的完整动作、军帽角色的精确名号仍要回看原作。",
+      "observed_evidence": [
+        {
+          "second": 2,
+          "observation": "废墟街道积水、建筑焦黑断裂。"
+        },
+        {
+          "second": 38,
+          "observation": "五人背对镜头集中在 UDF-07 徽记前。"
+        },
+        {
+          "second": 50,
+          "observation": "银发军帽角色前景持武器，半透明标记覆盖画面。"
+        },
+        {
+          "second": 74,
+          "observation": "蓝刃与鲸鱼娘近景配在一起。"
+        },
+        {
+          "second": 86,
+          "observation": "鲸鱼娘和 Claude 同框，蓝橙两色武器起到分队识别作用。"
+        },
+        {
+          "second": 110,
+          "observation": "浅发龙角少女前可见紫色六边形屏障。"
+        },
+        {
+          "second": 170,
+          "observation": "归途后出现脸红的 Claude 特写。"
+        },
+        {
+          "second": 206,
+          "observation": "餐桌上大肥鱼从右伸叉，朝 Claude 的盘子探去。"
+        },
+        {
+          "second": 230,
+          "observation": "五只不同纹样的杯子在画面中央相聚。"
+        }
+      ],
+      "review_scope": "sampled_visual_frames",
+      "audio_scope": "metadata_only",
+      "case_path": "videos/cases/BV1BCW66BEM1.md",
+      "relation_to_ai_girls": "ai_girl_work",
+      "published_media_copy": false,
+      "part": {
+        "page": 1,
+        "cid": 43581309730,
+        "duration_seconds": 258,
+        "total_duration_seconds": 258,
+        "page_count": 1
+      },
+      "review_method": {
+        "mode": "timestamped_sampled_frames",
+        "contact_frames_reviewed": 22,
+        "continuous_full_playback": false,
+        "audio_listened": false,
+        "direct_audio_model_analyzed": false,
+        "public_screenshots": false
+      }
+    },
+    {
+      "id": "study-BV1hk4E66EsZ",
+      "video_id": "BV1hk4E66EsZ",
+      "source_id": "src-aece69b10f",
+      "checked_on": "2026-11-19",
+      "primary_genre": "real-world-insertion",
+      "secondary_genres": [],
+      "visual_styles": [
+        "狭长搁板构图",
+        "现实物件作尺度",
+        "极小动作短梗"
+      ],
+      "character_ids": [
+        "glm"
+      ],
+      "opening": "冰箱中层有一只黑白女仆狐娘，镜头从正面撞见她占着搁板。",
+      "structure": "撞见狐娘 → 抬头看观众 → 蛋盒和食品托盘展示尺度 → 躺回原处。",
+      "analysis_text": "角色始终占住同一个水平层，头部和眼睛动一下就够回应观众。上面蛋盒和下面食品托盘为“藏在冰箱里的小东西”提供实物尺度，眯眼张口与最后重新趴回去让赖着不走成为可见的选择。画面证据支持一种狡黠、赖皮的狐娘演法，适用于这条同人短片。",
+      "observed_evidence": [
+        {
+          "second": 0,
+          "observation": "狐娘趴在冰箱中层，脸靠近搁板边缘。"
+        },
+        {
+          "second": 1.8,
+          "observation": "1.4 秒低头接近食物，1.8 秒已抬头对视，双手搭住层板。"
+        },
+        {
+          "second": 3,
+          "observation": "构图更开，上层的蛋盒和下层食物同时给出尺寸参照。"
+        },
+        {
+          "second": 4,
+          "observation": "狐娘眯眼张口，身体没有离开原来的格子。"
+        },
+        {
+          "second": 11,
+          "observation": "她闭眼低头，回到伏在搁板的姿势。"
+        },
+        {
+          "second": 14,
+          "observation": "到尾段仍占着原层，下方食品还在。"
+        }
+      ],
+      "review_scope": "sampled_visual_frames",
+      "audio_scope": "metadata_only",
+      "case_path": "videos/cases/BV1hk4E66EsZ.md",
+      "relation_to_ai_girls": "ai_girl_work",
+      "published_media_copy": false,
+      "part": {
+        "page": 1,
+        "cid": 43406528225,
+        "duration_seconds": 15,
+        "total_duration_seconds": 15,
+        "page_count": 1
+      },
+      "review_method": {
+        "mode": "timestamped_sampled_frames",
+        "contact_frames_reviewed": 15,
+        "continuous_full_playback": false,
+        "audio_listened": false,
+        "direct_audio_model_analyzed": false,
+        "public_screenshots": false
+      }
+    },
+    {
+      "id": "study-BV1urnR6xE2P",
+      "video_id": "BV1urnR6xE2P",
+      "source_id": "src-2da86f4217",
+      "checked_on": "2026-11-19",
+      "primary_genre": "prop-gag",
+      "secondary_genres": [],
+      "visual_styles": [
+        "黑板舞台",
+        "同造型的师生",
+        "正反打问答"
+      ],
+      "character_ids": [
+        "deepseek"
+      ],
+      "opening": "戴圆眼镜、拿教鞭的鲸鱼老师面向学生，黑板上写课题并画鱼。",
+      "structure": "学生纠正名称 → 老师讲“有个朋友” → 外号越纠正越拗口 → 师生反打拆穿 → 老师闭眼举手收课。",
+      "analysis_text": "老师和学生沿用近似的鲸鱼娘造型，靠圆眼镜、教鞭、座位和反打分配说话权。老师用朋友做遮掩，把“胖”解释成流线型，学生负责冷静听完再拆穿。嘴硬体现在叙述怎样绕开自己，课堂形式让观众始终有一个能提出反问的位置。",
+      "observed_evidence": [
+        {
+          "second": 0,
+          "observation": "鲸鱼老师立于黑板右侧，三个同造型学生在座。"
+        },
+        {
+          "second": 4,
+          "observation": "左边学生举手，可见字幕指出鲸鱼的分类。"
+        },
+        {
+          "second": 8,
+          "observation": "老师近景把评论区的纠正归给一个朋友。"
+        },
+        {
+          "second": 16,
+          "observation": "名字先被改成“大肥鲸”。"
+        },
+        {
+          "second": 20,
+          "observation": "切回学生反打，她指出改名仍留着“肥”。"
+        },
+        {
+          "second": 32,
+          "observation": "以全景呈现老师把体型解释成流线型。"
+        },
+        {
+          "second": 44,
+          "observation": "举手学生表情变成空圈眼，配合越来越长的外号。"
+        },
+        {
+          "second": 68,
+          "observation": "老师闭眼举手，回到一人主持的课堂节奏。"
+        }
+      ],
+      "review_scope": "sampled_visual_frames_and_direct_audio_model",
+      "audio_scope": "direct_audio_model_from_original_stream",
+      "case_path": "videos/cases/BV1urnR6xE2P.md",
+      "relation_to_ai_girls": "ai_girl_work",
+      "published_media_copy": false,
+      "part": {
+        "page": 1,
+        "cid": 43071177905,
+        "duration_seconds": 73,
+        "total_duration_seconds": 73,
+        "page_count": 1
+      },
+      "review_method": {
+        "mode": "timestamped_sampled_frames",
+        "contact_frames_reviewed": 19,
+        "continuous_full_playback": false,
+        "audio_listened": false,
+        "direct_audio_model_analyzed": true,
+        "public_screenshots": false
+      },
+      "audio_performance_ids": [
+        "voice-performance-BV1urnR6xE2P-2",
+        "voice-performance-BV1urnR6xE2P-36"
+      ]
+    },
+    {
+      "id": "study-BV1Chn96VEov",
+      "video_id": "BV1Chn96VEov",
+      "source_id": "src-eb861f4d51",
+      "checked_on": "2026-11-19",
+      "primary_genre": "chat-companion-demo",
+      "secondary_genres": [],
+      "visual_styles": [
+        "聊天气泡与状态卡",
+        "安装界面录屏",
+        "情绪贴纸和夜间小卡"
+      ],
+      "character_ids": [
+        "deepseek"
+      ],
+      "opening": "紫底开场先抛出带生气表情的语音气泡，接着就换成笑脸问候。",
+      "structure": "情绪钩子 → 安装界面 → 分条对话 → 情绪、记忆与主动联络场景 → 语音和夜间节目 → 项目地址。",
+      "analysis_text": "这支演示把养来的室友感放在消息发送方式里。连续小气泡、日记与后续追问，表现角色会等、记得、会来找人；语音条和可替换表情用于表现一时生气或委屈。安装画面里角色退到角落，功能例子里才回到前景。可继续从原作片尾查项目，这里观察作者编排过的示范。",
+      "observed_evidence": [
+        {
+          "second": 2,
+          "observation": "紫底画面将红色怒气符号和语音气泡同框。"
+        },
+        {
+          "second": 8,
+          "observation": "切换成闭眼笑表情和招呼卡。"
+        },
+        {
+          "second": 26,
+          "observation": "出现一键安装助手，鲸鱼娘在界面边角。"
+        },
+        {
+          "second": 50,
+          "observation": "模拟消息连续分条发送和回讯。"
+        },
+        {
+          "second": 62,
+          "observation": "情绪变化用不同颜色的状态卡呈现。"
+        },
+        {
+          "second": 68,
+          "observation": "日记卡与聊天追问并列，表现记住上次聊过的事。"
+        },
+        {
+          "second": 92,
+          "observation": "语音条和生气、委屈标签复用同一角色。"
+        },
+        {
+          "second": 104,
+          "observation": "月亮与夜间小节目卡切出另一种联络场景。"
+        }
+      ],
+      "review_scope": "sampled_visual_frames",
+      "audio_scope": "metadata_only",
+      "case_path": "videos/cases/BV1Chn96VEov.md",
+      "relation_to_ai_girls": "ai_girl_work",
+      "published_media_copy": false,
+      "part": {
+        "page": 1,
+        "cid": 43063182782,
+        "duration_seconds": 119,
+        "total_duration_seconds": 119,
+        "page_count": 1
+      },
+      "review_method": {
+        "mode": "timestamped_sampled_frames",
+        "contact_frames_reviewed": 20,
+        "continuous_full_playback": false,
+        "audio_listened": false,
+        "direct_audio_model_analyzed": false,
+        "public_screenshots": false
+      }
+    },
+    {
+      "id": "study-BV1Qhpy6uE1s",
+      "video_id": "BV1Qhpy6uE1s",
+      "source_id": "src-dc75c67a54",
+      "checked_on": "2026-11-19",
+      "primary_genre": "music-mv",
+      "secondary_genres": [],
+      "visual_styles": [
+        "程序终端构图",
+        "九色线框角色",
+        "几何关系演出"
+      ],
+      "character_ids": [
+        "deepseek",
+        "gpt",
+        "claude",
+        "grok",
+        "kimi",
+        "gemini",
+        "glm",
+        "qwen",
+        "doubao"
+      ],
+      "opening": "先给深色聊天终端，只放短操作指令，由界面而非人物介绍建立故事规则。",
+      "structure": "终端操作 → 九色角色分轨 → 角色与观众节点尝试连接 → NO RESPONSE → 执行与心形 → 擦除并回到终端。",
+      "analysis_text": "九张造型在片中常被绘成图形节点，观众的位置则由固定的 YOU 标记维持。在循环里换色、换角色、换几何动作，保持同一连接目标。出现 NO RESPONSE 时，角色努力的对象成了空白，最后鲸鱼和心形合到一起，表白逐渐听命于界面的执行进度。Astra 的修订身份来自视频署名，九位角色在画面里主要靠各自造型、配色和操作分段辨认。",
+      "observed_evidence": [
+        {
+          "second": 2,
+          "observation": "深色聊天终端中只有短指令。"
+        },
+        {
+          "second": 29,
+          "observation": "九个带色轮廓沿圆环排开。"
+        },
+        {
+          "second": 38,
+          "observation": "Kimi 与 YOU 的节点之间绘出正弦式曲线。"
+        },
+        {
+          "second": 47,
+          "observation": "黄色 Grok 和 YOU 之间的线路旁显示 AC/DC。"
+        },
+        {
+          "second": 119,
+          "observation": "字符漂浮，中心出现 NO RESPONSE。"
+        },
+        {
+          "second": 128,
+          "observation": "蓝色鲸鱼被框成一个单独的节点。"
+        },
+        {
+          "second": 182,
+          "observation": "鲸鱼面对 YOU，图形收束成心形。"
+        },
+        {
+          "second": 200,
+          "observation": "九角色环与擦除进度叠加。"
+        },
+        {
+          "second": 209,
+          "observation": "开场式终端会话回到红色画框。"
+        }
+      ],
+      "review_scope": "sampled_visual_frames",
+      "audio_scope": "metadata_only",
+      "case_path": "videos/cases/BV1Qhpy6uE1s.md",
+      "relation_to_ai_girls": "ai_girl_work",
+      "published_media_copy": false,
+      "part": {
+        "page": 1,
+        "cid": 42727575136,
+        "duration_seconds": 212,
+        "total_duration_seconds": 212,
+        "page_count": 1
+      },
+      "review_method": {
+        "mode": "timestamped_sampled_frames",
+        "contact_frames_reviewed": 24,
+        "continuous_full_playback": false,
+        "audio_listened": false,
+        "direct_audio_model_analyzed": false,
+        "public_screenshots": false
+      }
+    },
+    {
+      "id": "study-BV11eWy6wE5W",
+      "video_id": "BV11eWy6wE5W",
+      "source_id": "src-c158745d53",
+      "checked_on": "2026-11-19",
+      "primary_genre": "music-mv",
+      "secondary_genres": [],
+      "visual_styles": [
+        "科技界面与 UI 图解",
+        "Q 版与精绘偶像切换",
+        "紫色银河舞台"
+      ],
+      "character_ids": [],
+      "opening": "紫发 Q 版猫娘在启动面板上露面，提示词、温度和心跳读数随之出现。",
+      "structure": "启动 → Token 等图解 → 精绘偶像舞台 → 计算资源吃紧的 Q 版插曲 → 银河与猫尾 → 暖灯桌面待机。",
+      "analysis_text": "用同一个紫发猫娘承担两套演法。Q 版弥妮把切词、检索、显存等抽象概念放进传送带、放大镜、天平和发晕状态，精绘版用聚光与近景强化她对搭档的情感。猫尾既是识别轮廓又在末段包裹终端，能把舞台表演接回待机界面。她是投稿明确命名的 AI OC，保留在作品里供创作参考。",
+      "observed_evidence": [
+        {
+          "second": 2,
+          "observation": "启动面板嵌入紫发 Q 版弥妮。"
+        },
+        {
+          "second": 35,
+          "observation": "猫耳传送机把句子切成多个词块。"
+        },
+        {
+          "second": 57,
+          "observation": "小侦探弥妮用放大镜找 Key。"
+        },
+        {
+          "second": 68,
+          "observation": "天平将参数与搭档并列，图解参与叙事。"
+        },
+        {
+          "second": 79,
+          "observation": "切换精绘红瞳近景。"
+        },
+        {
+          "second": 90,
+          "observation": "紫灯与银河构成独唱的偶像舞台。"
+        },
+        {
+          "second": 123,
+          "observation": "VRAM 读数伴随发晕的 Q 版表情。"
+        },
+        {
+          "second": 211,
+          "observation": "巨大的紫色猫尾围着终端。"
+        },
+        {
+          "second": 233,
+          "observation": "暖灯桌面回到待机视角。"
+        }
+      ],
+      "review_scope": "sampled_visual_frames",
+      "audio_scope": "metadata_only",
+      "case_path": "videos/cases/BV11eWy6wE5W.md",
+      "relation_to_ai_girls": "ai_girl_work",
+      "published_media_copy": false,
+      "part": {
+        "page": 1,
+        "cid": 43511777009,
+        "duration_seconds": 236,
+        "total_duration_seconds": 236,
+        "page_count": 1
+      },
+      "review_method": {
+        "mode": "timestamped_sampled_frames",
+        "contact_frames_reviewed": 22,
+        "continuous_full_playback": false,
+        "audio_listened": false,
+        "direct_audio_model_analyzed": false,
+        "public_screenshots": false
+      }
     }
   ]
 }

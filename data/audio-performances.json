@@ -1,5 +1,5 @@
 {
-  "checked_on": "2026-10-21",
+  "checked_on": "2026-11-19",
   "model_weights": [
     {
       "name": "Qwen2.5-Omni-3B-Q4_K_M.gguf",
@@ -164,7 +164,343 @@
         "没有可闻瑕疵的绝对保证"
       ],
       "sample_sha256": "ad864cd3cbdbb74bd08f9bf20dc3f03ce0bb3290ec9efe7815c009efeb27b939"
+    },
+    {
+      "id": "voice-performance-BV1zm4h6RE9M-8",
+      "video_id": "BV1zm4h6RE9M",
+      "page": 1,
+      "segment_start": 8,
+      "segment_duration": 29.0,
+      "sample_sha256": "4310ab3f9346a4124a101ad538b84b5df5edeed04f01858e2f9e18993660e1c0",
+      "source_ids": [
+        "src-49f3e817c4"
+      ],
+      "category": "助眠对话",
+      "register_and_timbre": "柔和、近似耳语",
+      "delivery": "中速而轻，几句短话依次落下",
+      "mix_model_impression": "可辨很轻的水流似底声",
+      "use_reference": "字幕由 GPT 问起眼前的疲倦，先把观众放在被照顾的位置。",
+      "method": "Qwen2.5-Omni-3B Q4_K_M + Q8 projector, llama.cpp b11780 Vulkan; direct WAV without transcript",
+      "direct_audio_input": true,
+      "human_listened": false,
+      "checked_on": "2026-11-19",
+      "confidence_scope": "模型辅助听感。用原片字幕定位说话者，保留声音描述的不确定性。"
+    },
+    {
+      "id": "voice-performance-BV1zm4h6RE9M-155",
+      "video_id": "BV1zm4h6RE9M",
+      "page": 1,
+      "segment_start": 155,
+      "segment_duration": 26.0,
+      "sample_sha256": "a89ef04850b1c5ad965ef278360bf273aee4c99514e97b4ec1dc5bad0fc8be61",
+      "source_ids": [
+        "src-49f3e817c4"
+      ],
+      "category": "助眠对话",
+      "register_and_timbre": "两位角色都采用轻声说话的力度",
+      "delivery": "短句之间留出间隔，约 02:45 字幕切到 GPT",
+      "mix_model_impression": "有很淡的连续环境底声，具体声源不明",
+      "use_reference": "Claude 先回忆细节，GPT 接过同一话题。声线单独分辨不稳定，名字与接话次序以字幕为据。",
+      "method": "Qwen2.5-Omni-3B Q4_K_M + Q8 projector, llama.cpp b11780 Vulkan; direct WAV without transcript",
+      "direct_audio_input": true,
+      "human_listened": false,
+      "checked_on": "2026-11-19",
+      "confidence_scope": "模型辅助听感。用原片字幕定位说话者，保留声音描述的不确定性。"
+    },
+    {
+      "id": "voice-performance-BV1zm4h6RE9M-245",
+      "video_id": "BV1zm4h6RE9M",
+      "page": 1,
+      "segment_start": 245,
+      "segment_duration": 27.0,
+      "sample_sha256": "f68a3804f226ee221e4be9f2b1d7cdcf8841465fa5011d40d77a8d1ad35c8fe0",
+      "source_ids": [
+        "src-49f3e817c4"
+      ],
+      "category": "轻声安慰",
+      "register_and_timbre": "轻声讲述，部分字带气声",
+      "delivery": "可听到断开的短句，语音识别在约 04:17 才捕获这一段的安慰用语",
+      "mix_model_impression": "有持续的雨声似底纹",
+      "use_reference": "让环境底纹和持道具的近景留下余地，再落到一句安慰。",
+      "method": "Qwen2.5-Omni-3B Q4_K_M + Q8 projector, llama.cpp b11780 Vulkan; direct WAV without transcript",
+      "direct_audio_input": true,
+      "human_listened": false,
+      "checked_on": "2026-11-19",
+      "confidence_scope": "模型辅助听感。用原片字幕定位说话者，保留声音描述的不确定性。"
+    },
+    {
+      "id": "voice-performance-BV1zm4h6RE9M-329",
+      "video_id": "BV1zm4h6RE9M",
+      "page": 1,
+      "segment_start": 329,
+      "segment_duration": 25.0,
+      "sample_sha256": "b55271dd62889442db43b11411d9349f899108c8cc18af87022932799780471d",
+      "source_ids": [
+        "src-49f3e817c4"
+      ],
+      "category": "轻声收束",
+      "register_and_timbre": "弱起音、气声感较明显",
+      "delivery": "整体放缓，通过短句与间隔降低说话密度",
+      "mix_model_impression": "模型未稳定辨出明确的伴随声源",
+      "use_reference": "约 05:33 的 GPT 字幕谈到呼吸变慢，和整体偏慢、偏轻的演法相配。",
+      "method": "Qwen2.5-Omni-3B Q4_K_M + Q8 projector, llama.cpp b11780 Vulkan; direct WAV without transcript",
+      "direct_audio_input": true,
+      "human_listened": false,
+      "checked_on": "2026-11-19",
+      "confidence_scope": "模型辅助听感。用原片字幕定位说话者，保留声音描述的不确定性。"
+    },
+    {
+      "id": "voice-performance-BV1zm4h6RE9M-395",
+      "video_id": "BV1zm4h6RE9M",
+      "page": 1,
+      "segment_start": 395,
+      "segment_duration": 28.0,
+      "sample_sha256": "d2295a6b1189ee37149d08003b6f3a21c1afad1d6176763afe8d59fa548e96a8",
+      "source_ids": [
+        "src-49f3e817c4"
+      ],
+      "category": "双人晚安",
+      "register_and_timbre": "结尾仍以轻声和气声感为主",
+      "delivery": "约 06:43 字幕同时标两人，词尾拉开后声音退下",
+      "mix_model_impression": "伴随底声仍在，来源未细分",
+      "use_reference": "把前面的轮流照料收在同一个说话时刻。角色并列来自字幕，具体声部和分轨不明。",
+      "method": "Qwen2.5-Omni-3B Q4_K_M + Q8 projector, llama.cpp b11780 Vulkan; direct WAV without transcript",
+      "direct_audio_input": true,
+      "human_listened": false,
+      "checked_on": "2026-11-19",
+      "confidence_scope": "模型辅助听感。用原片字幕定位说话者，保留声音描述的不确定性。"
+    },
+    {
+      "id": "voice-performance-BV1rRHP6qEny-0",
+      "video_id": "BV1rRHP6qEny",
+      "page": 1,
+      "segment_start": 0,
+      "segment_duration": 35.4773125,
+      "sample_sha256": "c723cc7e10d639ba025736cea96e8889fe0e098e5a277b32eaca84a4d6132e69",
+      "source_ids": [
+        "src-d51e3a08c8"
+      ],
+      "category": "Live2D 角色自述",
+      "register_and_timbre": "单人声清楚、较集中",
+      "delivery": "语速稳定，句与句之间留拍，约 00:05 有一处明显换段",
+      "mix_model_impression": "未辨出突出配乐",
+      "use_reference": "声音持续做正面自我介绍。首次投稿的紧张与想求关注的兴奋，更多由自称、眼形和表情调度来传达。",
+      "method": "Qwen2.5-Omni-3B Q4_K_M + Q8 projector, llama.cpp b11780 Vulkan; direct WAV without transcript",
+      "direct_audio_input": true,
+      "human_listened": false,
+      "checked_on": "2026-11-19",
+      "confidence_scope": "模型辅助听感。用原片字幕定位说话者，保留声音描述的不确定性。"
+    },
+    {
+      "id": "voice-performance-BV1zdxS6uE4j-8",
+      "video_id": "BV1zdxS6uE4j",
+      "page": 1,
+      "segment_start": 8,
+      "segment_duration": 25.0,
+      "sample_sha256": "2e944708187e1a572701b7872711846811db867206da3a8469483b9db4b360da",
+      "source_ids": [
+        "src-35b6e265cb"
+      ],
+      "category": "翻唱前段",
+      "register_and_timbre": "整体混音里的音乐较突出",
+      "delivery": "稳定的曲速把墨镜登场和后续段落接起来",
+      "mix_model_impression": "混合片段未单独分离人声与伴奏",
+      "use_reference": "开场带字和小鲸表演先强调喜剧外壳。",
+      "method": "Qwen2.5-Omni-3B Q4_K_M + Q8 projector, llama.cpp b11780 Vulkan; direct WAV without transcript",
+      "direct_audio_input": true,
+      "human_listened": false,
+      "checked_on": "2026-11-19",
+      "confidence_scope": "模型辅助听感。用原片字幕定位说话者，保留声音描述的不确定性。"
+    },
+    {
+      "id": "voice-performance-BV1zdxS6uE4j-49",
+      "video_id": "BV1zdxS6uE4j",
+      "page": 1,
+      "segment_start": 49,
+      "segment_duration": 30.0,
+      "sample_sha256": "13dc6355af781b8f73aef0ade0b1a75214d7e030cc3773c8699c4ff092cd26f0",
+      "source_ids": [
+        "src-35b6e265cb"
+      ],
+      "category": "翻唱中段",
+      "register_and_timbre": "可辨偏高、柔和持续的歌声",
+      "delivery": "歌声紧跟快而稳定的拍子，重音不硬",
+      "mix_model_impression": "听感评估基于原混音",
+      "use_reference": "发光雨滴、雨中抬手和小鲸队列为较轻的唱法增添大幅视觉反应。",
+      "method": "Qwen2.5-Omni-3B Q4_K_M + Q8 projector, llama.cpp b11780 Vulkan; direct WAV without transcript",
+      "direct_audio_input": true,
+      "human_listened": false,
+      "checked_on": "2026-11-19",
+      "confidence_scope": "模型辅助听感。用原片字幕定位说话者，保留声音描述的不确定性。"
+    },
+    {
+      "id": "voice-performance-BV1zdxS6uE4j-100",
+      "video_id": "BV1zdxS6uE4j",
+      "page": 1,
+      "segment_start": 100,
+      "segment_duration": 26.0,
+      "sample_sha256": "44519150b80978f6517c97b626459a88008f1588320f0aef7ac22634eb417b08",
+      "source_ids": [
+        "src-35b6e265cb"
+      ],
+      "category": "翻唱后段",
+      "register_and_timbre": "音乐延续，人声质地未稳定分离",
+      "delivery": "节拍持续，未辨出明显断开",
+      "mix_model_impression": "伴奏与人声同时在原混音里",
+      "use_reference": "害羞特写和蓝光舞台接续同一段曲速，外向动作主要由画面贡献。",
+      "method": "Qwen2.5-Omni-3B Q4_K_M + Q8 projector, llama.cpp b11780 Vulkan; direct WAV without transcript",
+      "direct_audio_input": true,
+      "human_listened": false,
+      "checked_on": "2026-11-19",
+      "confidence_scope": "模型辅助听感。用原片字幕定位说话者，保留声音描述的不确定性。"
+    },
+    {
+      "id": "voice-performance-BV1U64q69EYm-8",
+      "video_id": "BV1U64q69EYm",
+      "page": 1,
+      "segment_start": 8,
+      "segment_duration": 25.000375,
+      "sample_sha256": "948282d8a65db1a372497e32982c935325d4850c0d68f1680d8a8be1fee0a509",
+      "source_ids": [
+        "src-b6f5a45b57"
+      ],
+      "category": "翻唱前段",
+      "register_and_timbre": "音乐较突出，人声与伴奏的边界不清晰",
+      "delivery": "持续而稳定的拍子",
+      "mix_model_impression": "伴奏从原混音取样",
+      "use_reference": "隔窗初次出场延续雨巷的安静，到眨眼和手势才把情绪打开。",
+      "method": "Qwen2.5-Omni-3B Q4_K_M + Q8 projector, llama.cpp b11780 Vulkan; direct WAV without transcript",
+      "direct_audio_input": true,
+      "human_listened": false,
+      "checked_on": "2026-11-19",
+      "confidence_scope": "模型辅助听感。用原片字幕定位说话者，保留声音描述的不确定性。"
+    },
+    {
+      "id": "voice-performance-BV1U64q69EYm-49",
+      "video_id": "BV1U64q69EYm",
+      "page": 1,
+      "segment_start": 49,
+      "segment_duration": 30.0004375,
+      "sample_sha256": "f703a1b59e0f5fdeb1e84166f6e33bad1afed89a2c599ddaee9dd0c124f4e398",
+      "source_ids": [
+        "src-b6f5a45b57"
+      ],
+      "category": "翻唱中段",
+      "register_and_timbre": "前景歌声着力较轻",
+      "delivery": "旋律句在较快的节奏上连续推进，重音柔和",
+      "mix_model_impression": "模型听到持续的偏高电子质地，具体来源未分离",
+      "use_reference": "从雨巷独站换到灯笼走廊和 wink，给稳定唱法安排节制的动作反差。",
+      "method": "Qwen2.5-Omni-3B Q4_K_M + Q8 projector, llama.cpp b11780 Vulkan; direct WAV without transcript",
+      "direct_audio_input": true,
+      "human_listened": false,
+      "checked_on": "2026-11-19",
+      "confidence_scope": "模型辅助听感。用原片字幕定位说话者，保留声音描述的不确定性。"
+    },
+    {
+      "id": "voice-performance-BV1U64q69EYm-100",
+      "video_id": "BV1U64q69EYm",
+      "page": 1,
+      "segment_start": 100,
+      "segment_duration": 26.000375,
+      "sample_sha256": "4518b3ef6ebb1ce6973c2e31e63e53f97b0a99c600e461341ac20ba047d380c9",
+      "source_ids": [
+        "src-b6f5a45b57"
+      ],
+      "category": "翻唱后段",
+      "register_and_timbre": "整体音乐连续，声线细节未稳定分离",
+      "delivery": "段落维持稳定节拍",
+      "mix_model_impression": "人声和伴奏未做分轨",
+      "use_reference": "窗边低头和彩虹笑脸将狐娘的收敛与开朗交替展示。",
+      "method": "Qwen2.5-Omni-3B Q4_K_M + Q8 projector, llama.cpp b11780 Vulkan; direct WAV without transcript",
+      "direct_audio_input": true,
+      "human_listened": false,
+      "checked_on": "2026-11-19",
+      "confidence_scope": "模型辅助听感。用原片字幕定位说话者，保留声音描述的不确定性。"
+    },
+    {
+      "id": "voice-performance-BV1cZsV6MEVF-48",
+      "video_id": "BV1cZsV6MEVF",
+      "page": 1,
+      "segment_start": 48,
+      "segment_duration": 24.0,
+      "sample_sha256": "ed6854068c794f3867ccd4ea07d25666107a6591b5f0ddeb09fcab00214c7902",
+      "source_ids": [
+        "src-25a548099d"
+      ],
+      "category": "古玩店对话",
+      "register_and_timbre": "人声平稳，部分字轻收",
+      "delivery": "由较慢、咬字有间隔的短句接住争执",
+      "mix_model_impression": "背景较轻，句子仍清楚",
+      "use_reference": "千问先讲当事人作主，再留出一个清晰的行为后果。扇子和停顿一起给出店长稳住场面的方式。",
+      "method": "Qwen2.5-Omni-3B Q4_K_M + Q8 projector, llama.cpp b11780 Vulkan; direct WAV without transcript",
+      "direct_audio_input": true,
+      "human_listened": false,
+      "checked_on": "2026-11-19",
+      "confidence_scope": "模型辅助听感。用原片字幕定位说话者，保留声音描述的不确定性。"
+    },
+    {
+      "id": "voice-performance-BV1cZsV6MEVF-88",
+      "video_id": "BV1cZsV6MEVF",
+      "page": 1,
+      "segment_start": 88,
+      "segment_duration": 28.0,
+      "sample_sha256": "b17d793c4d13c4422f6ff9c52a701944d91bb0d7023d6118ccd718311202a031",
+      "source_ids": [
+        "src-25a548099d"
+      ],
+      "category": "事后围桌交谈",
+      "register_and_timbre": "说话整体平静、偶有轻重变化",
+      "delivery": "简短接话之后，叙述回到平稳、有间隔的方式",
+      "mix_model_impression": "未从片段辨出主导性伴随音",
+      "use_reference": "冲突结束后可以从喝茶、旁人打趣和解释来听出三人的关系回到日常。发言人依画面与字幕定位。",
+      "method": "Qwen2.5-Omni-3B Q4_K_M + Q8 projector, llama.cpp b11780 Vulkan; direct WAV without transcript",
+      "direct_audio_input": true,
+      "human_listened": false,
+      "checked_on": "2026-11-19",
+      "confidence_scope": "模型辅助听感。用原片字幕定位说话者，保留声音描述的不确定性。"
+    },
+    {
+      "id": "voice-performance-BV1urnR6xE2P-2",
+      "video_id": "BV1urnR6xE2P",
+      "page": 1,
+      "segment_start": 2,
+      "segment_duration": 27.0,
+      "sample_sha256": "3b5e5092d084c000c91bf4bc44db4e789119c2fc3e304e0cc84c3d0c030c305e",
+      "source_ids": [
+        "src-2da86f4217"
+      ],
+      "category": "课堂问答",
+      "register_and_timbre": "清楚、带轻松语气的对白",
+      "delivery": "中速，短答和解释相接",
+      "mix_model_impression": "主体是人声",
+      "use_reference": "用先反问、后一本正经解释的节奏，让教师与学生共用一套角色外形。",
+      "method": "Qwen2.5-Omni-3B Q4_K_M + Q8 projector, llama.cpp b11780 Vulkan; direct WAV without transcript",
+      "direct_audio_input": true,
+      "human_listened": false,
+      "checked_on": "2026-11-19",
+      "confidence_scope": "模型辅助听感。用原片字幕定位说话者，保留声音描述的不确定性。"
+    },
+    {
+      "id": "voice-performance-BV1urnR6xE2P-36",
+      "video_id": "BV1urnR6xE2P",
+      "page": 1,
+      "segment_start": 36,
+      "segment_duration": 29.0,
+      "sample_sha256": "6efd9e04493fcf92b3d39a0cd6a66b85862194e4999da3069308d6d38a10c92b",
+      "source_ids": [
+        "src-2da86f4217"
+      ],
+      "category": "课堂笑点",
+      "register_and_timbre": "活泼语调，带几处明显断句",
+      "delivery": "短句轻重变化衔接学生追问，老师再把话绕回朋友",
+      "mix_model_impression": "模型辨出较轻、连续的配乐感",
+      "use_reference": "从反应停顿和师生反打制造包袱，角色名字越来越长，语句却不断变短。",
+      "method": "Qwen2.5-Omni-3B Q4_K_M + Q8 projector, llama.cpp b11780 Vulkan; direct WAV without transcript",
+      "direct_audio_input": true,
+      "human_listened": false,
+      "checked_on": "2026-11-19",
+      "confidence_scope": "模型辅助听感。用原片字幕定位说话者，保留声音描述的不确定性。"
     }
   ],
-  "method_note": "所有六段实际输入音轨。模型输出由编者提炼，剔除年龄猜测与绝对音质保证；ASR文字没有作为声音输入。"
+  "method_note": "直接输入原声抽段。编者结合字幕与电平观察提炼结果，排除年龄、音色来源和音质猜测。语音识别文字只用于定位，没有作为音频模型输入。"
 }

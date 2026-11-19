@@ -26,7 +26,7 @@
 | --- | --- |
 | 看全部角色、区分作者版本 | [完整角色索引](characters/README.md) · [版本比较](docs/10-variant-guide.md) · [豆包形象纠正](encyclopedia/personas/doubao-correction.md) |
 | 找社区人设、刻板印象与梗 | [有出处的社区印象](encyclopedia/personas/community-impressions.md) · [梗百科](encyclopedia/memes/README.md) |
-| 找视频风格、演出与声音 | [视频品类与案例](videos/README.md) · [角色演出](encyclopedia/performances/README.md) · [音轨分析](encyclopedia/audio-performances.md) |
+| 找视频风格、演出与声音 | [视频品类与案例](videos/README.md) · [11 部作品的人设演出](videos/persona-performance.md) · [角色演出](encyclopedia/performances/README.md) · [音轨分析](encyclopedia/audio-performances.md) |
 | 下载图片、Live2D或三维源文件 | [素材包](encyclopedia/ready-packages.md) · [实际运行结果](encyclopedia/runtime-materials.md) · [逐包许可范围](docs/package-rights-audit.md) |
 | 查来源、继续创作或补资料 | [研究专题导航](docs/README.md) · [创作百科](encyclopedia/README.md) · [原创工作人设与对白](encyclopedia/personas/README.md) · [投稿](CONTRIBUTING.md) |
 

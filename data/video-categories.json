@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "checked_on": "2026-10-21",
+  "checked_on": "2026-11-19",
   "axis": "content_genre; visual styles stored separately",
   "categories": [
     {
@@ -36,13 +36,15 @@
       "editorial_note": "token是创作隐喻，画面并不解释真实计费或计算机制。",
       "study_video_ids": [
         "BV15X3n6mEWy",
-        "BV1P18y6jEkV"
+        "BV1P18y6jEkV",
+        "BV1urnR6xE2P"
       ],
       "indexed_video_ids": [
         "BV15X3n6mEWy",
         "BV17f896tEZF",
         "BV1o28i6rEcw",
-        "BV1P18y6jEkV"
+        "BV1P18y6jEkV",
+        "BV1urnR6xE2P"
       ]
     },
     {
@@ -54,12 +56,14 @@
       "ideas": "电饭锅里的新住客；键盘下为什么总少一颗键帽。",
       "editorial_note": "可见写实质感不能证明底片一定实拍；不要替作者猜制作管线。",
       "study_video_ids": [
-        "BV1q1tv6iELX"
+        "BV1q1tv6iELX",
+        "BV1hk4E66EsZ"
       ],
       "indexed_video_ids": [
         "BV1Pgt36VEeg",
         "BV1gfe467Ehd",
-        "BV1q1tv6iELX"
+        "BV1q1tv6iELX",
+        "BV1hk4E66EsZ"
       ]
     },
     {
@@ -71,7 +75,8 @@
       "ideas": "新室友报到；三位AI共同负责一顿晚饭；模型升级后谁换房间。",
       "editorial_note": "每集先有清楚任务；少量角色比依次念产品名更容易跟上。",
       "study_video_ids": [
-        "BV1eMeS6SETU"
+        "BV1eMeS6SETU",
+        "BV1cZsV6MEVF"
       ],
       "indexed_video_ids": [
         "BV13Ga56VEpp",
@@ -87,7 +92,8 @@
         "BV1ikaZ6rECj",
         "BV1qdan6MENR",
         "BV1w6a86gEbC",
-        "BV1MKH96sEZL"
+        "BV1MKH96sEZL",
+        "BV1cZsV6MEVF"
       ]
     },
     {
@@ -156,7 +162,11 @@
       "study_video_ids": [
         "BV1fYpn6SEk9",
         "BV1MNYy6WEgY",
-        "BV1K4ax6YE2n"
+        "BV1K4ax6YE2n",
+        "BV1zdxS6uE4j",
+        "BV1U64q69EYm",
+        "BV1Qhpy6uE1s",
+        "BV11eWy6wE5W"
       ],
       "indexed_video_ids": [
         "BV1Ey8B6QECx",
@@ -173,7 +183,11 @@
         "BV1vSYe6kESU",
         "BV1XbY66nEWr",
         "BV1drpn65ErX",
-        "BV1K4ax6YE2n"
+        "BV1K4ax6YE2n",
+        "BV1zdxS6uE4j",
+        "BV1U64q69EYm",
+        "BV1Qhpy6uE1s",
+        "BV11eWy6wE5W"
       ]
     },
     {
@@ -203,11 +217,13 @@
       "ideas": "把同一个工作冲突表现成热血开场，再用生活道具落地。",
       "editorial_note": "输赢是剧情；保留原作、上游视频和二创作者链。",
       "study_video_ids": [
-        "BV1dsai6CErz"
+        "BV1dsai6CErz",
+        "BV1BCW66BEM1"
       ],
       "indexed_video_ids": [
         "BV1dsai6CErz",
-        "BV1gVJe6cEVU"
+        "BV1gVJe6cEVU",
+        "BV1BCW66BEM1"
       ]
     },
     {
@@ -298,10 +314,12 @@
       "ideas": "一位AI娘每周介绍三个同人新作品；素材来源更新播报。",
       "editorial_note": "版式整洁不代表新闻已核实；本栏目只研究表达形式。",
       "study_video_ids": [
-        "BV1arpN6FEHv"
+        "BV1arpN6FEHv",
+        "BV1rRHP6qEny"
       ],
       "indexed_video_ids": [
-        "BV1arpN6FEHv"
+        "BV1arpN6FEHv",
+        "BV1rRHP6qEny"
       ]
     },
     {
@@ -337,6 +355,36 @@
         "BV1czhy6VEvi",
         "BV1FCYw6tEJt",
         "BV1Wehy62EGR"
+      ]
+    },
+    {
+      "id": "asmr-roleplay",
+      "title": "助眠与观众视角扮演",
+      "definition": "以观众为对话对象，场景、安静停顿和接近镜头的动作共同维持亲近距离。",
+      "structure": "固定观察位置 → 两人轮流前探 → 回到一个共同动作。",
+      "materials": "已知形象与居家衣装、毯子和轻触道具、独立核对的音轨片段。",
+      "ideas": "",
+      "editorial_note": "",
+      "study_video_ids": [
+        "BV1zm4h6RE9M"
+      ],
+      "indexed_video_ids": [
+        "BV1zm4h6RE9M"
+      ]
+    },
+    {
+      "id": "chat-companion-demo",
+      "title": "聊天陪伴与人格应用演示",
+      "definition": "把角色放进聊天界面，通过气泡、状态、记忆与主动关怀的演示让人理解她怎样参与日常。",
+      "structure": "情绪场景钩子 → 交代入口 → 按功能切换角色示例。",
+      "materials": "聊天场景、专属表情与原项目地址、可读的语音条或日记样例。",
+      "ideas": "",
+      "editorial_note": "",
+      "study_video_ids": [
+        "BV1Chn96VEov"
+      ],
+      "indexed_video_ids": [
+        "BV1Chn96VEov"
       ]
     }
   ]
