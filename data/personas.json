@@ -877,6 +877,12 @@
           "kind": "official_capability_context",
           "summary": "Mistral 的 10 月 6 日团队公告介绍公开预览，治理页列出的 Mistral Large 4 活跃版本日期为 10 月 29 日。",
           "scope": "2026-10-29 · 治理页记录版本。版本资料可用于角色创作引子。"
+        },
+        {
+          "source_id": "src-850ffbfc56",
+          "kind": "official_capability_context",
+          "summary": "Mistral 在 Studio 增加托管智能体与应用，并补充工作流、评估与可观测性。记录平台工作流更新，Mistral Large 4 模型另有条目。",
+          "scope": "2026-11-05 · 企业平台功能更新"
         }
       ],
       "visual_observation": null,
@@ -987,6 +993,12 @@
           "kind": "official_capability_context",
           "summary": "百度发布基于 5.5 Flash Base 的后训练预览版，官方页展示 3D、游戏和内容制作任务。",
           "scope": "2026-11-11 · 预览版。版本资料可用于角色创作引子。"
+        },
+        {
+          "source_id": "src-37fcc00eb2",
+          "kind": "official_capability_context",
+          "summary": "百度千帆列出面向长上下文的 ERNIE-Light-DT-1.0，以及可结合图像、文本和音频生成视频的文心一镜。11 月 12 日的活动发布这两款应用模型。",
+          "scope": "2026-11-12 · 百度世界发布"
         }
       ],
       "visual_observation": null,
@@ -1084,6 +1096,12 @@
           "kind": "official_capability_context",
           "summary": "腾讯公开 Hy4 flash、FP8 和 Base 权重。模型卡将它列作原生多模态模型，权重采用 Tencent Hy License。",
           "scope": "2026-11-18 · 权重公开。版本资料可用于角色创作引子。"
+        },
+        {
+          "source_id": "src-db9b88b5f5",
+          "kind": "official_capability_context",
+          "summary": "腾讯云开发者社区的官方文章列出正式版新增图像理解和计算机操作能力，以及 TokenHub 接入。11 月 18 日开权重的 Hy4 flash 另有条目。",
+          "scope": "2026-11-04 · 腾讯云资料列正式版"
         }
       ],
       "visual_observation": null,
@@ -1316,6 +1334,12 @@
           "kind": "official_capability_context",
           "summary": "Comfy 官方页面列出 GPT Image 2.6 合作节点的文生图、参考图与遮罩编辑。页面仅注明 2026 年 11 月更新，本条日期为核对日。",
           "scope": "2026-11-19 · 核对官方入口"
+        },
+        {
+          "source_id": "src-9e49ad7916",
+          "kind": "official_capability_context",
+          "summary": "OpenAI 的发布页列出 ChatGPT、Codex 与 API 支持的静态图和 GIF 制作，API 区分 Flare、Sunburst。早先收录的 ComfyUI 条目是合作节点。",
+          "scope": "2026-11-04 · OpenAI 发布原文"
         }
       ],
       "visual_observation": null,
@@ -1405,8 +1429,16 @@
       "setting_id": "atlas-ensemble-v1",
       "page_path": "encyclopedia/personas/midjourney.md",
       "original_status": "editorial_draft",
-      "author_persona_status": "not_confirmed",
-      "author_basis": [],
+      "author_persona_status": "written_branch_found",
+      "author_basis": [
+        {
+          "author": "Green_Thursday",
+          "source_id": "src-e2d8c4bc1f",
+          "scope": "note 第 06 章文字",
+          "evidence_kind": "author_setting_text",
+          "summary": "Green_Thursday 用 Veritas、Elega、Fides 分别代表 Midjourney 的叙事感性、视觉构图、细节精度。原文的主色是洋红、绿松石蓝和嫩绿。这个版本按作者文字收录。"
+        }
+      ],
       "product_basis": [],
       "visual_observation": null,
       "real_model_dialogue_measurement": null,
@@ -2579,12 +2611,18 @@
       "visual_binding": "甶丶专栏明确拟人对象是模思智能的 MOSS，盘点视频进一步标注 MOSS-Image。奇幻型右眼红色来自单片镜，双服装保留 8 字形环。作者提到名字借自电影中的同名机器，这是模型命名的来历。",
       "original": null,
       "original_dialogues": [],
-      "evidence_gap": "文字性格、原创配音与后续独立二创视频待补。",
+      "evidence_gap": "本人另有同人剧情 PV 和旁白。独立作者的 MOSS-Image 娘设定、配音和后续视频仍待补。",
       "design_basis": {
         "author": "甶丶",
         "source_id": "src-940914f1de",
         "scope": "道具设计与两套服装的作者说明",
         "summary": "作者给出雅各布杖的用途、修补痕迹、单片镜以及跨服装重复的 8 字标识。可用于复画，该篇没有给出明确性格。"
+      },
+      "performance_evidence": {
+        "source_id": "src-e74f00d2bc",
+        "video_id": "BV1LvxW6oEMo",
+        "scope": "作者本人剧情 PV；原作和三段音轨样本",
+        "summary": "角色回顾自己的来历，在万圣夜给用户开门，并把来访画下。末段转入作者的图稿幕后。"
       }
     },
     {
@@ -2764,6 +2802,69 @@
       "original": null,
       "original_dialogues": [],
       "evidence_gap": "已见署名造型，Pixiv 原帖跨站复核及单独文字性格待补。"
+    },
+    {
+      "id": "persona-atlas-dalle3",
+      "character_id": "dalle3",
+      "name": "DALL·E 3 娘",
+      "setting_id": "source-yellow-friday-dalle3",
+      "page_path": "encyclopedia/personas/dalle3.md",
+      "original_status": "source_summary",
+      "author_persona_status": "written_branch_found",
+      "author_basis": [
+        {
+          "author": "Yellow Friday（Aipictors）／Green_Thursday（作者关联的 note）",
+          "source_id": "src-7f5839d0ff",
+          "scope": "原帖及关联设定稿",
+          "evidence_kind": "author_setting_text",
+          "summary": "作者用 Lucia 和 Phoebe 的互补关系呈现同一图像模型的多个创作面向，详情见独立设定稿。"
+        }
+      ],
+      "product_basis": [
+        {
+          "source_id": "src-9427bd4541",
+          "kind": "official_capability_context",
+          "summary": "具体图像生成模型版本。",
+          "scope": "产品身份"
+        }
+      ],
+      "visual_observation": {
+        "source_id": "src-f525a682e6",
+        "scope": "实际看过 Aipictors 主图缩略图"
+      },
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "作者明确将 DALL·E 3 做成 Twin Muses 双胞胎 Lucia 和 Phoebe。两人的主色分别为酒红和蓝色，note 另有二人关系和分工的文字。",
+      "original": null,
+      "original_dialogues": [],
+      "evidence_gap": "原帖可查看造型与设定。原创配音和可复用源文件待补。"
+    },
+    {
+      "id": "persona-atlas-nano-banana",
+      "character_id": "nano-banana",
+      "name": "Nano Banana 娘",
+      "setting_id": "source-yellow-friday-nano-banana",
+      "page_path": "encyclopedia/personas/nano-banana.md",
+      "original_status": "source_summary",
+      "author_persona_status": "not_confirmed",
+      "author_basis": [
+        {
+          "author": "Yellow Friday（Aipictors）／Green_Thursday（作者关联的 note）",
+          "source_id": "src-8ee554d7d6",
+          "scope": "原帖及关联设定稿",
+          "evidence_kind": "identity_only",
+          "summary": "Aipictors 原帖把五名角色都明确称为 Nano Banana 2 的拟人。该帖主画面是 Rene。该系列与 B 站 Proj-Evol-Inst 的黄色单人造型各有独立原帖。"
+        }
+      ],
+      "product_basis": [],
+      "visual_observation": {
+        "source_id": "src-8e5a943c9a",
+        "scope": "实际看过 Aipictors 主图缩略图"
+      },
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "Aipictors 原帖把五名角色都明确称为 Nano Banana 2 的拟人。该帖主画面是 Rene。该系列与 B 站 Proj-Evol-Inst 的黄色单人造型各有独立原帖。",
+      "original": null,
+      "original_dialogues": [],
+      "evidence_gap": "原帖可查看造型与设定。原创配音和可复用源文件待补。"
     }
   ],
   "community_video_observations": [

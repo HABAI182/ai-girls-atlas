@@ -23,3 +23,9 @@
 原动态共 9 张，第 1–6 图为奇幻和科技各三种比例，第 7 图是常服，第 8–9 图是乐器和云知声标志的参考。奇幻版是青绿长发、白色宽袖兜帽和音叉状道具；科技版用透明下肢、发光投影底座和带天线的乐器。常服保留白上衣、深蓝裙和浅青轮廓。作者说明是自己制作的 U2-Flash 拟人，也写明采用生成及降噪辅助。
 
 [Unisound:U2-Flash娘化形](https://www.bilibili.com/opus/1257685897406578689) · [原帖第 1 图](https://i0.hdslb.com/bfs/new_dyn/1e7c2caf7cd3deaff35d0c53ee9c40e81758596086.png) · [原帖第 2 图](https://i0.hdslb.com/bfs/new_dyn/1b1fb7cc9aedc8e20ebab5d64f9dd6fb1758596086.png)
+
+## 语音制作参考
+
+云知声的声音制作工具按文本说明设计音色。它提供制作入口，作者图里的 U2-Flash 娘没有可确认的同人音色。 [云知声 · U2-TTS-Design](https://unisound.com/tts-design)
+
+本轮继续沿用户帖、视频标签和跨语种创作站追公开二创，已确认的角色素材仍以独立原帖为主。 [第三方作品核对](../../docs/18-cross-platform-works-voices-and-news-2026-11-19.md#third-party)

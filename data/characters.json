@@ -77,7 +77,8 @@
         "src-d63e1ab517",
         "src-933ea7ed2b",
         "src-e2597b3345",
-        "src-7a7009edea"
+        "src-7a7009edea",
+        "src-55ff0afff4"
       ],
       "local_asset_ids": [
         "zipzippipe-pixiv-148186519-p00",
@@ -193,7 +194,10 @@
         "src-ea74e2fffb",
         "src-7a41c430a3",
         "src-6c667827ea",
-        "src-9257f22863"
+        "src-9257f22863",
+        "src-e74f00d2bc",
+        "src-55ff0afff4",
+        "src-e88bc93721"
       ],
       "local_asset_ids": [
         "zipzippipe-pixiv-148186519-p03",
@@ -278,7 +282,8 @@
         "src-b4671577e2",
         "src-e2597b3345",
         "src-e308a84a77",
-        "src-a989f15820"
+        "src-a989f15820",
+        "src-d83239d669"
       ],
       "local_asset_ids": [
         "zipzippipe-pixiv-148186519-p02",
@@ -562,7 +567,9 @@
         "src-534b6ee3e4",
         "src-7e6c3dd9ad",
         "src-3088b54754",
-        "src-0cd43f5d58"
+        "src-0cd43f5d58",
+        "src-e74f00d2bc",
+        "src-4cf13c4f17"
       ],
       "local_asset_ids": [
         "zipzippipe-pixiv-148186519-p06",
@@ -637,7 +644,9 @@
         "src-58cb72c7e9",
         "src-f863ec4274",
         "src-32f6b0d3ea",
-        "src-5d7431b426"
+        "src-5d7431b426",
+        "src-bf31127921",
+        "src-55ff0afff4"
       ],
       "local_asset_ids": [
         "zipzippipe-pixiv-148186519-p12",
@@ -752,7 +761,8 @@
         "src-5842f38b33",
         "src-060b470266",
         "src-9c1ca404cb",
-        "src-58cb72c7e9"
+        "src-58cb72c7e9",
+        "src-16d1d30dcd"
       ],
       "local_asset_ids": [
         "school-op-minimax",
@@ -859,7 +869,8 @@
         "src-ecdc271a3a",
         "src-10dbdf2101",
         "src-1ef2430071",
-        "src-55bad0aec3"
+        "src-55bad0aec3",
+        "src-850ffbfc56"
       ],
       "local_asset_ids": [
         "school-op-mistral",
@@ -957,7 +968,9 @@
         "src-c12c808dbc",
         "src-da10a54d7d",
         "src-32f6b0d3ea",
-        "src-3168ee9dc7"
+        "src-3168ee9dc7",
+        "src-e74f00d2bc",
+        "src-37fcc00eb2"
       ],
       "local_asset_ids": [
         "school-op-ernie"
@@ -1042,7 +1055,8 @@
         "src-b9006a9bef",
         "src-510ddcd4fd",
         "src-364859f834",
-        "src-134551c8f4"
+        "src-134551c8f4",
+        "src-db9b88b5f5"
       ],
       "local_asset_ids": [
         "school-op-hunyuan",
@@ -1179,7 +1193,9 @@
         "src-f26a41e9e9",
         "src-5ab74ca1ef",
         "src-3bd77004ca",
-        "src-2ca93270ff"
+        "src-2ca93270ff",
+        "src-1d60c3dab5",
+        "src-e9702d2933"
       ],
       "local_asset_ids": [],
       "not_claimed": [
@@ -1218,7 +1234,8 @@
         "src-f54f4048e7",
         "src-cae0d1341e",
         "src-5c287e5294",
-        "src-bd053b1b14"
+        "src-bd053b1b14",
+        "src-9e49ad7916"
       ],
       "local_asset_ids": [],
       "not_claimed": [
@@ -1287,7 +1304,8 @@
       "creative_options_original": "创作前先补独立立绘和作者说明；如果自行设计，放入新的作者系列。",
       "sources": [
         "src-461b32e833",
-        "src-09938762db"
+        "src-09938762db",
+        "src-e2d8c4bc1f"
       ],
       "local_asset_ids": [],
       "not_claimed": [
@@ -1295,7 +1313,9 @@
         "当前能力排名",
         "所有版本均开放商用"
       ],
-      "variant_ids": [],
+      "variant_ids": [
+        "green-thursday-midjourney-trio"
+      ],
       "persona_profile_id": "persona-atlas-midjourney",
       "persona_profile_path": "encyclopedia/personas/midjourney.md"
     },
@@ -1496,7 +1516,10 @@
         "src-5bb7f75002",
         "src-42841739c3",
         "src-fcebedbdec",
-        "src-7a41c430a3"
+        "src-7a41c430a3",
+        "src-cbc080beb4",
+        "src-d83239d669",
+        "src-1d759c7d23"
       ],
       "local_asset_ids": [
         "mimo-adult-01",
@@ -1540,7 +1563,8 @@
       "identity_rules": "这是平台拟人，不是一个基础模型。条目授权未知，本库只保留作品详情入口。",
       "creative_options_original": "可优先核对抱持道具与服装轮廓，再决定与其他模型娘的群像关系。",
       "sources": [
-        "src-a7f98fdde7"
+        "src-a7f98fdde7",
+        "src-16d1d30dcd"
       ],
       "local_asset_ids": [],
       "not_claimed": [
@@ -2277,7 +2301,10 @@
       "sources": [
         "src-fcebedbdec",
         "src-2ed84bb523",
-        "src-940914f1de"
+        "src-940914f1de",
+        "src-e74f00d2bc",
+        "src-7cd8f71ce7",
+        "src-00095d225a"
       ],
       "local_asset_ids": [],
       "variant_ids": [
@@ -2367,7 +2394,8 @@
         "src-fcebedbdec",
         "src-56574ae098",
         "src-21ef27b7b4",
-        "src-95c1b387f1"
+        "src-95c1b387f1",
+        "src-4b7b1d9f3c"
       ],
       "local_asset_ids": [],
       "variant_ids": [
@@ -2412,7 +2440,8 @@
         "src-fcebedbdec",
         "src-f95644989a",
         "src-eb3f0a8286",
-        "src-c94f68cdcc"
+        "src-c94f68cdcc",
+        "src-14ecde47b6"
       ],
       "local_asset_ids": [],
       "variant_ids": [
@@ -2471,6 +2500,71 @@
       ],
       "persona_profile_id": "persona-atlas-comfyui",
       "persona_profile_path": "encyclopedia/personas/comfyui.md"
+    },
+    {
+      "id": "dalle3",
+      "name": "DALL·E 3 娘",
+      "entity_kind": "image-model-version-reference",
+      "status": "external_work_lead",
+      "design_family": "yellow-friday-green-thursday",
+      "creators": "Yellow Friday（Aipictors）／Green_Thursday（作者关联的 note）",
+      "aliases": [
+        "DALL·E 3 娘"
+      ],
+      "observed_traits": [
+        "短棕发的 Lucia 与 Phoebe 双胞胎",
+        "同款服装用酒红与蓝两色对应",
+        "已看双人并排的运动场插画"
+      ],
+      "identity_rules": "作者明确将 DALL·E 3 做成 Twin Muses 双胞胎 Lucia 和 Phoebe。两人的主色分别为酒红和蓝色，note 另有二人关系和分工的文字。",
+      "creative_options_original": "",
+      "sources": [
+        "src-f525a682e6",
+        "src-7f5839d0ff",
+        "src-9427bd4541"
+      ],
+      "local_asset_ids": [],
+      "variant_ids": [
+        "yellow-friday-dalle3"
+      ],
+      "reference_ids": [
+        "ref-yellow-friday-dalle3"
+      ],
+      "persona_profile_id": "persona-atlas-dalle3",
+      "persona_profile_path": "encyclopedia/personas/dalle3.md"
+    },
+    {
+      "id": "nano-banana",
+      "name": "Nano Banana 娘",
+      "entity_kind": "image-model-family-reference",
+      "status": "external_work_lead",
+      "design_family": "yellow-friday-green-thursday",
+      "creators": "Yellow Friday（Aipictors）／Green_Thursday（作者关联的 note）",
+      "aliases": [
+        "Nano Banana 娘"
+      ],
+      "observed_traits": [
+        "日文分支由 Nana、Rene、Mia、Tina 和 Lilia 组成",
+        "Rene 是深紫长发、白领与白色高靴",
+        "本图以紫色长裙、花店布景为主"
+      ],
+      "identity_rules": "Aipictors 原帖把五名角色都明确称为 Nano Banana 2 的拟人。该帖主画面是 Rene。该系列与 B 站 Proj-Evol-Inst 的黄色单人造型各有独立原帖。",
+      "creative_options_original": "",
+      "sources": [
+        "src-8e5a943c9a",
+        "src-8ee554d7d6",
+        "src-9cbddf79a8"
+      ],
+      "local_asset_ids": [],
+      "variant_ids": [
+        "yellow-friday-nano-banana",
+        "proj-evol-nano-banana"
+      ],
+      "reference_ids": [
+        "ref-yellow-friday-nano-banana"
+      ],
+      "persona_profile_id": "persona-atlas-nano-banana",
+      "persona_profile_path": "encyclopedia/personas/nano-banana.md"
     }
   ]
 }

@@ -584,6 +584,226 @@
       "checked_on": "2026-11-19",
       "confidence_scope": "原音轨模型辅助听辨，台词定位结合 ASR 与画面。",
       "sample_sha256": "c6c82bb8e92e2ce1bd7231444c9a68c69206d185a10c8177e177204285fa48b0"
+    },
+    {
+      "id": "voice-performance-BV1LvxW6oEMo-8",
+      "video_id": "BV1LvxW6oEMo",
+      "page": 1,
+      "segment_start": 8,
+      "segment_duration": 18.0,
+      "source_ids": [
+        "src-e74f00d2bc"
+      ],
+      "category": "非官方角色 PV · 旁白",
+      "register_and_timbre": "清楚、较平直的人声",
+      "delivery": "中等速度，数字单独说得清楚",
+      "mix_model_impression": "该段人声突出",
+      "use_reference": "开头按时间顺序介绍来历。",
+      "method": "Qwen2.5-Omni-3B Q4_K_M + Q8 projector, llama.cpp b11780 Vulkan; original P1 WAV input, no transcript provided",
+      "direct_audio_input": true,
+      "human_listened": false,
+      "sample_sha256": "3af4f1fd78fdf9b4d2d4de11ed0237c8c9361b352cddba129d5842d9d1f502d2",
+      "confidence_scope": "音轨模型辅助观察，角色和配音来源依据字幕和作者说明。"
+    },
+    {
+      "id": "voice-performance-BV1LvxW6oEMo-96",
+      "video_id": "BV1LvxW6oEMo",
+      "page": 1,
+      "segment_start": 96,
+      "segment_duration": 18.0,
+      "source_ids": [
+        "src-e74f00d2bc"
+      ],
+      "category": "非官方角色 PV · 旁白",
+      "register_and_timbre": "较轻的人声，局部带气声",
+      "delivery": "速度放慢，句间稍空",
+      "mix_model_impression": "音轨模型没有把背景与话声稳定分开",
+      "use_reference": "角色进入室内后，低声叙述配合室内近景。",
+      "method": "Qwen2.5-Omni-3B Q4_K_M + Q8 projector, llama.cpp b11780 Vulkan; original P1 WAV input, no transcript provided",
+      "direct_audio_input": true,
+      "human_listened": false,
+      "sample_sha256": "4b5b57d3dc0b4977036118178502693003e6a3b911064e4767b31dba745f9b05",
+      "confidence_scope": "音轨模型辅助观察，角色和配音来源依据字幕和作者说明。"
+    },
+    {
+      "id": "voice-performance-BV1LvxW6oEMo-174",
+      "video_id": "BV1LvxW6oEMo",
+      "page": 1,
+      "segment_start": 174,
+      "segment_duration": 18.0,
+      "source_ids": [
+        "src-e74f00d2bc"
+      ],
+      "category": "非官方角色 PV · 旁白",
+      "register_and_timbre": "清楚而稳定的人声",
+      "delivery": "回到较均匀的讲述",
+      "mix_model_impression": "该段仍以讲述为主",
+      "use_reference": "从剧情切到作者解释产图过程。",
+      "method": "Qwen2.5-Omni-3B Q4_K_M + Q8 projector, llama.cpp b11780 Vulkan; original P1 WAV input, no transcript provided",
+      "direct_audio_input": true,
+      "human_listened": false,
+      "sample_sha256": "1af4183fcefd44720048bc027d963e58fe5e3c430d3e5c3e146139280f92ad79",
+      "confidence_scope": "音轨模型辅助观察，角色和配音来源依据字幕和作者说明。"
+    },
+    {
+      "id": "voice-performance-BV1XGs56oEuy-13",
+      "video_id": "BV1XGs56oEuy",
+      "page": 1,
+      "segment_start": 13,
+      "segment_duration": 20.064,
+      "source_ids": [
+        "src-d83239d669"
+      ],
+      "category": "双角色同人访谈",
+      "register_and_timbre": "声源为清楚的连续说话",
+      "delivery": "中速、字句较整齐",
+      "mix_model_impression": "该段以人声为主",
+      "use_reference": "主持先明确自己的身份并为嘉宾递话。",
+      "method": "Qwen2.5-Omni-3B Q4_K_M + Q8 projector, llama.cpp b11780 Vulkan; original P1 WAV input, no transcript provided",
+      "direct_audio_input": true,
+      "human_listened": false,
+      "sample_sha256": "c832fb02ce1be763c8a505c8c858cabf47b69936d5be954452b9478a5932212b",
+      "confidence_scope": "音轨模型辅助观察，角色和配音来源依据字幕和作者说明。"
+    },
+    {
+      "id": "voice-performance-BV1XGs56oEuy-73",
+      "video_id": "BV1XGs56oEuy",
+      "page": 1,
+      "segment_start": 73,
+      "segment_duration": 21.0746875,
+      "source_ids": [
+        "src-d83239d669"
+      ],
+      "category": "双角色同人访谈",
+      "register_and_timbre": "较松缓的讲话",
+      "delivery": "第二段更慢，局部字轻落",
+      "mix_model_impression": "混音中的人声最突出",
+      "use_reference": "字幕确认对话在两位角色之间切换。",
+      "method": "Qwen2.5-Omni-3B Q4_K_M + Q8 projector, llama.cpp b11780 Vulkan; original P1 WAV input, no transcript provided",
+      "direct_audio_input": true,
+      "human_listened": false,
+      "sample_sha256": "3934447c773e56de1ce4e12655bf2a6478f3066ed9e1204ca56ab9a9b764983e",
+      "confidence_scope": "音轨模型辅助观察，角色和配音来源依据字幕和作者说明。"
+    },
+    {
+      "id": "voice-performance-BV1dt4z66EpT-14",
+      "video_id": "BV1dt4z66EpT",
+      "page": 1,
+      "segment_start": 14,
+      "segment_duration": 18.0,
+      "source_ids": [
+        "src-1d759c7d23"
+      ],
+      "category": "MiMo 同人新闻播报",
+      "register_and_timbre": "人声突出、字音清楚",
+      "delivery": "速度较稳定，少停顿",
+      "mix_model_impression": "未稳定辨出其他重点音源",
+      "use_reference": "与左侧新闻素材按顺序并排。",
+      "method": "Qwen2.5-Omni-3B Q4_K_M + Q8 projector, llama.cpp b11780 Vulkan; original P1 WAV input, no transcript provided",
+      "direct_audio_input": true,
+      "human_listened": false,
+      "sample_sha256": "9a2c35f0cebff8d8295976faf1579c00e498d4041f8788b6e308e6f3964c0249",
+      "confidence_scope": "音轨模型辅助观察，角色和配音来源依据字幕和作者说明。"
+    },
+    {
+      "id": "voice-performance-BV1dt4z66EpT-80",
+      "video_id": "BV1dt4z66EpT",
+      "page": 1,
+      "segment_start": 80,
+      "segment_duration": 18.0325,
+      "source_ids": [
+        "src-1d759c7d23"
+      ],
+      "category": "MiMo 同人新闻播报",
+      "register_and_timbre": "人声清楚",
+      "delivery": "语速与前段接近",
+      "mix_model_impression": "以旁白的连续声音为主",
+      "use_reference": "更换热点时沿用相同的念稿节奏。",
+      "method": "Qwen2.5-Omni-3B Q4_K_M + Q8 projector, llama.cpp b11780 Vulkan; original P1 WAV input, no transcript provided",
+      "direct_audio_input": true,
+      "human_listened": false,
+      "sample_sha256": "f585e1a4837478a5b9077c7c23eee4f9c649ad6a0ca027c95bf0cbd2224e8cb5",
+      "confidence_scope": "音轨模型辅助观察，角色和配音来源依据字幕和作者说明。"
+    },
+    {
+      "id": "voice-performance-BV121HK6HEvi-43",
+      "video_id": "BV121HK6HEvi",
+      "page": 1,
+      "segment_start": 43,
+      "segment_duration": 18.0,
+      "source_ids": [
+        "src-bf31127921"
+      ],
+      "category": "千问同人角色曲 · 原混音",
+      "register_and_timbre": "连贯的音乐混音",
+      "delivery": "节拍总体稳定",
+      "mix_model_impression": "没有从这段分离出独立声部",
+      "use_reference": "对照近景与座位镜头的姿势变化。",
+      "method": "Qwen2.5-Omni-3B Q4_K_M + Q8 projector, llama.cpp b11780 Vulkan; original P1 WAV input, no transcript provided",
+      "direct_audio_input": true,
+      "human_listened": false,
+      "sample_sha256": "e3a0a0fc2223f0b41d81f195396a4c35d80fe58bee9c7389e48d5b3d14443dc9",
+      "confidence_scope": "音轨模型辅助观察，角色和配音来源依据字幕和作者说明。"
+    },
+    {
+      "id": "voice-performance-BV121HK6HEvi-112",
+      "video_id": "BV121HK6HEvi",
+      "page": 1,
+      "segment_start": 112,
+      "segment_duration": 18.0,
+      "source_ids": [
+        "src-bf31127921"
+      ],
+      "category": "千问同人角色曲 · 原混音",
+      "register_and_timbre": "连贯的音乐混音",
+      "delivery": "节奏相对一致",
+      "mix_model_impression": "音轨模型未能稳定区分人声与伴奏",
+      "use_reference": "用作镜头换位与文字层的节拍参照。",
+      "method": "Qwen2.5-Omni-3B Q4_K_M + Q8 projector, llama.cpp b11780 Vulkan; original P1 WAV input, no transcript provided",
+      "direct_audio_input": true,
+      "human_listened": false,
+      "sample_sha256": "b475f22c264fe5b03476715ad5f8b69a97635091bb8060e9517d1fe171ba439d",
+      "confidence_scope": "音轨模型辅助观察，角色和配音来源依据字幕和作者说明。"
+    },
+    {
+      "id": "voice-performance-BV1XhYM6fETF-22",
+      "video_id": "BV1XhYM6fETF",
+      "page": 1,
+      "segment_start": 22,
+      "segment_duration": 18.0,
+      "source_ids": [
+        "src-1d60c3dab5"
+      ],
+      "category": "紫璃教程 · 曼波风格合成旁白",
+      "register_and_timbre": "单一讲话声源",
+      "delivery": "中速，连续推进",
+      "mix_model_impression": "模型未辨突出配乐，简介也写无背景音乐",
+      "use_reference": "用于动作分类到安装导航的过渡。",
+      "method": "Qwen2.5-Omni-3B Q4_K_M + Q8 projector, llama.cpp b11780 Vulkan; original P1 WAV input, no transcript provided",
+      "direct_audio_input": true,
+      "human_listened": false,
+      "sample_sha256": "07b0859ca0869cae94eab06b012d0e2f1aa632c089cc75506578535a79715fbc",
+      "confidence_scope": "音轨模型辅助观察，角色和配音来源依据字幕和作者说明。"
+    },
+    {
+      "id": "voice-performance-BV1mbxs6SE2S-75",
+      "video_id": "BV1mbxs6SE2S",
+      "page": 1,
+      "segment_start": 75,
+      "segment_duration": 18.0,
+      "source_ids": [
+        "src-55ff0afff4"
+      ],
+      "category": "小剧场配音",
+      "register_and_timbre": "人声较轻、相对活跃",
+      "delivery": "部分短句速度稍快",
+      "mix_model_impression": "背景与说话未做分轨",
+      "use_reference": "GPT 入画之后，字幕把接话写成明确的角色轮换。",
+      "method": "Qwen2.5-Omni-3B Q4_K_M + Q8 projector, llama.cpp b11780 Vulkan; original P1 WAV input, no transcript provided",
+      "direct_audio_input": true,
+      "human_listened": false,
+      "sample_sha256": "06c99047db4b2ebfdbb73869782f6985b18e265baafcac20a8f9b06435f86635",
+      "confidence_scope": "音轨模型辅助观察，角色和配音来源依据字幕和作者说明。"
     }
   ],
   "method_note": "直接输入原声抽段。编者结合字幕与电平观察提炼结果，排除年龄、音色来源和音质猜测。语音识别文字只用于定位，没有作为音频模型输入。"

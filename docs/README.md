@@ -6,6 +6,7 @@
 
 - **[AI娘视频：品类、风格与案例库](../videos/README.md)** · [风格比较](../videos/styles.md) · [模型/桌面/手作素材入口](../videos/materials.md)
 
+- **[跨平台二创、声音与新闻续录](18-cross-platform-works-voices-and-news-2026-11-19.md)**
 - **[独立设定原帖与 11 月追更](17-original-design-sheets-and-news-2026-11-19.md)**
 - **[11 月续更：新闻、形象补查和二创](16-news-and-character-search-2026-11-19.md)**
 - **[11 月 AI 产品新闻与社区作品](15-ai-news-2026-11-19.md)**

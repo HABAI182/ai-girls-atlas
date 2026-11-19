@@ -2383,11 +2383,19 @@
       "difference_from_other_versions": "与同作者已存普通立绘共享兔形元素，本片另加尖帽与披风。",
       "asset_ids": [],
       "source_ids": [
-        "src-fcebedbdec"
+        "src-fcebedbdec",
+        "src-cbc080beb4"
       ],
       "external_url": "https://www.bilibili.com/video/BV17Bxt63EMR/?p=1&t=3",
       "review_scope": "sampled_visual_frames_and_creator_description",
-      "checked_on": "2026-11-19"
+      "checked_on": "2026-11-19",
+      "video_usage": [
+        {
+          "video_id": "BV1eN4P6zEXJ",
+          "source_id": "src-cbc080beb4",
+          "label": "他作者的绿幕动作测试"
+        }
+      ]
     },
     {
       "id": "fuh-202611-longcat",
@@ -2745,6 +2753,88 @@
       ],
       "external_url": "https://www.bilibili.com/video/BV1S4s86YEAm/?p=1&t=9",
       "review_scope": "original_video_frames_and_creator_metadata",
+      "checked_on": "2026-11-19"
+    },
+    {
+      "id": "yellow-friday-dalle3",
+      "character_id": "dalle3",
+      "collection": "cross-platform-2026-11",
+      "title": "Aipictors · DALL·E 3 娘设定",
+      "creators": "Yellow Friday（Aipictors）／Green_Thursday（作者关联的 note）",
+      "observed_traits": [
+        "短棕发的 Lucia 与 Phoebe 双胞胎",
+        "同款服装用酒红与蓝两色对应",
+        "已看双人并排的运动场插画"
+      ],
+      "difference_from_other_versions": "作者明确将 DALL·E 3 做成 Twin Muses 双胞胎 Lucia 和 Phoebe。两人的主色分别为酒红和蓝色，note 另有二人关系和分工的文字。",
+      "asset_ids": [],
+      "source_ids": [
+        "src-f525a682e6",
+        "src-7f5839d0ff"
+      ],
+      "external_url": "https://www.aipictors.com/posts/798422",
+      "review_scope": "creator_description_and_observed_preview",
+      "checked_on": "2026-11-19"
+    },
+    {
+      "id": "yellow-friday-nano-banana",
+      "character_id": "nano-banana",
+      "collection": "cross-platform-2026-11",
+      "title": "Aipictors · Nano Banana 娘设定",
+      "creators": "Yellow Friday（Aipictors）／Green_Thursday（作者关联的 note）",
+      "observed_traits": [
+        "日文分支由 Nana、Rene、Mia、Tina 和 Lilia 组成",
+        "Rene 是深紫长发、白领与白色高靴",
+        "本图以紫色长裙、花店布景为主"
+      ],
+      "difference_from_other_versions": "Aipictors 原帖把五名角色都明确称为 Nano Banana 2 的拟人。该帖主画面是 Rene。该系列与 B 站 Proj-Evol-Inst 的黄色单人造型各有独立原帖。",
+      "asset_ids": [],
+      "source_ids": [
+        "src-8e5a943c9a",
+        "src-8ee554d7d6"
+      ],
+      "external_url": "https://www.aipictors.com/posts/830296",
+      "review_scope": "creator_description_and_observed_preview",
+      "checked_on": "2026-11-19"
+    },
+    {
+      "id": "green-thursday-midjourney-trio",
+      "character_id": "midjourney",
+      "collection": "cross-platform-2026-11",
+      "title": "Green_Thursday · Veritas、Elega、Fides",
+      "creators": "Green_Thursday",
+      "observed_traits": [
+        "Veritas 的主色为洋红，高马尾",
+        "Elega 的主色为绿松石蓝，盘发",
+        "Fides 的主色为嫩绿，半扎发"
+      ],
+      "difference_from_other_versions": "Green_Thursday 用 Veritas、Elega、Fides 分别代表 Midjourney 的叙事感性、视觉构图、细节精度。原文的主色是洋红、绿松石蓝和嫩绿。这个版本按作者文字收录。",
+      "asset_ids": [],
+      "source_ids": [
+        "src-e2d8c4bc1f"
+      ],
+      "external_url": "https://note.com/glossy_stoat7085/n/n81e2cbaeffcd",
+      "review_scope": "original_setting_text",
+      "checked_on": "2026-11-19"
+    },
+    {
+      "id": "proj-evol-nano-banana",
+      "character_id": "nano-banana",
+      "collection": "cross-platform-2026-11",
+      "title": "Proj-Evol-Inst · 黄裙单人 Nano Banana",
+      "creators": "Proj-Evol-Inst",
+      "observed_traits": [
+        "金色高马尾",
+        "黄白层叠裙和一侧披肩",
+        "手边漂浮蕉形小标记"
+      ],
+      "difference_from_other_versions": "作品在 Nano Banana 字卡下放单人角色。和日文 Nano Banana 2 五人组分别登记。",
+      "asset_ids": [],
+      "source_ids": [
+        "src-9cbddf79a8"
+      ],
+      "external_url": "https://www.bilibili.com/video/BV1Q3sG6SEx7/?p=1&t=47",
+      "review_scope": "timestamped_sampled_frames_and_creator_metadata",
       "checked_on": "2026-11-19"
     }
   ]

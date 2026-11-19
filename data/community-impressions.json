@@ -1698,6 +1698,72 @@
         }
       ],
       "checked_on": "2026-11-19"
+    },
+    {
+      "id": "community-qwen-blue-white-debut",
+      "character_id": "qwen",
+      "label": "出道曲里的蓝白千金",
+      "dimension": "单作者作品印象",
+      "summary": "作者将她演成会用礼数制约提问的人，折扇、白手套和一再出现的问号支撑角色态度。",
+      "support_scope": "单一原作品",
+      "claim_type": "author_fiction_not_real_model_response",
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "src-bf31127921",
+          "url": "https://www.bilibili.com/video/BV121HK6HEvi/",
+          "platform": "Bilibili",
+          "video_id": "BV121HK6HEvi",
+          "kind": "visual_frames_and_creator_description",
+          "locator": "P1 00:31",
+          "author": "地丶云天",
+          "checked_on": "2026-11-19"
+        }
+      ]
+    },
+    {
+      "id": "community-mimo-interview-host",
+      "character_id": "mimo",
+      "label": "机灵的本地科技访谈主持",
+      "dimension": "单作者作品印象",
+      "summary": "米莫先把接地气写进提问，接着说自己会唱歌、写代码和用小米生态。她与 Claude 的互损属于同人访谈。",
+      "support_scope": "单一原作品",
+      "claim_type": "author_fiction_not_real_model_response",
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "src-d83239d669",
+          "url": "https://www.bilibili.com/video/BV1XGs56oEuy/",
+          "platform": "Bilibili",
+          "video_id": "BV1XGs56oEuy",
+          "kind": "visual_frames_and_creator_description",
+          "locator": "P1 01:05",
+          "author": "离谱的米莫娘",
+          "checked_on": "2026-11-19"
+        }
+      ]
+    },
+    {
+      "id": "community-glm-file-show",
+      "character_id": "glm",
+      "label": "把复算做成查案卷宗的 GLM",
+      "dimension": "单作者作品印象",
+      "summary": "发布公告、社区反馈和主持人的复算用不同编号卡展示，黑白狐娘以侦探姿势承担串讲。",
+      "support_scope": "单一原作品",
+      "claim_type": "author_fiction_not_real_model_response",
+      "checked_on": "2026-11-19",
+      "evidence": [
+        {
+          "source_id": "src-4cf13c4f17",
+          "url": "https://www.bilibili.com/video/BV1JssQ65ECi/",
+          "platform": "Bilibili",
+          "video_id": "BV1JssQ65ECi",
+          "kind": "visual_frames_and_creator_description",
+          "locator": "P1 01:49",
+          "author": "GLM狐娘在线查案",
+          "checked_on": "2026-11-19"
+        }
+      ]
     }
   ],
   "pending_leads": [
@@ -1735,7 +1801,7 @@
   },
   "coverage": {
     "character_count": 14,
-    "records": 62,
+    "records": 65,
     "pending_leads": 1
   }
 }

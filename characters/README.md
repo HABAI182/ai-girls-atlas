@@ -58,3 +58,5 @@
 | [蚂蚁百灵 / Ant Ling](ant-ling/README.md) | model-family | 作品线索 | 浅蓝紫短发、两条触角、黑色头纱和层叠裙；蓝宝石长钥匙；能独立动作的脚边影子 |
 | [U2 / 云知声](unisound-u2/README.md) | model-family | 作品线索 | 青绿长发和深蓝兜帽；白蓝宽袖与悬浮下摆；手持音叉状道具 |
 | [ComfyUI 娘](comfyui/README.md) | workflow-tool | 作品线索 | 紫发黄绿挑染、紫色角翼与尾巴；安全帽和工装印 ComfyUI；手里抱黄色线圈，工具挂在腰侧 |
+| [DALL·E 3 娘](dalle3/README.md) | image-model-version-reference | 作品线索 | 短棕发的 Lucia 与 Phoebe 双胞胎；同款服装用酒红与蓝两色对应；已看双人并排的运动场插画 |
+| [Nano Banana 娘](nano-banana/README.md) | image-model-family-reference | 作品线索 | 日文分支由 Nana、Rene、Mia、Tina 和 Lilia 组成；Rene 是深紫长发、白领与白色高靴；本图以紫色长裙、花店布景为主 |

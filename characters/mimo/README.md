@@ -89,3 +89,7 @@ MiMo Claw 2.1.2，见 [11 月产品动态](../../docs/15-ai-news-2026-11-19.md#p
 ## 11 月二创作品续补
 
 [甶丶的七款国产 AI 拟人设定卡](../../docs/16-news-and-character-search-2026-11-19.md#work-bv17bxt63emr) · [MiMo 兔娘与 GPT 龙娘说相声](../../docs/16-news-and-character-search-2026-11-19.md#work-bv1lg4j6he2c)
+
+## 作品与配音续录
+
+[MiMo 魔女帽 Q 版的绿幕动作测试](../../docs/18-cross-platform-works-voices-and-news-2026-11-19.md#work-bv1en4p6zexj) · [MiMo 问 Claude 的双人访谈](../../docs/18-cross-platform-works-voices-and-news-2026-11-19.md#work-bv1xgs56oeuy) · [MiMo 用兔娘造型播报小米一周](../../docs/18-cross-platform-works-voices-and-news-2026-11-19.md#work-bv1dt4z66ept)

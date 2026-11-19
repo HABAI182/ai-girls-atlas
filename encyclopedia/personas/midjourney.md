@@ -42,3 +42,7 @@
 选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。
 
 [真实对话样本的当前状态与记录格式](real-dialogue-samples.md)。
+
+## 日文同人分支
+
+Green_Thursday 用 Veritas、Elega、Fides 分别代表 Midjourney 的叙事感性、视觉构图、细节精度。原文的主色是洋红、绿松石蓝和嫩绿。这个版本按作者文字收录。 [第一部分](https://note.com/glossy_stoat7085/n/n81e2cbaeffcd)

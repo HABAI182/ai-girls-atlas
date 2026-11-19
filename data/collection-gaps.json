@@ -24,25 +24,18 @@
       "bilibili_search_scope": "returned_candidates",
       "latest_check": {
         "checked_on": "2026-11-19",
-        "baseline_commit": "b4f31df",
-        "queries": [
-          "可灵娘",
-          "可灵拟人",
-          "可灵姬",
-          "Kling 娘",
-          "Kling AI mascot"
-        ],
+        "baseline_commit": "ba58591",
         "platforms": [
-          "Bilibili",
-          "Pixiv",
-          "GitHub",
-          "跨语种网页与图片搜索"
+          "微博品牌主页",
+          "广告创意档案",
+          "跨语种创作话题"
         ],
+        "alternate_language_queries": true,
         "outcome": "unconfirmed",
-        "reviewed_result": "《魔法少女可灵》第一集和第七集都可见角色名对应的奇幻剧情。片中有校服、变身和怪物，多处带豆包 AI 生成标记；作者简介与可见评论未给出她和快手可灵的关联。保留同名线索。",
+        "reviewed_result": "广告门的快手《灵蛇奇遇》有明确的角色设计，但文中指向生肖联名限定形象，采用可灵作为制作工具。本次另查了微博品牌主页和品牌用词，仍缺作者明确写为快手可灵本体的娘化作品。",
         "source_ids": [
-          "src-826963531f",
-          "src-da0c89d254"
+          "src-337483c131",
+          "src-7120175c39"
         ]
       },
       "prior_checks": [
@@ -66,6 +59,29 @@
           "source_ids": [
             "src-16aca44e04"
           ]
+        },
+        {
+          "checked_on": "2026-11-19",
+          "baseline_commit": "b4f31df",
+          "queries": [
+            "可灵娘",
+            "可灵拟人",
+            "可灵姬",
+            "Kling 娘",
+            "Kling AI mascot"
+          ],
+          "platforms": [
+            "Bilibili",
+            "Pixiv",
+            "GitHub",
+            "跨语种网页与图片搜索"
+          ],
+          "outcome": "unconfirmed",
+          "reviewed_result": "《魔法少女可灵》第一集和第七集都可见角色名对应的奇幻剧情。片中有校服、变身和怪物，多处带豆包 AI 生成标记；作者简介与可见评论未给出她和快手可灵的关联。保留同名线索。",
+          "source_ids": [
+            "src-826963531f",
+            "src-da0c89d254"
+          ]
         }
       ]
     },
@@ -80,24 +96,18 @@
       "access_note": "B站接口本轮未返回可解析结果；网页检索仍未得到本库可确认方案。",
       "latest_check": {
         "checked_on": "2026-11-19",
-        "baseline_commit": "b4f31df",
-        "queries": [
-          "Runway娘",
-          "Runway 拟人",
-          "Runway姬",
-          "Runway gijinka",
-          "RunwayML personification"
-        ],
+        "baseline_commit": "ba58591",
         "platforms": [
-          "Bilibili",
-          "Pixiv",
-          "GitHub",
-          "跨语种网页与图片搜索"
+          "note",
+          "Aipictors",
+          "YouTube 创作者和品牌设计作品索引"
         ],
+        "alternate_language_queries": true,
         "outcome": "unconfirmed",
-        "reviewed_result": "在 B 站查了 Runway 拟人和娘化词，对照了 Runway 官方 Gen-4 作品展和英文、日文拟人检索。Gen-4 展厅是不同创作者的电影案例，尚未找到具名 Runway 拟人原作。",
+        "reviewed_result": "日文 note 与 Aipictors 的具名 AI 拟人系列补到其他模型的角色作品。沿 Runway 的日文、韩文名称与 RunwayML 绘画题继续查，只找到以 Runway 制作角色的教程和不相干的时装标题。学院的 Character Creator 展示如何做自定义形象。",
         "source_ids": [
-          "src-39226f7145"
+          "src-b69fbdaacc",
+          "src-523116520d"
         ]
       },
       "prior_checks": [
@@ -122,6 +132,28 @@
             "src-6375cb803c",
             "src-689207ad63"
           ]
+        },
+        {
+          "checked_on": "2026-11-19",
+          "baseline_commit": "b4f31df",
+          "queries": [
+            "Runway娘",
+            "Runway 拟人",
+            "Runway姬",
+            "Runway gijinka",
+            "RunwayML personification"
+          ],
+          "platforms": [
+            "Bilibili",
+            "Pixiv",
+            "GitHub",
+            "跨语种网页与图片搜索"
+          ],
+          "outcome": "unconfirmed",
+          "reviewed_result": "在 B 站查了 Runway 拟人和娘化词，对照了 Runway 官方 Gen-4 作品展和英文、日文拟人检索。Gen-4 展厅是不同创作者的电影案例，尚未找到具名 Runway 拟人原作。",
+          "source_ids": [
+            "src-39226f7145"
+          ]
         }
       ]
     },
@@ -136,23 +168,18 @@
       "access_note": "B站接口本轮未返回可解析结果；网页检索仍未得到本库可确认方案。",
       "latest_check": {
         "checked_on": "2026-11-19",
-        "baseline_commit": "b4f31df",
-        "queries": [
-          "FLUX娘",
-          "FLUX 拟人",
-          "FLUX-chan",
-          "Black Forest Labs gijinka"
-        ],
+        "baseline_commit": "ba58591",
         "platforms": [
-          "Bilibili",
-          "Pixiv",
-          "GitHub",
-          "跨语种网页与图片搜索"
+          "ArtStation",
+          "Aipictors",
+          "LoRA 卡片和角色画廊"
         ],
+        "alternate_language_queries": true,
         "outcome": "unconfirmed",
-        "reviewed_result": "图像搜索和 GitHub 查到 FLUX 画风微调、工作流及生成角色；同名 FLUX 页也有时装、无关作品和摄影。对照件中的动漫形象为画风示范。尚未找到作者明确用人物代表 Black Forest Labs FLUX 模型的稿件。",
+        "reviewed_result": "ArtStation 上 BrawnyAi 并排比较 Qwen 与 FLUX 的生成图；Aipictors、LiblibAI 等结果混有 FLUX 模型标签和服装 LoRA。具体检索里的角色是生成对象或对照例，仍缺作者明确声明用角色代表 Black Forest Labs FLUX 的原作。",
         "source_ids": [
-          "src-26f4bfb2bd"
+          "src-be75766cb8",
+          "src-839a5043ed"
         ]
       },
       "prior_checks": [
@@ -175,6 +202,27 @@
           "source_ids": [
             "src-a1d42800f0",
             "src-a8c48e6196"
+          ]
+        },
+        {
+          "checked_on": "2026-11-19",
+          "baseline_commit": "b4f31df",
+          "queries": [
+            "FLUX娘",
+            "FLUX 拟人",
+            "FLUX-chan",
+            "Black Forest Labs gijinka"
+          ],
+          "platforms": [
+            "Bilibili",
+            "Pixiv",
+            "GitHub",
+            "跨语种网页与图片搜索"
+          ],
+          "outcome": "unconfirmed",
+          "reviewed_result": "图像搜索和 GitHub 查到 FLUX 画风微调、工作流及生成角色；同名 FLUX 页也有时装、无关作品和摄影。对照件中的动漫形象为画风示范。尚未找到作者明确用人物代表 Black Forest Labs FLUX 模型的稿件。",
+          "source_ids": [
+            "src-26f4bfb2bd"
           ]
         }
       ]

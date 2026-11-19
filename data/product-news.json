@@ -711,6 +711,181 @@
       "editorial_atlas_use": "ComfyUI 是工作流工具，GPT Image 是接入模型，两张角色档案分别挂在自己的来源上。",
       "page_path": "docs/17-original-design-sheets-and-news-2026-11-19.md",
       "section_anchor": "product-news"
+    },
+    {
+      "id": "bailian-pixverse-vidu-nov18",
+      "date": "2026-11-18",
+      "date_kind": "source_event",
+      "status_as_recorded": "百炼北京区域上架",
+      "checked_on": "2026-11-19",
+      "title": "PixVerse V6-max 与 Vidu Q3.1 Fast 图像",
+      "character_ids": [],
+      "source_ids": [
+        "src-efed5ba7c3"
+      ],
+      "summary": "阿里云百炼日志列出 PixVerse V6-max 的文生及图生视频两个入口，以及 Vidu Q3.1 Fast 的参考生图接口。日志记录的是该区域可用模型。",
+      "editorial_atlas_use": "可先用参考图固定角色，再选各模型的视频或图像能力。",
+      "page_path": "docs/18-cross-platform-works-voices-and-news-2026-11-19.md",
+      "section_anchor": "product-news"
+    },
+    {
+      "id": "nvidia-rtx-spark-desktop",
+      "date": "2026-11-18",
+      "date_kind": "source_event",
+      "status_as_recorded": "设备开始供应",
+      "checked_on": "2026-11-19",
+      "title": "NVIDIA RTX Spark 桌面系统",
+      "character_ids": [],
+      "source_ids": [
+        "src-a9ef6dbadc"
+      ],
+      "summary": "英伟达公告列出 RTX Spark 紧凑型桌面设备开始供应，目标场景覆盖本地生成、开发与工作站。作为本地 AI 生态记录。",
+      "editorial_atlas_use": "本地运行素材制作工作流时，可继续留档设备、模型和工作流版本。",
+      "page_path": "docs/18-cross-platform-works-voices-and-news-2026-11-19.md",
+      "section_anchor": "product-news"
+    },
+    {
+      "id": "openai-chip-design-nov18",
+      "date": "2026-11-18",
+      "date_kind": "source_event",
+      "status_as_recorded": "研究与合作进展",
+      "checked_on": "2026-11-19",
+      "title": "OpenAI 与 AMD 芯片设计研究",
+      "character_ids": [
+        "gpt"
+      ],
+      "source_ids": [
+        "src-e88bc93721"
+      ],
+      "summary": "OpenAI 发布用模型辅助芯片设计的案例，涉及 AMD GPU 的设计方案和其推理芯片的验证。本文记录项目团队陈述。",
+      "editorial_atlas_use": "可用于角色扮演中区分设计工具提供的候选、工程师验证和最终硬件。",
+      "page_path": "docs/18-cross-platform-works-voices-and-news-2026-11-19.md",
+      "section_anchor": "product-news"
+    },
+    {
+      "id": "higgsfield-short-drama-studio",
+      "date": "2026-11-16",
+      "date_kind": "source_event",
+      "status_as_recorded": "官方更新日志上线",
+      "checked_on": "2026-11-19",
+      "title": "Higgsfield Short Drama Studio",
+      "character_ids": [],
+      "source_ids": [
+        "src-b8aa18da13"
+      ],
+      "summary": "官方日志记录一套从剧本拆集、确认角色地点道具、再生成各集短剧的界面。发布文章介绍可逐阶段审阅。",
+      "editorial_atlas_use": "和库内静态设定原帖配合，可以对照角色连续性和跨集场景管理。",
+      "page_path": "docs/18-cross-platform-works-voices-and-news-2026-11-19.md",
+      "section_anchor": "product-news"
+    },
+    {
+      "id": "moss-image-rd-qa",
+      "date": "2026-11-16",
+      "date_kind": "source_event",
+      "status_as_recorded": "研发团队公开问答",
+      "checked_on": "2026-11-19",
+      "title": "MOSS-Image Anime 与 Edit 路线问答",
+      "character_ids": [
+        "moss-image"
+      ],
+      "source_ids": [
+        "src-00095d225a"
+      ],
+      "summary": "模思智能团队通过 B 站把 Reddit 社区提问带给开发者，公开讨论 Anime 和 Edit 的方向，并在简介说明已有 Base 与 SFT 两个版本。",
+      "editorial_atlas_use": "记录为创作模型的开发路线和提问出处，具体上线仍以发布公告为准。",
+      "page_path": "docs/18-cross-platform-works-voices-and-news-2026-11-19.md",
+      "section_anchor": "product-news"
+    },
+    {
+      "id": "wenxin-light-and-wizshot",
+      "date": "2026-11-12",
+      "date_kind": "source_event",
+      "status_as_recorded": "百度世界发布",
+      "checked_on": "2026-11-19",
+      "title": "文心闪电与文心一镜",
+      "character_ids": [
+        "wenxin"
+      ],
+      "source_ids": [
+        "src-37fcc00eb2"
+      ],
+      "summary": "百度千帆列出面向长上下文的 ERNIE-Light-DT-1.0，以及可结合图像、文本和音频生成视频的文心一镜。11 月 12 日的活动发布这两款应用模型。",
+      "editorial_atlas_use": "文心的文字角色档案和一镜视频工具分别保留功能、使用和形象证据。",
+      "page_path": "docs/18-cross-platform-works-voices-and-news-2026-11-19.md",
+      "section_anchor": "product-news"
+    },
+    {
+      "id": "diffusers-043",
+      "date": "2026-11-12",
+      "date_kind": "source_event",
+      "status_as_recorded": "库版本发布",
+      "checked_on": "2026-11-19",
+      "title": "Diffusers v0.43.0",
+      "character_ids": [
+        "huggingface",
+        "minimax"
+      ],
+      "source_ids": [
+        "src-16d1d30dcd"
+      ],
+      "summary": "Hugging Face 发布 v0.43.0，新增多种图像、视频和声音驱动流程，其中 MiniMax H3-Image 接入同时涉及文字生图和参考编辑。",
+      "editorial_atlas_use": "同样的素材流程在托管服务与开源库有各自版本，索引按实际工具保存。",
+      "page_path": "docs/18-cross-platform-works-voices-and-news-2026-11-19.md",
+      "section_anchor": "product-news"
+    },
+    {
+      "id": "mistral-studio-managed-agents",
+      "date": "2026-11-05",
+      "date_kind": "source_event",
+      "status_as_recorded": "企业平台功能更新",
+      "checked_on": "2026-11-19",
+      "title": "Mistral Studio 扩展托管工作流",
+      "character_ids": [
+        "mistral"
+      ],
+      "source_ids": [
+        "src-850ffbfc56"
+      ],
+      "summary": "Mistral 在 Studio 增加托管智能体与应用，并补充工作流、评估与可观测性。记录平台工作流更新，Mistral Large 4 模型另有条目。",
+      "editorial_atlas_use": "可作 Mistral 同人里的流程分派、上下文管理和工程任务设定背景。",
+      "page_path": "docs/18-cross-platform-works-voices-and-news-2026-11-19.md",
+      "section_anchor": "product-news"
+    },
+    {
+      "id": "openai-images-26-official",
+      "date": "2026-11-04",
+      "date_kind": "source_event",
+      "status_as_recorded": "OpenAI 发布原文",
+      "checked_on": "2026-11-19",
+      "title": "OpenAI Images 2.6 与 GIF",
+      "character_ids": [
+        "image2"
+      ],
+      "source_ids": [
+        "src-9e49ad7916"
+      ],
+      "summary": "OpenAI 的发布页列出 ChatGPT、Codex 与 API 支持的静态图和 GIF 制作，API 区分 Flare、Sunburst。早先收录的 ComfyUI 条目是合作节点。",
+      "editorial_atlas_use": "可以直接查官方举例的角色动图用途。已入库的黑龙娘按同人原作署名。",
+      "page_path": "docs/18-cross-platform-works-voices-and-news-2026-11-19.md",
+      "section_anchor": "product-news"
+    },
+    {
+      "id": "hunyuan-hy4-full",
+      "date": "2026-11-04",
+      "date_kind": "source_event",
+      "status_as_recorded": "腾讯云资料列正式版",
+      "checked_on": "2026-11-19",
+      "title": "腾讯混元 Hy4 正式版",
+      "character_ids": [
+        "hunyuan"
+      ],
+      "source_ids": [
+        "src-db9b88b5f5"
+      ],
+      "summary": "腾讯云开发者社区的官方文章列出正式版新增图像理解和计算机操作能力，以及 TokenHub 接入。11 月 18 日开权重的 Hy4 flash 另有条目。",
+      "editorial_atlas_use": "给深发算盘版或浅蓝红围巾版的混元二创引用具体产品型号。",
+      "page_path": "docs/18-cross-platform-works-voices-and-news-2026-11-19.md",
+      "section_anchor": "product-news"
     }
   ],
   "community_work_ids": [
@@ -740,7 +915,16 @@
     "BV1TyWr6oELu",
     "BV1S4s86YEAm",
     "BV1obs46eEGW",
-    "BV1QNsh6qEFS"
+    "BV1QNsh6qEFS",
+    "BV1LvxW6oEMo",
+    "BV1eN4P6zEXJ",
+    "BV1XGs56oEuy",
+    "BV1dt4z66EpT",
+    "BV121HK6HEvi",
+    "BV1XhYM6fETF",
+    "BV1mbxs6SE2S",
+    "BV1Q3sG6SEx7",
+    "BV1JssQ65ECi"
   ],
   "community_works": [
     {
@@ -1024,6 +1208,102 @@
       "review_scope": "timestamped_sampled_frames_and_creator_metadata",
       "page_path": "docs/17-original-design-sheets-and-news-2026-11-19.md",
       "section_anchor": "work-bv1qnsh6qefs"
+    },
+    {
+      "video_id": "BV1LvxW6oEMo",
+      "source_id": "src-e74f00d2bc",
+      "character_ids": [
+        "moss-image",
+        "gpt",
+        "glm",
+        "wenxin"
+      ],
+      "review_scope": "timestamped_sampled_frames_creator_metadata_and_direct_audio_model",
+      "page_path": "docs/18-cross-platform-works-voices-and-news-2026-11-19.md",
+      "section_anchor": "work-bv1lvxw6oemo"
+    },
+    {
+      "video_id": "BV1eN4P6zEXJ",
+      "source_id": "src-cbc080beb4",
+      "character_ids": [
+        "mimo"
+      ],
+      "review_scope": "timestamped_sampled_frames_and_creator_metadata",
+      "page_path": "docs/18-cross-platform-works-voices-and-news-2026-11-19.md",
+      "section_anchor": "work-bv1en4p6zexj"
+    },
+    {
+      "video_id": "BV1XGs56oEuy",
+      "source_id": "src-d83239d669",
+      "character_ids": [
+        "mimo",
+        "claude"
+      ],
+      "review_scope": "timestamped_sampled_frames_creator_metadata_and_direct_audio_model",
+      "page_path": "docs/18-cross-platform-works-voices-and-news-2026-11-19.md",
+      "section_anchor": "work-bv1xgs56oeuy"
+    },
+    {
+      "video_id": "BV1dt4z66EpT",
+      "source_id": "src-1d759c7d23",
+      "character_ids": [
+        "mimo"
+      ],
+      "review_scope": "timestamped_sampled_frames_creator_metadata_and_direct_audio_model",
+      "page_path": "docs/18-cross-platform-works-voices-and-news-2026-11-19.md",
+      "section_anchor": "work-bv1dt4z66ept"
+    },
+    {
+      "video_id": "BV121HK6HEvi",
+      "source_id": "src-bf31127921",
+      "character_ids": [
+        "qwen"
+      ],
+      "review_scope": "timestamped_sampled_frames_creator_metadata_and_direct_audio_model",
+      "page_path": "docs/18-cross-platform-works-voices-and-news-2026-11-19.md",
+      "section_anchor": "work-bv121hk6hevi"
+    },
+    {
+      "video_id": "BV1XhYM6fETF",
+      "source_id": "src-1d60c3dab5",
+      "character_ids": [
+        "codex"
+      ],
+      "review_scope": "timestamped_sampled_frames_creator_metadata_and_direct_audio_model",
+      "page_path": "docs/18-cross-platform-works-voices-and-news-2026-11-19.md",
+      "section_anchor": "work-bv1xhym6fetf"
+    },
+    {
+      "video_id": "BV1mbxs6SE2S",
+      "source_id": "src-55ff0afff4",
+      "character_ids": [
+        "deepseek",
+        "qwen",
+        "gpt"
+      ],
+      "review_scope": "timestamped_sampled_frames_creator_metadata_and_direct_audio_model",
+      "page_path": "docs/18-cross-platform-works-voices-and-news-2026-11-19.md",
+      "section_anchor": "work-bv1mbxs6se2s"
+    },
+    {
+      "video_id": "BV1Q3sG6SEx7",
+      "source_id": "src-9cbddf79a8",
+      "character_ids": [
+        "nano-banana"
+      ],
+      "review_scope": "timestamped_sampled_frames_and_creator_metadata",
+      "page_path": "docs/18-cross-platform-works-voices-and-news-2026-11-19.md",
+      "section_anchor": "work-bv1q3sg6sex7"
+    },
+    {
+      "video_id": "BV1JssQ65ECi",
+      "source_id": "src-4cf13c4f17",
+      "character_ids": [
+        "glm"
+      ],
+      "review_scope": "timestamped_sampled_frames_and_creator_metadata",
+      "page_path": "docs/18-cross-platform-works-voices-and-news-2026-11-19.md",
+      "section_anchor": "work-bv1jssq65eci"
     }
   ]
 }

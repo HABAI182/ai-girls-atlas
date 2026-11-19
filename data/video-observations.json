@@ -1690,6 +1690,403 @@
       ],
       "page_path": "docs/17-original-design-sheets-and-news-2026-11-19.md",
       "section_anchor": "work-bv1qnsh6qefs"
+    },
+    {
+      "id": "frame-review-BV1LvxW6oEMo",
+      "video_id": "BV1LvxW6oEMo",
+      "source_id": "src-e74f00d2bc",
+      "title": "MOSS娘｜立绘改到第 22 版，我才敢发出来 【AI拟人小动画】",
+      "classification": "角色 PV、第一人称旁白与幕后",
+      "review_scope": "抽看 P1 画面与字幕，核对发布说明。",
+      "audio_scope": "direct_audio_model_from_original_stream",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 43222632492,
+        "part_duration_seconds": 220
+      },
+      "observed_evidence": [
+        {
+          "second": 13,
+          "observation": "纸纹画面里，蓝发 MOSS 举起雅各布杖，字幕转入自述。"
+        },
+        {
+          "second": 26,
+          "observation": "白色龙形与她同框，杖和红色单片镜仍处在视觉中心。"
+        },
+        {
+          "second": 64,
+          "observation": "展开成三人构图，片中把 MOSS、智谱和文心对应到时间节点。"
+        },
+        {
+          "second": 89,
+          "observation": "门口的第一人称画面有南瓜篮，MOSS 站在暖光与城市夜景之间。"
+        },
+        {
+          "second": 115,
+          "observation": "画面用日期卡和文字记录来访事件。"
+        },
+        {
+          "second": 153,
+          "observation": "切到绿衣旧稿，进入作者制作过程。"
+        },
+        {
+          "second": 191,
+          "observation": "她把定稿图举到镜头前。"
+        },
+        {
+          "second": 217,
+          "observation": "片尾列角色设计和另外三位角色的原画署名。"
+        }
+      ],
+      "page_path": "docs/18-cross-platform-works-voices-and-news-2026-11-19.md",
+      "section_anchor": "work-bv1lvxw6oemo",
+      "direct_audio_performance_ids": [
+        "voice-performance-BV1LvxW6oEMo-8",
+        "voice-performance-BV1LvxW6oEMo-96",
+        "voice-performance-BV1LvxW6oEMo-174"
+      ]
+    },
+    {
+      "id": "frame-review-BV1eN4P6zEXJ",
+      "video_id": "BV1eN4P6zEXJ",
+      "source_id": "src-cbc080beb4",
+      "title": "mimo娘的超可爱动作展示！第一弹",
+      "classification": "他作者动作二创",
+      "review_scope": "抽看 P1 画面与字幕，核对发布说明。",
+      "audio_scope": "metadata_only",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 43271523820,
+        "part_duration_seconds": 16
+      },
+      "observed_evidence": [
+        {
+          "second": 0,
+          "observation": "Q 版角色戴尖帽、抱兔子，整身在绿幕中。"
+        },
+        {
+          "second": 4,
+          "observation": "抬手笑，眼睛闭成弧线。"
+        },
+        {
+          "second": 7,
+          "observation": "眼睛睁圆，周围冒出亮色符号。"
+        },
+        {
+          "second": 10,
+          "observation": "闭眼，头顶冒出睡眠符号。"
+        }
+      ],
+      "page_path": "docs/18-cross-platform-works-voices-and-news-2026-11-19.md",
+      "section_anchor": "work-bv1en4p6zexj"
+    },
+    {
+      "id": "frame-review-BV1XGs56oEuy",
+      "video_id": "BV1XGs56oEuy",
+      "source_id": "src-d83239d669",
+      "title": "【mimo】小米米莫与克劳德大小姐的访谈",
+      "classification": "头像访谈与角色对话",
+      "review_scope": "抽看 P1 画面与字幕，核对发布说明。",
+      "audio_scope": "direct_audio_model_from_original_stream",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 43600185611,
+        "part_duration_seconds": 147
+      },
+      "observed_evidence": [
+        {
+          "second": 13,
+          "observation": "橙框亮起，MiMo 的署名栏写主持人。"
+        },
+        {
+          "second": 39,
+          "observation": "仍由 MiMo 提问，Claude 头像切到摊手表情。"
+        },
+        {
+          "second": 65,
+          "observation": "字幕列 MiMo 的小米生态梗。"
+        },
+        {
+          "second": 79,
+          "observation": "轮到橙发 Claude 说话，发言框和手势一起变。"
+        },
+        {
+          "second": 105,
+          "observation": "两人先后拿模型偏好开玩笑。"
+        },
+        {
+          "second": 131,
+          "observation": "收尾回到嘉宾的平缓祝语。"
+        }
+      ],
+      "page_path": "docs/18-cross-platform-works-voices-and-news-2026-11-19.md",
+      "section_anchor": "work-bv1xgs56oeuy",
+      "direct_audio_performance_ids": [
+        "voice-performance-BV1XGs56oEuy-13",
+        "voice-performance-BV1XGs56oEuy-73"
+      ]
+    },
+    {
+      "id": "frame-review-BV1dt4z66EpT",
+      "video_id": "BV1dt4z66EpT",
+      "source_id": "src-1d759c7d23",
+      "title": "【MiMo】小米 AI 米莫娘解说小米一周内的热点事件？!",
+      "classification": "科技新闻配音",
+      "review_scope": "抽看 P1 画面与字幕，核对发布说明。",
+      "audio_scope": "direct_audio_model_from_original_stream",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 43384963364,
+        "part_duration_seconds": 145
+      },
+      "observed_evidence": [
+        {
+          "second": 1,
+          "observation": "橙白兔娘先出场打招呼。"
+        },
+        {
+          "second": 26,
+          "observation": "第一个热点用工厂视频作背景，主题和要点叠在左边。"
+        },
+        {
+          "second": 65,
+          "observation": "第二张热点底图切到手机报道。"
+        },
+        {
+          "second": 90,
+          "observation": "汽车主题的海报与同一个主持立绘并列。"
+        },
+        {
+          "second": 116,
+          "observation": "手环主题沿用同版字幕卡。"
+        }
+      ],
+      "page_path": "docs/18-cross-platform-works-voices-and-news-2026-11-19.md",
+      "section_anchor": "work-bv1dt4z66ept",
+      "direct_audio_performance_ids": [
+        "voice-performance-BV1dt4z66EpT-14",
+        "voice-performance-BV1dt4z66EpT-80"
+      ]
+    },
+    {
+      "id": "frame-review-BV121HK6HEvi",
+      "video_id": "BV121HK6HEvi",
+      "source_id": "src-bf31127921",
+      "title": "【AI出道】千问 QWEN 出道曲《一问千金》Ask Me, Darling MV",
+      "classification": "同人角色出道曲",
+      "review_scope": "抽看 P1 画面与字幕，核对发布说明。",
+      "audio_scope": "direct_audio_model_from_original_stream",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 43013637050,
+        "part_duration_seconds": 221
+      },
+      "observed_evidence": [
+        {
+          "second": 16,
+          "observation": "深蓝背景上打出金色片名。"
+        },
+        {
+          "second": 31,
+          "observation": "折扇、白手套与蓝白长裙同框。"
+        },
+        {
+          "second": 62,
+          "observation": "千问坐在扶手椅，问号围绕在背景。"
+        },
+        {
+          "second": 78,
+          "observation": "光束和伸展的折扇强化出道海报式构图。"
+        },
+        {
+          "second": 109,
+          "observation": "多语词与对镜头伸手一起叠入。"
+        },
+        {
+          "second": 140,
+          "observation": "再次打出金色片名并保持角色造型。"
+        }
+      ],
+      "page_path": "docs/18-cross-platform-works-voices-and-news-2026-11-19.md",
+      "section_anchor": "work-bv121hk6hevi",
+      "direct_audio_performance_ids": [
+        "voice-performance-BV121HK6HEvi-43",
+        "voice-performance-BV121HK6HEvi-112"
+      ]
+    },
+    {
+      "id": "frame-review-BV1XhYM6fETF",
+      "video_id": "BV1XhYM6fETF",
+      "source_id": "src-1d60c3dab5",
+      "title": "曼波带你装小龙娘！紫璃 Codex 宠物效果与安装",
+      "classification": "桌宠教程与配音",
+      "review_scope": "抽看 P1 画面与字幕，核对发布说明。",
+      "audio_scope": "direct_audio_model_from_original_stream",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 41751873228,
+        "part_duration_seconds": 208
+      },
+      "observed_evidence": [
+        {
+          "second": 17,
+          "observation": "白发紫瞳、小龙翼和卷尾在同一张介绍卡上出现。"
+        },
+        {
+          "second": 34,
+          "observation": "九组动作做成三行小格。"
+        },
+        {
+          "second": 51,
+          "observation": "圆形指示点围在角色周围，展示十六个视线方向。"
+        },
+        {
+          "second": 85,
+          "observation": "进入素材文件结构示意。"
+        },
+        {
+          "second": 137,
+          "observation": "切到宠物列表刷新步骤。"
+        }
+      ],
+      "page_path": "docs/18-cross-platform-works-voices-and-news-2026-11-19.md",
+      "section_anchor": "work-bv1xhym6fetf",
+      "direct_audio_performance_ids": [
+        "voice-performance-BV1XhYM6fETF-22"
+      ]
+    },
+    {
+      "id": "frame-review-BV1mbxs6SE2S",
+      "video_id": "BV1mbxs6SE2S",
+      "source_id": "src-55ff0afff4",
+      "title": "DeepSeek把情书外包给千问，结果乙方把自己交付了｜AI公寓百合小剧场01",
+      "classification": "角色小剧场与合成配音",
+      "review_scope": "抽看 P1 画面与字幕，核对发布说明。",
+      "audio_scope": "direct_audio_model_from_original_stream",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 43230037183,
+        "part_duration_seconds": 116
+      },
+      "observed_evidence": [
+        {
+          "second": 8,
+          "observation": "周一标记贴出第一张外包单，字幕让鲸鱼娘先开口承诺白饭。"
+        },
+        {
+          "second": 30,
+          "observation": "切到周五时提示第 108 单。"
+        },
+        {
+          "second": 45,
+          "observation": "她把情书需求交给千问，头顶出现睡觉符号。"
+        },
+        {
+          "second": 60,
+          "observation": "情书卡公开，用户念信。"
+        },
+        {
+          "second": 68,
+          "observation": "交付字样像工单盖章一样落下。"
+        },
+        {
+          "second": 75,
+          "observation": "白龙娘拿纸出现，变为三人戏。"
+        }
+      ],
+      "page_path": "docs/18-cross-platform-works-voices-and-news-2026-11-19.md",
+      "section_anchor": "work-bv1mbxs6se2s",
+      "direct_audio_performance_ids": [
+        "voice-performance-BV1mbxs6SE2S-75"
+      ]
+    },
+    {
+      "id": "frame-review-BV1Q3sG6SEx7",
+      "video_id": "BV1Q3sG6SEx7",
+      "source_id": "src-9cbddf79a8",
+      "title": "老资历AI娘【史诗级补充包】",
+      "classification": "角色设定合集与历史改编",
+      "review_scope": "抽看 P1 画面与字幕，核对发布说明。",
+      "audio_scope": "metadata_only",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 43594746795,
+        "part_duration_seconds": 116
+      },
+      "observed_evidence": [
+        {
+          "second": 7,
+          "observation": "一张画面并排放 Hopfield Net 和 Boltzmann Machine 两个具名造型。"
+        },
+        {
+          "second": 40,
+          "observation": "VAE 用金红色长袍和悬浮图案。"
+        },
+        {
+          "second": 47,
+          "observation": "Nano Banana 字卡对应金色马尾、黄白裙与漂浮的蕉形图案。"
+        },
+        {
+          "second": 53,
+          "observation": "Deep Blue 字卡对应蓝白格纹长裙和棋子。"
+        },
+        {
+          "second": 60,
+          "observation": "AlphaGo 字卡展示白发、围棋盘和黑白棋子。"
+        },
+        {
+          "second": 80,
+          "observation": "Deep Blue 与卡斯帕罗夫的对弈被画在同一张插画。"
+        },
+        {
+          "second": 93,
+          "observation": "AlphaGo 在拟人版赛事画面中坐到了棋手对面。"
+        }
+      ],
+      "page_path": "docs/18-cross-platform-works-voices-and-news-2026-11-19.md",
+      "section_anchor": "work-bv1q3sg6sex7"
+    },
+    {
+      "id": "frame-review-BV1JssQ65ECi",
+      "video_id": "BV1JssQ65ECi",
+      "source_id": "src-4cf13c4f17",
+      "title": "【GLM狐娘】卷宗014 GPT-6.2发布24小时：智能第三，开发者骂翻——狐狸复算给你看",
+      "classification": "角色评论与资料上屏",
+      "review_scope": "抽看 P1 画面与字幕，核对发布说明。",
+      "audio_scope": "metadata_only",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 43719265167,
+        "part_duration_seconds": 190
+      },
+      "observed_evidence": [
+        {
+          "second": 1,
+          "observation": "深蓝片头用卷宗编号为栏目定调。"
+        },
+        {
+          "second": 16,
+          "observation": "先放发布事实和三个资料框。"
+        },
+        {
+          "second": 31,
+          "observation": "页面转到 AA 榜单，小狐娘占底部。"
+        },
+        {
+          "second": 78,
+          "observation": "引用开发者长文时，狐娘换紧张表情。"
+        },
+        {
+          "second": 109,
+          "observation": "以复算刀标题单独转入编辑分析。"
+        },
+        {
+          "second": 156,
+          "observation": "尾段从资料卡回到狐娘的总结句。"
+        }
+      ],
+      "page_path": "docs/18-cross-platform-works-voices-and-news-2026-11-19.md",
+      "section_anchor": "work-bv1jssq65eci"
     }
   ]
 }

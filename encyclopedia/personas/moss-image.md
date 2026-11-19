@@ -11,3 +11,7 @@
 文字性格、原创配音与后续独立二创视频待补。
 
 [MOSS（模思智能）娘化形象发布](https://www.bilibili.com/opus/1265454286364475399) · [作者给出的 Pixiv 主页](https://www.pixiv.net/users/72492206)
+
+## 作者另发的万圣节 PV
+
+她在片中先把往事讲成第一人称故事，后来请到访的用户提问，并用画记录来访。 作者标注曼波 TTS 旁白。[视频与音轨时间点](../../docs/18-cross-platform-works-voices-and-news-2026-11-19.md#work-bv1lvxw6oemo)

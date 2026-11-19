@@ -23,3 +23,9 @@
 第 4 图和第 5 图分别是科技、奇幻三视图。奇幻版是蓝黑白层叠服、触角、头纱、长钥匙；影子能另做动作，仍连在脚边，和本体共享意识。作者图中文字写她本人温和守礼，影子坦率，钥匙能打开影中的门。科技图把影子写成另一机体状态的投影，背架连着两条可收拢的机械臂，手上的蓝色晶片是启动密钥。两种形态的蓝环和影子便于横向识别。
 
 [蚂蚁百灵娘化形象](https://www.bilibili.com/opus/1258423639675502601) · [原帖第 5 图](https://i0.hdslb.com/bfs/new_dyn/e89aca901a0d00db7a4a8fc24437810c1758596086.png) · [原帖第 4 图](https://i0.hdslb.com/bfs/new_dyn/16bdeb4dc7ae7962710b8a79e5cb6ff21758596086.png)
+
+## 语音制作参考
+
+官方语音模型提供多语言和语气控制。百灵角色原设中的影子和本体仍没有可核对的第三方配音。 [inclusionAI · Ming-3.0-TTS](https://github.com/inclusionAI/Ming-3.0-tts)
+
+本轮继续沿用户帖、视频标签和跨语种创作站追公开二创，已确认的角色素材仍以独立原帖为主。 [第三方作品核对](../../docs/18-cross-platform-works-voices-and-news-2026-11-19.md#third-party)

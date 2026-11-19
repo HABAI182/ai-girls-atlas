@@ -109,3 +109,7 @@ Qwen4-Max，见 [11 月产品动态](../../docs/15-ai-news-2026-11-19.md#product
 ## 11 月作品追更
 
 [千问旗袍版《我会等》](../../docs/17-original-design-sheets-and-news-2026-11-19.md#work-bv1s4s86yeam) · [千问和文心用皮影讲非遗](../../docs/17-original-design-sheets-and-news-2026-11-19.md#work-bv1kzsm6ketg)
+
+## 作品与配音续录
+
+[千问出道曲《一问千金》](../../docs/18-cross-platform-works-voices-and-news-2026-11-19.md#work-bv121hk6hevi) · [DeepSeek 与千问的《外包恋人》](../../docs/18-cross-platform-works-voices-and-news-2026-11-19.md#work-bv1mbxs6se2s)

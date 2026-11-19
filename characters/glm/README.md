@@ -120,3 +120,7 @@ GLM-5.3，见 [11 月产品动态](../../docs/15-ai-news-2026-11-19.md#product-n
 ## 11 月二创作品续补
 
 [GLM 小狐娘的雨天喜剧](../../docs/16-news-and-character-search-2026-11-19.md#work-bv1gqsv6qemo) · [Kimi × GLM 四格开麦](../../docs/16-news-and-character-search-2026-11-19.md#work-bv1mshg6ned1)
+
+## 作品与配音续录
+
+[GLM 狐娘把测评演成查案卷宗](../../docs/18-cross-platform-works-voices-and-news-2026-11-19.md#work-bv1jssq65eci)

@@ -47,3 +47,7 @@
 ## 11 月作品追更
 
 [Codex 龙娘桌宠的发型和瞳色选项](../../docs/17-original-design-sheets-and-news-2026-11-19.md#work-bv18bs86wecy) · [桌宠 v1.6.3 发布页](https://github.com/InhamiRei/Codex-DragonGirl/releases/tag/v1.6.3)
+
+## 作品与配音续录
+
+[紫璃桌宠的曼波风格配音教程](../../docs/18-cross-platform-works-voices-and-news-2026-11-19.md#work-bv1xhym6fetf)

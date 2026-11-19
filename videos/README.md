@@ -8,6 +8,8 @@
 
 [11 月新增的其他角色作品](../docs/15-ai-news-2026-11-19.md#community-works)涵盖 MiniMax、千问、Kimi、MiMo、文心、Llama 与 Copilot。
 
+[跨平台作品与配音续录](../docs/18-cross-platform-works-voices-and-news-2026-11-19.md#community-works)含 MOSS 娘 PV、MiMo 访谈、角色出道曲和紫璃桌宠。
+
 [9 条新增二创与抽帧分析](../docs/17-original-design-sheets-and-news-2026-11-19.md#community-works)含 Codex 桌宠实录、千问与文心皮影、Suno 女 DJ、两条元宝造型及龙娘新闻台。
 
 [11 月新增 10 条二创与抽帧分析](../docs/16-news-and-character-search-2026-11-19.md#community-works)含冷门设定卡、狐月四格、写实写真、相声及角色命名。
@@ -25,7 +27,7 @@
 
 
 <!-- generated:video-stats:start -->
-当前 **161 条视频记录**：92 条进入现有主品类索引，另 69 条为社区印象或近期作品发现入口，尚未归入画面品类；**36 篇抽帧案例**覆盖 20 个内容品类。其中 34 篇是 AI 娘作品、2 篇是关联制作方法参考。观察范围以每条记录为准。
+当前 **170 条视频记录**：92 条进入现有主品类索引，另 78 条为社区印象或近期作品发现入口，尚未归入画面品类；**36 篇抽帧案例**覆盖 20 个内容品类。其中 34 篇是 AI 娘作品、2 篇是关联制作方法参考。观察范围以每条记录为准。
 <!-- generated:video-stats:end -->
 
 [按视觉风格比较](styles.md) · [素材与工作流入口](materials.md) · [作者与系列](authors.md) · [全部视频CSV](all-videos.csv) · [结构化案例JSON](../data/video-studies.json)

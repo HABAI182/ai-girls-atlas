@@ -128,3 +128,7 @@
 ## 11 月作品追更
 
 [鲸鱼娘与 Claude 的《美人鱼》](../../docs/17-original-design-sheets-and-news-2026-11-19.md#work-bv1obs46eegw)
+
+## 作品与配音续录
+
+[MiMo 问 Claude 的双人访谈](../../docs/18-cross-platform-works-voices-and-news-2026-11-19.md#work-bv1xgs56oeuy)

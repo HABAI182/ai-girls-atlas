@@ -1,7 +1,7 @@
 # 当前完成情况与待补
 
 <!-- generated:gap-stats:start -->
-以[data/coverage.json](../data/coverage.json)为准。当前 52 个条目，21 个有本地图片，85 份原图/派生/参考文件，另有 11 张预览；3 个条目仍待补。现有 16 组素材关联包；实际下载目录为 14 组，二者口径不同。
+以[data/coverage.json](../data/coverage.json)为准。当前 54 个条目，21 个有本地图片，85 份原图/派生/参考文件，另有 11 张预览；3 个条目仍待补。现有 16 组素材关联包；实际下载目录为 14 组，二者口径不同。
 <!-- generated:gap-stats:end -->
 
 ## 本轮已经补到
@@ -22,7 +22,7 @@
 | 多视图 | MiMo已有同作者三视图；Seed、MiniMax、Llama等仍缺同一作者完整正侧背 |
 | StepFun | 已取得两张立绘和专武原PNG，后续可补同作者三视图 |
 | Microsoft Copilot | HKR明确产品分支已补；校园项目仍单列，不猜归属 |
-| 可灵、Runway、FLUX | 11 月 19 日重查后仍待具名角色作品，[第二次追查](../docs/17-original-design-sheets-and-news-2026-11-19.md#character-gaps) |
+| 可灵、Runway、FLUX | 11 月 19 日重查后仍待具名角色作品，[跨平台追查](../docs/18-cross-platform-works-voices-and-news-2026-11-19.md#character-gaps) |
 | Sora历史档案 | raikajones制作截图分支已补，完整原视频/多视图仍可继续找 |
 | 声音 | 目前以原作品索引为主；继续找作者明确提供的干音、伴奏、音色模型与预设 |
 

@@ -31,3 +31,7 @@
 - [ZipZipPipe的动态 - 哔哩哔哩](https://www.bilibili.com/opus/1244061599751208994) · `web_text`
 
 返回[角色总览](../../README.md) · [新增资料评述](../../docs/09-more-sources.md) · [版本比较](../../docs/10-variant-guide.md)。
+
+## Green_Thursday 的三人组
+
+Green_Thursday 用 Veritas、Elega、Fides 分别代表 Midjourney 的叙事感性、视觉构图、细节精度。原文的主色是洋红、绿松石蓝和嫩绿。这个版本按作者文字收录。 [原始设定](https://note.com/glossy_stoat7085/n/n81e2cbaeffcd)

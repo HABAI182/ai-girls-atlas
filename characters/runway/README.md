@@ -44,3 +44,7 @@ Runway Praxis-1见 [产品动态](../../docs/16-news-and-character-search-2026-1
 ## 第二次形象追溯
 
 在 B 站查了 Runway 拟人和娘化词，对照了 Runway 官方 Gen-4 作品展和英文、日文拟人检索。Gen-4 展厅是不同创作者的电影案例，尚未找到具名 Runway 拟人原作。 [Gen-4 创作者作品展](https://runway.com/worlds-of-gen-4)
+
+## 换渠道后的追查
+
+日文 note 与 Aipictors 的具名 AI 拟人系列补到其他模型的角色作品。沿 Runway 的日文、韩文名称与 RunwayML 绘画题继续查，只找到以 Runway 制作角色的教程和不相干的时装标题。学院的 Character Creator 展示如何做自定义形象。 [日文 AI 擬人化系列](https://note.com/glossy_stoat7085/m/m2ffcc899f99d) · [Runway Academy 示例](https://www.youtube.com/watch?v=lkoIxZu6X0c)

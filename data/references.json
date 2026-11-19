@@ -1656,6 +1656,30 @@
       "local_copy": false,
       "checked_on": "2026-11-19",
       "original_image_number": 5
+    },
+    {
+      "id": "ref-yellow-friday-dalle3",
+      "title": "DALL·E 3 娘 · Aipictors 主图预览",
+      "collection_url": "https://www.aipictors.com/posts/798422",
+      "image_url": "https://variants.aipictors.com/v2/240/c0fe480d-15a2-4bcf-9419-4e58adfb723b",
+      "original_post_url": "https://www.aipictors.com/posts/798422",
+      "credit_as_recorded": "Yellow Friday（Aipictors）／Green_Thursday（作者关联的 note）",
+      "license_as_recorded": "not_labeled",
+      "license_verification": "original_art_link_only",
+      "local_copy": false,
+      "checked_on": "2026-11-19"
+    },
+    {
+      "id": "ref-yellow-friday-nano-banana",
+      "title": "Nano Banana 娘 · Aipictors 主图预览",
+      "collection_url": "https://www.aipictors.com/posts/830296",
+      "image_url": "https://variants.aipictors.com/v2/240/062e2a55-959f-4537-9a99-7b78f3d3b7e3",
+      "original_post_url": "https://www.aipictors.com/posts/830296",
+      "credit_as_recorded": "Yellow Friday（Aipictors）／Green_Thursday（作者关联的 note）",
+      "license_as_recorded": "not_labeled",
+      "license_verification": "original_art_link_only",
+      "local_copy": false,
+      "checked_on": "2026-11-19"
     }
   ]
 }

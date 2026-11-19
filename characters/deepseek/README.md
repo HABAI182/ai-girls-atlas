@@ -222,3 +222,7 @@ An independent qimi variant of the existing DeepSeek whale-girl entry: a super-d
 ## 11 月作品追更
 
 [鲸鱼娘与 Claude 的《美人鱼》](../../docs/17-original-design-sheets-and-news-2026-11-19.md#work-bv1obs46eegw)
+
+## 作品与配音续录
+
+[DeepSeek 与千问的《外包恋人》](../../docs/18-cross-platform-works-voices-and-news-2026-11-19.md#work-bv1mbxs6se2s)
