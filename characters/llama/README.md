@@ -69,3 +69,7 @@
 - [SelinLee/ai-moe-atlas 项目说明](https://github.com/SelinLee/ai-moe-atlas/blob/018bc3ca6c8d946006dacfc0bca7bf65a6dff4d6/README.md) · `pinned_repository_text`
 
 返回[角色总览](../../README.md) · [新增资料评述](../../docs/09-more-sources.md) · [版本比较](../../docs/10-variant-guide.md)。
+
+## 11 月产品与作品补充
+
+社区作品入口。[Llama · 瞌睡羊驼娘](../../docs/15-ai-news-2026-11-19.md#work-bv1bdsr6sefn)

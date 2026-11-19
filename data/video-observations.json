@@ -694,6 +694,248 @@
       ],
       "scope_limit": "简介直接指向TreapGoGo仓库与GitHub Pages；当前仓库提交与此前快照一致，本轮补关系和使用路径，不重复镜像素材。",
       "page_path": "encyclopedia/video-notes/BV1TNa761ERP.md"
+    },
+    {
+      "id": "frame-review-BV1zxxx6rERm",
+      "video_id": "BV1zxxx6rERm",
+      "source_id": "src-58cb72c7e9",
+      "title": "三位老师同时向你伸手，你先牵谁？｜MiniMax × Qwen × Kimi",
+      "classification": "手势舞与造型对照",
+      "review_scope": "实际查看 P1 的 10 张有时间点的样帧，未做连续审听。",
+      "audio_scope": "metadata_only",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 43241704887,
+        "part_duration_seconds": 63
+      },
+      "observed_evidence": [
+        {
+          "second": 1,
+          "observation": "画面前景的手朝橙发 MiniMax 伸出。"
+        },
+        {
+          "second": 19,
+          "observation": "MiniMax 抬手接住镜头方向的手势。"
+        },
+        {
+          "second": 24,
+          "observation": "蓝发千问换入同一栏杆和夕照空间。"
+        },
+        {
+          "second": 38,
+          "observation": "千问仍保留开场机位，双手进入画面。"
+        },
+        {
+          "second": 45,
+          "observation": "银白发 Kimi 接力出现，黑裙与白色内层形成反差。"
+        },
+        {
+          "second": 60,
+          "observation": "Kimi 抬手收尾，前景手再次重复。"
+        }
+      ],
+      "scope_limit": "DarthMol 用同一个云海栏杆、竖屏构图和观众伸手的动作连接三位角色。橙白的 MiniMax、蓝色衣装的千问、黑白长裙的 Kimi 分段亮相。作者把 Kimi 新造型署名给若瑾Rheagenesis，其余立绘署名 ZipZipPipe。",
+      "page_path": "docs/15-ai-news-2026-11-19.md",
+      "section_anchor": "work-bv1zxxx6rerm"
+    },
+    {
+      "id": "frame-review-BV1H4xt6UEYv",
+      "video_id": "BV1H4xt6UEYv",
+      "source_id": "src-94afb309c2",
+      "title": "【Day 3】本兔自己开发布会！Are you OK？",
+      "classification": "发布会模仿与舞台唱演",
+      "review_scope": "实际查看 P1 的 12 张有时间点的样帧，未做连续审听。",
+      "audio_scope": "metadata_only",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 43244718257,
+        "part_duration_seconds": 85
+      },
+      "observed_evidence": [
+        {
+          "second": 2,
+          "observation": "橙白舞台主讲造型站在大屏前。"
+        },
+        {
+          "second": 7,
+          "observation": "手持麦克风，白西装与兔偶同框。"
+        },
+        {
+          "second": 13,
+          "observation": "切到发光的橙黑机能服，动作转向镜头。"
+        },
+        {
+          "second": 29,
+          "observation": "换成应援橙外套，双手举过头顶。"
+        },
+        {
+          "second": 44,
+          "observation": "同样的主持造型双人并排，构成舞台视觉重复。"
+        },
+        {
+          "second": 76,
+          "observation": "再次手持麦克风，大屏出现节目标题对应的短语。"
+        }
+      ],
+      "scope_limit": "同人账号把小米发布会梗演成主讲、机能装与应援三种造型，通过兔耳、橙色和玩偶维持角色辨识。UP 主表明内容含 AI 生成与合成音色。",
+      "page_path": "docs/15-ai-news-2026-11-19.md",
+      "section_anchor": "work-bv1h4xt6ueyv"
+    },
+    {
+      "id": "frame-review-BV1dW4q6vEGQ",
+      "video_id": "BV1dW4q6vEGQ",
+      "source_id": "src-5bb7f75002",
+      "title": "【MiMo兔娘】雨爱（AI翻唱）｜原曲调子·兔娘音色",
+      "classification": "翻唱与播放器视觉",
+      "review_scope": "实际查看 P1 的 9 张有时间点的样帧，未做连续审听。",
+      "audio_scope": "metadata_only",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 43382079881,
+        "part_duration_seconds": 110
+      },
+      "observed_evidence": [
+        {
+          "second": 1,
+          "observation": "深色播放器左侧显示带兔娘头像的唱片。"
+        },
+        {
+          "second": 26,
+          "observation": "没有更换场景，头像转到不同角度。"
+        },
+        {
+          "second": 38,
+          "observation": "曲词区域出现当前句与上下行。"
+        },
+        {
+          "second": 65,
+          "observation": "进度条推进，布局保持。"
+        },
+        {
+          "second": 107,
+          "observation": "尾段仍保留播放器及唱片头像。"
+        }
+      ],
+      "scope_limit": "作者注明沿用原曲调子并使用合成声线。样帧里以旋转唱片头像、歌词与进度条组织整首歌。可和已收录的鲸鱼娘、GLM 司凤版并看，采用的歌曲版本按各自简介记录。",
+      "page_path": "docs/15-ai-news-2026-11-19.md",
+      "section_anchor": "work-bv1dw4q6vegq"
+    },
+    {
+      "id": "frame-review-BV1UCW86ZEB6",
+      "video_id": "BV1UCW86ZEB6",
+      "source_id": "src-c5c24050da",
+      "title": "😭copilot小姐带我们再冲一次吧😭",
+      "classification": "角色舞台短片",
+      "review_scope": "实际查看 P1 的 8 张有时间点的样帧，未做连续审听。",
+      "audio_scope": "metadata_only",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 43466559064,
+        "part_duration_seconds": 16
+      },
+      "observed_evidence": [
+        {
+          "second": 0,
+          "observation": "角色侧身入镜，银色衣装与渐变发尾同框。"
+        },
+        {
+          "second": 2,
+          "observation": "转身后展开的长发占到画面右侧。"
+        },
+        {
+          "second": 6,
+          "observation": "基本回到正面，抬手配合交叉站姿。"
+        },
+        {
+          "second": 10,
+          "observation": "在同一蓝色场景里换到交叉手势。"
+        },
+        {
+          "second": 14,
+          "observation": "双手合到胸前，动作落回正面。"
+        }
+      ],
+      "scope_limit": "古蕾娜蒂亚的片名标为 Copilot。样帧以浅蓝到彩色渐变长发、银色短外套与黑短裙为中心，标题与空简介没有指定是哪个 Copilot 产品。",
+      "page_path": "docs/15-ai-news-2026-11-19.md",
+      "section_anchor": "work-bv1ucw86zeb6"
+    },
+    {
+      "id": "frame-review-BV11rnt66EPf",
+      "video_id": "BV11rnt66EPf",
+      "source_id": "src-da10a54d7d",
+      "title": "小熊（文心）和千问大小姐过去的幸福时光",
+      "classification": "双人日常蒙太奇",
+      "review_scope": "实际查看 P1 的 10 张有时间点的样帧，未做连续审听。",
+      "audio_scope": "metadata_only",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 42984801436,
+        "part_duration_seconds": 11
+      },
+      "observed_evidence": [
+        {
+          "second": 0,
+          "observation": "圆耳角色从后方靠近正在煎蛋的蓝发角色。"
+        },
+        {
+          "second": 3,
+          "observation": "双人同坐，圆耳角色夹菜。"
+        },
+        {
+          "second": 5,
+          "observation": "街道花束插在两人之间。"
+        },
+        {
+          "second": 6,
+          "observation": "花束转到伞下，雨中两人站近。"
+        },
+        {
+          "second": 8,
+          "observation": "从白天街道切进夜里一起看电脑。"
+        }
+      ],
+      "scope_limit": "作者在标题把文心叫作小熊。圆耳深发角色和蓝发千问从厨房并肩转到花市、共伞、夜里靠坐。作者简介没有列图稿出处，按这次作品中的角色称呼归档。",
+      "page_path": "docs/15-ai-news-2026-11-19.md",
+      "section_anchor": "work-bv11rnt66epf"
+    },
+    {
+      "id": "frame-review-BV1BdsR6SEfn",
+      "video_id": "BV1BdsR6SEfn",
+      "source_id": "src-0105ffe4c5",
+      "title": "Meta Llama —— “开源牧场的瞌睡羊驼娘”",
+      "classification": "角色自我介绍",
+      "review_scope": "实际查看 P1 的 8 张有时间点的样帧，未做连续审听。",
+      "audio_scope": "metadata_only",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 43141301493,
+        "part_duration_seconds": 23
+      },
+      "observed_evidence": [
+        {
+          "second": 0,
+          "observation": "白卷发角色穿白色卫衣和大拖鞋，站在花窗边。"
+        },
+        {
+          "second": 7,
+          "observation": "画幅靠近，抬手揉眼。"
+        },
+        {
+          "second": 10,
+          "observation": "眼睛半睁，无穷标记在发夹和卫衣上可见。"
+        },
+        {
+          "second": 17,
+          "observation": "回到全身构图，角色已坐到沙发上。"
+        },
+        {
+          "second": 21,
+          "observation": "暗化室内画面叠出 Meta Llama 片尾卡。"
+        }
+      ],
+      "scope_limit": "Kairos_C 把 Llama 写成没睡醒的羊驼。样帧中可见白卷发、宽松卫衣、长裙、蓝色无穷标志以及动物头拖鞋。揉眼与最后坐回沙发演出困意。羊驼身份与牧场故事来自作者简介。",
+      "page_path": "docs/15-ai-news-2026-11-19.md",
+      "section_anchor": "work-bv1bdsr6sefn"
     }
   ]
 }

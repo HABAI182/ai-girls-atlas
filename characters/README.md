@@ -39,7 +39,7 @@
 | [腾讯元宝](yuanbao/README.md) | product | 作品线索 | 银白或紫银头发与绿色眼睛；绿白配色与助手界面意象；短发卫衣、长发长裙、长发运动装三个分支 |
 | [讯飞星火](spark/README.md) | model-family | 本地图片 | 酒红低侧马尾；眼镜与蓝眼；蓝色火焰发夹 |
 | [Cohere / Command](cohere/README.md) | model-family | 本地图片 | 森林绿及肩卷发；浅色挑染；桃绿奶油色领结 |
-| [可灵 / Kling](kling/README.md) | video-product | 待补 | 官方入口本次读取受限；没有补造角色图或厂商许可。 |
+| [可灵 / Kling](kling/README.md) | video-product | 待补 | 已核对快手发布的 Kling 4.0 产品资料。拟人形象、角色作者与作品出处仍待确认。 |
 | [Runway](runway/README.md) | video-product | 待补 | 产品有官方入口，未指定成熟社区形象。 |
 | [Sora（历史产品）](sora/README.md) | historical-video-product | 作品线索 | 灰蓝色卷发在头顶部分盘起，头部有圆形齿轮状装饰。；穿白色宽松外套，抬手握细长工具，背景偏暖色工作室。；截图是编辑字幕界面，预览显示00:01/00:10；仅确认这一张公开暂停画面。 |
 | [Stable Diffusion](stable-diffusion/README.md) | image-model-family | 作品线索 | 紫黑色盘发、紫色眼睛、细框眼镜及紫金色发饰。；紫黑长裙与半透明披挂，手持细长画笔。；星云画布、画具、雕像与英伦建筑背景，周围有紫色和虹彩光带。 |

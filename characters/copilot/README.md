@@ -31,3 +31,7 @@ HKR原文明确以自己的Copilot拟人；与校园项目未分产品的Copilot
 先选定作者分支，再依据其卡片或公开制作截图做参考；图中能力雷达、情绪与人格只属于作者故事。 此段为本库编者建议。
 
 返回[角色总览](../../README.md) · [本轮补缺](../../encyclopedia/gap-character-update.md)。
+
+## 11 月产品与作品补充
+
+社区作品入口。[Copilot 小姐的蓝色舞台](../../docs/15-ai-news-2026-11-19.md#work-bv1ucw86zeb6)

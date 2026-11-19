@@ -23,3 +23,7 @@
 形象、设定卡与壁纸在原仓库分别提供；本次外链收录，未加入本库下载包。图片观察日期：2026-10-22；文件摘要见[外部参考记录](../../data/references.json)。
 
 相关条目：[Phi娘](../phi/README.md) · [Microsoft Copilot](../copilot/README.md)
+
+## 11 月产品与作品补充
+
+MAI Code 2 与 Code 2 Flash、MAI Image 2.7 与 Flash，见 [11 月产品动态](../../docs/15-ai-news-2026-11-19.md#product-news)。

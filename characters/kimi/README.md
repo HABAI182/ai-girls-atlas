@@ -98,3 +98,9 @@
 - [06 · Moonshot](https://github.com/lmy414/ai-chan-sheets/tree/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/06_Kimi%E5%A8%98_Moonshot)：本轮仅查目录；lmy414生成补全。
 
 原图、推定侧背面和表情差分分别看；署名与使用范围见[本轮更新](../../docs/13-update-2026-11-16.md)。
+
+## 11 月产品与作品补充
+
+Kimi K3.1 Pro，见 [11 月产品动态](../../docs/15-ai-news-2026-11-19.md#product-news)。
+
+社区作品入口。[三位老师手势接力](../../docs/15-ai-news-2026-11-19.md#work-bv1zxxx6rerm) · [Kimi 娘时薪梗](../../docs/15-ai-news-2026-11-19.md#work-bv1gsxs68eme)

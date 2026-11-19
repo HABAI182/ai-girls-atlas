@@ -300,6 +300,12 @@
           "kind": "official_style_goal",
           "summary": "发布说明讨论自然语音、节奏和对语气的适应，以及可控制的表达性朗读。",
           "scope": "Gemini 2.5音频模式资料；不把语音模式直接等同于文字回复，更不当作双重人格依据。"
+        },
+        {
+          "source_id": "src-db7fb6fc89",
+          "kind": "official_capability_context",
+          "summary": "Google 将 gemini-4-neon 列为 Gemini API 正式可用，覆盖付费层。同日还给文档、音频和视频增加按页、按区间或按内容层取用的能力。",
+          "scope": "2026-11-18 · API 正式可用。版本资料可用于角色创作引子。"
         }
       ],
       "visual_observation": {
@@ -373,6 +379,12 @@
           "kind": "official_style_goal",
           "summary": "厂商在4.1发布说明中强调创作、情感、协作互动和人格连贯性的训练。",
           "scope": "2025-11-17发布文；这不是本库测评，不把嘴臭或无条件冒犯写成永久官方设定。"
+        },
+        {
+          "source_id": "src-57623e44e1",
+          "kind": "official_capability_context",
+          "summary": "厂商迁移说明规定旧的 grok-imagine-image-quality 请求转到 grok-imagine-image-2.0 的 low 档。原路径生成和编辑请求均在说明范围内。",
+          "scope": "2026-11-02 · 旧图像接口迁移。版本资料可用于角色创作引子。"
         }
       ],
       "visual_observation": {
@@ -445,6 +457,12 @@
           "kind": "official_capability_context",
           "summary": "模型卡描述推理与动态工具调用；Kimi的角色题材可以扩展到行动和协作，不能永远只有读长文。",
           "scope": "K2 Thinking特定版本说明；这不是对当前Kimi App全部模式的实测。"
+        },
+        {
+          "source_id": "src-f4a904d03d",
+          "kind": "official_capability_context",
+          "summary": "月之暗面公开模型库给出 K3.1 Pro 的模型卡、权重分片与单独许可，卡片列出视觉输入与长程任务方向。日期为本库核对日。",
+          "scope": "2026-11-19 · 核对模型卡。版本资料可用于角色创作引子。"
         }
       ],
       "visual_observation": {
@@ -514,6 +532,12 @@
           "kind": "official_capability_context",
           "summary": "项目定位同时包括推理、编程和智能体任务；不能仅凭狐耳或书本道具归为腹黑书生。",
           "scope": "GLM-4.5版本技术语境，不宣称统一实际说话口吻。"
+        },
+        {
+          "source_id": "src-7e6c3dd9ad",
+          "kind": "official_capability_context",
+          "summary": "智谱文档列出 GLM-5.3 的文本输入、长程任务与编程用途。文档明确该版沿用 GLM-5.2 的基座，改善来自后训练。",
+          "scope": "2026-11-19 · 核对官方文档。版本资料可用于角色创作引子。"
         }
       ],
       "visual_observation": {
@@ -583,6 +607,12 @@
           "kind": "official_capability_context",
           "summary": "Qwen3发布资料区分思考与非思考模式；同一系列的表达节奏也不能只由品牌决定。",
           "scope": "2025-04-29发布资料；只记录模式设计，不冒充本轮跨产品对话样本。"
+        },
+        {
+          "source_id": "src-756563a414",
+          "kind": "official_capability_context",
+          "summary": "千问团队介绍 Qwen4-Max 正式版。QwenCloud 将它列为支持文本、图像、视频理解和结构化输出的多模态模型。",
+          "scope": "2026-11-16 · 旗舰正式版。版本资料可用于角色创作引子。"
         }
       ],
       "visual_observation": {
@@ -641,7 +671,14 @@
       "original_status": "editorial_draft",
       "author_persona_status": "not_confirmed",
       "author_basis": [],
-      "product_basis": [],
+      "product_basis": [
+        {
+          "source_id": "src-3d7aaab50d",
+          "kind": "official_capability_context",
+          "summary": "字节 Seed 团队的 11 月 9 日文章介绍多轮编辑和多图参考等用途。火山方舟提供对应的图片生成接口记录。",
+          "scope": "2026-11-09 · 官方图像发布文。版本资料可用于角色创作引子。"
+        }
+      ],
       "visual_observation": null,
       "real_model_dialogue_measurement": null,
       "visual_binding": "选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。",
@@ -699,6 +736,12 @@
           "kind": "official_capability_context",
           "summary": "官方语音资料涉及声音风格和多语言表达，可提供配音方向的功能参考。",
           "scope": "Speech 02特定语音产品资料；舞台主持性格来自作者设定/本库创作，不是模型卡证明。"
+        },
+        {
+          "source_id": "src-5842f38b33",
+          "kind": "official_capability_context",
+          "summary": "官方项目提供图像生成和编辑模型，11 月 10 日许可文件记录该模型的发布日。官方 MCP 同日加入多参考图编辑。",
+          "scope": "2026-11-10 · 权重与图像编辑工具。版本资料可用于角色创作引子。"
         }
       ],
       "visual_observation": null,
@@ -804,7 +847,14 @@
           "summary": "该版本偏独立、利落的工程角色。"
         }
       ],
-      "product_basis": [],
+      "product_basis": [
+        {
+          "source_id": "src-1ef2430071",
+          "kind": "official_capability_context",
+          "summary": "Mistral 的 10 月 6 日团队公告介绍公开预览，治理页列出的 Mistral Large 4 活跃版本日期为 10 月 29 日。",
+          "scope": "2026-10-29 · 治理页记录版本。版本资料可用于角色创作引子。"
+        }
+      ],
       "visual_observation": null,
       "real_model_dialogue_measurement": null,
       "visual_binding": "选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。",
@@ -849,7 +899,14 @@
       "original_status": "editorial_draft",
       "author_persona_status": "not_confirmed",
       "author_basis": [],
-      "product_basis": [],
+      "product_basis": [
+        {
+          "source_id": "src-439cc7483f",
+          "kind": "official_capability_context",
+          "summary": "Perplexity 新增 Multiagent 工作档位，主代理把任务分给多个模型，各成员可以交换和复核结果。公告范围为网页端 Max 用户。",
+          "scope": "2026-11-17 · 应用功能。版本资料可用于角色创作引子。"
+        }
+      ],
       "visual_observation": null,
       "real_model_dialogue_measurement": null,
       "visual_binding": "选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。",
@@ -894,7 +951,14 @@
       "original_status": "editorial_draft",
       "author_persona_status": "not_confirmed",
       "author_basis": [],
-      "product_basis": [],
+      "product_basis": [
+        {
+          "source_id": "src-d79498a68e",
+          "kind": "official_capability_context",
+          "summary": "百度发布基于 5.5 Flash Base 的后训练预览版，官方页展示 3D、游戏和内容制作任务。",
+          "scope": "2026-11-11 · 预览版。版本资料可用于角色创作引子。"
+        }
+      ],
       "visual_observation": null,
       "real_model_dialogue_measurement": null,
       "visual_binding": "选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。",
@@ -984,7 +1048,14 @@
       "original_status": "editorial_draft",
       "author_persona_status": "not_confirmed",
       "author_basis": [],
-      "product_basis": [],
+      "product_basis": [
+        {
+          "source_id": "src-510ddcd4fd",
+          "kind": "official_capability_context",
+          "summary": "腾讯公开 Hy4 flash、FP8 和 Base 权重。模型卡将它列作原生多模态模型，权重采用 Tencent Hy License。",
+          "scope": "2026-11-18 · 权重公开。版本资料可用于角色创作引子。"
+        }
+      ],
       "visual_observation": null,
       "real_model_dialogue_measurement": null,
       "visual_binding": "选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。",
@@ -1389,7 +1460,14 @@
       "original_status": "editorial_draft",
       "author_persona_status": "not_confirmed",
       "author_basis": [],
-      "product_basis": [],
+      "product_basis": [
+        {
+          "source_id": "src-19ebd158bf",
+          "kind": "official_capability_context",
+          "summary": "ElevenLabs API 日志在 11 月 9 日列出上线，介绍文发表于 11 月 10 日。Scribe v3 面向录音转写，Live 面向实时输入并提供轮次提交策略。",
+          "scope": "2026-11-09 · 语音识别 API 上线。版本资料可用于角色创作引子。"
+        }
+      ],
       "visual_observation": null,
       "real_model_dialogue_measurement": null,
       "visual_binding": "选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。",
@@ -1562,6 +1640,12 @@
           "kind": "official_capability_context",
           "summary": "官方项目强调高效推理、编程与智能体；“设备管家”是可选角色创作方向。",
           "scope": "MiMo-V2-Flash特定版本；不能把小米品牌联想当成模型只能控制智能家居的证据。"
+        },
+        {
+          "source_id": "src-a90b4fdfc7",
+          "kind": "official_capability_context",
+          "summary": "小米日志记录修复多个会话并行时进度串线的问题以及界面状态显示。MiMo V2.6 系列有单独的 9 月 22 日发布条目。",
+          "scope": "2026-11-12 · 应用维护更新。版本资料可用于角色创作引子。"
         }
       ],
       "visual_observation": null,
@@ -1833,7 +1917,14 @@
       "original_status": "editorial_draft",
       "author_persona_status": "not_confirmed",
       "author_basis": [],
-      "product_basis": [],
+      "product_basis": [
+        {
+          "source_id": "src-2a0fefcc8c",
+          "kind": "official_capability_context",
+          "summary": "快手 10 月 16 日公告记载模型于 10 月 15 日上线，列出三视图、分镜、主体图及参考视频等输入。",
+          "scope": "2026-10-15 · 正式上线。版本资料可用于角色创作引子。"
+        }
+      ],
       "visual_observation": null,
       "real_model_dialogue_measurement": null,
       "visual_binding": "选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。",
@@ -1878,7 +1969,14 @@
       "original_status": "editorial_draft",
       "author_persona_status": "not_confirmed",
       "author_basis": [],
-      "product_basis": [],
+      "product_basis": [
+        {
+          "source_id": "src-369780db35",
+          "kind": "official_capability_context",
+          "summary": "开发者模型目录分别列出 Act Two、Character Video 和 Gen-4.5。Character Video 以脚本或音频驱动角色说话，Gen-4.5 为文生和图生视频模型。",
+          "scope": "2026-11-19 · 核对官方目录。版本资料可用于角色创作引子。"
+        }
+      ],
       "visual_observation": null,
       "real_model_dialogue_measurement": null,
       "visual_binding": "选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。",
@@ -2020,7 +2118,14 @@
       "original_status": "editorial_draft",
       "author_persona_status": "not_confirmed",
       "author_basis": [],
-      "product_basis": [],
+      "product_basis": [
+        {
+          "source_id": "src-155c7b54b4",
+          "kind": "official_capability_context",
+          "summary": "Black Forest Labs 公布 Klein 模型、基础版与蒸馏版，介绍文本生成图像、编辑与多参考图用途。权重使用 FLUX Kommunity License。",
+          "scope": "2026-10-15 · 权重公开。版本资料可用于角色创作引子。"
+        }
+      ],
       "visual_observation": null,
       "real_model_dialogue_measurement": null,
       "visual_binding": "选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。",
@@ -2225,7 +2330,20 @@
           "summary": "作者写作偏重组织流程的协作中枢，与Phi的精干助手定位区分。"
         }
       ],
-      "product_basis": [],
+      "product_basis": [
+        {
+          "source_id": "src-38f7fa8966",
+          "kind": "official_capability_context",
+          "summary": "微软发布两个编程模型，GitHub Copilot 更新日志列出接入方式和各自适用方案。Code 2 面向深度调试、多文件工作，Flash 面向快速修改与说明。",
+          "scope": "2026-11-17 · 编程工具接入。版本资料可用于角色创作引子。"
+        },
+        {
+          "source_id": "src-1e3e1429ef",
+          "kind": "official_capability_context",
+          "summary": "微软介绍两种图像生成及编辑模型和由 Flash 驱动的 Canvas 工作区。发布页称两款模型在 Microsoft Foundry 公开预览。",
+          "scope": "2026-11-17 · 图像模型公开预览。版本资料可用于角色创作引子。"
+        }
+      ],
       "visual_observation": {
         "source_id": "src-4a7eba73d2",
         "scope": "Main_1原图实际查看；不推导人格"
@@ -2252,7 +2370,14 @@
           "summary": "作者用善于安排镜头与节奏的影像创作者来表现她。"
         }
       ],
-      "product_basis": [],
+      "product_basis": [
+        {
+          "source_id": "src-0c8abc3b16",
+          "kind": "official_capability_context",
+          "summary": "火山方舟企业功能日志的 11 月 18 日条目列出 Flash 支持。模型指南按不同型号列出文生视频、参考输入及编辑用途。",
+          "scope": "2026-11-18 · 方舟套餐接入。版本资料可用于角色创作引子。"
+        }
+      ],
       "visual_observation": {
         "source_id": "src-e858de84e5",
         "scope": "Main_1原图实际查看；不推导人格"
@@ -2280,7 +2405,14 @@
           "summary": "仅确认上游名称、造型和署名链；没有查到可作为该角色文字性格的作者陈述。"
         }
       ],
-      "product_basis": [],
+      "product_basis": [
+        {
+          "source_id": "src-d0d2dec804",
+          "kind": "official_capability_context",
+          "summary": "美团仓库在 11 月 10 日出现添加 1.6 的代码提交，官方 Hugging Face 页另提供模型权重和示例。它是音频驱动生成方向。",
+          "scope": "2026-11-10 · 官方代码提交。版本资料可用于角色创作引子。"
+        }
+      ],
       "visual_observation": {
         "source_id": "src-28de46cfec",
         "scope": "只看设定板预览"

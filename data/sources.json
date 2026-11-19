@@ -3800,6 +3800,326 @@
       "checked_on": "2026-11-19",
       "evidence_level": "web_text",
       "note": "固定目录作品 ID sticker_3d47125e031525f41d3a005e。已查看图像。讲台上的屏蔽词流程把演讲者自己的名字删短，人物再变成虚线轮廓，让限制的自我反噬可见。"
+    },
+    {
+      "id": "src-db7fb6fc89",
+      "url": "https://aistudio.google.com/docs/changelog#11-18-2026",
+      "title": "Gemini API 更新日志",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-11-18 · Gemini 4 Neon。Google 将 gemini-4-neon 列为 Gemini API 正式可用，覆盖付费层。同日还给文档、音频和视频增加按页、按区间或按内容层取用的能力。"
+    },
+    {
+      "id": "src-510ddcd4fd",
+      "url": "https://github.com/Tencent-Hunyuan/Hy4-flash/tree/7ab20f35602b1d3fc863f85aee20cb87eb8e53c5",
+      "title": "混元 11 月 18 日固定仓库",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-11-18 · 腾讯混元 Hy4 flash。腾讯公开 Hy4 flash、FP8 和 Base 权重。模型卡将它列作原生多模态模型，权重采用 Tencent Hy License。"
+    },
+    {
+      "id": "src-364859f834",
+      "url": "https://huggingface.co/tencent/Hy4-flash",
+      "title": "官方模型卡",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-11-18 · 腾讯混元 Hy4 flash。腾讯公开 Hy4 flash、FP8 和 Base 权重。模型卡将它列作原生多模态模型，权重采用 Tencent Hy License。"
+    },
+    {
+      "id": "src-0c8abc3b16",
+      "url": "https://docs.volcengine.com/docs/ark/agent-plan-enterprise-feature-release?lang=zh",
+      "title": "火山方舟企业更新日志",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-11-18 · Seedance 2.5 flash。火山方舟企业功能日志的 11 月 18 日条目列出 Flash 支持。模型指南按不同型号列出文生视频、参考输入及编辑用途。"
+    },
+    {
+      "id": "src-00669c0ace",
+      "url": "https://docs.volcengine.com/docs/ark/seedance-2-5?lang=zh",
+      "title": "Seedance 2.5 系列产品指南",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-11-18 · Seedance 2.5 flash。火山方舟企业功能日志的 11 月 18 日条目列出 Flash 支持。模型指南按不同型号列出文生视频、参考输入及编辑用途。"
+    },
+    {
+      "id": "src-38f7fa8966",
+      "url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot/",
+      "title": "GitHub Copilot 更新日志",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-11-17 · MAI Code 2 与 Code 2 Flash。微软发布两个编程模型，GitHub Copilot 更新日志列出接入方式和各自适用方案。Code 2 面向深度调试、多文件工作，Flash 面向快速修改与说明。"
+    },
+    {
+      "id": "src-5fb2adb0a1",
+      "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+      "title": "Microsoft AI 发布",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-11-17 · MAI Code 2 与 Code 2 Flash。微软发布两个编程模型，GitHub Copilot 更新日志列出接入方式和各自适用方案。Code 2 面向深度调试、多文件工作，Flash 面向快速修改与说明。"
+    },
+    {
+      "id": "src-1e3e1429ef",
+      "url": "https://microsoft.ai/news/introducing-mai-image-2-7/",
+      "title": "Microsoft AI 发布",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-11-17 · MAI Image 2.7 与 Flash。微软介绍两种图像生成及编辑模型和由 Flash 驱动的 Canvas 工作区。发布页称两款模型在 Microsoft Foundry 公开预览。"
+    },
+    {
+      "id": "src-439cc7483f",
+      "url": "https://www.perplexity.ai/en-GB/hub/blog/introducing-computer-multiagent",
+      "title": "Perplexity 官方公告",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-11-17 · Perplexity Computer · Multiagent。Perplexity 新增 Multiagent 工作档位，主代理把任务分给多个模型，各成员可以交换和复核结果。公告范围为网页端 Max 用户。"
+    },
+    {
+      "id": "src-756563a414",
+      "url": "https://qwen.ai/blog?id=qwen4-max",
+      "title": "千问团队发布",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-11-16 · Qwen4-Max。千问团队介绍 Qwen4-Max 正式版。QwenCloud 将它列为支持文本、图像、视频理解和结构化输出的多模态模型。"
+    },
+    {
+      "id": "src-072c694c9b",
+      "url": "https://docs.qwencloud.com/changelog/models",
+      "title": "QwenCloud 模型日志",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-11-16 · Qwen4-Max。千问团队介绍 Qwen4-Max 正式版。QwenCloud 将它列为支持文本、图像、视频理解和结构化输出的多模态模型。"
+    },
+    {
+      "id": "src-a90b4fdfc7",
+      "url": "https://mimo.mi.com/docs/en-US/updates/feature/claw",
+      "title": "小米 Claw 更新日志",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-11-12 · MiMo Claw 2.1.2。小米日志记录修复多个会话并行时进度串线的问题以及界面状态显示。MiMo V2.6 系列有单独的 9 月 22 日发布条目。"
+    },
+    {
+      "id": "src-89fb384acc",
+      "url": "https://mimo.mi.com/docs/en-US/updates/model",
+      "title": "小米模型发布日志",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-11-12 · MiMo Claw 2.1.2。小米日志记录修复多个会话并行时进度串线的问题以及界面状态显示。MiMo V2.6 系列有单独的 9 月 22 日发布条目。"
+    },
+    {
+      "id": "src-d79498a68e",
+      "url": "https://ernie.baidu.com/release/ernie-5-5-flash-preview/",
+      "title": "百度 ERNIE 发布",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-11-11 · ERNIE 5.5 Flash Preview。百度发布基于 5.5 Flash Base 的后训练预览版，官方页展示 3D、游戏和内容制作任务。"
+    },
+    {
+      "id": "src-c12c808dbc",
+      "url": "https://ernie.baidu.com/",
+      "title": "ERNIE 官方发布列表",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-11-11 · ERNIE 5.5 Flash Preview。百度发布基于 5.5 Flash Base 的后训练预览版，官方页展示 3D、游戏和内容制作任务。"
+    },
+    {
+      "id": "src-d0d2dec804",
+      "url": "https://github.com/meituan-longcat/LongCat-Video/commit/0edd1868f562fa3c322171d28a1ed06b83d814bd",
+      "title": "美团固定代码提交",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-11-10 · LongCat-Video-Avatar 1.6。美团仓库在 11 月 10 日出现添加 1.6 的代码提交，官方 Hugging Face 页另提供模型权重和示例。它是音频驱动生成方向。"
+    },
+    {
+      "id": "src-a9abc0070a",
+      "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6",
+      "title": "官方模型卡",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-11-10 · LongCat-Video-Avatar 1.6。美团仓库在 11 月 10 日出现添加 1.6 的代码提交，官方 Hugging Face 页另提供模型权重和示例。它是音频驱动生成方向。"
+    },
+    {
+      "id": "src-5842f38b33",
+      "url": "https://github.com/MiniMax-AI/MiniMax-H3-Image",
+      "title": "MiniMax 官方仓库",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-11-10 · MiniMax H3-Image。官方项目提供图像生成和编辑模型，11 月 10 日许可文件记录该模型的发布日。官方 MCP 同日加入多参考图编辑。"
+    },
+    {
+      "id": "src-060b470266",
+      "url": "https://github.com/MiniMax-AI/MiniMax-H3-Image/blob/main/LICENSE",
+      "title": "H3-Image 发布日与许可",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-11-10 · MiniMax H3-Image。官方项目提供图像生成和编辑模型，11 月 10 日许可文件记录该模型的发布日。官方 MCP 同日加入多参考图编辑。"
+    },
+    {
+      "id": "src-9c1ca404cb",
+      "url": "https://github.com/MiniMax-AI/MiniMax-MCP",
+      "title": "MiniMax MCP 更新记录",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-11-10 · MiniMax H3-Image。官方项目提供图像生成和编辑模型，11 月 10 日许可文件记录该模型的发布日。官方 MCP 同日加入多参考图编辑。"
+    },
+    {
+      "id": "src-19ebd158bf",
+      "url": "https://elevenlabs.io/docs/changelog/2026/11/9",
+      "title": "ElevenLabs API 日志",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-11-09 · Scribe v3 与 v3 Live。ElevenLabs API 日志在 11 月 9 日列出上线，介绍文发表于 11 月 10 日。Scribe v3 面向录音转写，Live 面向实时输入并提供轮次提交策略。"
+    },
+    {
+      "id": "src-029532486b",
+      "url": "https://elevenlabs.io/blog/scribe-v3",
+      "title": "ElevenLabs 发布文",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-11-09 · Scribe v3 与 v3 Live。ElevenLabs API 日志在 11 月 9 日列出上线，介绍文发表于 11 月 10 日。Scribe v3 面向录音转写，Live 面向实时输入并提供轮次提交策略。"
+    },
+    {
+      "id": "src-3d7aaab50d",
+      "url": "https://seed.bytedance.com/en/blog/more-realistic-images-more-stable-editing-across-100-rounds-introducing-seedream-5-5",
+      "title": "ByteDance Seed 发布文",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-11-09 · Seedream 5.5。字节 Seed 团队的 11 月 9 日文章介绍多轮编辑和多图参考等用途。火山方舟提供对应的图片生成接口记录。"
+    },
+    {
+      "id": "src-95100a9cad",
+      "url": "https://docs.volcengine.com/docs/ark/model-release-announcement?lang=zh",
+      "title": "火山方舟模型公告",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-11-09 · Seedream 5.5。字节 Seed 团队的 11 月 9 日文章介绍多轮编辑和多图参考等用途。火山方舟提供对应的图片生成接口记录。"
+    },
+    {
+      "id": "src-57623e44e1",
+      "url": "https://docs.x.ai/developers/migration/imagine-image-quality-nov-2",
+      "title": "Grok Imagine 官方迁移文档",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-11-02 · Grok Imagine Image 模型迁移。厂商迁移说明规定旧的 grok-imagine-image-quality 请求转到 grok-imagine-image-2.0 的 low 档。原路径生成和编辑请求均在说明范围内。"
+    },
+    {
+      "id": "src-1ef2430071",
+      "url": "https://mistral.ai/news/mistral-large-4/",
+      "title": "Mistral 团队公告",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-10-29 · Mistral Large 4。Mistral 的 10 月 6 日团队公告介绍公开预览，治理页列出的 Mistral Large 4 活跃版本日期为 10 月 29 日。"
+    },
+    {
+      "id": "src-55bad0aec3",
+      "url": "https://legal.mistral.ai/ai-governance/models/mistral-large-4/",
+      "title": "Mistral 治理页",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-10-29 · Mistral Large 4。Mistral 的 10 月 6 日团队公告介绍公开预览，治理页列出的 Mistral Large 4 活跃版本日期为 10 月 29 日。"
+    },
+    {
+      "id": "src-2a0fefcc8c",
+      "url": "https://ir.kuaishou.com/news-releases/news-release-details/kling-ai-officially-launches-next-generation-kling-40-raising",
+      "title": "快手官方公告",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-10-15 · 可灵 Kling 4.0。快手 10 月 16 日公告记载模型于 10 月 15 日上线，列出三视图、分镜、主体图及参考视频等输入。"
+    },
+    {
+      "id": "src-155c7b54b4",
+      "url": "https://bfl.ai/blog/flux-3-image-klein",
+      "title": "Black Forest Labs 发布文",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-10-15 · FLUX 3 Image Klein。Black Forest Labs 公布 Klein 模型、基础版与蒸馏版，介绍文本生成图像、编辑与多参考图用途。权重使用 FLUX Kommunity License。"
+    },
+    {
+      "id": "src-f4a904d03d",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "title": "月之暗面官方模型卡",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-11-19 · Kimi K3.1 Pro。月之暗面公开模型库给出 K3.1 Pro 的模型卡、权重分片与单独许可，卡片列出视觉输入与长程任务方向。日期为本库核对日。"
+    },
+    {
+      "id": "src-7e6c3dd9ad",
+      "url": "https://docs.z.ai/guides/llm/glm-5.3",
+      "title": "智谱 GLM-5.3 文档",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-11-19 · GLM-5.3。智谱文档列出 GLM-5.3 的文本输入、长程任务与编程用途。文档明确该版沿用 GLM-5.2 的基座，改善来自后训练。"
+    },
+    {
+      "id": "src-369780db35",
+      "url": "https://dev.runwayml.com/models/catalog",
+      "title": "Runway API 模型目录",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-11-19 · Runway · 表演与角色视频入口。开发者模型目录分别列出 Act Two、Character Video 和 Gen-4.5。Character Video 以脚本或音频驱动角色说话，Gen-4.5 为文生和图生视频模型。"
+    },
+    {
+      "id": "src-58cb72c7e9",
+      "url": "https://www.bilibili.com/video/BV1zxxx6rERm/",
+      "title": "三位老师同时向你伸手，你先牵谁？｜MiniMax × Qwen × Kimi",
+      "checked_on": "2026-11-19",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "DarthMol 用同一个云海栏杆、竖屏构图和观众伸手的动作连接三位角色。橙白的 MiniMax、蓝色衣装的千问、黑白长裙的 Kimi 分段亮相。作者把 Kimi 新造型署名给若瑾Rheagenesis，其余立绘署名 ZipZipPipe。"
+    },
+    {
+      "id": "src-46ff0a04f9",
+      "url": "https://www.bilibili.com/video/BV1GsxS68EME/",
+      "title": "【AI娘日常】她的时薪比我高",
+      "checked_on": "2026-11-19",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "作者说素材来自一则小黑盒单次账单自述。片中只出场 Kimi 娘，Kimi 是接入模型，Claude Code 是使用工具。“时薪”是主角折算出来的笑话。UP 主在简介注明账单未独立核验。"
+    },
+    {
+      "id": "src-94afb309c2",
+      "url": "https://www.bilibili.com/video/BV1H4xt6UEYv/",
+      "title": "【Day 3】本兔自己开发布会！Are you OK？",
+      "checked_on": "2026-11-19",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "同人账号把小米发布会梗演成主讲、机能装与应援三种造型，通过兔耳、橙色和玩偶维持角色辨识。UP 主表明内容含 AI 生成与合成音色。"
+    },
+    {
+      "id": "src-5bb7f75002",
+      "url": "https://www.bilibili.com/video/BV1dW4q6vEGQ/",
+      "title": "【MiMo兔娘】雨爱（AI翻唱）｜原曲调子·兔娘音色",
+      "checked_on": "2026-11-19",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "作者注明沿用原曲调子并使用合成声线。样帧里以旋转唱片头像、歌词与进度条组织整首歌。可和已收录的鲸鱼娘、GLM 司凤版并看，采用的歌曲版本按各自简介记录。"
+    },
+    {
+      "id": "src-42841739c3",
+      "url": "https://www.bilibili.com/video/BV1fUxm6NETw/",
+      "title": "呜姆！【茶话会】小米 MiMo 兔娘新人报到，六位 AI 娘前辈反应太真实了",
+      "checked_on": "2026-11-19",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "UP 主简介把 MiMo 写成端茶进门的新成员，以耳朵状态表现紧张，并列出六位既有角色。简介中的产品指标未用于本库产品史。"
+    },
+    {
+      "id": "src-c5c24050da",
+      "url": "https://www.bilibili.com/video/BV1UCW86ZEB6/",
+      "title": "😭copilot小姐带我们再冲一次吧😭",
+      "checked_on": "2026-11-19",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "古蕾娜蒂亚的片名标为 Copilot。样帧以浅蓝到彩色渐变长发、银色短外套与黑短裙为中心，标题与空简介没有指定是哪个 Copilot 产品。"
+    },
+    {
+      "id": "src-da10a54d7d",
+      "url": "https://www.bilibili.com/video/BV11rnt66EPf/",
+      "title": "小熊（文心）和千问大小姐过去的幸福时光",
+      "checked_on": "2026-11-19",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "作者在标题把文心叫作小熊。圆耳深发角色和蓝发千问从厨房并肩转到花市、共伞、夜里靠坐。作者简介没有列图稿出处，按这次作品中的角色称呼归档。"
+    },
+    {
+      "id": "src-0105ffe4c5",
+      "url": "https://www.bilibili.com/video/BV1BdsR6SEfn/",
+      "title": "Meta Llama —— “开源牧场的瞌睡羊驼娘”",
+      "checked_on": "2026-11-19",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "Kairos_C 把 Llama 写成没睡醒的羊驼。样帧中可见白卷发、宽松卫衣、长裙、蓝色无穷标志以及动物头拖鞋。揉眼与最后坐回沙发演出困意。羊驼身份与牧场故事来自作者简介。"
     }
   ]
 }

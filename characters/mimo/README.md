@@ -79,3 +79,9 @@
 ## MiMo 橙黑魔女装
 
 站点作品页和署名入口，造型细节按目录文字索引。[MiMo娘橙黑魔女三视图](https://xn--pssy23gqgbz2d718b.com/works/mimo202611180002.html)
+
+## 11 月产品与作品补充
+
+MiMo Claw 2.1.2，见 [11 月产品动态](../../docs/15-ai-news-2026-11-19.md#product-news)。
+
+社区作品入口。[MiMo 兔娘自己开发布会](../../docs/15-ai-news-2026-11-19.md#work-bv1h4xt6ueyv) · [MiMo 兔娘翻唱《雨爱》](../../docs/15-ai-news-2026-11-19.md#work-bv1dw4q6vegq) · [MiMo 兔娘的六位前辈茶话会](../../docs/15-ai-news-2026-11-19.md#work-bv1fuxm6netw)

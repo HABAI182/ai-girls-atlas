@@ -59,3 +59,7 @@
 - [校园perplexity作者提示词](https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/designs/perplexity.prompt.txt) · `pinned_repository_text`
 
 返回[角色总览](../../README.md) · [新增资料评述](../../docs/09-more-sources.md) · [版本比较](../../docs/10-variant-guide.md)。
+
+## 11 月产品与作品补充
+
+Perplexity Computer · Multiagent，见 [11 月产品动态](../../docs/15-ai-news-2026-11-19.md#product-news)。

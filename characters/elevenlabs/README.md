@@ -31,3 +31,7 @@
 - [ZipZipPipe的动态 - 哔哩哔哩](https://www.bilibili.com/opus/1244061599751208994) · `web_text`
 
 返回[角色总览](../../README.md) · [新增资料评述](../../docs/09-more-sources.md) · [版本比较](../../docs/10-variant-guide.md)。
+
+## 11 月产品与作品补充
+
+Scribe v3 与 v3 Live，见 [11 月产品动态](../../docs/15-ai-news-2026-11-19.md#product-news)。

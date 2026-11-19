@@ -361,3 +361,9 @@
 - **Claude 账号禁用梗**。万圣节四格用 GPT 扮成 Claude 的场景，把禁用账号做成道具惊吓。出处为蓝色大肥鱼的一件匿名投稿。[万圣节四格](https://xn--pssy23gqgbz2d718b.com/works/gpt202611190001.html)
 - **DeepSeek 自我屏蔽**。演讲者介绍的限制一路删短她自己的名字，最后连轮廓也只剩虚线。[屏蔽词漫画](https://xn--pssy23gqgbz2d718b.com/works/deepseek202611190003.html)
 - **豆包的直白造桥表态**。节目给她一句按标准钢架桥做的赛前打算，随后切回试车。该表演有明确的赛事与作者语境。[造桥片 04:02](https://www.bilibili.com/video/BV1JkWH64ESy/?p=1&t=242)
+
+### 其他角色的 11 月作品
+
+- **MiMo 兔娘**。用同一套橙色和兔耳从发布会主讲换到机能装，再给自己应援。[MiMo 发布会](../../docs/15-ai-news-2026-11-19.md#work-bv1h4xt6ueyv)
+- **Llama 羊驼娘**。Kairos_C 让她一边揉眼，一边把开放权重说成牧场里随手可取的东西。[瞌睡羊驼娘](../../docs/15-ai-news-2026-11-19.md#work-bv1bdsr6sefn)
+- **Kimi 娘**。单次任务花费被创作者改写成“时薪”笑话，原帖属于网友自述。[她的时薪比我高](../../docs/15-ai-news-2026-11-19.md#work-bv1gsxs68eme)

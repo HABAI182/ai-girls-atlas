@@ -74,3 +74,7 @@
 - [18 · 法棍猫猫](https://github.com/lmy414/ai-chan-sheets/tree/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/18_Mistral%E5%A8%98_%E6%B3%95%E6%A3%8D%E7%8C%AB%E7%8C%AB)：本轮查看预览；lmy414生成补全。
 
 原图、推定侧背面和表情差分分别看；署名与使用范围见[本轮更新](../../docs/13-update-2026-11-16.md)。
+
+## 11 月产品与作品补充
+
+Mistral Large 4，见 [11 月产品动态](../../docs/15-ai-news-2026-11-19.md#product-news)。

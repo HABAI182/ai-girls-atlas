@@ -340,7 +340,8 @@
         "src-5746a29c51",
         "src-d5debdfbdd",
         "src-ecdc271a3a",
-        "src-d61db244b3"
+        "src-d61db244b3",
+        "src-db7fb6fc89"
       ],
       "local_asset_ids": [
         "zipzippipe-pixiv-148186519-p04",
@@ -407,7 +408,8 @@
         "src-9b9a6a8a5d",
         "src-d5debdfbdd",
         "src-ecdc271a3a",
-        "src-fe655a5ce9"
+        "src-fe655a5ce9",
+        "src-57623e44e1"
       ],
       "local_asset_ids": [
         "zipzippipe-pixiv-148186519-p07",
@@ -472,7 +474,10 @@
         "src-9b9a6a8a5d",
         "src-d5debdfbdd",
         "src-ecdc271a3a",
-        "src-11a9ec60cd"
+        "src-11a9ec60cd",
+        "src-f4a904d03d",
+        "src-58cb72c7e9",
+        "src-46ff0a04f9"
       ],
       "local_asset_ids": [
         "zipzippipe-pixiv-148186519-p05",
@@ -490,7 +495,8 @@
       "variant_ids": [
         "school-op-kimi",
         "apprentice-kimi",
-        "lmy-sheets-06"
+        "lmy-sheets-06",
+        "rheagenesis-kimi-hand-dance"
       ],
       "persona_profile_id": "persona-atlas-kimi",
       "persona_profile_path": "encyclopedia/personas/kimi.md",
@@ -535,7 +541,8 @@
         "src-5746a29c51",
         "src-d5debdfbdd",
         "src-ecdc271a3a",
-        "src-534b6ee3e4"
+        "src-534b6ee3e4",
+        "src-7e6c3dd9ad"
       ],
       "local_asset_ids": [
         "zipzippipe-pixiv-148186519-p06",
@@ -604,7 +611,10 @@
         "src-5746a29c51",
         "src-d5debdfbdd",
         "src-ecdc271a3a",
-        "src-58cbe2a704"
+        "src-58cbe2a704",
+        "src-756563a414",
+        "src-072c694c9b",
+        "src-58cb72c7e9"
       ],
       "local_asset_ids": [
         "zipzippipe-pixiv-148186519-p12",
@@ -660,7 +670,9 @@
         "src-b934d159f4",
         "src-d5debdfbdd",
         "src-ecdc271a3a",
-        "src-d476200720"
+        "src-d476200720",
+        "src-3d7aaab50d",
+        "src-95100a9cad"
       ],
       "local_asset_ids": [
         "zipzippipe-pixiv-148186519-p10-seed"
@@ -712,7 +724,11 @@
         "src-9b9a6a8a5d",
         "src-d5debdfbdd",
         "src-ecdc271a3a",
-        "src-919dc08c0f"
+        "src-919dc08c0f",
+        "src-5842f38b33",
+        "src-060b470266",
+        "src-9c1ca404cb",
+        "src-58cb72c7e9"
       ],
       "local_asset_ids": [
         "school-op-minimax",
@@ -767,7 +783,8 @@
         "src-ce1ce0a429",
         "src-64550de9e4",
         "src-b9006a9bef",
-        "src-2f1b5b7594"
+        "src-2f1b5b7594",
+        "src-0105ffe4c5"
       ],
       "local_asset_ids": [
         "school-op-llama",
@@ -781,7 +798,8 @@
       ],
       "variant_ids": [
         "school-op-llama",
-        "priority-zipzippipe-pixiv-148186519-p14-variant"
+        "priority-zipzippipe-pixiv-148186519-p14-variant",
+        "kairosc-llama-alpaca"
       ],
       "persona_profile_id": "persona-atlas-llama",
       "persona_profile_path": "encyclopedia/personas/llama.md"
@@ -815,7 +833,9 @@
         "src-b9006a9bef",
         "src-d5debdfbdd",
         "src-ecdc271a3a",
-        "src-10dbdf2101"
+        "src-10dbdf2101",
+        "src-1ef2430071",
+        "src-55bad0aec3"
       ],
       "local_asset_ids": [
         "school-op-mistral",
@@ -861,7 +881,8 @@
         "src-e7a83efe44",
         "src-7d6d1d5015",
         "src-863473febf",
-        "src-df5958ee04"
+        "src-df5958ee04",
+        "src-439cc7483f"
       ],
       "local_asset_ids": [
         "school-op-perplexity"
@@ -906,7 +927,10 @@
         "src-8fafda5907",
         "src-d5debdfbdd",
         "src-ecdc271a3a",
-        "src-b27b70d31a"
+        "src-b27b70d31a",
+        "src-d79498a68e",
+        "src-c12c808dbc",
+        "src-da10a54d7d"
       ],
       "local_asset_ids": [
         "school-op-ernie"
@@ -918,7 +942,8 @@
       ],
       "variant_ids": [
         "school-op-wenxin",
-        "lmy-sheets-04"
+        "lmy-sheets-04",
+        "wenxin-bear-qwen-montage"
       ],
       "persona_profile_id": "persona-atlas-wenxin",
       "persona_profile_path": "encyclopedia/personas/wenxin.md",
@@ -986,7 +1011,9 @@
         "src-863473febf",
         "src-246d5fe606",
         "src-64550de9e4",
-        "src-b9006a9bef"
+        "src-b9006a9bef",
+        "src-510ddcd4fd",
+        "src-364859f834"
       ],
       "local_asset_ids": [
         "school-op-hunyuan",
@@ -1279,7 +1306,9 @@
       "identity_rules": "语音平台拟人与某位配音者的音色不能混为一谈；本库没有复制或授权声音。",
       "creative_options_original": "先补原作定位和图像身份；声音资产另建来源与授权，不能沿用图片许可。",
       "sources": [
-        "src-461b32e833"
+        "src-461b32e833",
+        "src-19ebd158bf",
+        "src-029532486b"
       ],
       "local_asset_ids": [],
       "not_claimed": [
@@ -1419,7 +1448,12 @@
         "src-d5debdfbdd",
         "src-ecdc271a3a",
         "src-590f7d7f4c",
-        "src-7fd453c8fa"
+        "src-7fd453c8fa",
+        "src-a90b4fdfc7",
+        "src-89fb384acc",
+        "src-94afb309c2",
+        "src-5bb7f75002",
+        "src-42841739c3"
       ],
       "local_asset_ids": [
         "mimo-adult-01",
@@ -1494,7 +1528,8 @@
       "sources": [
         "src-881f6725d7",
         "src-bb6720c286",
-        "src-4137c9f94c"
+        "src-4137c9f94c",
+        "src-c5c24050da"
       ],
       "local_asset_ids": [],
       "not_claimed": [
@@ -1504,7 +1539,8 @@
         "本库已镜像原图"
       ],
       "variant_ids": [
-        "hkr-copilot-pink-affection-card"
+        "hkr-copilot-pink-affection-card",
+        "guleina-copilot-rainbow-stage"
       ],
       "persona_profile_id": "persona-atlas-copilot",
       "persona_profile_path": "encyclopedia/personas/copilot.md"
@@ -1633,10 +1669,11 @@
         "可灵"
       ],
       "observed_traits": [],
-      "identity_rules": "官方入口本次读取受限；没有补造角色图或厂商许可。",
+      "identity_rules": "已核对快手发布的 Kling 4.0 产品资料。拟人形象、角色作者与作品出处仍待确认。",
       "creative_options_original": "先补作者、原帖、形象识别点和具体许可；自行设计时标记为新提案。",
       "sources": [
-        "src-344baaa86f"
+        "src-344baaa86f",
+        "src-2a0fefcc8c"
       ],
       "local_asset_ids": [],
       "not_claimed": [
@@ -1662,7 +1699,8 @@
       "identity_rules": "产品有官方入口，未指定成熟社区形象。",
       "creative_options_original": "先补作者、原帖、形象识别点和具体许可；自行设计时标记为新提案。",
       "sources": [
-        "src-ca1174f449"
+        "src-ca1174f449",
+        "src-369780db35"
       ],
       "local_asset_ids": [],
       "not_claimed": [
@@ -1762,7 +1800,8 @@
       "identity_rules": "模型家族与厂商分开登记；未找到本次可核验角色档案。",
       "creative_options_original": "先补作者、原帖、形象识别点和具体许可；自行设计时标记为新提案。",
       "sources": [
-        "src-e4937453ef"
+        "src-e4937453ef",
+        "src-155c7b54b4"
       ],
       "local_asset_ids": [],
       "not_claimed": [
@@ -1997,7 +2036,10 @@
       "sources": [
         "src-c52b6ceb97",
         "src-45cae556eb",
-        "src-4a7eba73d2"
+        "src-4a7eba73d2",
+        "src-38f7fa8966",
+        "src-5fb2adb0a1",
+        "src-1e3e1429ef"
       ],
       "local_asset_ids": [],
       "not_claimed": [
@@ -2039,7 +2081,9 @@
       "sources": [
         "src-c52b6ceb97",
         "src-45cae556eb",
-        "src-e858de84e5"
+        "src-e858de84e5",
+        "src-0c8abc3b16",
+        "src-00669c0ace"
       ],
       "local_asset_ids": [],
       "not_claimed": [
@@ -2082,7 +2126,9 @@
       "sources": [
         "src-d5debdfbdd",
         "src-ecdc271a3a",
-        "src-28de46cfec"
+        "src-28de46cfec",
+        "src-d0d2dec804",
+        "src-a9abc0070a"
       ],
       "local_asset_ids": [],
       "variant_ids": [

@@ -10,6 +10,7 @@
 | videos.json / videos.csv | 视频元数据、题材和观察范围 |
 | memes.json / memes.csv | 少量作品导航；站点许可字段未升级为本库许可 |
 | sources.json | 稳定来源ID、网址、日期和证据层级 |
+| [product-news.json](product-news.json) | 具日期、发布状态和官方出处的产品新闻，关联角色以及逐条核对的社区原作 |
 | upstream-snapshots.json | 固定上游树与站点元数据统计 |
 | coverage.json | 本库条目、图片与待补数，不是市场覆盖率 |
 | corrections.json | 原图目视核对后纠正的上游角色误分类，保留原记录与依据 |

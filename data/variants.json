@@ -2188,6 +2188,86 @@
       "external_url": "https://www.bilibili.com/video/BV1JkWH64ESy/?p=1&t=158",
       "review_scope": "sampled_visual_frames_and_creator_description",
       "checked_on": "2026-11-19"
+    },
+    {
+      "id": "rheagenesis-kimi-hand-dance",
+      "character_id": "kimi",
+      "collection": "creator-video-2026-11",
+      "title": "若瑾Rheagenesis · 手势舞中的 Kimi 新造型",
+      "creators": "若瑾Rheagenesis（DarthMol 的简介署名）",
+      "observed_traits": [
+        "银白长发与深色发带",
+        "黑色分层外裙、白色内裙",
+        "手势舞沿用云海栏杆与前景手"
+      ],
+      "difference_from_other_versions": "DarthMol 用同一个云海栏杆、竖屏构图和观众伸手的动作连接三位角色。橙白的 MiniMax、蓝色衣装的千问、黑白长裙的 Kimi 分段亮相。作者把 Kimi 新造型署名给若瑾Rheagenesis，其余立绘署名 ZipZipPipe。",
+      "asset_ids": [],
+      "source_ids": [
+        "src-58cb72c7e9"
+      ],
+      "external_url": "https://www.bilibili.com/video/BV1zxxx6rERm/?p=1&t=45",
+      "review_scope": "sampled_visual_frames_and_creator_description",
+      "checked_on": "2026-11-19"
+    },
+    {
+      "id": "kairosc-llama-alpaca",
+      "character_id": "llama",
+      "collection": "creator-video-2026-11",
+      "title": "Kairos_C · 开源牧场的瞌睡羊驼娘",
+      "creators": "Kairos_C（作品发布者）",
+      "observed_traits": [
+        "奶白长卷发与羊驼耳（作者设定）",
+        "宽松卫衣与蓝色无穷形装饰",
+        "动物头拖鞋与困倦姿态"
+      ],
+      "difference_from_other_versions": "Kairos_C 把 Llama 写成没睡醒的羊驼。样帧中可见白卷发、宽松卫衣、长裙、蓝色无穷标志以及动物头拖鞋。揉眼与最后坐回沙发演出困意。羊驼身份与牧场故事来自作者简介。",
+      "asset_ids": [],
+      "source_ids": [
+        "src-0105ffe4c5"
+      ],
+      "external_url": "https://www.bilibili.com/video/BV1BdsR6SEfn/?p=1&t=10",
+      "review_scope": "sampled_visual_frames_and_creator_description",
+      "checked_on": "2026-11-19"
+    },
+    {
+      "id": "guleina-copilot-rainbow-stage",
+      "character_id": "copilot",
+      "collection": "creator-video-2026-11",
+      "title": "古蕾娜蒂亚 · 彩虹长发 Copilot 舞台版",
+      "creators": "古蕾娜蒂亚（作品发布者，立绘署名未列）",
+      "observed_traits": [
+        "浅蓝至多色渐变长发",
+        "银色短外套、黑短裙、浅色长袜",
+        "蓝色反光地面与单人竖屏舞台"
+      ],
+      "difference_from_other_versions": "古蕾娜蒂亚的片名标为 Copilot。样帧以浅蓝到彩色渐变长发、银色短外套与黑短裙为中心，标题与空简介没有指定是哪个 Copilot 产品。",
+      "asset_ids": [],
+      "source_ids": [
+        "src-c5c24050da"
+      ],
+      "external_url": "https://www.bilibili.com/video/BV1UCW86ZEB6/?p=1&t=8",
+      "review_scope": "sampled_visual_frames_and_creator_description",
+      "checked_on": "2026-11-19"
+    },
+    {
+      "id": "wenxin-bear-qwen-montage",
+      "character_id": "wenxin",
+      "collection": "creator-video-2026-11",
+      "title": "跳舞的帅气松鼠 · 文心小熊",
+      "creators": "跳舞的帅气松鼠（作品发布者，立绘署名未列）",
+      "observed_traits": [
+        "圆耳、深色长发（按片名关联文心）",
+        "青白衣料与长袖",
+        "与蓝发千问并肩、共伞的日常构图"
+      ],
+      "difference_from_other_versions": "作者在标题把文心叫作小熊。圆耳深发角色和蓝发千问从厨房并肩转到花市、共伞、夜里靠坐。作者简介没有列图稿出处，按这次作品中的角色称呼归档。",
+      "asset_ids": [],
+      "source_ids": [
+        "src-da10a54d7d"
+      ],
+      "external_url": "https://www.bilibili.com/video/BV11rnt66EPf/?p=1&t=5",
+      "review_scope": "sampled_visual_frames_and_creator_description",
+      "checked_on": "2026-11-19"
     }
   ]
 }

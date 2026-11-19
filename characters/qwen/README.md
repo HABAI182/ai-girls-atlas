@@ -95,3 +95,9 @@
 ## Qwen 中式运动校服
 
 站点作品页和署名入口，造型细节按目录文字索引。[Qwen 娘中式运动校服设定图](https://xn--pssy23gqgbz2d718b.com/works/qwen202611170001.html)
+
+## 11 月产品与作品补充
+
+Qwen4-Max，见 [11 月产品动态](../../docs/15-ai-news-2026-11-19.md#product-news)。
+
+社区作品入口。[三位老师手势接力](../../docs/15-ai-news-2026-11-19.md#work-bv1zxxx6rerm)

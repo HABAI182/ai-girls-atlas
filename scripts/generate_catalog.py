@@ -66,6 +66,9 @@ def outputs():
     for video in videos:
         study = studies.get(video['id'], {})
         supplement = supplementary.get(video['id'], {})
+        supplement_path = supplement.get('page_path')
+        if supplement_path and supplement.get('section_anchor'):
+            supplement_path += '#' + supplement['section_anchor']
         genre = video.get('primary_genre', indexed_genres.get(video['id'], ''))
         popularity = video.get('popularity_snapshot') or {}
         part = next((p for p in [study.get('part'), study.get('reviewed_part'),
@@ -80,7 +83,7 @@ def outputs():
             'reviewed_part_seconds': part.get('duration_seconds', part.get('part_duration_seconds')),
             'view_snapshot': popularity.get('view'),
             'snapshot_date': popularity.get('checked_on', popularity.get('date')),
-            'study_path': study.get('case_path', supplement.get('page_path', video.get('supplementary_review_path', ''))),
+            'study_path': study.get('case_path', supplement_path or video.get('supplementary_review_path', '')),
             'relation_to_ai_girls': video.get('relation_to_ai_girls', 'community_impression_context'),
         })
     result['videos/all-videos.csv'] = csv_text(
@@ -132,6 +135,7 @@ def outputs():
         'external_gallery_references': '外部参考', 'video_records': '视频记录',
         'video_study_cases': '抽帧视频案例', 'video_content_categories': '视频品类',
         'source_records': '来源入口', 'expanded_design_variants': '扩展作者版本',
+        'product_news_records': '官方产品动态与档案补查',
         'reviewed_reference_projects': '参考项目', 'audio_source_records': '声音来源',
         'meme_navigation_records': '表情/作品导航', 'expression_index_records': '本地表情语境',
         'ready_material_packages': '实际下载素材目录', 'production_kits': '素材关联包',

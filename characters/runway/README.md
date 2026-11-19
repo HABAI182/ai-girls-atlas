@@ -28,3 +28,7 @@
 - [Runway 官方入口](https://runwayml.com/) · `official_product_reference`
 
 返回[角色总览](../../README.md) · [新增资料评述](../../docs/09-more-sources.md) · [版本比较](../../docs/10-variant-guide.md)。
+
+## 11 月产品与作品补充
+
+Runway · 表演与角色视频入口，见 [11 月产品动态](../../docs/15-ai-news-2026-11-19.md#product-news)。

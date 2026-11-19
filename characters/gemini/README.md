@@ -102,3 +102,7 @@
 ## Gemini Pro 与 Flash 三视图
 
 站点作品页和署名入口，造型细节按目录文字索引。[Gemini Pro 的三视图](https://xn--pssy23gqgbz2d718b.com/works/gemini202611170006.html) · [Gemini Flash 的三视图](https://xn--pssy23gqgbz2d718b.com/works/gemini202611170007.html) · [Gemini 娘紫色星纹毛衣设定稿](https://xn--pssy23gqgbz2d718b.com/works/gemini202611180002.html)
+
+## 11 月产品与作品补充
+
+Gemini 4 Neon，见 [11 月产品动态](../../docs/15-ai-news-2026-11-19.md#product-news)。

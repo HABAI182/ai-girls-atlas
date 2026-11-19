@@ -112,3 +112,7 @@ GLM狐娘与Zcode蒙眼工程少女分别登记；不能因为同属相关品牌
 ## GLM 中式校服
 
 站点作品页和署名入口，造型细节按目录文字索引。[GLM 中式校服三视图](https://xn--pssy23gqgbz2d718b.com/works/glm202611170001.html)
+
+## 11 月产品与作品补充
+
+GLM-5.3，见 [11 月产品动态](../../docs/15-ai-news-2026-11-19.md#product-news)。

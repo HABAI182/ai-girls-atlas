@@ -590,6 +590,27 @@
       "review_scope": "metadata_and_source_links_only",
       "rights_as_recorded": "原作声音入口，目录未核实具体音频授权。",
       "checked_on": "2026-11-19"
+    },
+    {
+      "id": "audio-BV1dW4q6vEGQ",
+      "title": "【MiMo兔娘】雨爱（AI翻唱）｜原曲调子·兔娘音色",
+      "kind": "角色翻唱",
+      "character_ids": [
+        "mimo"
+      ],
+      "video_id": "BV1dW4q6vEGQ",
+      "source_id": "src-5bb7f75002",
+      "source_url": "https://www.bilibili.com/video/BV1dW4q6vEGQ/",
+      "publisher": "MiMo兔娘在运营",
+      "duration_seconds": 110,
+      "source_chain_ids": [],
+      "content_summary": "简介注明 MiMo 音色和原曲调子。画面用转动唱片与逐句歌词，声音未听辨。",
+      "access_mode": "original_publication",
+      "local_copy": false,
+      "voice_model_download": null,
+      "review_scope": "creator_audio_description_and_sampled_visual_frames",
+      "rights_as_recorded": "导航入口，声线及歌曲使用条件按来源。",
+      "checked_on": "2026-11-19"
     }
   ]
 }

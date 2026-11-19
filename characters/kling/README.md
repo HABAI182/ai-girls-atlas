@@ -12,7 +12,7 @@
 
 尚未确认可采用的完整角色方案；保留待补。
 
-官方入口本次读取受限；没有补造角色图或厂商许可。
+已核对 [快手的 Kling 4.0 公告](https://ir.kuaishou.com/news-releases/news-release-details/kling-ai-officially-launches-next-generation-kling-40-raising)，其中列出三视图、分镜和参考视频等输入。拟人作品仍待确认。
 
 ## 外部设定、三视图与作品
 
@@ -28,3 +28,7 @@
 - [可灵 / Kling 官方入口](https://klingai.com/) · `access_limited`
 
 返回[角色总览](../../README.md) · [新增资料评述](../../docs/09-more-sources.md) · [版本比较](../../docs/10-variant-guide.md)。
+
+## 11 月产品与作品补充
+
+可灵 Kling 4.0，见 [11 月产品动态](../../docs/15-ai-news-2026-11-19.md#product-news)。

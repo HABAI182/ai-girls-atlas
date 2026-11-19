@@ -52,3 +52,7 @@
 - [07 · 紫发高马尾](https://github.com/lmy414/ai-chan-sheets/tree/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/07_%E8%B1%86%E5%8C%85Seed%E5%A8%98)：本轮仅查目录；lmy414生成补全。
 
 原图、推定侧背面和表情差分分别看；署名与使用范围见[本轮更新](../../docs/13-update-2026-11-16.md)。
+
+## 11 月产品与作品补充
+
+Seedream 5.5，见 [11 月产品动态](../../docs/15-ai-news-2026-11-19.md#product-news)。

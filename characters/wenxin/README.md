@@ -67,3 +67,9 @@
 - [04 · 蓝发轮椅少女](https://github.com/lmy414/ai-chan-sheets/tree/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/04_%E6%96%87%E5%BF%83%E4%B8%80%E8%A8%80%E5%A8%98)：本轮仅查目录；lmy414生成补全。
 
 原图、推定侧背面和表情差分分别看；署名与使用范围见[本轮更新](../../docs/13-update-2026-11-16.md)。
+
+## 11 月产品与作品补充
+
+ERNIE 5.5 Flash Preview，见 [11 月产品动态](../../docs/15-ai-news-2026-11-19.md#product-news)。
+
+社区作品入口。[文心小熊和千问的旧时光](../../docs/15-ai-news-2026-11-19.md#work-bv11rnt66epf)

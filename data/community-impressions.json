@@ -1456,6 +1456,72 @@
       ],
       "checked_on": "2026-11-19",
       "claim_type": "author_fiction_not_real_model_response"
+    },
+    {
+      "id": "community-news-mimo-launch-host",
+      "character_id": "mimo",
+      "label": "本兔自己开发布会",
+      "dimension": "单作者作品印象",
+      "summary": "发布会主讲、机能服表演与观众应援由一个兔娘来做，橙色和兔耳把换装接起来。",
+      "support_scope": "单一原作品",
+      "claim_type": "author_fiction_not_real_model_response",
+      "evidence": [
+        {
+          "source_id": "src-94afb309c2",
+          "url": "https://www.bilibili.com/video/BV1H4xt6UEYv/",
+          "platform": "Bilibili",
+          "video_id": "BV1H4xt6UEYv",
+          "kind": "visual_frames_and_creator_description",
+          "locator": "P1 00:02、00:13、00:29，作者简介",
+          "author": "MiMo兔娘在运营",
+          "checked_on": "2026-11-19"
+        }
+      ],
+      "checked_on": "2026-11-19"
+    },
+    {
+      "id": "community-news-llama-nap",
+      "character_id": "llama",
+      "label": "开源牧场的瞌睡羊驼",
+      "dimension": "单作者作品印象",
+      "summary": "作者用揉眼、卫衣、拖鞋和坐回沙发做懒倦演出。开放权重被写成牧场故事中的随口一句。",
+      "support_scope": "单一原作品",
+      "claim_type": "author_fiction_not_real_model_response",
+      "evidence": [
+        {
+          "source_id": "src-0105ffe4c5",
+          "url": "https://www.bilibili.com/video/BV1BdsR6SEfn/",
+          "platform": "Bilibili",
+          "video_id": "BV1BdsR6SEfn",
+          "kind": "visual_frames_and_creator_description",
+          "locator": "P1 00:07、00:17，作者简介",
+          "author": "Kairos_C",
+          "checked_on": "2026-11-19"
+        }
+      ],
+      "checked_on": "2026-11-19"
+    },
+    {
+      "id": "community-news-kimi-task-bill",
+      "character_id": "kimi",
+      "label": "任务账单与时薪笑话",
+      "dimension": "单作者作品印象",
+      "summary": "将单次任务花费换算为时薪制造反差。作者明确来自网友自述，作品将工具与实际接入模型分开署名。",
+      "support_scope": "单一原作品",
+      "claim_type": "author_fiction_not_real_model_response",
+      "evidence": [
+        {
+          "source_id": "src-46ff0a04f9",
+          "url": "https://www.bilibili.com/video/BV1GsxS68EME/",
+          "platform": "Bilibili",
+          "video_id": "BV1GsxS68EME",
+          "kind": "creator_description",
+          "locator": "UP 主简介，未查视频画面",
+          "author": "chatgpt小龙娘在运营",
+          "checked_on": "2026-11-19"
+        }
+      ],
+      "checked_on": "2026-11-19"
     }
   ],
   "pending_leads": [
@@ -1492,8 +1558,8 @@
     ]
   },
   "coverage": {
-    "character_count": 10,
-    "records": 51,
+    "character_count": 12,
+    "records": 54,
     "pending_leads": 1
   }
 }

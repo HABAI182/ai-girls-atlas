@@ -66,3 +66,7 @@
 - [shuaizenge/ai-girls更新后的作者与声音说明](https://github.com/shuaizenge/ai-girls/blob/dcd69f5f4f2dff1a9c0031e82deb49e0fe949c76/NOTICE.md) · `pinned_repository_text`
 
 返回[角色总览](../../README.md) · [新增资料评述](../../docs/09-more-sources.md) · [版本比较](../../docs/10-variant-guide.md)。
+
+## 11 月产品与作品补充
+
+腾讯混元 Hy4 flash，见 [11 月产品动态](../../docs/15-ai-news-2026-11-19.md#product-news)。

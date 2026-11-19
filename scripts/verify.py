@@ -153,7 +153,7 @@ for filename in ['meme-encyclopedia.json', 'performances.json', 'actions-props.j
                  'design-history.json', 'cross-media.json', 'audio-observations.json',
                  'video-observations.json', 'ready-packages.json',
                  'audio-performances.json', 'material-checks.json', 'personas.json', 'community-impressions.json',
-                 'model-branches.json', 'refresh-2026-11-16.json']:
+                 'model-branches.json', 'refresh-2026-11-16.json', 'product-news.json']:
     editorial_joins(read(filename), filename)
 for label, records in [('encyclopedia meme', encyclopedia_memes),
                        ('action', actions), ('relationship', relationships),
@@ -218,6 +218,7 @@ checks = {
     'video_records': len(videos),
     'meme_navigation_records': len(memes),
     'source_records': len(sources),
+    'product_news_records': len(read('product-news.json')['records']),
     'expanded_design_variants': len(variants),
     'reviewed_reference_projects': len(projects),
     'audio_source_records': len(audio),
