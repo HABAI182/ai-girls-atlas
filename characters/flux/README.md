@@ -32,3 +32,11 @@
 ## 11 月产品与作品补充
 
 FLUX 3 Image Klein，见 [11 月产品动态](../../docs/15-ai-news-2026-11-19.md#product-news)。
+
+## 11 月 19 日形象补查
+
+模型列表和社区动画画风微调的题名混有大量 FLUX 生成示例。尚未找到画面、标题或作者简介把已发布角色直接设定为 FLUX 模型。 当前仍待补。 [检索与核对记录](../../docs/16-news-and-character-search-2026-11-19.md#character-gaps)
+
+## 11 月产品动态续补
+
+Black Forest Labs 欧洲 API 的可用型号见 [产品动态](../../docs/16-news-and-character-search-2026-11-19.md#product-news)。

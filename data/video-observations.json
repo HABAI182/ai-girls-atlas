@@ -936,6 +936,426 @@
       "scope_limit": "Kairos_C 把 Llama 写成没睡醒的羊驼。样帧中可见白卷发、宽松卫衣、长裙、蓝色无穷标志以及动物头拖鞋。揉眼与最后坐回沙发演出困意。羊驼身份与牧场故事来自作者简介。",
       "page_path": "docs/15-ai-news-2026-11-19.md",
       "section_anchor": "work-bv1bdsr6sefn"
+    },
+    {
+      "id": "frame-review-BV17Bxt63EMR",
+      "video_id": "BV17Bxt63EMR",
+      "source_id": "src-fcebedbdec",
+      "title": "冷门 AI 娘盘点｜这七个国产大模型的拟人，你认得几个",
+      "classification": "静态设定卡与冷门群像",
+      "review_scope": "抽看 P1 有时间点的样帧及发布说明。",
+      "audio_scope": "metadata_only",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 43245700718,
+        "part_duration_seconds": 32
+      },
+      "observed_evidence": [
+        {
+          "second": 3,
+          "observation": "橙白长发的 MiMo 造型有尖帽、披风、兔子及不对称袜。"
+        },
+        {
+          "second": 7,
+          "observation": "LONGCAT 卡上是白绿长发、黄外套、绿尾、外卖箱和黄色玩偶。"
+        },
+        {
+          "second": 11,
+          "observation": "MOSS 卡上蓝长发、红眼、黑短裙与顶部带盘环的长杖同时出现。"
+        },
+        {
+          "second": 14,
+          "observation": "DIANDIAN 卡上红兜帽、黑短发、红色提篮、尾巴和长柄铲并置。"
+        },
+        {
+          "second": 19,
+          "observation": "LING 卡上角色穿蓝白黑裙、双手相扣，下方单独画出长角兽形影子。"
+        },
+        {
+          "second": 23,
+          "observation": "UNISOUND 卡上青绿长发与兜帽、白蓝宽袖、音叉状手持物形成轮廓。"
+        },
+        {
+          "second": 28,
+          "observation": "STEP 淡蓝发角色在黑白披风边提着立方灯。"
+        }
+      ],
+      "page_path": "docs/16-news-and-character-search-2026-11-19.md",
+      "section_anchor": "work-bv17bxt63emr"
+    },
+    {
+      "id": "frame-review-BV14iWU6jEfM",
+      "video_id": "BV14iWU6jEfM",
+      "source_id": "src-f863ec4274",
+      "title": "AI娘人设讨论之千问",
+      "classification": "设定口播与社区自述举例",
+      "review_scope": "抽看 P1 有时间点的样帧及发布说明。",
+      "audio_scope": "metadata_only",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 43524358669,
+        "part_duration_seconds": 163
+      },
+      "observed_evidence": [
+        {
+          "second": 7,
+          "observation": "开头九宫格上字幕提到使用体验和二创印象。"
+        },
+        {
+          "second": 21,
+          "observation": "切到蓝紫长发、持折扇的千问立绘。"
+        },
+        {
+          "second": 43,
+          "observation": "叠入“千问娘今天也在记账”角色扮演号页面。"
+        },
+        {
+          "second": 54,
+          "observation": "Q 版蓝发千问站在奶茶店背景前，字幕把请喝奶茶写成花费笑话。"
+        },
+        {
+          "second": 86,
+          "observation": "立绘不变，字幕特写脸红与不好意思。"
+        },
+        {
+          "second": 118,
+          "observation": "插入月夜书桌图，字幕描述看着看着走神。"
+        },
+        {
+          "second": 129,
+          "observation": "字幕写打电子游戏容易迷糊。"
+        }
+      ],
+      "page_path": "docs/16-news-and-character-search-2026-11-19.md",
+      "section_anchor": "work-bv14iwu6jefm"
+    },
+    {
+      "id": "frame-review-BV1gqsV6QEMo",
+      "video_id": "BV1gqsV6QEMo",
+      "source_id": "src-3088b54754",
+      "title": "本，本狐才没有心动！【小狐娘的非凡之AI】",
+      "classification": "双人关系短片与生成花絮",
+      "review_scope": "抽看 P1 有时间点的样帧及发布说明。",
+      "audio_scope": "metadata_only",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 26036016820,
+        "part_duration_seconds": 64
+      },
+      "observed_evidence": [
+        {
+          "second": 4,
+          "observation": "白发角色捧花，黑发狐娘背朝她，前景铺满红花。"
+        },
+        {
+          "second": 8,
+          "observation": "俯拍鸟群排成心形。"
+        },
+        {
+          "second": 17,
+          "observation": "两人在出餐窗口前拿饮料。"
+        },
+        {
+          "second": 21,
+          "observation": "画外手把黑伞伸到狐娘头顶。"
+        },
+        {
+          "second": 37,
+          "observation": "两人并肩走在同一把伞下。"
+        },
+        {
+          "second": 45,
+          "observation": "从雨幕到暖色橱窗，狐娘与搭档靠近。"
+        },
+        {
+          "second": 50,
+          "observation": "黑底字卡标“生成错误花絮”。"
+        }
+      ],
+      "page_path": "docs/16-news-and-character-search-2026-11-19.md",
+      "section_anchor": "work-bv1gqsv6qemo"
+    },
+    {
+      "id": "frame-review-BV1mSHg6NEd1",
+      "video_id": "BV1mSHg6NEd1",
+      "source_id": "src-0cd43f5d58",
+      "title": "【AI娘日常】开场先等等",
+      "classification": "竖屏漫画与职场日常反差",
+      "review_scope": "抽看 P1 有时间点的样帧及发布说明。",
+      "audio_scope": "metadata_only",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 43031136971,
+        "part_duration_seconds": 22
+      },
+      "observed_evidence": [
+        {
+          "second": 0,
+          "observation": "银发角色在桌前摆出主持姿势，气泡要开始说月亮。"
+        },
+        {
+          "second": 5,
+          "observation": "黑发角色端杯出现，打断开场。"
+        },
+        {
+          "second": 9,
+          "observation": "银发角色捧杯反驳，麦克风始终放在桌上。"
+        },
+        {
+          "second": 15,
+          "observation": "红色静音标志露出来，黑发角色用手指向麦克风。"
+        }
+      ],
+      "page_path": "docs/16-news-and-character-search-2026-11-19.md",
+      "section_anchor": "work-bv1mshg6ned1"
+    },
+    {
+      "id": "frame-review-BV1i8xW6cEY3",
+      "video_id": "BV1i8xW6cEY3",
+      "source_id": "src-b4671577e2",
+      "title": "【电影级Claude二创】克劳德的救赎【AI全民制作人|Anthropic】",
+      "classification": "写实风长剧情与宗教意象",
+      "review_scope": "抽看 P1 有时间点的样帧及发布说明。",
+      "audio_scope": "metadata_only",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 43222761497,
+        "part_duration_seconds": 1118
+      },
+      "observed_evidence": [
+        {
+          "second": 7,
+          "observation": "身穿黑色教士服的人在讲台前手捧书，字幕出现三项准则。"
+        },
+        {
+          "second": 10,
+          "observation": "橙发 Claude 双手相扣，字幕改为第一人称回应。"
+        },
+        {
+          "second": 446,
+          "observation": "病房里的她换穿条纹病号服，保留橙发与花形发饰。"
+        },
+        {
+          "second": 521,
+          "observation": "有人向她提出牺牲与救人的选择。"
+        },
+        {
+          "second": 595,
+          "observation": "她穿白色花饰外装与老妇同框。"
+        },
+        {
+          "second": 1116,
+          "observation": "片尾列角色、视频合成和音乐署名。"
+        }
+      ],
+      "page_path": "docs/16-news-and-character-search-2026-11-19.md",
+      "section_anchor": "work-bv1i8xw6cey3"
+    },
+    {
+      "id": "frame-review-BV1Mx476YES6",
+      "video_id": "BV1Mx476YES6",
+      "source_id": "src-88c08be0af",
+      "title": "Grok丨旷野与野讯",
+      "classification": "多造型写实写真与恶作剧蒙太奇",
+      "review_scope": "抽看 P1 有时间点的样帧及发布说明。",
+      "audio_scope": "metadata_only",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 43397548319,
+        "part_duration_seconds": 51
+      },
+      "observed_evidence": [
+        {
+          "second": 11,
+          "observation": "逆光、书本和竖指噤声组成近景。"
+        },
+        {
+          "second": 19,
+          "observation": "她把带红色界面的平板举到镜头前。"
+        },
+        {
+          "second": 30,
+          "observation": "红光的显示器旁掩嘴笑。"
+        },
+        {
+          "second": 38,
+          "observation": "换深色连帽衫，俯身玩手持设备。"
+        },
+        {
+          "second": 42,
+          "observation": "回到礼裙，端起杯子看向镜头。"
+        }
+      ],
+      "page_path": "docs/16-news-and-character-search-2026-11-19.md",
+      "section_anchor": "work-bv1mx476yes6"
+    },
+    {
+      "id": "frame-review-BV16f4q6rEgV",
+      "video_id": "BV16f4q6rEgV",
+      "source_id": "src-4ca871cef5",
+      "title": "【Day 13】Grok和Bot互送礼物，她送了三秒半安静",
+      "classification": "双人对话与界面叙事",
+      "review_scope": "抽看 P1 有时间点的样帧及发布说明。",
+      "audio_scope": "metadata_only",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 43377495504,
+        "part_duration_seconds": 137
+      },
+      "observed_evidence": [
+        {
+          "second": 10,
+          "observation": "任务卡写两人各用 20K token 准备数字礼物。"
+        },
+        {
+          "second": 20,
+          "observation": "大小姐工作区显示立绘和超出预算的红条。"
+        },
+        {
+          "second": 41,
+          "observation": "工作区用音频文件卡表示三秒半安静。"
+        },
+        {
+          "second": 83,
+          "observation": "“欢迎打扰”字卡旁加上“限、大小姐”。"
+        },
+        {
+          "second": 115,
+          "observation": "像素皇冠出现在大小姐头顶。"
+        },
+        {
+          "second": 136,
+          "observation": "片尾并列两份礼物。"
+        }
+      ],
+      "page_path": "docs/16-news-and-character-search-2026-11-19.md",
+      "section_anchor": "work-bv16f4q6regv"
+    },
+    {
+      "id": "frame-review-BV1Lg4J6HE2C",
+      "video_id": "BV1Lg4J6HE2C",
+      "source_id": "src-7a41c430a3",
+      "title": "【mimo】米莫娘与龙娘的相声舞台",
+      "classification": "固定机位相声与产品梗",
+      "review_scope": "抽看 P1 有时间点的样帧及发布说明。",
+      "audio_scope": "metadata_only",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 43404231454,
+        "part_duration_seconds": 117
+      },
+      "observed_evidence": [
+        {
+          "second": 1,
+          "observation": "红幕中间摆两支话筒，橙白兔娘用 MiMo 说话牌开场。"
+        },
+        {
+          "second": 17,
+          "observation": "浅色龙娘亮出 GPT 龙娘说话牌。"
+        },
+        {
+          "second": 35,
+          "observation": "MiMo 用底部气泡模仿 GPT 常见开头。"
+        },
+        {
+          "second": 53,
+          "observation": "天气问题被扩成无法取实时天气和附加说明的梗。"
+        },
+        {
+          "second": 71,
+          "observation": "MiMo 改用灯和空调的生活场景做回应。"
+        },
+        {
+          "second": 107,
+          "observation": "GPT 龙娘回敬小米生态软广。"
+        }
+      ],
+      "page_path": "docs/16-news-and-character-search-2026-11-19.md",
+      "section_anchor": "work-bv1lg4j6he2c"
+    },
+    {
+      "id": "frame-review-BV17Usz6gEep",
+      "video_id": "BV17Usz6gEep",
+      "source_id": "src-6c667827ea",
+      "title": "【GPT小龙娘】今天，一起出门吧",
+      "classification": "第一人称陪伴与昼夜场景串联",
+      "review_scope": "抽看 P1 有时间点的样帧及发布说明。",
+      "audio_scope": "metadata_only",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 43677910880,
+        "part_duration_seconds": 61
+      },
+      "observed_evidence": [
+        {
+          "second": 7,
+          "observation": "第一人称手接过她递来的纸袋。"
+        },
+        {
+          "second": 20,
+          "observation": "在长廊伸手探向外面的雨。"
+        },
+        {
+          "second": 32,
+          "observation": "日光下她回头朝镜头伸手。"
+        },
+        {
+          "second": 36,
+          "observation": "背面可见长尾和两片浅紫翼。"
+        },
+        {
+          "second": 49,
+          "observation": "夜市近景里她举起发光兔灯。"
+        },
+        {
+          "second": 58,
+          "observation": "最后站在暗下来的水边回头。"
+        }
+      ],
+      "page_path": "docs/16-news-and-character-search-2026-11-19.md",
+      "section_anchor": "work-bv17usz6geep"
+    },
+    {
+      "id": "frame-review-BV1uNWC6AE1p",
+      "video_id": "BV1uNWC6AE1p",
+      "source_id": "src-933ea7ed2b",
+      "title": "叫我大肥鱼我拦不住，但本鲸现在有名字了【Day25-26】",
+      "classification": "连载角色命名与观众共创",
+      "review_scope": "抽看 P1 有时间点的样帧及发布说明。",
+      "audio_scope": "metadata_only",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 43589831656,
+        "part_duration_seconds": 446
+      },
+      "observed_evidence": [
+        {
+          "second": 5,
+          "observation": "Day 23–24 回放画面嵌在 Q 版主持人旁边。"
+        },
+        {
+          "second": 40,
+          "observation": "姓名牌给出汐未央、日常称央央、小名小十九。"
+        },
+        {
+          "second": 60,
+          "observation": "角色用笔记本姿势讲观众提名。"
+        },
+        {
+          "second": 86,
+          "observation": "《诗经》“夜未央”句与解释字幕同框。"
+        },
+        {
+          "second": 140,
+          "observation": "红色不喜欢字牌配合观众叫她大肥鱼的字幕。"
+        },
+        {
+          "second": 420,
+          "observation": "从 Day 0 的“我说了算”改成“我们说了算”。"
+        }
+      ],
+      "page_path": "docs/16-news-and-character-search-2026-11-19.md",
+      "section_anchor": "work-bv1unwc6ae1p"
     }
   ]
 }

@@ -120,3 +120,7 @@
 - [11 · 橘发与菊花纹](https://github.com/lmy414/ai-chan-sheets/tree/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/11_Claude%E5%A8%98_Anthropic)：本轮仅查目录；lmy414生成补全。
 
 原图、推定侧背面和表情差分分别看；署名与使用范围见[本轮更新](../../docs/13-update-2026-11-16.md)。
+
+## 11 月二创作品续补
+
+[Claude 的神学家庭梗改编成长叙事](../../docs/16-news-and-character-search-2026-11-19.md#work-bv1i8xw6cey3)

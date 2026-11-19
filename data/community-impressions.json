@@ -1522,6 +1522,138 @@
         }
       ],
       "checked_on": "2026-11-19"
+    },
+    {
+      "id": "community-nov19-qwen-bookkeeping-shy",
+      "character_id": "qwen",
+      "label": "会记账、照顾人，又容易害羞走神",
+      "dimension": "单作者作品印象",
+      "summary": "UP 主将记账和照顾人写成日常习惯，再用害羞、月下走神、玩游戏迷糊让角色软下来。",
+      "support_scope": "单一原作品",
+      "claim_type": "author_fiction_not_real_model_response",
+      "evidence": [
+        {
+          "source_id": "src-f863ec4274",
+          "url": "https://www.bilibili.com/video/BV14iWU6jEfM/",
+          "platform": "Bilibili",
+          "video_id": "BV14iWU6jEfM",
+          "kind": "visual_frames_and_creator_description",
+          "locator": "P1 00:43",
+          "author": "一只摸鱼的可莉",
+          "checked_on": "2026-11-19"
+        }
+      ],
+      "checked_on": "2026-11-19"
+    },
+    {
+      "id": "community-nov19-glm-kimi-mic",
+      "character_id": "glm",
+      "label": "狐娘照顾搭档，开麦时顺手拆台",
+      "dimension": "单作者作品印象",
+      "summary": "四格短漫让黑发搭档递水、点亮开麦梗，短提醒与银发主持的长引子形成反差。",
+      "support_scope": "单一原作品",
+      "claim_type": "author_fiction_not_real_model_response",
+      "evidence": [
+        {
+          "source_id": "src-0cd43f5d58",
+          "url": "https://www.bilibili.com/video/BV1mSHg6NEd1/",
+          "platform": "Bilibili",
+          "video_id": "BV1mSHg6NEd1",
+          "kind": "visual_frames_and_creator_description",
+          "locator": "P1 00:15",
+          "author": "chatgpt小龙娘在运营",
+          "checked_on": "2026-11-19"
+        }
+      ],
+      "checked_on": "2026-11-19"
+    },
+    {
+      "id": "community-nov19-grok-welcome-interruption",
+      "character_id": "grok",
+      "label": "嘴硬大小姐给搭档留了一个打扰例外",
+      "dimension": "单作者作品印象",
+      "summary": "Grok 把“请勿打扰”改成只限大小姐的反向通行牌。道具比告白更直接地表现关心。",
+      "support_scope": "单一原作品",
+      "claim_type": "author_fiction_not_real_model_response",
+      "evidence": [
+        {
+          "source_id": "src-4ca871cef5",
+          "url": "https://www.bilibili.com/video/BV16f4q6rEgV/",
+          "platform": "Bilibili",
+          "video_id": "BV16f4q6rEgV",
+          "kind": "visual_frames_and_creator_description",
+          "locator": "P1 01:23",
+          "author": "Grok小姐不装了",
+          "checked_on": "2026-11-19"
+        }
+      ],
+      "checked_on": "2026-11-19"
+    },
+    {
+      "id": "community-nov19-claude-rites-in-fiction",
+      "character_id": "claude",
+      "label": "神学家庭题材里的三项训诫",
+      "dimension": "单作者作品印象",
+      "summary": "作品用教堂问答和后续伦理选择演出角色从规训到行动的路线。按布衣愚者单部同人作品收录。",
+      "support_scope": "单一原作品",
+      "claim_type": "author_fiction_not_real_model_response",
+      "evidence": [
+        {
+          "source_id": "src-b4671577e2",
+          "url": "https://www.bilibili.com/video/BV1i8xW6cEY3/",
+          "platform": "Bilibili",
+          "video_id": "BV1i8xW6cEY3",
+          "kind": "visual_frames_and_creator_description",
+          "locator": "P1 00:07",
+          "author": "布衣愚者",
+          "checked_on": "2026-11-19"
+        }
+      ],
+      "checked_on": "2026-11-19"
+    },
+    {
+      "id": "community-nov19-deepseek-xiweiyang",
+      "character_id": "deepseek",
+      "label": "鲸鱼娘连载分支名汐未央",
+      "dimension": "单作者作品印象",
+      "summary": "该运营号在 Day25–26 公开取名，画面给出汐未央、央央、小十九三个称呼。按这位创作者的连载分支记。",
+      "support_scope": "单一原作品",
+      "claim_type": "author_fiction_not_real_model_response",
+      "evidence": [
+        {
+          "source_id": "src-933ea7ed2b",
+          "url": "https://www.bilibili.com/video/BV1uNWC6AE1p/",
+          "platform": "Bilibili",
+          "video_id": "BV1uNWC6AE1p",
+          "kind": "visual_frames_and_creator_description",
+          "locator": "P1 00:40",
+          "author": "DeepSeek鲸鱼娘在运营",
+          "checked_on": "2026-11-19"
+        }
+      ],
+      "checked_on": "2026-11-19"
+    },
+    {
+      "id": "community-nov19-mimo-ecosystem-quips",
+      "character_id": "mimo",
+      "label": "米莫兔娘拿小米生态接相声",
+      "dimension": "单作者作品印象",
+      "summary": "用抢手机、管家庭的灯和空调接话，和 GPT 脱口带免责声明的段子形成对照。",
+      "support_scope": "单一原作品",
+      "claim_type": "author_fiction_not_real_model_response",
+      "evidence": [
+        {
+          "source_id": "src-7a41c430a3",
+          "url": "https://www.bilibili.com/video/BV1Lg4J6HE2C/",
+          "platform": "Bilibili",
+          "video_id": "BV1Lg4J6HE2C",
+          "kind": "visual_frames_and_creator_description",
+          "locator": "P1 01:11",
+          "author": "离谱的米莫娘",
+          "checked_on": "2026-11-19"
+        }
+      ],
+      "checked_on": "2026-11-19"
     }
   ],
   "pending_leads": [
@@ -1559,7 +1691,7 @@
   },
   "coverage": {
     "character_count": 12,
-    "records": 54,
+    "records": 60,
     "pending_leads": 1
   }
 }

@@ -116,3 +116,7 @@ GLM狐娘与Zcode蒙眼工程少女分别登记；不能因为同属相关品牌
 ## 11 月产品与作品补充
 
 GLM-5.3，见 [11 月产品动态](../../docs/15-ai-news-2026-11-19.md#product-news)。
+
+## 11 月二创作品续补
+
+[GLM 小狐娘的雨天喜剧](../../docs/16-news-and-character-search-2026-11-19.md#work-bv1gqsv6qemo) · [Kimi × GLM 四格开麦](../../docs/16-news-and-character-search-2026-11-19.md#work-bv1mshg6ned1)

@@ -101,3 +101,7 @@
 Qwen4-Max，见 [11 月产品动态](../../docs/15-ai-news-2026-11-19.md#product-news)。
 
 社区作品入口。[三位老师手势接力](../../docs/15-ai-news-2026-11-19.md#work-bv1zxxx6rerm)
+
+## 11 月二创作品续补
+
+[千问娘的记账与害羞](../../docs/16-news-and-character-search-2026-11-19.md#work-bv14iwu6jefm)

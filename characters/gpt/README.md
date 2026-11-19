@@ -141,3 +141,11 @@ UP 主用 Astra 称呼自己常用的 GPT 聊天模式。按其简介，紫发 J
 ## 喵喵竞技场 · GPT-6 Astra 和 GPT-6.2 Sol
 
 第 9 集在 02:38 给两人同一个工程帽主题。Astra 为薄荷绿长卷发、层叠长裙和青色名牌，Sol 的身形更小，浅色短发，亮绿色名牌。节目用双人高亮轮换、阵营色、字幕和同色赛果卡维持区别。妹妹这一关系来自本期节目。[出场原片](https://www.bilibili.com/video/BV1JkWH64ESy/?p=1&t=158) · [赛事演出分析](../../videos/cases/BV1JkWH64ESy.md)
+
+## 11 月产品动态续补
+
+GPT-6.2 Astra 与 Sol见 [产品动态](../../docs/16-news-and-character-search-2026-11-19.md#product-news)。
+
+## 11 月二创作品续补
+
+[GPT 小龙娘的一天](../../docs/16-news-and-character-search-2026-11-19.md#work-bv17usz6geep) · [MiMo 兔娘与 GPT 龙娘说相声](../../docs/16-news-and-character-search-2026-11-19.md#work-bv1lg4j6he2c)

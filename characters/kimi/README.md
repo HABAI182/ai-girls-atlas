@@ -104,3 +104,7 @@
 Kimi K3.1 Pro，见 [11 月产品动态](../../docs/15-ai-news-2026-11-19.md#product-news)。
 
 社区作品入口。[三位老师手势接力](../../docs/15-ai-news-2026-11-19.md#work-bv1zxxx6rerm) · [Kimi 娘时薪梗](../../docs/15-ai-news-2026-11-19.md#work-bv1gsxs68eme)
+
+## 11 月二创作品续补
+
+[Kimi × GLM 四格开麦](../../docs/16-news-and-character-search-2026-11-19.md#work-bv1mshg6ned1)

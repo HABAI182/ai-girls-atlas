@@ -32,3 +32,11 @@
 ## 11 月产品与作品补充
 
 Runway · 表演与角色视频入口，见 [11 月产品动态](../../docs/15-ai-news-2026-11-19.md#product-news)。
+
+## 11 月 19 日形象补查
+
+Runway Characters 的官方演示以自定义人物、样貌和声音展示 API。品牌指南和此次收录的机器人项目也未找到判定为 Runway 本身的具名方案。 当前仍待补。 [检索与核对记录](../../docs/16-news-and-character-search-2026-11-19.md#character-gaps)
+
+## 11 月产品动态续补
+
+Runway Praxis-1见 [产品动态](../../docs/16-news-and-character-search-2026-11-19.md#product-news)。

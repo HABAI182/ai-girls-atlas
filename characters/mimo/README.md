@@ -85,3 +85,7 @@
 MiMo Claw 2.1.2，见 [11 月产品动态](../../docs/15-ai-news-2026-11-19.md#product-news)。
 
 社区作品入口。[MiMo 兔娘自己开发布会](../../docs/15-ai-news-2026-11-19.md#work-bv1h4xt6ueyv) · [MiMo 兔娘翻唱《雨爱》](../../docs/15-ai-news-2026-11-19.md#work-bv1dw4q6vegq) · [MiMo 兔娘的六位前辈茶话会](../../docs/15-ai-news-2026-11-19.md#work-bv1fuxm6netw)
+
+## 11 月二创作品续补
+
+[甶丶的七款国产 AI 拟人设定卡](../../docs/16-news-and-character-search-2026-11-19.md#work-bv17bxt63emr) · [MiMo 兔娘与 GPT 龙娘说相声](../../docs/16-news-and-character-search-2026-11-19.md#work-bv1lg4j6he2c)

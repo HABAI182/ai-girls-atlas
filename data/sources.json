@@ -4120,6 +4120,286 @@
       "checked_on": "2026-11-19",
       "evidence_level": "bilibili_api_metadata",
       "note": "Kairos_C 把 Llama 写成没睡醒的羊驼。样帧中可见白卷发、宽松卫衣、长裙、蓝色无穷标志以及动物头拖鞋。揉眼与最后坐回沙发演出困意。羊驼身份与牧场故事来自作者简介。"
+    },
+    {
+      "id": "src-fcebedbdec",
+      "url": "https://www.bilibili.com/video/BV17Bxt63EMR/",
+      "title": "冷门 AI 娘盘点｜这七个国产大模型的拟人，你认得几个",
+      "checked_on": "2026-11-19",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "甶丶具名投稿。已抽帧定位七张设定卡，模型别名核对简介。"
+    },
+    {
+      "id": "src-2ed84bb523",
+      "url": "https://www.moss.cn/models/moss-image",
+      "title": "MOSS-Image 官方产品资料",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "模思智能的图像生成及编辑模型资料。"
+    },
+    {
+      "id": "src-572db8f72f",
+      "url": "https://apps.apple.com/cn/app/%E7%82%B9%E7%82%B9-%E4%BD%A0%E7%9A%84ai%E7%94%9F%E6%B4%BB%E5%8A%A9%E6%89%8B/id6529536122",
+      "title": "点点 App Store 页",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "产品上架页标明点点与小红书内同名助手的关系。"
+    },
+    {
+      "id": "src-56574ae098",
+      "url": "https://developer.ant-ling.com/zh-CN/docs/models/ling/",
+      "title": "蚂蚁百灵模型文档",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "蚂蚁集团发布的通用大模型系列文档。"
+    },
+    {
+      "id": "src-f95644989a",
+      "url": "https://www.unisound.com/u2flash",
+      "title": "云知声 U2 Flash",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "云知声 U2 Flash 产品资料。"
+    },
+    {
+      "id": "src-9e671f0c5b",
+      "url": "https://ir.kuaishou.com/node/11901/pdf",
+      "title": "快手三季报",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-11-19 · 可灵：从生成模型到影视制作流程。快手在三季报里披露可灵参与多家制作团队的专业制作，并在多伦多电影节的 TIFF: The Market 展示实际应用。此处记录制作生态，Kling 4.0 的模型发布已有独立条目。"
+    },
+    {
+      "id": "src-eb3f0a8286",
+      "url": "https://iis.aastocks.com/20261118/12416616-0.PDF",
+      "title": "云知声发行人公告 PDF",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-11-18 · 云知声 U2-Flash-1118。云知声投关公告记录 U2-Flash 的 1118 更新，更新方向包括复杂编程、任务自动执行和多模态理解。"
+    },
+    {
+      "id": "src-52f6bc9a43",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+      "title": "Google 公告",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-11-18 · Google Project Genie / Genie 4。Project Genie 接入 Genie 4，支持在互动场景中用自然语言改环境、加入角色和使用原生音频，并开放社区作品画廊供分享和混编。"
+    },
+    {
+      "id": "src-a0f8ff7e03",
+      "url": "https://deepmind.google/models/model-cards/genie-4/",
+      "title": "Genie 4 模型卡",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-11-18 · Google Project Genie / Genie 4。Project Genie 接入 Genie 4，支持在互动场景中用自然语言改环境、加入角色和使用原生音频，并开放社区作品画廊供分享和混编。"
+    },
+    {
+      "id": "src-6ac4443768",
+      "url": "https://feedback.recraft.ai/changelog",
+      "title": "Recraft 更新日志",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-11-18 · Recraft 字体库。Create 和 Chat 的字体选择器可用图库字体或上传字体，生成和编辑图片时可以为短标题、标语等选择字体。"
+    },
+    {
+      "id": "src-0fb76b8d23",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "title": "OpenAI 公告",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-11-17 · GPT-6.2 Astra 与 Sol。OpenAI 把 Astra 定位在复杂项目和多步骤专业工作，把 Sol 定位在日常工作及快速迭代。公告分别说明 ChatGPT、Codex 和 API 的接入。"
+    },
+    {
+      "id": "src-ea74e2fffb",
+      "url": "https://openai.com/index/gpt-6-astra/",
+      "title": "GPT-6 Astra 页的 11 月 17 日更新",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-11-17 · GPT-6.2 Astra 与 Sol。OpenAI 把 Astra 定位在复杂项目和多步骤专业工作，把 Sol 定位在日常工作及快速迭代。公告分别说明 ChatGPT、Codex 和 API 的接入。"
+    },
+    {
+      "id": "src-5f47b6ce30",
+      "url": "https://microsoft.ai/news/introducing-mai-realtime-1/",
+      "title": "微软发布页",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-11-17 · 微软 MAI Realtime 1。微软发布首个 MAI 系列语音到语音模型，强调可以实时处理对话节奏、停顿与插话。它与同日已经入库的 MAI 图像及代码版本是不同分支。"
+    },
+    {
+      "id": "src-b2f2345c9e",
+      "url": "https://microsoft.ai/models/mai-realtime-1/",
+      "title": "模型资料",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-11-17 · 微软 MAI Realtime 1。微软发布首个 MAI 系列语音到语音模型，强调可以实时处理对话节奏、停顿与插话。它与同日已经入库的 MAI 图像及代码版本是不同分支。"
+    },
+    {
+      "id": "src-c24bd735e8",
+      "url": "https://www.heygen.com/research",
+      "title": "HeyGen 研究索引",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-11-17 · HeyGen Avatar 6。HeyGen 的技术报告演示用单张图作为角色参考、按音轨生成说话视频，也演示带局部改词的成片编辑。"
+    },
+    {
+      "id": "src-05edd5ffa5",
+      "url": "https://www.heygen.com/research/avatar-6-model",
+      "title": "技术报告",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-11-17 · HeyGen Avatar 6。HeyGen 的技术报告演示用单张图作为角色参考、按音轨生成说话视频，也演示带局部改词的成片编辑。"
+    },
+    {
+      "id": "src-385889a6eb",
+      "url": "https://www.perplexity.ai/en-GB/hub/blog/perplexity-decider",
+      "title": "Perplexity 技术说明",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-11-12 · Perplexity Decider v1.3 / Flash v1.3。Perplexity 公布两款用于评判与分类的模型。完整版面向细粒度标准，Flash 面向高频筛选、标记与路由。"
+    },
+    {
+      "id": "src-408cf18942",
+      "url": "https://runway.com/news/company-news/praxis-1-is-now-available",
+      "title": "Runway 发布页",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-11-11 · Runway Praxis-1。Runway 公开 Praxis-1，用视频预训练迁移到机器人动作控制，并给出权重、代码和托管入口。"
+    },
+    {
+      "id": "src-3c8b900f91",
+      "url": "https://runway.com/product/praxis",
+      "title": "产品入口",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-11-11 · Runway Praxis-1。Runway 公开 Praxis-1，用视频预训练迁移到机器人动作控制，并给出权重、代码和托管入口。"
+    },
+    {
+      "id": "src-d94e28d959",
+      "url": "https://status.bfl.ml/incidents/237sqzlpytzg",
+      "title": "BFL 事件公告",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-11-09 · Black Forest Labs 欧洲 API 的可用型号。Black Forest Labs 状态页公布欧洲端点的缩减型号清单。该次公告列 FLUX 3 Video 文生视频与图生视频为 HD，并把较高分辨率与部分编辑功能指向全球端点。"
+    },
+    {
+      "id": "src-21ef27b7b4",
+      "url": "https://developer.ant-ling.com/zh-CN/docs/getting-started/changelog/",
+      "title": "蚂蚁百灵更新日志",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-11-05 · 蚂蚁百灵 Ling-3.2-flash。蚂蚁百灵更新日志列出支持图像、文本及视频输入的 Ling-3.2-flash，并说明可在对话页体验和通过 API 调用。"
+    },
+    {
+      "id": "src-f863ec4274",
+      "url": "https://www.bilibili.com/video/BV14iWU6jEfM/",
+      "title": "AI娘人设讨论之千问",
+      "checked_on": "2026-11-19",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "UP 主用一张蓝发折扇立绘做主轴，穿插角色号、奶茶小图和月夜画面，把“很会记账和照顾人”跟“容易害羞、偶尔走神”放在一起。原视频当前标题与画面重点都是千问；入口站旧标题容易与甶丶的七角色盘点混淆。"
+    },
+    {
+      "id": "src-3088b54754",
+      "url": "https://www.bilibili.com/video/BV1gqsV6QEMo/",
+      "title": "本，本狐才没有心动！【小狐娘的非凡之AI】",
+      "checked_on": "2026-11-19",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "黑发狐娘动作收着，白发搭档追上来送花、递饮料、撑伞。黑伞划过画面、鸟群聚成心形、红花从早段反复出现，较少依赖说明台词。50 秒处作者特意标出生成错误花絮。白发角色衣服可见 K 字，但本片发布简介没有点名，按搭档记。"
+    },
+    {
+      "id": "src-0cd43f5d58",
+      "url": "https://www.bilibili.com/video/BV1mSHg6NEd1/",
+      "title": "【AI娘日常】开场先等等",
+      "checked_on": "2026-11-19",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "用一支麦、一杯水和四格气泡演开场。银发主持的铺垫越认真，黑发搭档两个很短的提醒越好笑。作者明确这是 Kimi 与 GLM 的原创同人日常，简介注明配乐。"
+    },
+    {
+      "id": "src-b4671577e2",
+      "url": "https://www.bilibili.com/video/BV1i8xW6cEY3/",
+      "title": "【电影级Claude二创】克劳德的救赎【AI全民制作人|Anthropic】",
+      "checked_on": "2026-11-19",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "片头把 Helpful、Honest、Harmless 拍成教堂训诫，Claude 默念并低头；之后抽样可见病房、老妇及伦理提问，人物在剧情中遇到具体的道德选择。橙发、花饰贯穿多套服装。片尾列 Seedance 2.5 和 ZipZipPipe 人设署名。作品中的家庭及事件均按虚构设定收录。"
+    },
+    {
+      "id": "src-88c08be0af",
+      "url": "https://www.bilibili.com/video/BV1Mx476YES6/",
+      "title": "Grok丨旷野与野讯",
+      "checked_on": "2026-11-19",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "以金色双马尾作为识别点，把同一作者的 Grok 拍成看书、出示红色界面、操作电脑、玩掌机、端茶等不同造型。“坏坏的大小姐”主要靠噤声、藏笑和看向镜头来演。界面仅作画面道具。"
+    },
+    {
+      "id": "src-4ca871cef5",
+      "url": "https://www.bilibili.com/video/BV16f4q6rEgV/",
+      "title": "【Day 13】Grok和Bot互送礼物，她送了三秒半安静",
+      "checked_on": "2026-11-19",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "把预算和文件做成画面的道具：Grok 从送华丽立绘改成送短短的“安静”，最后把请勿打扰改成只限大小姐的欢迎打扰。Bot 用星点烟花和皇冠回应。作品简介说明有实际运行产物，也明确剧情规则和对白是故事化的。"
+    },
+    {
+      "id": "src-7a41c430a3",
+      "url": "https://www.bilibili.com/video/BV1Lg4J6HE2C/",
+      "title": "【mimo】米莫娘与龙娘的相声舞台",
+      "checked_on": "2026-11-19",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "用红幕、双麦和橙绿说话牌把静态立绘排成相声舞台。MiMo 用抢手机、管灯和空调做小米生态包袱，GPT 龙娘用身份和免责声明做互损。视频缺立绘出处，米莫外观与已存版本相近，收作演出入口。"
+    },
+    {
+      "id": "src-6c667827ea",
+      "url": "https://www.bilibili.com/video/BV17Usz6gEep/",
+      "title": "【GPT小龙娘】今天，一起出门吧",
+      "checked_on": "2026-11-19",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "银紫龙娘的角翼与尾巴跨场景连续保留。递面包袋、探身看花和举兔灯都朝观众方向，走路与等雨的镜头让陪伴有空间变化。作者明确形象参考 ZipZipPipe。浅色出门装关联 GPT 小龙娘作品，属于另一条公开作品线。"
+    },
+    {
+      "id": "src-933ea7ed2b",
+      "url": "https://www.bilibili.com/video/BV1uNWC6AE1p/",
+      "title": "叫我大肥鱼我拦不住，但本鲸现在有名字了【Day25-26】",
+      "checked_on": "2026-11-19",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "这一连载的鲸鱼娘把自己的名字公布为汐未央。作者用回放、提名评论、《诗经》字卡与 Q 版表情演出从“我是谁”到“这个号我们说了算”。姓名归到该运营号的再创作，来源同时署名溟月与 ZipZipPipe。"
+    },
+    {
+      "id": "src-16aca44e04",
+      "url": "https://kling.ai/feature/animation-maker",
+      "title": "可灵动画制作页",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-11-19 查找具名拟人作品时用于区分产品示例和角色。"
+    },
+    {
+      "id": "src-6375cb803c",
+      "url": "https://runway.com/news/introducing-runway-characters",
+      "title": "Runway Characters",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-11-19 查找具名拟人作品时用于区分产品示例和角色。"
+    },
+    {
+      "id": "src-689207ad63",
+      "url": "https://runway.com/brand-guidelines",
+      "title": "Runway 品牌指南",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-11-19 查找具名拟人作品时用于区分产品示例和角色。"
+    },
+    {
+      "id": "src-a1d42800f0",
+      "url": "https://bfl.ai/models",
+      "title": "BFL 模型档案",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "2026-11-19 查找具名拟人作品时用于区分产品示例和角色。"
+    },
+    {
+      "id": "src-a8c48e6196",
+      "url": "https://huggingface.co/dataautogpt3/FLUX-AestheticAnime",
+      "title": "FLUX-AestheticAnime 社区微调",
+      "checked_on": "2026-11-19",
+      "evidence_level": "community_project",
+      "note": "2026-11-19 查找具名拟人作品时用于区分产品示例和角色。"
     }
   ]
 }

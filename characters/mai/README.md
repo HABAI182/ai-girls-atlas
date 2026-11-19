@@ -27,3 +27,7 @@
 ## 11 月产品与作品补充
 
 MAI Code 2 与 Code 2 Flash、MAI Image 2.7 与 Flash，见 [11 月产品动态](../../docs/15-ai-news-2026-11-19.md#product-news)。
+
+## 11 月产品动态续补
+
+微软 MAI Realtime 1见 [产品动态](../../docs/16-news-and-character-search-2026-11-19.md#product-news)。

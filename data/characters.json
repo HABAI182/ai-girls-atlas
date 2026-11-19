@@ -74,7 +74,8 @@
         "src-0380e84eca",
         "src-462b39f1ef",
         "src-baf42d9116",
-        "src-d63e1ab517"
+        "src-d63e1ab517",
+        "src-933ea7ed2b"
       ],
       "local_asset_ids": [
         "zipzippipe-pixiv-148186519-p00",
@@ -185,7 +186,11 @@
         "src-34fbf4b4b4",
         "src-6550941b8e",
         "src-49f3e817c4",
-        "src-8b395c74af"
+        "src-8b395c74af",
+        "src-0fb76b8d23",
+        "src-ea74e2fffb",
+        "src-7a41c430a3",
+        "src-6c667827ea"
       ],
       "local_asset_ids": [
         "zipzippipe-pixiv-148186519-p03",
@@ -209,7 +214,8 @@
         "lmy-sheets-13",
         "tips-song-astra-chat",
         "meow-arena-ep9-astra",
-        "meow-arena-ep9-sol"
+        "meow-arena-ep9-sol",
+        "gpt-longniang-day-outfit"
       ],
       "persona_profile_id": "persona-atlas-gpt",
       "persona_profile_path": "encyclopedia/personas/gpt.md",
@@ -265,7 +271,8 @@
         "src-f5a66e9033",
         "src-d5debdfbdd",
         "src-ecdc271a3a",
-        "src-1ce01a3b4a"
+        "src-1ce01a3b4a",
+        "src-b4671577e2"
       ],
       "local_asset_ids": [
         "zipzippipe-pixiv-148186519-p02",
@@ -409,7 +416,9 @@
         "src-d5debdfbdd",
         "src-ecdc271a3a",
         "src-fe655a5ce9",
-        "src-57623e44e1"
+        "src-57623e44e1",
+        "src-88c08be0af",
+        "src-4ca871cef5"
       ],
       "local_asset_ids": [
         "zipzippipe-pixiv-148186519-p07",
@@ -427,7 +436,8 @@
       "variant_ids": [
         "school-op-grok",
         "apprentice-grok",
-        "lmy-sheets-09"
+        "lmy-sheets-09",
+        "duadu-grok-photo"
       ],
       "persona_profile_id": "persona-atlas-grok",
       "persona_profile_path": "encyclopedia/personas/grok.md",
@@ -477,7 +487,8 @@
         "src-11a9ec60cd",
         "src-f4a904d03d",
         "src-58cb72c7e9",
-        "src-46ff0a04f9"
+        "src-46ff0a04f9",
+        "src-0cd43f5d58"
       ],
       "local_asset_ids": [
         "zipzippipe-pixiv-148186519-p05",
@@ -542,7 +553,9 @@
         "src-d5debdfbdd",
         "src-ecdc271a3a",
         "src-534b6ee3e4",
-        "src-7e6c3dd9ad"
+        "src-7e6c3dd9ad",
+        "src-3088b54754",
+        "src-0cd43f5d58"
       ],
       "local_asset_ids": [
         "zipzippipe-pixiv-148186519-p06",
@@ -614,7 +627,8 @@
         "src-58cbe2a704",
         "src-756563a414",
         "src-072c694c9b",
-        "src-58cb72c7e9"
+        "src-58cb72c7e9",
+        "src-f863ec4274"
       ],
       "local_asset_ids": [
         "zipzippipe-pixiv-148186519-p12",
@@ -882,7 +896,8 @@
         "src-7d6d1d5015",
         "src-863473febf",
         "src-df5958ee04",
-        "src-439cc7483f"
+        "src-439cc7483f",
+        "src-385889a6eb"
       ],
       "local_asset_ids": [
         "school-op-perplexity"
@@ -1402,7 +1417,8 @@
         "src-6c2cb3e398",
         "src-71269485bd",
         "src-c6b207832c",
-        "src-9fea2dbdaf"
+        "src-9fea2dbdaf",
+        "src-fcebedbdec"
       ],
       "local_asset_ids": [
         "stepfun-portrait-lamp",
@@ -1453,7 +1469,9 @@
         "src-89fb384acc",
         "src-94afb309c2",
         "src-5bb7f75002",
-        "src-42841739c3"
+        "src-42841739c3",
+        "src-fcebedbdec",
+        "src-7a41c430a3"
       ],
       "local_asset_ids": [
         "mimo-adult-01",
@@ -1469,7 +1487,8 @@
         "priority-mimo-turnaround-02",
         "larcgpt-mimo-digital-city",
         "lmy-sheets-15",
-        "lmy-sheets-16"
+        "lmy-sheets-16",
+        "fuh-202611-mimo"
       ],
       "persona_profile_id": "persona-atlas-mimo",
       "persona_profile_path": "encyclopedia/personas/mimo.md",
@@ -1673,7 +1692,9 @@
       "creative_options_original": "先补作者、原帖、形象识别点和具体许可；自行设计时标记为新提案。",
       "sources": [
         "src-344baaa86f",
-        "src-2a0fefcc8c"
+        "src-2a0fefcc8c",
+        "src-9e671f0c5b",
+        "src-16aca44e04"
       ],
       "local_asset_ids": [],
       "not_claimed": [
@@ -1700,7 +1721,11 @@
       "creative_options_original": "先补作者、原帖、形象识别点和具体许可；自行设计时标记为新提案。",
       "sources": [
         "src-ca1174f449",
-        "src-369780db35"
+        "src-369780db35",
+        "src-408cf18942",
+        "src-3c8b900f91",
+        "src-6375cb803c",
+        "src-689207ad63"
       ],
       "local_asset_ids": [],
       "not_claimed": [
@@ -1801,7 +1826,10 @@
       "creative_options_original": "先补作者、原帖、形象识别点和具体许可；自行设计时标记为新提案。",
       "sources": [
         "src-e4937453ef",
-        "src-155c7b54b4"
+        "src-155c7b54b4",
+        "src-d94e28d959",
+        "src-a1d42800f0",
+        "src-a8c48e6196"
       ],
       "local_asset_ids": [],
       "not_claimed": [
@@ -2039,7 +2067,9 @@
         "src-4a7eba73d2",
         "src-38f7fa8966",
         "src-5fb2adb0a1",
-        "src-1e3e1429ef"
+        "src-1e3e1429ef",
+        "src-5f47b6ce30",
+        "src-b2f2345c9e"
       ],
       "local_asset_ids": [],
       "not_claimed": [
@@ -2110,7 +2140,7 @@
       "entity_kind": "model-family-reference",
       "status": "visual_lead",
       "design_family": "fuh-attributed-lmy-sheets",
-      "creators": "甶丶（上游据用户提供署名，待独立核对）；lmy414（生成补全）",
+      "creators": "甶丶（独立视频原作）；lmy414（上游补全设定板）",
       "aliases": [
         "LongCat娘",
         "美团龙猫",
@@ -2121,18 +2151,20 @@
         "黄色现代外套、白色内搭与黑色长袜",
         "设定板包含美团外卖箱与兔形玩偶"
       ],
-      "identity_rules": "本页只记录现代外套B款；作者关系来自上游用户提供，尚无本库独立核对的原始公开投稿。不能借用同作者MiMo的CC声明，也不把猫耳模型都归入Gemini。",
+      "identity_rules": "甶丶公开视频原作呈现白绿发、黄外套和外卖箱版本。lmy414 的现代外套 B 款按上游补全作品记录；其附件原图与视频卡的对应关系仍待逐图核对。",
       "creative_options_original": "",
       "sources": [
         "src-d5debdfbdd",
         "src-ecdc271a3a",
         "src-28de46cfec",
         "src-d0d2dec804",
-        "src-a9abc0070a"
+        "src-a9abc0070a",
+        "src-fcebedbdec"
       ],
       "local_asset_ids": [],
       "variant_ids": [
-        "lmy-sheets-17"
+        "lmy-sheets-17",
+        "fuh-202611-longcat"
       ],
       "reference_ids": [
         "ref-lmy-sheets-17"
@@ -2184,6 +2216,131 @@
       ],
       "persona_profile_id": "persona-atlas-muse",
       "persona_profile_path": "encyclopedia/personas/muse.md"
+    },
+    {
+      "id": "moss-image",
+      "name": "MOSS-Image / 模思智能",
+      "entity_kind": "image-model-family",
+      "status": "external_work_lead",
+      "design_family": "fuh-bilibili-nov-2026",
+      "creators": "甶丶（具名投稿）",
+      "aliases": [
+        "MOSS娘",
+        "MOSS-Image 娘"
+      ],
+      "observed_traits": [
+        "深蓝长发、红眼、黑色短裙与深色长袜",
+        "斜披黑色外层，肩有圆形纹样",
+        "长杖上部有多道金属环状结构"
+      ],
+      "identity_rules": "原作 MOSS 卡下方和简介都明确标 MOSS-Image。",
+      "creative_options_original": "",
+      "sources": [
+        "src-fcebedbdec",
+        "src-2ed84bb523"
+      ],
+      "local_asset_ids": [],
+      "variant_ids": [
+        "fuh-202611-moss-image"
+      ],
+      "reference_ids": [],
+      "persona_profile_id": "persona-atlas-moss-image",
+      "persona_profile_path": "encyclopedia/personas/moss-image.md"
+    },
+    {
+      "id": "diandian",
+      "name": "点点 / 小红书",
+      "entity_kind": "product",
+      "status": "external_work_lead",
+      "design_family": "fuh-bilibili-nov-2026",
+      "creators": "甶丶（具名投稿）",
+      "aliases": [
+        "点点娘",
+        "DIANDIAN",
+        "dots-3-note-preview"
+      ],
+      "observed_traits": [
+        "黑色短发，红边尖耳状兜帽与红披风",
+        "白黑内裙、红黑短靴与毛茸尾巴",
+        "红色提篮与长柄铲"
+      ],
+      "identity_rules": "原作将这张 DIANDIAN 卡对应“小红书点点”，并在简介标出 dots-3-note-preview。",
+      "creative_options_original": "",
+      "sources": [
+        "src-fcebedbdec",
+        "src-572db8f72f"
+      ],
+      "local_asset_ids": [],
+      "variant_ids": [
+        "fuh-202611-diandian"
+      ],
+      "reference_ids": [],
+      "persona_profile_id": "persona-atlas-diandian",
+      "persona_profile_path": "encyclopedia/personas/diandian.md"
+    },
+    {
+      "id": "ant-ling",
+      "name": "蚂蚁百灵 / Ant Ling",
+      "entity_kind": "model-family",
+      "status": "external_work_lead",
+      "design_family": "fuh-bilibili-nov-2026",
+      "creators": "甶丶（具名投稿）",
+      "aliases": [
+        "百灵娘",
+        "支付宝百灵",
+        "Ling"
+      ],
+      "observed_traits": [
+        "淡蓝紫短发、蓝白黑裙装",
+        "双手相扣站立，发间有深色弧形装饰",
+        "脚边另绘一片长角兽形影子"
+      ],
+      "identity_rules": "作者在原作简称“支付宝百灵”，官方名称为“蚂蚁百灵”。画面对应 Ling 3.1 Flash 1019。3.2 版本资料见新闻。",
+      "creative_options_original": "",
+      "sources": [
+        "src-fcebedbdec",
+        "src-56574ae098",
+        "src-21ef27b7b4"
+      ],
+      "local_asset_ids": [],
+      "variant_ids": [
+        "fuh-202611-ant-ling"
+      ],
+      "reference_ids": [],
+      "persona_profile_id": "persona-atlas-ant-ling",
+      "persona_profile_path": "encyclopedia/personas/ant-ling.md"
+    },
+    {
+      "id": "unisound-u2",
+      "name": "U2 / 云知声",
+      "entity_kind": "model-family",
+      "status": "external_work_lead",
+      "design_family": "fuh-bilibili-nov-2026",
+      "creators": "甶丶（具名投稿）",
+      "aliases": [
+        "云知声娘",
+        "U2娘",
+        "Unisound U2"
+      ],
+      "observed_traits": [
+        "青绿长发和深蓝兜帽",
+        "白色斗篷状宽袖、深蓝内层与青绿镶边",
+        "手持音叉状道具，衣摆悬浮"
+      ],
+      "identity_rules": "作者把 UNISOUND 卡对应云知声 U2 Flash / U2 Med。官网可独立核对 U2 Flash 名称。",
+      "creative_options_original": "",
+      "sources": [
+        "src-fcebedbdec",
+        "src-f95644989a",
+        "src-eb3f0a8286"
+      ],
+      "local_asset_ids": [],
+      "variant_ids": [
+        "fuh-202611-unisound-u2"
+      ],
+      "reference_ids": [],
+      "persona_profile_id": "persona-atlas-unisound-u2",
+      "persona_profile_path": "encyclopedia/personas/unisound-u2.md"
     }
   ]
 }

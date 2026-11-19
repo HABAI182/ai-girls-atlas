@@ -142,6 +142,12 @@
           "kind": "official_style_goal",
           "summary": "默认风格清楚中性；可选交流风格会与用户指令、记忆和具体写作任务共同影响输出。",
           "scope": "ChatGPT产品设置说明，核对日2026-10-21；不能推成所有GPT版本永远使用同一语气。"
+        },
+        {
+          "source_id": "src-0fb76b8d23",
+          "kind": "official_capability_context",
+          "summary": "OpenAI 把 Astra 定位在复杂项目和多步骤专业工作，把 Sol 定位在日常工作及快速迭代。公告分别说明 ChatGPT、Codex 和 API 的接入。",
+          "scope": "2026-11-17 · 官方发布"
         }
       ],
       "visual_observation": {
@@ -905,6 +911,12 @@
           "kind": "official_capability_context",
           "summary": "Perplexity 新增 Multiagent 工作档位，主代理把任务分给多个模型，各成员可以交换和复核结果。公告范围为网页端 Max 用户。",
           "scope": "2026-11-17 · 应用功能。版本资料可用于角色创作引子。"
+        },
+        {
+          "source_id": "src-385889a6eb",
+          "kind": "official_capability_context",
+          "summary": "Perplexity 公布两款用于评判与分类的模型。完整版面向细粒度标准，Flash 面向高频筛选、标记与路由。",
+          "scope": "2026-11-12 · 权重、托管与 API 入口"
         }
       ],
       "visual_observation": null,
@@ -1923,6 +1935,12 @@
           "kind": "official_capability_context",
           "summary": "快手 10 月 16 日公告记载模型于 10 月 15 日上线，列出三视图、分镜、主体图及参考视频等输入。",
           "scope": "2026-10-15 · 正式上线。版本资料可用于角色创作引子。"
+        },
+        {
+          "source_id": "src-9e671f0c5b",
+          "kind": "official_capability_context",
+          "summary": "快手在三季报里披露可灵参与多家制作团队的专业制作，并在多伦多电影节的 TIFF: The Market 展示实际应用。此处记录制作生态，Kling 4.0 的模型发布已有独立条目。",
+          "scope": "2026-11-19 · 快手三季报"
         }
       ],
       "visual_observation": null,
@@ -1975,6 +1993,12 @@
           "kind": "official_capability_context",
           "summary": "开发者模型目录分别列出 Act Two、Character Video 和 Gen-4.5。Character Video 以脚本或音频驱动角色说话，Gen-4.5 为文生和图生视频模型。",
           "scope": "2026-11-19 · 核对官方目录。版本资料可用于角色创作引子。"
+        },
+        {
+          "source_id": "src-408cf18942",
+          "kind": "official_capability_context",
+          "summary": "Runway 公开 Praxis-1，用视频预训练迁移到机器人动作控制，并给出权重、代码和托管入口。",
+          "scope": "2026-11-11 · 权重与代码公开"
         }
       ],
       "visual_observation": null,
@@ -2124,6 +2148,12 @@
           "kind": "official_capability_context",
           "summary": "Black Forest Labs 公布 Klein 模型、基础版与蒸馏版，介绍文本生成图像、编辑与多参考图用途。权重使用 FLUX Kommunity License。",
           "scope": "2026-10-15 · 权重公开。版本资料可用于角色创作引子。"
+        },
+        {
+          "source_id": "src-d94e28d959",
+          "kind": "official_capability_context",
+          "summary": "Black Forest Labs 状态页公布欧洲端点的缩减型号清单。该次公告列 FLUX 3 Video 文生视频与图生视频为 HD，并把较高分辨率与部分编辑功能指向全球端点。",
+          "scope": "2026-11-09 · 欧洲区服务状态，19 日仍列在监控栏"
         }
       ],
       "visual_observation": null,
@@ -2342,6 +2372,12 @@
           "kind": "official_capability_context",
           "summary": "微软介绍两种图像生成及编辑模型和由 Flash 驱动的 Canvas 工作区。发布页称两款模型在 Microsoft Foundry 公开预览。",
           "scope": "2026-11-17 · 图像模型公开预览。版本资料可用于角色创作引子。"
+        },
+        {
+          "source_id": "src-5f47b6ce30",
+          "kind": "official_capability_context",
+          "summary": "微软发布首个 MAI 系列语音到语音模型，强调可以实时处理对话节奏、停顿与插话。它与同日已经入库的 MAI 图像及代码版本是不同分支。",
+          "scope": "2026-11-17 · 官方发布"
         }
       ],
       "visual_observation": {
@@ -2403,6 +2439,13 @@
           "scope": "仅角色身份与来源；不作为性格依据",
           "evidence_kind": "identity_only",
           "summary": "仅确认上游名称、造型和署名链；没有查到可作为该角色文字性格的作者陈述。"
+        },
+        {
+          "author": "甶丶",
+          "source_id": "src-fcebedbdec",
+          "scope": "P1 00:07 具名卡及视频简介",
+          "evidence_kind": "identity_only",
+          "summary": "原作具名发布 LongCat 拟人卡，对应美团 LongCat 2.0 / 2.5 Preview。"
         }
       ],
       "product_basis": [
@@ -2418,10 +2461,10 @@
         "scope": "只看设定板预览"
       },
       "real_model_dialogue_measurement": null,
-      "visual_binding": "本页只记录现代外套B款；作者关系来自上游用户提供，尚无本库独立核对的原始公开投稿。不能借用同作者MiMo的CC声明，也不把猫耳模型都归入Gemini。",
+      "visual_binding": "甶丶公开视频原作呈现白绿发、黄外套和外卖箱版本。lmy414 的现代外套 B 款按上游补全作品记录；其附件原图与视频卡的对应关系仍待逐图核对。",
       "original": null,
       "original_dialogues": [],
-      "evidence_gap": "原始公开投稿、独立作者署名核验、文字性格与社区印象仍待补。"
+      "evidence_gap": "已补具名视频原作；设定板附件原图的具体对应、单张原图许可和作者文字性格待补。"
     },
     {
       "id": "persona-atlas-muse",
@@ -2450,6 +2493,158 @@
       "original": null,
       "original_dialogues": [],
       "evidence_gap": "原作者字段、图像使用范围、文字人设与社区印象待补。"
+    },
+    {
+      "id": "persona-atlas-moss-image",
+      "character_id": "moss-image",
+      "name": "MOSS-Image / 模思智能",
+      "setting_id": "source-fuh-moss-image",
+      "page_path": "encyclopedia/personas/moss-image.md",
+      "original_status": "source_summary",
+      "author_persona_status": "not_confirmed",
+      "author_basis": [
+        {
+          "author": "甶丶",
+          "source_id": "src-fcebedbdec",
+          "scope": "原片字卡与简介",
+          "evidence_kind": "identity_only",
+          "summary": "原作 MOSS 卡下方和简介都明确标 MOSS-Image。"
+        }
+      ],
+      "product_basis": [
+        {
+          "source_id": "src-2ed84bb523",
+          "kind": "official_capability_context",
+          "summary": "模思智能的图像生成及编辑模型资料。",
+          "scope": "产品身份资料"
+        }
+      ],
+      "visual_observation": {
+        "source_id": "src-fcebedbdec",
+        "scope": "P1 00:11 样帧"
+      },
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "原作 MOSS 卡下方和简介都明确标 MOSS-Image。",
+      "original": null,
+      "original_dialogues": [],
+      "evidence_gap": "待补单张原图来源、素材授权和可引用的作者文字人设。"
+    },
+    {
+      "id": "persona-atlas-diandian",
+      "character_id": "diandian",
+      "name": "点点 / 小红书",
+      "setting_id": "source-fuh-diandian",
+      "page_path": "encyclopedia/personas/diandian.md",
+      "original_status": "source_summary",
+      "author_persona_status": "not_confirmed",
+      "author_basis": [
+        {
+          "author": "甶丶",
+          "source_id": "src-fcebedbdec",
+          "scope": "原片字卡与简介",
+          "evidence_kind": "identity_only",
+          "summary": "原作将这张 DIANDIAN 卡对应“小红书点点”，并在简介标出 dots-3-note-preview。"
+        }
+      ],
+      "product_basis": [
+        {
+          "source_id": "src-572db8f72f",
+          "kind": "official_capability_context",
+          "summary": "产品上架页标明点点与小红书内同名助手的关系。",
+          "scope": "产品身份资料"
+        }
+      ],
+      "visual_observation": {
+        "source_id": "src-fcebedbdec",
+        "scope": "P1 00:14 样帧"
+      },
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "原作将这张 DIANDIAN 卡对应“小红书点点”，并在简介标出 dots-3-note-preview。",
+      "original": null,
+      "original_dialogues": [],
+      "evidence_gap": "待补单张原图来源、素材授权和可引用的作者文字人设。"
+    },
+    {
+      "id": "persona-atlas-ant-ling",
+      "character_id": "ant-ling",
+      "name": "蚂蚁百灵 / Ant Ling",
+      "setting_id": "source-fuh-ant-ling",
+      "page_path": "encyclopedia/personas/ant-ling.md",
+      "original_status": "source_summary",
+      "author_persona_status": "not_confirmed",
+      "author_basis": [
+        {
+          "author": "甶丶",
+          "source_id": "src-fcebedbdec",
+          "scope": "原片字卡与简介",
+          "evidence_kind": "identity_only",
+          "summary": "作者在原作简称“支付宝百灵”，官方名称为“蚂蚁百灵”。画面对应 Ling 3.1 Flash 1019。3.2 版本资料见新闻。"
+        }
+      ],
+      "product_basis": [
+        {
+          "source_id": "src-56574ae098",
+          "kind": "official_capability_context",
+          "summary": "蚂蚁集团发布的通用大模型系列文档。",
+          "scope": "产品身份资料"
+        },
+        {
+          "source_id": "src-21ef27b7b4",
+          "kind": "official_capability_context",
+          "summary": "蚂蚁百灵更新日志列出支持图像、文本及视频输入的 Ling-3.2-flash，并说明可在对话页体验和通过 API 调用。",
+          "scope": "2026-11-05 · 开放对话与 API 入口"
+        }
+      ],
+      "visual_observation": {
+        "source_id": "src-fcebedbdec",
+        "scope": "P1 00:19 样帧"
+      },
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "作者在原作简称“支付宝百灵”，官方名称为“蚂蚁百灵”。画面对应 Ling 3.1 Flash 1019。3.2 版本资料见新闻。",
+      "original": null,
+      "original_dialogues": [],
+      "evidence_gap": "待补单张原图来源、素材授权和可引用的作者文字人设。"
+    },
+    {
+      "id": "persona-atlas-unisound-u2",
+      "character_id": "unisound-u2",
+      "name": "U2 / 云知声",
+      "setting_id": "source-fuh-unisound-u2",
+      "page_path": "encyclopedia/personas/unisound-u2.md",
+      "original_status": "source_summary",
+      "author_persona_status": "not_confirmed",
+      "author_basis": [
+        {
+          "author": "甶丶",
+          "source_id": "src-fcebedbdec",
+          "scope": "原片字卡与简介",
+          "evidence_kind": "identity_only",
+          "summary": "作者把 UNISOUND 卡对应云知声 U2 Flash / U2 Med。官网可独立核对 U2 Flash 名称。"
+        }
+      ],
+      "product_basis": [
+        {
+          "source_id": "src-f95644989a",
+          "kind": "official_capability_context",
+          "summary": "云知声 U2 Flash 产品资料。",
+          "scope": "产品身份资料"
+        },
+        {
+          "source_id": "src-eb3f0a8286",
+          "kind": "official_capability_context",
+          "summary": "云知声投关公告记录 U2-Flash 的 1118 更新，更新方向包括复杂编程、任务自动执行和多模态理解。",
+          "scope": "2026-11-18 · 发行人公告发布"
+        }
+      ],
+      "visual_observation": {
+        "source_id": "src-fcebedbdec",
+        "scope": "P1 00:23 样帧"
+      },
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "作者把 UNISOUND 卡对应云知声 U2 Flash / U2 Med。官网可独立核对 U2 Flash 名称。",
+      "original": null,
+      "original_dialogues": [],
+      "evidence_gap": "待补单张原图来源、素材授权和可引用的作者文字人设。"
     }
   ],
   "community_video_observations": [

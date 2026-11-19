@@ -334,6 +334,221 @@
       ],
       "summary": "开发者模型目录分别列出 Act Two、Character Video 和 Gen-4.5。Character Video 以脚本或音频驱动角色说话，Gen-4.5 为文生和图生视频模型。",
       "editorial_atlas_use": "作品引用 Runway 时可记录到底是动捕参考、音频驱动还是视频生成。Runway 自身的拟人形象仍随作者线索单独查找。"
+    },
+    {
+      "id": "kling-q3-creative-ecosystem",
+      "date": "2026-11-19",
+      "date_kind": "source_event",
+      "status_as_recorded": "快手三季报",
+      "checked_on": "2026-11-19",
+      "title": "可灵：从生成模型到影视制作流程",
+      "character_ids": [
+        "kling"
+      ],
+      "source_ids": [
+        "src-9e671f0c5b"
+      ],
+      "summary": "快手在三季报里披露可灵参与多家制作团队的专业制作，并在多伦多电影节的 TIFF: The Market 展示实际应用。此处记录制作生态，Kling 4.0 的模型发布已有独立条目。",
+      "editorial_atlas_use": "可沿活动与合作作品回查创作者，寻找有明确角色署名的可灵主题二创。",
+      "page_path": "docs/16-news-and-character-search-2026-11-19.md",
+      "section_anchor": "product-news"
+    },
+    {
+      "id": "unisound-u2-flash-1118",
+      "date": "2026-11-18",
+      "date_kind": "source_event",
+      "status_as_recorded": "发行人公告发布",
+      "checked_on": "2026-11-19",
+      "title": "云知声 U2-Flash-1118",
+      "character_ids": [
+        "unisound-u2"
+      ],
+      "source_ids": [
+        "src-eb3f0a8286",
+        "src-f95644989a"
+      ],
+      "summary": "云知声投关公告记录 U2-Flash 的 1118 更新，更新方向包括复杂编程、任务自动执行和多模态理解。",
+      "editorial_atlas_use": "角色档案中的音叉道具和产品更新可以分别溯源；原作品版本照画面标注。",
+      "page_path": "docs/16-news-and-character-search-2026-11-19.md",
+      "section_anchor": "product-news"
+    },
+    {
+      "id": "google-genie-4",
+      "date": "2026-11-18",
+      "date_kind": "source_event",
+      "status_as_recorded": "向符合条件的 Ultra 用户推出",
+      "checked_on": "2026-11-19",
+      "title": "Google Project Genie / Genie 4",
+      "character_ids": [],
+      "source_ids": [
+        "src-52f6bc9a43",
+        "src-a0f8ff7e03"
+      ],
+      "summary": "Project Genie 接入 Genie 4，支持在互动场景中用自然语言改环境、加入角色和使用原生音频，并开放社区作品画廊供分享和混编。",
+      "editorial_atlas_use": "适合探索同一个同人角色在不同空间里怎样引导观众。Genie 是互动世界模型，角色身份按作品署名。",
+      "page_path": "docs/16-news-and-character-search-2026-11-19.md",
+      "section_anchor": "product-news"
+    },
+    {
+      "id": "recraft-font-library",
+      "date": "2026-11-18",
+      "date_kind": "source_event",
+      "status_as_recorded": "Recraft Studio 更新",
+      "checked_on": "2026-11-19",
+      "title": "Recraft 字体库",
+      "character_ids": [],
+      "source_ids": [
+        "src-6ac4443768"
+      ],
+      "summary": "Create 和 Chat 的字体选择器可用图库字体或上传字体，生成和编辑图片时可以为短标题、标语等选择字体。",
+      "editorial_atlas_use": "可用于保持多张角色卡的标题风格一致，字体许可按字体来源记录。",
+      "page_path": "docs/16-news-and-character-search-2026-11-19.md",
+      "section_anchor": "product-news"
+    },
+    {
+      "id": "gpt-62-astra-sol",
+      "date": "2026-11-17",
+      "date_kind": "source_event",
+      "status_as_recorded": "官方发布",
+      "checked_on": "2026-11-19",
+      "title": "GPT-6.2 Astra 与 Sol",
+      "character_ids": [
+        "gpt"
+      ],
+      "source_ids": [
+        "src-0fb76b8d23",
+        "src-ea74e2fffb"
+      ],
+      "summary": "OpenAI 把 Astra 定位在复杂项目和多步骤专业工作，把 Sol 定位在日常工作及快速迭代。公告分别说明 ChatGPT、Codex 和 API 的接入。",
+      "editorial_atlas_use": "采集跨模型群像时，视频署名、实际型号以及作者拟人画稿各自保留原日期。",
+      "page_path": "docs/16-news-and-character-search-2026-11-19.md",
+      "section_anchor": "product-news"
+    },
+    {
+      "id": "mai-realtime-1",
+      "date": "2026-11-17",
+      "date_kind": "source_event",
+      "status_as_recorded": "官方发布",
+      "checked_on": "2026-11-19",
+      "title": "微软 MAI Realtime 1",
+      "character_ids": [
+        "mai"
+      ],
+      "source_ids": [
+        "src-5f47b6ce30",
+        "src-b2f2345c9e"
+      ],
+      "summary": "微软发布首个 MAI 系列语音到语音模型，强调可以实时处理对话节奏、停顿与插话。它与同日已经入库的 MAI 图像及代码版本是不同分支。",
+      "editorial_atlas_use": "可参考产品对语音互动的描述安排轮次和停顿。MAI 同人音色与模型语音样例各自溯源。",
+      "page_path": "docs/16-news-and-character-search-2026-11-19.md",
+      "section_anchor": "product-news"
+    },
+    {
+      "id": "heygen-avatar-6",
+      "date": "2026-11-17",
+      "date_kind": "source_event",
+      "status_as_recorded": "官方研究报告和示例",
+      "checked_on": "2026-11-19",
+      "title": "HeyGen Avatar 6",
+      "character_ids": [],
+      "source_ids": [
+        "src-c24bd735e8",
+        "src-05edd5ffa5"
+      ],
+      "summary": "HeyGen 的技术报告演示用单张图作为角色参考、按音轨生成说话视频，也演示带局部改词的成片编辑。",
+      "editorial_atlas_use": "角色解说和长音轨口型制作可从报告找对应案例。示例角色按素材自己的身份记录。",
+      "page_path": "docs/16-news-and-character-search-2026-11-19.md",
+      "section_anchor": "product-news"
+    },
+    {
+      "id": "recraft-v41-flash-v2",
+      "date": "2026-11-13",
+      "date_kind": "source_event",
+      "status_as_recorded": "Studio 已替换，API 有新 ID",
+      "checked_on": "2026-11-19",
+      "title": "Recraft V4.1 Flash V2",
+      "character_ids": [],
+      "source_ids": [
+        "src-6ac4443768"
+      ],
+      "summary": "更新日志披露 Flash V2 替换了选择器里的旧版 Flash，主要改进图片中文字、细节和照片表现，API 型号为 recraftv4_1_flash_v2。",
+      "editorial_atlas_use": "角色卡文字与细节初稿可以按图像模型版本留档。",
+      "page_path": "docs/16-news-and-character-search-2026-11-19.md",
+      "section_anchor": "product-news"
+    },
+    {
+      "id": "perplexity-decider-v13",
+      "date": "2026-11-12",
+      "date_kind": "source_event",
+      "status_as_recorded": "权重、托管与 API 入口",
+      "checked_on": "2026-11-19",
+      "title": "Perplexity Decider v1.3 / Flash v1.3",
+      "character_ids": [
+        "perplexity"
+      ],
+      "source_ids": [
+        "src-385889a6eb"
+      ],
+      "summary": "Perplexity 公布两款用于评判与分类的模型。完整版面向细粒度标准，Flash 面向高频筛选、标记与路由。",
+      "editorial_atlas_use": "可把 Perplexity 在群像里的“调查”和“打分复核”写成不同职务，并保持具体作品的性格证据。",
+      "page_path": "docs/16-news-and-character-search-2026-11-19.md",
+      "section_anchor": "product-news"
+    },
+    {
+      "id": "runway-praxis-1",
+      "date": "2026-11-11",
+      "date_kind": "source_event",
+      "status_as_recorded": "权重与代码公开",
+      "checked_on": "2026-11-19",
+      "title": "Runway Praxis-1",
+      "character_ids": [
+        "runway"
+      ],
+      "source_ids": [
+        "src-408cf18942",
+        "src-3c8b900f91"
+      ],
+      "summary": "Runway 公开 Praxis-1，用视频预训练迁移到机器人动作控制，并给出权重、代码和托管入口。",
+      "editorial_atlas_use": "在拟人材料里可用来区分 Runway 的机器人模型方向与既有动画、对话虚拟角色产品。",
+      "page_path": "docs/16-news-and-character-search-2026-11-19.md",
+      "section_anchor": "product-news"
+    },
+    {
+      "id": "flux-eu-model-set-nov",
+      "date": "2026-11-09",
+      "date_kind": "source_event",
+      "status_as_recorded": "欧洲区服务状态，19 日仍列在监控栏",
+      "checked_on": "2026-11-19",
+      "title": "Black Forest Labs 欧洲 API 的可用型号",
+      "character_ids": [
+        "flux"
+      ],
+      "source_ids": [
+        "src-d94e28d959"
+      ],
+      "summary": "Black Forest Labs 状态页公布欧洲端点的缩减型号清单。该次公告列 FLUX 3 Video 文生视频与图生视频为 HD，并把较高分辨率与部分编辑功能指向全球端点。",
+      "editorial_atlas_use": "整理 FLUX 视频制作流程时保留访问日期、端点与分辨率；这是服务更新。",
+      "page_path": "docs/16-news-and-character-search-2026-11-19.md",
+      "section_anchor": "product-news"
+    },
+    {
+      "id": "ant-ling-32-flash",
+      "date": "2026-11-05",
+      "date_kind": "source_event",
+      "status_as_recorded": "开放对话与 API 入口",
+      "checked_on": "2026-11-19",
+      "title": "蚂蚁百灵 Ling-3.2-flash",
+      "character_ids": [
+        "ant-ling"
+      ],
+      "source_ids": [
+        "src-21ef27b7b4",
+        "src-56574ae098"
+      ],
+      "summary": "蚂蚁百灵更新日志列出支持图像、文本及视频输入的 Ling-3.2-flash，并说明可在对话页体验和通过 API 调用。",
+      "editorial_atlas_use": "已收录的甶丶版百灵人物卡标的是 3.1，本记录保留 3.2 产品演进的独立时间。",
+      "page_path": "docs/16-news-and-character-search-2026-11-19.md",
+      "section_anchor": "product-news"
     }
   ],
   "community_work_ids": [
@@ -344,7 +559,17 @@
     "BV1fUxm6NETw",
     "BV1UCW86ZEB6",
     "BV11rnt66EPf",
-    "BV1BdsR6SEfn"
+    "BV1BdsR6SEfn",
+    "BV17Bxt63EMR",
+    "BV14iWU6jEfM",
+    "BV1gqsV6QEMo",
+    "BV1mSHg6NEd1",
+    "BV1i8xW6cEY3",
+    "BV1Mx476YES6",
+    "BV16f4q6rEgV",
+    "BV1Lg4J6HE2C",
+    "BV17Usz6gEep",
+    "BV1uNWC6AE1p"
   ],
   "community_works": [
     {
@@ -427,6 +652,114 @@
       ],
       "review_scope": "timestamped_sampled_frames_and_creator_metadata",
       "section_anchor": "work-bv1bdsr6sefn"
+    },
+    {
+      "video_id": "BV17Bxt63EMR",
+      "source_id": "src-fcebedbdec",
+      "character_ids": [
+        "mimo",
+        "longcat",
+        "moss-image",
+        "diandian",
+        "ant-ling",
+        "unisound-u2",
+        "stepfun"
+      ],
+      "review_scope": "timestamped_sampled_frames_and_creator_metadata",
+      "page_path": "docs/16-news-and-character-search-2026-11-19.md",
+      "section_anchor": "work-bv17bxt63emr"
+    },
+    {
+      "video_id": "BV14iWU6jEfM",
+      "source_id": "src-f863ec4274",
+      "character_ids": [
+        "qwen"
+      ],
+      "review_scope": "timestamped_sampled_frames_and_creator_metadata",
+      "page_path": "docs/16-news-and-character-search-2026-11-19.md",
+      "section_anchor": "work-bv14iwu6jefm"
+    },
+    {
+      "video_id": "BV1gqsV6QEMo",
+      "source_id": "src-3088b54754",
+      "character_ids": [
+        "glm"
+      ],
+      "review_scope": "timestamped_sampled_frames_and_creator_metadata",
+      "page_path": "docs/16-news-and-character-search-2026-11-19.md",
+      "section_anchor": "work-bv1gqsv6qemo"
+    },
+    {
+      "video_id": "BV1mSHg6NEd1",
+      "source_id": "src-0cd43f5d58",
+      "character_ids": [
+        "kimi",
+        "glm"
+      ],
+      "review_scope": "timestamped_sampled_frames_and_creator_metadata",
+      "page_path": "docs/16-news-and-character-search-2026-11-19.md",
+      "section_anchor": "work-bv1mshg6ned1"
+    },
+    {
+      "video_id": "BV1i8xW6cEY3",
+      "source_id": "src-b4671577e2",
+      "character_ids": [
+        "claude"
+      ],
+      "review_scope": "timestamped_sampled_frames_and_creator_metadata",
+      "page_path": "docs/16-news-and-character-search-2026-11-19.md",
+      "section_anchor": "work-bv1i8xw6cey3"
+    },
+    {
+      "video_id": "BV1Mx476YES6",
+      "source_id": "src-88c08be0af",
+      "character_ids": [
+        "grok"
+      ],
+      "review_scope": "timestamped_sampled_frames_and_creator_metadata",
+      "page_path": "docs/16-news-and-character-search-2026-11-19.md",
+      "section_anchor": "work-bv1mx476yes6"
+    },
+    {
+      "video_id": "BV16f4q6rEgV",
+      "source_id": "src-4ca871cef5",
+      "character_ids": [
+        "grok"
+      ],
+      "review_scope": "timestamped_sampled_frames_and_creator_metadata",
+      "page_path": "docs/16-news-and-character-search-2026-11-19.md",
+      "section_anchor": "work-bv16f4q6regv"
+    },
+    {
+      "video_id": "BV1Lg4J6HE2C",
+      "source_id": "src-7a41c430a3",
+      "character_ids": [
+        "mimo",
+        "gpt"
+      ],
+      "review_scope": "timestamped_sampled_frames_and_creator_metadata",
+      "page_path": "docs/16-news-and-character-search-2026-11-19.md",
+      "section_anchor": "work-bv1lg4j6he2c"
+    },
+    {
+      "video_id": "BV17Usz6gEep",
+      "source_id": "src-6c667827ea",
+      "character_ids": [
+        "gpt"
+      ],
+      "review_scope": "timestamped_sampled_frames_and_creator_metadata",
+      "page_path": "docs/16-news-and-character-search-2026-11-19.md",
+      "section_anchor": "work-bv17usz6geep"
+    },
+    {
+      "video_id": "BV1uNWC6AE1p",
+      "source_id": "src-933ea7ed2b",
+      "character_ids": [
+        "deepseek"
+      ],
+      "review_scope": "timestamped_sampled_frames_and_creator_metadata",
+      "page_path": "docs/16-news-and-character-search-2026-11-19.md",
+      "section_anchor": "work-bv1unwc6ae1p"
     }
   ]
 }

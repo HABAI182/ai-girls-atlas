@@ -8,6 +8,8 @@
 
 [11 月新增的其他角色作品](../docs/15-ai-news-2026-11-19.md#community-works)涵盖 MiniMax、千问、Kimi、MiMo、文心、Llama 与 Copilot。
 
+[11 月新增 10 条二创与抽帧分析](../docs/16-news-and-character-search-2026-11-19.md#community-works)含冷门设定卡、狐月四格、写实写真、相声及角色命名。
+
 ## 新增社区印象入口
 
 本轮另读4条视频的标题、简介与评论，并补读原有《各个ai刻板印象》的字幕。它们接入[社区人设栏目](../encyclopedia/personas/community-impressions.md)，这部分为字幕与评论资料。
@@ -21,7 +23,7 @@
 
 
 <!-- generated:video-stats:start -->
-当前 **142 条视频记录**：92 条进入现有主品类索引，另 50 条为社区印象或近期作品发现入口，尚未归入画面品类；**36 篇抽帧案例**覆盖 20 个内容品类。其中 34 篇是 AI 娘作品、2 篇是关联制作方法参考。观察范围以每条记录为准。
+当前 **152 条视频记录**：92 条进入现有主品类索引，另 60 条为社区印象或近期作品发现入口，尚未归入画面品类；**36 篇抽帧案例**覆盖 20 个内容品类。其中 34 篇是 AI 娘作品、2 篇是关联制作方法参考。观察范围以每条记录为准。
 <!-- generated:video-stats:end -->
 
 [按视觉风格比较](styles.md) · [素材与工作流入口](materials.md) · [作者与系列](authors.md) · [全部视频CSV](all-videos.csv) · [结构化案例JSON](../data/video-studies.json)

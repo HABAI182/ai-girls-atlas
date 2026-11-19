@@ -6,6 +6,7 @@
 
 - **[AI娘视频：品类、风格与案例库](../videos/README.md)** · [风格比较](../videos/styles.md) · [模型/桌面/手作素材入口](../videos/materials.md)
 
+- **[11 月续更：新闻、形象补查和二创](16-news-and-character-search-2026-11-19.md)**
 - **[11 月 AI 产品新闻与社区作品](15-ai-news-2026-11-19.md)**
 - **[新增网站与GitHub项目评述](../docs/09-more-sources.md)** · **[已有角色的版本比较](../docs/10-variant-guide.md)**
 - **[表情、动作与素材用途](../docs/11-expression-and-materials.md)** · **[声音与较热视频](../docs/12-audio-and-popular-videos.md)**

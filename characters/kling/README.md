@@ -32,3 +32,11 @@
 ## 11 月产品与作品补充
 
 可灵 Kling 4.0，见 [11 月产品动态](../../docs/15-ai-news-2026-11-19.md#product-news)。
+
+## 11 月 19 日形象补查
+
+官方动画页的女孩和吉祥物属于输入或生成示例，检索到的“可灵动漫”主要指用工具把角色做成动画。 当前仍待补。 [检索与核对记录](../../docs/16-news-and-character-search-2026-11-19.md#character-gaps)
+
+## 11 月产品动态续补
+
+可灵：从生成模型到影视制作流程见 [产品动态](../../docs/16-news-and-character-search-2026-11-19.md#product-news)。

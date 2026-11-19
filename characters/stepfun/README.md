@@ -29,3 +29,7 @@
 作者填写CC BY-NC，未写版本号。这里保留原字节和署名。方灯与伞是道具设计，不能当成侧面/背面角色图。
 
 返回[角色总览](../../README.md) · [补缺专题](../../encyclopedia/gap-character-update.md)。
+
+## 11 月二创作品续补
+
+[甶丶的七款国产 AI 拟人设定卡](../../docs/16-news-and-character-search-2026-11-19.md#work-bv17bxt63emr)

@@ -92,3 +92,7 @@
 ## 11 月产品与作品补充
 
 Grok Imagine Image 模型迁移，见 [11 月产品动态](../../docs/15-ai-news-2026-11-19.md#product-news)。
+
+## 11 月二创作品续补
+
+[Grok 旷野与野讯](../../docs/16-news-and-character-search-2026-11-19.md#work-bv1mx476yes6) · [Grok 大小姐与 Bot 的数字礼物](../../docs/16-news-and-character-search-2026-11-19.md#work-bv16f4q6regv)

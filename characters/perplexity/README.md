@@ -63,3 +63,7 @@
 ## 11 月产品与作品补充
 
 Perplexity Computer · Multiagent，见 [11 月产品动态](../../docs/15-ai-news-2026-11-19.md#product-news)。
+
+## 11 月产品动态续补
+
+Perplexity Decider v1.3 / Flash v1.3见 [产品动态](../../docs/16-news-and-character-search-2026-11-19.md#product-news)。
