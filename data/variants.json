@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "checked_on": "2026-10-21",
+  "checked_on": "2026-11-19",
   "scope": "本轮新增及扩写的作者版本；不声称包含互联网全部设定。",
   "variants": [
     {
@@ -2086,6 +2086,48 @@
       "prompt_origin": "author_published",
       "review_scope": "author_text_read_not_runtime_tested",
       "checked_on": "2026-11-16"
+    },
+    {
+      "id": "lmy-sheets-19",
+      "character_id": "muse",
+      "collection": "lmy-sheets",
+      "title": "Muse 娘 · 横版设定板",
+      "creators": "识知不失智（作品页图片署名）；lmy414（设定板补全）",
+      "observed_traits": [
+        "粉白至蓝色渐变卷发、羊驼耳、∞ 发夹与细框圆眼镜",
+        "蓝色高领针织上衣、白蓝机能外套、左腿环与蓝白洞洞鞋",
+        "配件区可见 Jolly 玩偶和自拍手机"
+      ],
+      "difference_from_other_versions": "独立登记 Muse 角色。上游共列 3 张视图、8 张表情、4 项服装和 7 项道具与饰品。",
+      "asset_ids": [],
+      "source_ids": [
+        "src-ec22f5225d",
+        "src-9c2d55dd14",
+        "src-cf7d1e39cc",
+        "src-42af62cf03"
+      ],
+      "external_url": "https://github.com/lmy414/ai-chan-sheets/blob/415238bfdafa0fc153c8c0098e8efd4b57b2d5a5/%E8%AE%BE%E5%AE%9A%E5%9B%BE/19_Muse%E5%A8%98_Meta_AI/README.md",
+      "review_scope": "preview_image_and_upstream_text",
+      "checked_on": "2026-11-19"
+    },
+    {
+      "id": "tips-song-astra-chat",
+      "character_id": "gpt",
+      "collection": "independent-fan-works",
+      "title": "Tips-SoNg · Astra（GPT Chat）",
+      "creators": "Tips-SoNg（作者在简介中说明形象由其 GPT 聊天生成）",
+      "observed_traits": [
+        "紫发、JK 服（作者简介自述）",
+        "在这组漫画里，Astra 被写成 Codex 的姐姐"
+      ],
+      "difference_from_other_versions": "Astra 是这位作者给自己使用的 GPT 聊天模式起的名字，作者说明角色不开放源素材。",
+      "asset_ids": [],
+      "source_ids": [
+        "src-49f3e817c4"
+      ],
+      "external_url": "https://www.bilibili.com/video/BV1zm4h6RE9M/",
+      "checked_on": "2026-11-19",
+      "review_scope": "creator_description_only"
     }
   ]
 }

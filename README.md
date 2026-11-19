@@ -18,7 +18,7 @@
 
 具体模型与工具也有独立档案：[GPT Image / Image 2黑龙娘](characters/image2/README.md) · [Codex龙娘](characters/codex/README.md)。
 
-**[2026-11-16更新](docs/13-update-2026-11-16.md)**：LongCat、19份设定板、22条图库投稿、25条近期视频、人格与歌曲来源。
+**[2026-11-19 更新](docs/14-update-2026-11-19.md)**收录 Muse 娘、独立 Astra 设计、17 条图库作品、13 条视频、5 条声音和 7 条社区人设。
 
 ## 想找什么
 
@@ -33,9 +33,9 @@
 ## 当前收录
 
 <!-- generated:stats:start -->
-**46 个角色及关联条目 · 85 份本地参考文件 · 121 条视频 · 429 个来源入口 · 14 组下载素材**
+**47 个角色及关联条目 · 85 份本地参考文件 · 134 条视频 · 468 个来源入口 · 14 组下载素材**
 
-社区印象：10 个角色、41 条记录；另有 117 句本库原创对白。数量口径见[收录统计](docs/collection-status.md)。
+社区印象：10 个角色、48 条记录；另有 117 句本库原创对白。数量口径见[收录统计](docs/collection-status.md)。
 <!-- generated:stats:end -->
 
 社区印象、单作者设定和本库原创创作建议分别标注。视频逐条注明完整观看、抽帧、元数据或评论采样范围；已有研究不等于所有视频均已完整观看或试听。
@@ -44,6 +44,6 @@
 
 原作、具体作者、供应方及文件摘要见[数据入口](data/README.md)和[逐文件署名](THIRD_PARTY_NOTICES.md)。素材沿用各自许可；官方品牌资料以原站入口提供。素材用途和条件见[使用说明](docs/06-rights-and-provenance.md)，声音与图像分别记录。
 
-资料采集日期保存在各条记录；本次目录维护于 **2026-11-16**。[仍待补的内容](docs/07-gaps-and-roadmap.md)保留具体缺口。
+资料采集日期保存在各条记录；本次目录维护于 **2026-11-19**。[仍待补的内容](docs/07-gaps-and-roadmap.md)保留具体缺口。
 
 维护者：修改 JSON 后运行 `python scripts/generate_catalog.py`。提交前检查方法见[维护说明](docs/maintenance.md)。

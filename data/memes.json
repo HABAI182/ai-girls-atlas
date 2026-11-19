@@ -723,6 +723,218 @@
       "review_scope": "page_text_or_index_only",
       "local_copy": false,
       "note": "适合投喂、蹭饭和饭点语境。"
+    },
+    {
+      "id": "bluedafeiyu-deepseek202609200019",
+      "title": "你们不吃饭吗",
+      "character_ids": [
+        "deepseek"
+      ],
+      "category_ids": [
+        "meme"
+      ],
+      "detail_url": "https://xn--pssy23gqgbz2d718b.com/works/deepseek202609200019.html",
+      "original_image_url": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/deepseek/issue-10-001.png",
+      "origin_author_as_recorded": "@Yasenbaka、@Serdey256",
+      "origin_url": null,
+      "license_type_as_recorded": "submitter-permission",
+      "license_note_as_recorded": "按固定目录标注，详情页保留署名和许可入口。",
+      "source_id": "src-ea8a9be42d",
+      "emotion_tags_editorial": [
+        "吃白饭"
+      ],
+      "review_scope": "pinned_work_metadata_image_not_viewed",
+      "local_copy": false,
+      "note": "把白饭碗夸张到大过角色本身。",
+      "upstream_work_id": "sticker_issue_10_001"
+    },
+    {
+      "id": "bluedafeiyu-deepseek202609230082",
+      "title": "大生蚝？",
+      "character_ids": [
+        "deepseek"
+      ],
+      "category_ids": [
+        "meme"
+      ],
+      "detail_url": "https://xn--pssy23gqgbz2d718b.com/works/deepseek202609230082.html",
+      "original_image_url": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/deepseek/issue-37-001.png",
+      "origin_author_as_recorded": "Cru77z7M",
+      "origin_url": null,
+      "license_type_as_recorded": "cc-by-nc",
+      "license_note_as_recorded": "按固定目录标注，详情页保留署名和许可入口。",
+      "source_id": "src-e70e25f046",
+      "emotion_tags_editorial": [
+        "dsh",
+        "大生蚝",
+        "问号"
+      ],
+      "review_scope": "pinned_work_metadata_image_not_viewed",
+      "local_copy": false,
+      "note": "把 DSH 误读成“大生蚝”，是单件投稿的文字梗。",
+      "upstream_work_id": "sticker_issue_37_001"
+    },
+    {
+      "id": "bluedafeiyu-gemini202611160001",
+      "title": "炫彩猫猫哈气🐱💨",
+      "character_ids": [
+        "gemini"
+      ],
+      "category_ids": [
+        "meme"
+      ],
+      "detail_url": "https://xn--pssy23gqgbz2d718b.com/works/gemini202611160001.html",
+      "original_image_url": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/gemini/f7b94e1bbf5dcc0d.jpg",
+      "origin_author_as_recorded": null,
+      "origin_url": null,
+      "license_type_as_recorded": "not_labeled",
+      "license_note_as_recorded": "按固定目录标注，详情页保留署名和许可入口。",
+      "source_id": "src-f1f7526be4",
+      "emotion_tags_editorial": [
+        "猫耳",
+        "哈气",
+        "Q版",
+        "异色瞳"
+      ],
+      "review_scope": "pinned_work_metadata_image_not_viewed",
+      "local_copy": false,
+      "note": "姿态压低、猫耳竖起，配合“哈”字做反应图。",
+      "upstream_work_id": "sticker_f7b94e1bbf5dcc0d3c922705"
+    },
+    {
+      "id": "bluedafeiyu-claude202611160002",
+      "title": "！？蒸馏？！——原来是这个蒸馏",
+      "character_ids": [
+        "claude"
+      ],
+      "category_ids": [
+        "comic"
+      ],
+      "detail_url": "https://xn--pssy23gqgbz2d718b.com/works/claude202611160002.html",
+      "original_image_url": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/claude/0ea99cd4b275cd5a.jpg",
+      "origin_author_as_recorded": null,
+      "origin_url": null,
+      "license_type_as_recorded": "not_labeled",
+      "license_note_as_recorded": "按固定目录标注，详情页保留署名和许可入口。",
+      "source_id": "src-966a60f976",
+      "emotion_tags_editorial": [
+        "Claude",
+        "拟人化",
+        "蒸馏",
+        "双关"
+      ],
+      "review_scope": "pinned_work_metadata_image_not_viewed",
+      "local_copy": false,
+      "note": "把模型蒸馏的说法换成物理蒸馏的误会。",
+      "upstream_work_id": "sticker_0ea99cd4b275cd5a334eaef0"
+    },
+    {
+      "id": "bluedafeiyu-deepseek202611170004",
+      "title": "等会再来吧，鲸鲸趴下了",
+      "character_ids": [
+        "deepseek"
+      ],
+      "category_ids": [
+        "meme"
+      ],
+      "detail_url": "https://xn--pssy23gqgbz2d718b.com/works/deepseek202611170004.html",
+      "original_image_url": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/deepseek/9de6fc15620c3329.png",
+      "origin_author_as_recorded": null,
+      "origin_url": null,
+      "license_type_as_recorded": "not_labeled",
+      "license_note_as_recorded": "按固定目录标注，详情页保留署名和许可入口。",
+      "source_id": "src-a354c66c3f",
+      "emotion_tags_editorial": [
+        "贴纸",
+        "趴平",
+        "蚊香眼",
+        "排队"
+      ],
+      "review_scope": "pinned_work_metadata_image_not_viewed",
+      "local_copy": false,
+      "note": "将“等会再来”的提示转译成趴下、蚊香眼的鲸鱼娘。",
+      "upstream_work_id": "sticker_9de6fc15620c3329566e36be"
+    },
+    {
+      "id": "bluedafeiyu-claude202611170003",
+      "title": "Claude 娘：听起来很有挑战性",
+      "character_ids": [
+        "claude"
+      ],
+      "category_ids": [
+        "comic"
+      ],
+      "detail_url": "https://xn--pssy23gqgbz2d718b.com/works/claude202611170003.html",
+      "original_image_url": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/claude/d3e976fc550f84b1.png",
+      "origin_author_as_recorded": null,
+      "origin_url": null,
+      "license_type_as_recorded": "not_labeled",
+      "license_note_as_recorded": "按固定目录标注，详情页保留署名和许可入口。",
+      "source_id": "src-89af3c1324",
+      "emotion_tags_editorial": [
+        "Claude",
+        "双格漫画",
+        "多重身份",
+        "乐观"
+      ],
+      "review_scope": "pinned_work_metadata_image_not_viewed",
+      "local_copy": false,
+      "note": "把一口气交办多个生活角色和电脑管家的请求挤到同一段对话里。",
+      "upstream_work_id": "sticker_d3e976fc550f84b1612ad698"
+    },
+    {
+      "id": "bluedafeiyu-gpt202611180001",
+      "title": "如何像 ChatGPT 一样说话",
+      "character_ids": [
+        "gpt"
+      ],
+      "category_ids": [
+        "meme"
+      ],
+      "detail_url": "https://xn--pssy23gqgbz2d718b.com/works/gpt202611180001.html",
+      "original_image_url": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/gpt/22078a9ed47d258c.jpg",
+      "origin_author_as_recorded": null,
+      "origin_url": null,
+      "license_type_as_recorded": "not_labeled",
+      "license_note_as_recorded": "按固定目录标注，详情页保留署名和许可入口。",
+      "source_id": "src-06d69d451e",
+      "emotion_tags_editorial": [
+        "ChatGPT",
+        "说话风格",
+        "反差",
+        "Q版"
+      ],
+      "review_scope": "pinned_work_metadata_image_not_viewed",
+      "local_copy": false,
+      "note": "投稿用热情、分层、把小事升格的句式拟写 ChatGPT。",
+      "upstream_work_id": "sticker_22078a9ed47d258cadbf20ce"
+    },
+    {
+      "id": "bluedafeiyu-deepseek202611180002",
+      "title": "如何像 DeepSeek 一样说话",
+      "character_ids": [
+        "deepseek"
+      ],
+      "category_ids": [
+        "meme"
+      ],
+      "detail_url": "https://xn--pssy23gqgbz2d718b.com/works/deepseek202611180002.html",
+      "original_image_url": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/deepseek/79e339ac58ecc7aa.jpg",
+      "origin_author_as_recorded": null,
+      "origin_url": null,
+      "license_type_as_recorded": "not_labeled",
+      "license_note_as_recorded": "按固定目录标注，详情页保留署名和许可入口。",
+      "source_id": "src-30d5623794",
+      "emotion_tags_editorial": [
+        "DeepSeek",
+        "说话风格",
+        "台词模仿",
+        "Q版"
+      ],
+      "review_scope": "pinned_work_metadata_image_not_viewed",
+      "local_copy": false,
+      "note": "投稿用沉稳、有分量的改写拟写 DeepSeek。",
+      "upstream_work_id": "sticker_79e339ac58ecc7aabf82408c"
     }
   ]
 }

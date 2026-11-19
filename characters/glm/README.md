@@ -108,3 +108,7 @@ GLM狐娘与Zcode蒙眼工程少女分别登记；不能因为同属相关品牌
 - [01 · 阔耳狐娘](https://github.com/lmy414/ai-chan-sheets/tree/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/01_%E6%99%BA%E8%B0%B1GLM%E5%A8%98_%E9%98%94%E8%80%B3%E7%8B%90%E5%A8%98)：本轮仅查目录；lmy414生成补全。
 
 原图、推定侧背面和表情差分分别看；署名与使用范围见[本轮更新](../../docs/13-update-2026-11-16.md)。
+
+## GLM 中式校服
+
+站点作品页和署名入口，造型细节按目录文字索引。[GLM 中式校服三视图](https://xn--pssy23gqgbz2d718b.com/works/glm202611170001.html)

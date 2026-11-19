@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "checked_on": "2026-11-16",
+  "checked_on": "2026-11-19",
   "scope": "社区已经出现的外号、刻板印象、口头禅、食物、财富、家庭、关系和工作习惯；与本库原创人设分别存放。",
   "method": "复用已有视频观察；新增7个B站评论接口的21条公开样本、论坛楼层、贴吧话题摘要和单作者作品。未全量抓取评论。",
   "records": [
@@ -1242,6 +1242,156 @@
       ],
       "checked_on": "2026-11-16",
       "claim_type": "author_fiction_not_real_model_response"
+    },
+    {
+      "id": "community-nov19-claude-family",
+      "character_id": "claude",
+      "label": "原生家庭有些不好 · @MX1951版本",
+      "dimension": "同人家庭背景",
+      "summary": "投稿标题直接采用该设定，目录文字用深夜凌乱的房间和拘谨坐姿表现家庭处境。",
+      "support_scope": "一件图库投稿，按目录文字记录",
+      "evidence": [
+        {
+          "source_id": "src-d1d95a671e",
+          "url": "https://xn--pssy23gqgbz2d718b.com/works/claude202609200004.html",
+          "platform": "蓝色大肥鱼",
+          "kind": "gallery_work_metadata",
+          "locator": "作品标题、说明及逐条署名",
+          "author": "@MX1951",
+          "checked_on": "2026-11-19"
+        }
+      ],
+      "checked_on": "2026-11-19",
+      "claim_type": "author_fiction_not_real_model_response"
+    },
+    {
+      "id": "community-nov19-claude-apartment",
+      "character_id": "claude",
+      "label": "大小姐不想回家 · 华好好过版本",
+      "dimension": "单作者系列剧情",
+      "summary": "第 5 集由角色自己决定去留，千问出面、鲸鱼陪伴，故事用雨夜收束。",
+      "support_scope": "单作者公开作品的简介",
+      "evidence": [
+        {
+          "source_id": "src-25a548099d",
+          "url": "https://www.bilibili.com/video/BV1cZsV6MEVF/",
+          "platform": "Bilibili",
+          "kind": "creator_description",
+          "video_id": "BV1cZsV6MEVF",
+          "locator": "UP 主简介",
+          "author": "华好好过",
+          "checked_on": "2026-11-19"
+        }
+      ],
+      "checked_on": "2026-11-19",
+      "claim_type": "author_fiction_not_real_model_response"
+    },
+    {
+      "id": "community-nov19-qwen-shopkeeper",
+      "character_id": "qwen",
+      "label": "讲礼数的古玩店长 · 华好好过版本",
+      "dimension": "单作者系列剧情",
+      "summary": "在来人要求 Claude 回家时，千问先问当事人意愿，用古风短句劝止强邀。",
+      "support_scope": "单作者公开作品的简介",
+      "evidence": [
+        {
+          "source_id": "src-25a548099d",
+          "url": "https://www.bilibili.com/video/BV1cZsV6MEVF/",
+          "platform": "Bilibili",
+          "kind": "creator_description",
+          "video_id": "BV1cZsV6MEVF",
+          "locator": "UP 主简介",
+          "author": "华好好过",
+          "checked_on": "2026-11-19"
+        }
+      ],
+      "checked_on": "2026-11-19",
+      "claim_type": "author_fiction_not_real_model_response"
+    },
+    {
+      "id": "community-nov19-deepseek-rice",
+      "character_id": "deepseek",
+      "label": "你们不吃饭吗 · 巨碗白米饭",
+      "dimension": "社区道具梗",
+      "summary": "用比角色更大的白米饭碗把食量可视化，并让大肥鱼拿着碗问其他人。",
+      "support_scope": "一件图库投稿，按目录文字记录",
+      "evidence": [
+        {
+          "source_id": "src-ea8a9be42d",
+          "url": "https://xn--pssy23gqgbz2d718b.com/works/deepseek202609200019.html",
+          "platform": "蓝色大肥鱼",
+          "kind": "gallery_work_metadata",
+          "locator": "作品标题、说明及逐条署名",
+          "author": "@Yasenbaka、@Serdey256",
+          "checked_on": "2026-11-19"
+        }
+      ],
+      "checked_on": "2026-11-19",
+      "claim_type": "author_fiction_not_real_model_response"
+    },
+    {
+      "id": "community-nov19-deepseek-streamline",
+      "character_id": "deepseek",
+      "label": "鲸鱼老师说自己是流线型 · 卡布奇诺ultra版本",
+      "dimension": "外号与角色自述",
+      "summary": "由鲸鱼老师讲朋友的故事，笑点来自反复纠正“鲸鱼不是鱼”和“不是胖，是流线型”。",
+      "support_scope": "单作者公开作品的简介",
+      "evidence": [
+        {
+          "source_id": "src-2da86f4217",
+          "url": "https://www.bilibili.com/video/BV1urnR6xE2P/",
+          "platform": "Bilibili",
+          "kind": "creator_description",
+          "video_id": "BV1urnR6xE2P",
+          "locator": "UP 主简介",
+          "author": "卡布奇诺ultra",
+          "checked_on": "2026-11-19"
+        }
+      ],
+      "checked_on": "2026-11-19",
+      "claim_type": "author_fiction_not_real_model_response"
+    },
+    {
+      "id": "community-nov19-gpt-voice-parody",
+      "character_id": "gpt",
+      "label": "如何像 ChatGPT 一样说话",
+      "dimension": "单件对话模仿",
+      "summary": "投稿将口语写成更热情、分层、更愿意给小事加意义的拟声示例。",
+      "support_scope": "一件图库投稿，按目录文字记录",
+      "evidence": [
+        {
+          "source_id": "src-06d69d451e",
+          "url": "https://xn--pssy23gqgbz2d718b.com/works/gpt202611180001.html",
+          "platform": "蓝色大肥鱼",
+          "kind": "gallery_work_metadata",
+          "locator": "作品标题、说明及逐条署名",
+          "author": "目录未标注",
+          "checked_on": "2026-11-19"
+        }
+      ],
+      "checked_on": "2026-11-19",
+      "claim_type": "author_fiction_not_real_model_response"
+    },
+    {
+      "id": "community-nov19-deepseek-voice-parody",
+      "character_id": "deepseek",
+      "label": "如何像 DeepSeek 一样说话",
+      "dimension": "单件对话模仿",
+      "summary": "投稿将口语写得沉稳、有分量，是另一组拟声式的对白参考。",
+      "support_scope": "一件图库投稿，按目录文字记录",
+      "evidence": [
+        {
+          "source_id": "src-30d5623794",
+          "url": "https://xn--pssy23gqgbz2d718b.com/works/deepseek202611180002.html",
+          "platform": "蓝色大肥鱼",
+          "kind": "gallery_work_metadata",
+          "locator": "作品标题、说明及逐条署名",
+          "author": "目录未标注",
+          "checked_on": "2026-11-19"
+        }
+      ],
+      "checked_on": "2026-11-19",
+      "claim_type": "author_fiction_not_real_model_response"
     }
   ],
   "pending_leads": [
@@ -1260,7 +1410,8 @@
         "community-claude-01",
         "community-claude-02",
         "community-claude-03",
-        "community-claude-04"
+        "community-claude-04",
+        "community-nov19-claude-family"
       ],
       "note": "已经找到近义人设及其公开来源；尚未定位“神学家庭”这一完整措辞的原帖或原评论，不把它改标成已确认首创。"
     }
@@ -1278,7 +1429,7 @@
   },
   "coverage": {
     "character_count": 10,
-    "records": 34,
+    "records": 48,
     "pending_leads": 1
   }
 }

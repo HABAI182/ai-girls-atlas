@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_on": "2026-10-21",
+  "checked_on": "2026-11-19",
   "characters": [
     {
       "id": "deepseek",
@@ -183,7 +183,8 @@
         "src-d5debdfbdd",
         "src-ecdc271a3a",
         "src-34fbf4b4b4",
-        "src-6550941b8e"
+        "src-6550941b8e",
+        "src-49f3e817c4"
       ],
       "local_asset_ids": [
         "zipzippipe-pixiv-148186519-p03",
@@ -204,7 +205,8 @@
         "pet-gpt-dragon-girl--legeling",
         "pet-gpt-dragon-girl--tenghuan123",
         "lmy-sheets-02",
-        "lmy-sheets-13"
+        "lmy-sheets-13",
+        "tips-song-astra-chat"
       ],
       "persona_profile_id": "persona-atlas-gpt",
       "persona_profile_path": "encyclopedia/personas/gpt.md",
@@ -218,7 +220,8 @@
       "community_impressions_path": "encyclopedia/personas/community-impressions.md#gpt",
       "reference_ids": [
         "ref-lmy-sheets-02",
-        "ref-lmy-sheets-13"
+        "ref-lmy-sheets-13",
+        "ref-bluedafeiyu-gpt202611160001"
       ]
     },
     {
@@ -297,7 +300,8 @@
       ],
       "community_impressions_path": "encyclopedia/personas/community-impressions.md#claude",
       "reference_ids": [
-        "ref-lmy-sheets-11"
+        "ref-lmy-sheets-11",
+        "ref-bluedafeiyu-claude202609200004"
       ]
     },
     {
@@ -365,7 +369,10 @@
       ],
       "community_impressions_path": "encyclopedia/personas/community-impressions.md#gemini",
       "reference_ids": [
-        "ref-lmy-sheets-10"
+        "ref-lmy-sheets-10",
+        "ref-bluedafeiyu-gemini202611170006",
+        "ref-bluedafeiyu-gemini202611170007",
+        "ref-bluedafeiyu-gemini202611180002"
       ]
     },
     {
@@ -426,7 +433,8 @@
       ],
       "community_impressions_path": "encyclopedia/personas/community-impressions.md#grok",
       "reference_ids": [
-        "ref-lmy-sheets-09"
+        "ref-lmy-sheets-09",
+        "ref-bluedafeiyu-grok202611170001"
       ]
     },
     {
@@ -555,7 +563,8 @@
       ],
       "community_impressions_path": "encyclopedia/personas/community-impressions.md#glm",
       "reference_ids": [
-        "ref-lmy-sheets-01"
+        "ref-lmy-sheets-01",
+        "ref-bluedafeiyu-glm202611170001"
       ]
     },
     {
@@ -620,7 +629,8 @@
       ],
       "community_impressions_path": "encyclopedia/personas/community-impressions.md#qwen",
       "reference_ids": [
-        "ref-lmy-sheets-05"
+        "ref-lmy-sheets-05",
+        "ref-bluedafeiyu-qwen202611170001"
       ]
     },
     {
@@ -1423,7 +1433,8 @@
       "persona_profile_path": "encyclopedia/personas/mimo.md",
       "reference_ids": [
         "ref-lmy-sheets-15",
-        "ref-lmy-sheets-16"
+        "ref-lmy-sheets-16",
+        "ref-bluedafeiyu-mimo202611180002"
       ]
     },
     {
@@ -2079,6 +2090,46 @@
       ],
       "persona_profile_id": "persona-atlas-longcat",
       "persona_profile_path": "encyclopedia/personas/longcat.md"
+    },
+    {
+      "id": "muse",
+      "name": "Muse 娘 / Meta AI",
+      "entity_kind": "model-family-reference",
+      "status": "visual_lead",
+      "design_family": "lmy-sheets",
+      "creators": "识知不失智（作品页图片署名）；lmy414（设定板补全）",
+      "aliases": [
+        "Muse娘",
+        "Muse 娘（Meta AI）"
+      ],
+      "observed_traits": [
+        "粉白至蓝色渐变卷发、羊驼耳、∞ 发夹与细框圆眼镜",
+        "蓝色高领针织上衣、白蓝机能外套、左腿环与蓝白洞洞鞋",
+        "配件区可见 Jolly 玩偶和自拍手机"
+      ],
+      "identity_rules": "沿用发布者的 Muse 娘（Meta AI）标注。侧面、背面和新增表情含生成推定；与本库 Llama 的作者版本各自建档。",
+      "creative_options_original": "",
+      "sources": [
+        "src-ec22f5225d",
+        "src-9c2d55dd14",
+        "src-cf7d1e39cc",
+        "src-42af62cf03"
+      ],
+      "local_asset_ids": [],
+      "variant_ids": [
+        "lmy-sheets-19"
+      ],
+      "reference_ids": [
+        "ref-lmy-sheets-19"
+      ],
+      "not_claimed": [
+        "官方造型",
+        "官方产品类别",
+        "原图授权范围",
+        "文字性格"
+      ],
+      "persona_profile_id": "persona-atlas-muse",
+      "persona_profile_path": "encyclopedia/personas/muse.md"
     }
   ]
 }

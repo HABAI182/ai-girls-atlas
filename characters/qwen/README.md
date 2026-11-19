@@ -91,3 +91,7 @@
 - [05 · Qwen](https://github.com/lmy414/ai-chan-sheets/tree/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/05_%E9%80%9A%E4%B9%89%E5%8D%83%E9%97%AE%E5%A8%98_Qwen)：本轮仅查目录；lmy414生成补全。
 
 原图、推定侧背面和表情差分分别看；署名与使用范围见[本轮更新](../../docs/13-update-2026-11-16.md)。
+
+## Qwen 中式运动校服
+
+站点作品页和署名入口，造型细节按目录文字索引。[Qwen 娘中式运动校服设定图](https://xn--pssy23gqgbz2d718b.com/works/qwen202611170001.html)

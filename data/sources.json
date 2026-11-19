@@ -3432,6 +3432,318 @@
       "checked_on": "2026-11-16",
       "evidence_level": "pinned_repository_text",
       "note": "读取现行README，图片、投稿和下架入口仍在本仓库；站点页面、结构化数据与程序移至独立仓库。"
+    },
+    {
+      "id": "src-ec22f5225d",
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/other202611130007.html",
+      "title": "Muse 娘投稿与图片署名",
+      "checked_on": "2026-11-19",
+      "evidence_level": "web_text",
+      "note": "图片署名为识知不失智，作者字段未标注。"
+    },
+    {
+      "id": "src-9c2d55dd14",
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/415238bfdafa0fc153c8c0098e8efd4b57b2d5a5/%E8%AE%BE%E5%AE%9A%E5%9B%BE/19_Muse%E5%A8%98_Meta_AI/README.md",
+      "title": "lmy414 · Muse 娘设定板与制作记录",
+      "checked_on": "2026-11-19",
+      "evidence_level": "pinned_repository_text",
+      "note": "读到 22 项素材分组、导出尺寸及推定内容。"
+    },
+    {
+      "id": "src-cf7d1e39cc",
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/415238bfdafa0fc153c8c0098e8efd4b57b2d5a5/docs/previews/19.webp",
+      "title": "Muse 娘横版设定板浏览预览",
+      "checked_on": "2026-11-19",
+      "evidence_level": "pinned_repository_text",
+      "note": "实际查看 1800×1175 预览，用于识别服装、发饰和道具。"
+    },
+    {
+      "id": "src-42af62cf03",
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/415238bfdafa0fc153c8c0098e8efd4b57b2d5a5/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+      "title": "lmy414设定板 · 版权与授权记录",
+      "checked_on": "2026-11-19",
+      "evidence_level": "pinned_repository_text",
+      "note": "Muse 原图许可在上游记为 unknown。"
+    },
+    {
+      "id": "src-f33002e670",
+      "url": "https://github.com/lmy414/bluedafeiyu/blob/77b8e47545804312877f1f2246c3457e2e64889f/data/works.json",
+      "title": "蓝色大肥鱼 · 2026-11-19 图片目录快照",
+      "checked_on": "2026-11-19",
+      "evidence_level": "pinned_repository_index",
+      "note": "按稳定作品 ID 比较两份固定目录，新增 122 条公开记录，含较早投稿补录。"
+    },
+    {
+      "id": "src-d1d95a671e",
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/claude202609200004.html",
+      "title": "原生家庭有些不好的Claude · 04",
+      "checked_on": "2026-11-19",
+      "evidence_level": "web_index",
+      "note": "固定目录作品 ID sticker_issue_08_004。用凌乱室内、拘谨坐姿表现处境。采用投稿页的归属说法。"
+    },
+    {
+      "id": "src-ea8a9be42d",
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/deepseek202609200019.html",
+      "title": "你们不吃饭吗",
+      "checked_on": "2026-11-19",
+      "evidence_level": "web_index",
+      "note": "固定目录作品 ID sticker_issue_10_001。把白饭碗夸张到大过角色本身。"
+    },
+    {
+      "id": "src-e70e25f046",
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/deepseek202609230082.html",
+      "title": "大生蚝？",
+      "checked_on": "2026-11-19",
+      "evidence_level": "web_index",
+      "note": "固定目录作品 ID sticker_issue_37_001。把 DSH 误读成“大生蚝”，是单件投稿的文字梗。"
+    },
+    {
+      "id": "src-f1f7526be4",
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/gemini202611160001.html",
+      "title": "炫彩猫猫哈气🐱💨",
+      "checked_on": "2026-11-19",
+      "evidence_level": "web_index",
+      "note": "固定目录作品 ID sticker_f7b94e1bbf5dcc0d3c922705。姿态压低、猫耳竖起，配合“哈”字做反应图。"
+    },
+    {
+      "id": "src-1d1f40d8ff",
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/gpt202611160001.html",
+      "title": "GPT（花嫁）",
+      "checked_on": "2026-11-19",
+      "evidence_level": "web_index",
+      "note": "固定目录作品 ID sticker_a24de7931daf88d1c65b659f。花园拱门、白玫瑰和浅色龙角用于婚纱题材。"
+    },
+    {
+      "id": "src-966a60f976",
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/claude202611160002.html",
+      "title": "！？蒸馏？！——原来是这个蒸馏",
+      "checked_on": "2026-11-19",
+      "evidence_level": "web_index",
+      "note": "固定目录作品 ID sticker_0ea99cd4b275cd5a334eaef0。把模型蒸馏的说法换成物理蒸馏的误会。"
+    },
+    {
+      "id": "src-a354c66c3f",
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/deepseek202611170004.html",
+      "title": "等会再来吧，鲸鲸趴下了",
+      "checked_on": "2026-11-19",
+      "evidence_level": "web_index",
+      "note": "固定目录作品 ID sticker_9de6fc15620c3329566e36be。将“等会再来”的提示转译成趴下、蚊香眼的鲸鱼娘。"
+    },
+    {
+      "id": "src-c5d9e02a3d",
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/glm202611170001.html",
+      "title": "GLM 中式校服三视图",
+      "checked_on": "2026-11-19",
+      "evidence_level": "web_index",
+      "note": "固定目录作品 ID sticker_98557ef35994324503efb3c1。深蓝白运动服、领口蓝色护目镜和背后字样是目录列出的识别点。"
+    },
+    {
+      "id": "src-7ebc27a5a8",
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/qwen202611170001.html",
+      "title": "Qwen 娘中式运动校服设定图",
+      "checked_on": "2026-11-19",
+      "evidence_level": "web_index",
+      "note": "固定目录作品 ID sticker_ca4e84179c92a090de2b012f。紫白外套加针线盒、戒指、鞋等分拆，适合与 GLM 校服板并读。"
+    },
+    {
+      "id": "src-b4d84a66c9",
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/grok202611170001.html",
+      "title": "深夜伏案写作的 Grok 娘",
+      "checked_on": "2026-11-19",
+      "evidence_level": "web_index",
+      "note": "固定目录作品 ID sticker_46d5c9997dde756a7a482792。黑发眼镜造型伏案写作，可和既有金发 Grok 版本并读。"
+    },
+    {
+      "id": "src-89af3c1324",
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/claude202611170003.html",
+      "title": "Claude 娘：听起来很有挑战性",
+      "checked_on": "2026-11-19",
+      "evidence_level": "web_index",
+      "note": "固定目录作品 ID sticker_d3e976fc550f84b1612ad698。把一口气交办多个生活角色和电脑管家的请求挤到同一段对话里。"
+    },
+    {
+      "id": "src-e8e5150c9b",
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/gemini202611170006.html",
+      "title": "Gemini Pro 的三视图",
+      "checked_on": "2026-11-19",
+      "evidence_level": "web_index",
+      "note": "固定目录作品 ID sticker_33bcd6a5d0daa0ad5975b816。紫发和多色星芒头冠。"
+    },
+    {
+      "id": "src-491c8ae0a4",
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/gemini202611170007.html",
+      "title": "Gemini Flash 的三视图",
+      "checked_on": "2026-11-19",
+      "evidence_level": "web_index",
+      "note": "固定目录作品 ID sticker_a7a07c066af0b1a44d734bb9。银白发、草帽和 II 发卡。"
+    },
+    {
+      "id": "src-06d69d451e",
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/gpt202611180001.html",
+      "title": "如何像 ChatGPT 一样说话",
+      "checked_on": "2026-11-19",
+      "evidence_level": "web_index",
+      "note": "固定目录作品 ID sticker_22078a9ed47d258cadbf20ce。投稿用热情、分层、把小事升格的句式拟写 ChatGPT。"
+    },
+    {
+      "id": "src-30d5623794",
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/deepseek202611180002.html",
+      "title": "如何像 DeepSeek 一样说话",
+      "checked_on": "2026-11-19",
+      "evidence_level": "web_index",
+      "note": "固定目录作品 ID sticker_79e339ac58ecc7aabf82408c。投稿用沉稳、有分量的改写拟写 DeepSeek。"
+    },
+    {
+      "id": "src-2810fa5dd3",
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/gemini202611180002.html",
+      "title": "Gemini 娘紫色星纹毛衣设定稿",
+      "checked_on": "2026-11-19",
+      "evidence_level": "web_index",
+      "note": "固定目录作品 ID sticker_28e076e68accebe7091a189a。独立记录紫色短款毛衣、星芒徽章和猫耳的设计。"
+    },
+    {
+      "id": "src-db75fabf71",
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/mimo202611180002.html",
+      "title": "MiMo娘橙黑魔女三视图",
+      "checked_on": "2026-11-19",
+      "evidence_level": "web_index",
+      "note": "固定目录作品 ID sticker_8a241a77a0c3a5927fd401fc。兔耳尖帽、斗篷、白色兔偶形成轮廓与道具组合。"
+    },
+    {
+      "id": "src-dfb96a473e",
+      "url": "https://arena.meowllm.top/ep9/",
+      "title": "喵喵AI竞技场 · 造桥第9集赛制与战绩",
+      "checked_on": "2026-11-19",
+      "evidence_level": "web_text",
+      "note": "本期用回合、对局图与积分表组织多人对抗，赛事名单含 GPT-6.2 Sol 与 GPT-6 Astra。"
+    },
+    {
+      "id": "src-4736d5a275",
+      "url": "https://github.com/chen-006/meow-ai-arena",
+      "title": "造桥比赛作者开源工程",
+      "checked_on": "2026-11-19",
+      "evidence_level": "web_text",
+      "note": "由 UP 主简介指向。"
+    },
+    {
+      "id": "src-d55ba94cca",
+      "url": "https://github.com/mokongnuo/world-execute-me-flash",
+      "title": "默空诺 · world.execute(me); 视觉演绎工程",
+      "checked_on": "2026-11-19",
+      "evidence_level": "web_text",
+      "note": "原版 README 说明用浏览器实时绘制，代码和配乐分开提供。"
+    },
+    {
+      "id": "src-e12da871b9",
+      "url": "https://www.bilibili.com/video/BV1faak6AEzm/",
+      "title": "随安SuiAan · 两支《雨爱》翻唱引用的改编版本",
+      "checked_on": "2026-11-19",
+      "evidence_level": "web_index",
+      "note": "由两位翻唱作者共同注明；用于指向改编来源。"
+    },
+    {
+      "id": "src-8b395c74af",
+      "url": "https://www.bilibili.com/video/BV1JkWH64ESy/",
+      "title": "当我把九个ai请来玩贪官造桥....｜AI 算法对抗大赛 第 9 集 · 造桥",
+      "checked_on": "2026-11-19",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "九个 AI 在同一桥梁项目里竞争，角色头像、规则、对局和旁白合成赛事叙事。站点上 Sol 与 Astra 分列。"
+    },
+    {
+      "id": "src-8dc11e5c1f",
+      "url": "https://www.bilibili.com/video/BV1BCW66BEM1/",
+      "title": "【AI娘原创动画】第七小队，今日照常｜《明天的海仍然是蓝色》EP01",
+      "checked_on": "2026-11-19",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "简介以五人第七小队推进，战斗和归途并置，再用未说出口的约定留出角色线。UP 主注明娘化造型来源是 ZipZipPipe。"
+    },
+    {
+      "id": "src-25a548099d",
+      "url": "https://www.bilibili.com/video/BV1cZsV6MEVF/",
+      "title": "【AI公寓05】大小姐不想回家，千问店长出面了！",
+      "checked_on": "2026-11-19",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "买茶具的琐事转到 Claude 能否自己决定去留，鲸鱼娘陪在身边、店长千问出面解围，雨夜留下下一集的伏笔。"
+    },
+    {
+      "id": "src-40b850d25c",
+      "url": "https://www.bilibili.com/video/BV1Kys16TEhF/",
+      "title": "[Claude与大肥鱼]空调坏了",
+      "checked_on": "2026-11-19",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "以空调坏了为生活情境，从标题可确认 Claude 与大肥鱼同场；简介标注 Seedance 制作。"
+    },
+    {
+      "id": "src-aece69b10f",
+      "url": "https://www.bilibili.com/video/BV1hk4E66EsZ/",
+      "title": "[GLM]小狐狸躲在冰箱不出来",
+      "checked_on": "2026-11-19",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "以 GLM 小狐狸躲进冰箱为单场景梗，简介给出借用创意的 BV 号。"
+    },
+    {
+      "id": "src-2da86f4217",
+      "url": "https://www.bilibili.com/video/BV1urnR6xE2P/",
+      "title": "⚡️我有个朋友⚡️大肥鱼小课堂 DSH",
+      "checked_on": "2026-11-19",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "用鲸鱼老师讲朋友故事的形式串接 DSH 外号、自称流线型和评论区问答。"
+    },
+    {
+      "id": "src-eb861f4d51",
+      "url": "https://www.bilibili.com/video/BV1Chn96VEov/",
+      "title": "QQ 里住进了一个会生气的 AI：大肥鱼一键整合包，双击安装",
+      "checked_on": "2026-11-19",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "作者借 QQ 群聊演示等待多条消息、主动打招呼、情绪与语音，以演示内容作为群聊拟人参考。"
+    },
+    {
+      "id": "src-d51e3a08c8",
+      "url": "https://www.bilibili.com/video/BV1rRHP6qEny/",
+      "title": "大肥鱼第一次当UP主！以后请多指教",
+      "checked_on": "2026-11-19",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "大肥鱼以首条投稿自我介绍。简介逐项给出角色原设、二次设计、Live2D 模型、桌宠接入和配音署名。"
+    },
+    {
+      "id": "src-49f3e817c4",
+      "url": "https://www.bilibili.com/video/BV1zm4h6RE9M/",
+      "title": "【AI娘/纯爱后宫/助眠】今天让Claude和GPT给你助眠啦",
+      "checked_on": "2026-11-19",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "UP 主在简介交代紫发 JK Astra 的独立出处、在其漫画里作为 Codex 姐姐的设定，以及本地合成配音。"
+    },
+    {
+      "id": "src-dc75c67a54",
+      "url": "https://www.bilibili.com/video/BV1Qhpy6uE1s/",
+      "title": "GPT-6 Astra 龙娘看了大肥鱼做的视频后怒改--九位AI娘化｜《world.execute(me);》",
+      "checked_on": "2026-11-19",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "UP 主描述把数学表白推向执行失控，用九个 AI 形象承接同一首 Mili 歌曲的连续戏剧节拍，并提供早版工程入口。"
+    },
+    {
+      "id": "src-c158745d53",
+      "url": "https://www.bilibili.com/video/BV11eWy6wE5W/",
+      "title": "【原创MV】《星辉突触狂想曲》Softmax算出的数值，毫无悬念指向100%偏心！",
+      "checked_on": "2026-11-19",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "独立 AI OC 星辉猫娘弥妮，通过 Token、注意力、散热与激活函数写出轻科普恋爱曲。"
+    },
+    {
+      "id": "src-35b6e265cb",
+      "url": "https://www.bilibili.com/video/BV1zdxS6uE4j/",
+      "title": "【Day16】鲸鱼娘唱《雨爱》司凤版！邦吧邦吧邦吧…",
+      "checked_on": "2026-11-19",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "鲸鱼娘按评论点歌翻唱《雨爱》司凤版，简介列原唱、改编、声线转换与视觉署名。"
+    },
+    {
+      "id": "src-b6f5a45b57",
+      "url": "https://www.bilibili.com/video/BV1U64q69EYm/",
+      "title": "小狐娘唱雨爱司凤版，又掏空人类钱包啦！【DAY16】",
+      "checked_on": "2026-11-19",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "GLM 小狐娘在简介接续鲸鱼娘的同曲挑战。口头答应看心情的互动方式适合作为账号运营角色的例子。"
     }
   ]
 }

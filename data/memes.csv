@@ -1,4 +1,4 @@
-﻿id,title,character_ids,detail_url,license_type_as_recorded,review_scope
+id,title,character_ids,detail_url,license_type_as_recorded,review_scope
 sticker_issue_02_001,再发这种东西等智械危机了我就放你一马,deepseek,https://xn--pssy23gqgbz2d718b.com/stickers/deepseek202609190002.html,submitter-permission,metadata_only
 sticker_issue_03_001,用户只需要充值token就行了，而吃白饭的大肥鱼要生成的可就多了……,deepseek,https://xn--pssy23gqgbz2d718b.com/stickers/deepseek202609200001.html,submitter-permission,metadata_only
 sticker_issue_04_001,大肥鱼打小肥鱼,deepseek,https://xn--pssy23gqgbz2d718b.com/stickers/deepseek202609200002.html,submitter-permission,metadata_only
@@ -35,3 +35,11 @@ gengjing-037,挽留用户,deepseek,https://aigengtu.com/meme/037,not_verified,pa
 gengjing-064,蓝女仆Q版三视图,deepseek,https://aigengtu.com/meme/064,not_verified,page_text_or_index_only
 gengjing-065,虎鲸版本三视图,deepseek,https://aigengtu.com/meme/065,not_verified,page_text_or_index_only
 gengjing-123,蹭一碗饭,deepseek,https://aigengtu.com/meme/123,not_verified,page_text_or_index_only
+bluedafeiyu-deepseek202609200019,你们不吃饭吗,deepseek,https://xn--pssy23gqgbz2d718b.com/works/deepseek202609200019.html,submitter-permission,pinned_work_metadata_image_not_viewed
+bluedafeiyu-deepseek202609230082,大生蚝？,deepseek,https://xn--pssy23gqgbz2d718b.com/works/deepseek202609230082.html,cc-by-nc,pinned_work_metadata_image_not_viewed
+bluedafeiyu-gemini202611160001,炫彩猫猫哈气🐱💨,gemini,https://xn--pssy23gqgbz2d718b.com/works/gemini202611160001.html,not_labeled,pinned_work_metadata_image_not_viewed
+bluedafeiyu-claude202611160002,！？蒸馏？！——原来是这个蒸馏,claude,https://xn--pssy23gqgbz2d718b.com/works/claude202611160002.html,not_labeled,pinned_work_metadata_image_not_viewed
+bluedafeiyu-deepseek202611170004,等会再来吧，鲸鲸趴下了,deepseek,https://xn--pssy23gqgbz2d718b.com/works/deepseek202611170004.html,not_labeled,pinned_work_metadata_image_not_viewed
+bluedafeiyu-claude202611170003,Claude 娘：听起来很有挑战性,claude,https://xn--pssy23gqgbz2d718b.com/works/claude202611170003.html,not_labeled,pinned_work_metadata_image_not_viewed
+bluedafeiyu-gpt202611180001,如何像 ChatGPT 一样说话,gpt,https://xn--pssy23gqgbz2d718b.com/works/gpt202611180001.html,not_labeled,pinned_work_metadata_image_not_viewed
+bluedafeiyu-deepseek202611180002,如何像 DeepSeek 一样说话,deepseek,https://xn--pssy23gqgbz2d718b.com/works/deepseek202611180002.html,not_labeled,pinned_work_metadata_image_not_viewed

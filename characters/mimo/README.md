@@ -75,3 +75,7 @@
 - [16 · 女仆装 · @Immyxxr](https://github.com/lmy414/ai-chan-sheets/tree/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/16_MiMo%E5%85%94%E5%A8%98_Immyxxr_%E5%A5%B3%E4%BB%86%E8%A3%85)：本轮查看预览；lmy414生成补全。
 
 原图、推定侧背面和表情差分分别看；署名与使用范围见[本轮更新](../../docs/13-update-2026-11-16.md)。
+
+## MiMo 橙黑魔女装
+
+站点作品页和署名入口，造型细节按目录文字索引。[MiMo娘橙黑魔女三视图](https://xn--pssy23gqgbz2d718b.com/works/mimo202611180002.html)

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "checked_on": "2026-11-16",
+  "checked_on": "2026-11-19",
   "setting_id": "atlas-ensemble-v1",
   "scope": "人设资料索引：作者设定摘要与本库原创工作草案分别标记；作者造型、社区印象和真实产品采样分开。",
   "dialogue_origin": "全部117句均为本库原创示范，不是模型实测、视频逐字稿或社区通用原设。",
@@ -2290,6 +2290,34 @@
       "original": null,
       "original_dialogues": [],
       "evidence_gap": "原始公开投稿、独立作者署名核验、文字性格与社区印象仍待补。"
+    },
+    {
+      "id": "persona-atlas-muse",
+      "character_id": "muse",
+      "name": "Muse 娘 / Meta AI",
+      "setting_id": "source-muse-lmy-sheets",
+      "page_path": "encyclopedia/personas/muse.md",
+      "original_status": "source_summary",
+      "author_persona_status": "not_confirmed",
+      "author_basis": [
+        {
+          "author": "识知不失智（作品页图片署名）；lmy414（设定板补全）",
+          "source_id": "src-9c2d55dd14",
+          "scope": "身份、造型与出处",
+          "evidence_kind": "identity_only",
+          "summary": "设定板有表情与道具的创作参考，文字性格待补。"
+        }
+      ],
+      "product_basis": [],
+      "visual_observation": {
+        "source_id": "src-cf7d1e39cc",
+        "scope": "已查看横版预览"
+      },
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "沿用发布者的 Muse 娘（Meta AI）标注。侧面、背面和新增表情含生成推定；与本库 Llama 的作者版本各自建档。",
+      "original": null,
+      "original_dialogues": [],
+      "evidence_gap": "原作者字段、图像使用范围、文字人设与社区印象待补。"
     }
   ],
   "community_video_observations": [

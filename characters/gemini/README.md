@@ -98,3 +98,7 @@
 - [10 · 四角星猫耳](https://github.com/lmy414/ai-chan-sheets/tree/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/10_Gemini%E5%A8%98)：本轮仅查目录；lmy414生成补全。
 
 原图、推定侧背面和表情差分分别看；署名与使用范围见[本轮更新](../../docs/13-update-2026-11-16.md)。
+
+## Gemini Pro 与 Flash 三视图
+
+站点作品页和署名入口，造型细节按目录文字索引。[Gemini Pro 的三视图](https://xn--pssy23gqgbz2d718b.com/works/gemini202611170006.html) · [Gemini Flash 的三视图](https://xn--pssy23gqgbz2d718b.com/works/gemini202611170007.html) · [Gemini 娘紫色星纹毛衣设定稿](https://xn--pssy23gqgbz2d718b.com/works/gemini202611180002.html)

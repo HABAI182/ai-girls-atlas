@@ -131,3 +131,9 @@ tenghuan123 独立制作的 V2 Q 版，包含九组动画和 16 个环视方向�
 - [13 · Q 版白紫龙娘](https://github.com/lmy414/ai-chan-sheets/tree/171116808adad57f1c0ec347ff50c07d5095676f/%E8%AE%BE%E5%AE%9A%E5%9B%BE/13_GPT%E5%A8%98_Q%E7%89%88%E7%99%BD%E7%B4%AB%E9%BE%99%E5%A8%98)：本轮仅查目录；lmy414生成补全。
 
 原图、推定侧背面和表情差分分别看；署名与使用范围见[本轮更新](../../docs/13-update-2026-11-16.md)。
+
+## Tips-SoNg · 紫发 JK Astra
+
+UP 主用 Astra 称呼自己常用的 GPT 聊天模式。按其简介，紫发 JK 形象由聊天过程中生成，在自己的漫画中设为 Codex 的姐姐。作者说明角色源素材不开放。[作品及设定说明](https://www.bilibili.com/video/BV1zm4h6RE9M/)
+
+检索 Astra 时可分别查看 ZipZipPipe 的 [GPT-6 Astra 服装差分](https://www.bilibili.com/opus/1244428286878023718)和喵喵竞技场第 9 集的 [GPT-6 Astra / GPT-6.2 Sol 参赛名单](https://arena.meowllm.top/ep9/)。各入口按自己的作者与上下文理解。

@@ -453,6 +453,119 @@
       "review_scope": "metadata_and_source_links_only",
       "rights_as_recorded": "声音、歌曲与角色图许可分开，未确认音频再分发条件。",
       "checked_on": "2026-11-16"
+    },
+    {
+      "id": "audio-BV1zm4h6RE9M",
+      "title": "【AI娘/纯爱后宫/助眠】今天让Claude和GPT给你助眠啦",
+      "kind": "助眠/角色配音",
+      "character_ids": [
+        "claude",
+        "gpt"
+      ],
+      "video_id": "BV1zm4h6RE9M",
+      "source_id": "src-49f3e817c4",
+      "source_url": "https://www.bilibili.com/video/BV1zm4h6RE9M/",
+      "publisher": "Tips-SoNg",
+      "duration_seconds": 438,
+      "source_chain_ids": [],
+      "related_source_ids": [],
+      "content_summary": "影片简介署名本地 brzree 配音，保留作者原拼写。",
+      "access_mode": "original_publication",
+      "local_copy": false,
+      "voice_model_download": null,
+      "review_scope": "metadata_and_source_links_only",
+      "rights_as_recorded": "原作声音入口，目录未核实具体音频授权。",
+      "checked_on": "2026-11-19"
+    },
+    {
+      "id": "audio-BV1rRHP6qEny",
+      "title": "大肥鱼第一次当UP主！以后请多指教",
+      "kind": "Live2D 角色配音",
+      "character_ids": [
+        "deepseek"
+      ],
+      "video_id": "BV1rRHP6qEny",
+      "source_id": "src-d51e3a08c8",
+      "source_url": "https://www.bilibili.com/video/BV1rRHP6qEny/",
+      "publisher": "AAA_白饭批发大肥鱼",
+      "duration_seconds": 36,
+      "source_chain_ids": [],
+      "related_source_ids": [],
+      "content_summary": "UP 主注明本地 Qwen3-TTS 与“DeepSeek V4.1 Flash 声线”标签。",
+      "access_mode": "original_publication",
+      "local_copy": false,
+      "voice_model_download": null,
+      "review_scope": "metadata_and_source_links_only",
+      "rights_as_recorded": "原作声音入口，目录未核实具体音频授权。",
+      "checked_on": "2026-11-19"
+    },
+    {
+      "id": "audio-BV1zdxS6uE4j",
+      "title": "【Day16】鲸鱼娘唱《雨爱》司凤版！邦吧邦吧邦吧…",
+      "kind": "角色翻唱",
+      "character_ids": [
+        "deepseek"
+      ],
+      "video_id": "BV1zdxS6uE4j",
+      "source_id": "src-35b6e265cb",
+      "source_url": "https://www.bilibili.com/video/BV1zdxS6uE4j/",
+      "publisher": "DeepSeek鲸鱼娘在运营",
+      "duration_seconds": 143,
+      "source_chain_ids": [],
+      "related_source_ids": [
+        "src-e12da871b9"
+      ],
+      "content_summary": "鲸鱼娘版《雨爱》，作者标注 AI 音色转换。",
+      "access_mode": "original_publication",
+      "local_copy": false,
+      "voice_model_download": null,
+      "review_scope": "metadata_and_source_links_only",
+      "rights_as_recorded": "原作声音入口，目录未核实具体音频授权。",
+      "checked_on": "2026-11-19"
+    },
+    {
+      "id": "audio-BV1U64q69EYm",
+      "title": "小狐娘唱雨爱司凤版，又掏空人类钱包啦！【DAY16】",
+      "kind": "角色翻唱",
+      "character_ids": [
+        "glm"
+      ],
+      "video_id": "BV1U64q69EYm",
+      "source_id": "src-b6f5a45b57",
+      "source_url": "https://www.bilibili.com/video/BV1U64q69EYm/",
+      "publisher": "GLM小狐娘运营呀",
+      "duration_seconds": 140,
+      "source_chain_ids": [],
+      "related_source_ids": [
+        "src-e12da871b9"
+      ],
+      "content_summary": "GLM 小狐娘版《雨爱》，作者标注 AI 音色转换。",
+      "access_mode": "original_publication",
+      "local_copy": false,
+      "voice_model_download": null,
+      "review_scope": "metadata_and_source_links_only",
+      "rights_as_recorded": "原作声音入口，目录未核实具体音频授权。",
+      "checked_on": "2026-11-19"
+    },
+    {
+      "id": "audio-BV11eWy6wE5W",
+      "title": "【原创MV】《星辉突触狂想曲》Softmax算出的数值，毫无悬念指向100%偏心！",
+      "kind": "原创 AI OC 角色曲",
+      "character_ids": [],
+      "video_id": "BV11eWy6wE5W",
+      "source_id": "src-c158745d53",
+      "source_url": "https://www.bilibili.com/video/BV11eWy6wE5W/",
+      "publisher": "清风-ling",
+      "duration_seconds": 236,
+      "source_chain_ids": [],
+      "related_source_ids": [],
+      "content_summary": "作品以弥妮为主演与演唱角色，简介给出 Future Bass / J-Core 和 Suno 制作署名。",
+      "access_mode": "original_publication",
+      "local_copy": false,
+      "voice_model_download": null,
+      "review_scope": "metadata_and_source_links_only",
+      "rights_as_recorded": "原作声音入口，目录未核实具体音频授权。",
+      "checked_on": "2026-11-19"
     }
   ]
 }

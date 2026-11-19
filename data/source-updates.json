@@ -1,5 +1,5 @@
 {
-  "checked_on": "2026-11-16",
+  "checked_on": "2026-11-19",
   "updates": [
     {
       "source": "shuaizenge/ai-girls",
@@ -213,6 +213,111 @@
         "longcat"
       ],
       "note": "shuaizenge与larcgpt固定提交未变；GenderSwapAI图库44张沿用，新增人格/品牌解释/交互入口；Treap图库ID对比128→150；lmy图片与站点程序仓库已分离。"
+    },
+    {
+      "checked_on": "2026-11-19",
+      "baseline_commit": "155382fe8a9b79598c0004ed5bebb2bdc3cafcec",
+      "page_path": "docs/14-update-2026-11-19.md",
+      "sources": [
+        {
+          "repository": "shuaizenge/ai-girls",
+          "commit_sha": "dcd69f5f4f2dff1a9c0031e82deb49e0fe949c76",
+          "baseline_commit": "dcd69f5f4f2dff1a9c0031e82deb49e0fe949c76",
+          "changed_since_prior": false
+        },
+        {
+          "repository": "TreapGoGo/deepseek-whale-girl",
+          "commit_sha": "1a47dcdbe33beb1da1b342024675cd1bc9620ed5",
+          "baseline_commit": "1a47dcdbe33beb1da1b342024675cd1bc9620ed5",
+          "changed_since_prior": false
+        },
+        {
+          "repository": "larcgpt/ai-model-musume",
+          "commit_sha": "8899faddadb58f639722eb1db2e1e6458893246b",
+          "baseline_commit": "8899faddadb58f639722eb1db2e1e6458893246b",
+          "changed_since_prior": false
+        },
+        {
+          "repository": "lmy414/ai-chan-sheets",
+          "commit_sha": "415238bfdafa0fc153c8c0098e8efd4b57b2d5a5",
+          "baseline_commit": "171116808adad57f1c0ec347ff50c07d5095676f",
+          "changed_since_prior": true
+        },
+        {
+          "repository": "lmy414/bluedafeiyu",
+          "commit_sha": "77b8e47545804312877f1f2246c3457e2e64889f",
+          "baseline_commit": "3e2387464c8143b0d0c7fe00d2ebf6d4d6b81d22",
+          "changed_since_prior": true
+        },
+        {
+          "repository": "lmy414/ai-girl-stickers",
+          "commit_sha": "df2baa0bbd4de25672babc2b98ba19445625d12c",
+          "baseline_commit": "c0c592d2eb6812fffa29501561a586b15970966c",
+          "changed_since_prior": true
+        },
+        {
+          "repository": "SelinLee/ai-moe-atlas",
+          "commit_sha": "cf2539377dfa2a2b59cc1b2bc3bac0b5b5fe8393",
+          "baseline_commit": "e396e0305caba54f4a9b3a929f27f4af70489310",
+          "changed_since_prior": true
+        }
+      ],
+      "main_gallery_image_count": 44,
+      "gallery_notes": "GenderSwapAI 图片数与上轮一致，旧图片链接抽查 4 条仍可访问。",
+      "archive_collection": {
+        "source_id": "src-f33002e670",
+        "baseline_count": 1791,
+        "current_count": 1913,
+        "new_work_count": 122,
+        "changed_work_count": 0,
+        "removed_work_count": 0,
+        "selected_work_ids": [
+          "sticker_issue_08_004",
+          "sticker_issue_10_001",
+          "sticker_issue_37_001",
+          "sticker_f7b94e1bbf5dcc0d3c922705",
+          "sticker_a24de7931daf88d1c65b659f",
+          "sticker_0ea99cd4b275cd5a334eaef0",
+          "sticker_9de6fc15620c3329566e36be",
+          "sticker_98557ef35994324503efb3c1",
+          "sticker_ca4e84179c92a090de2b012f",
+          "sticker_46d5c9997dde756a7a482792",
+          "sticker_d3e976fc550f84b1612ad698",
+          "sticker_33bcd6a5d0daa0ad5975b816",
+          "sticker_a7a07c066af0b1a44d734bb9",
+          "sticker_22078a9ed47d258cadbf20ce",
+          "sticker_79e339ac58ecc7aabf82408c",
+          "sticker_28e076e68accebe7091a189a",
+          "sticker_8a241a77a0c3a5927fd401fc"
+        ]
+      },
+      "new_variant_ids": [
+        "lmy-sheets-19",
+        "tips-song-astra-chat"
+      ],
+      "new_video_ids": [
+        "BV1JkWH64ESy",
+        "BV1BCW66BEM1",
+        "BV1cZsV6MEVF",
+        "BV1Kys16TEhF",
+        "BV1hk4E66EsZ",
+        "BV1urnR6xE2P",
+        "BV1Chn96VEov",
+        "BV1rRHP6qEny",
+        "BV1zm4h6RE9M",
+        "BV1Qhpy6uE1s",
+        "BV11eWy6wE5W",
+        "BV1zdxS6uE4j",
+        "BV1U64q69EYm"
+      ],
+      "new_audio_ids": [
+        "audio-BV1zm4h6RE9M",
+        "audio-BV1rRHP6qEny",
+        "audio-BV1zdxS6uE4j",
+        "audio-BV1U64q69EYm",
+        "audio-BV11eWy6wE5W"
+      ],
+      "review_scope": "read pinned texts, viewed Muse preview, checked video metadata and creator descriptions"
     }
   ],
   "prior_deduplication_note": "本轮新增50张原作/派生图和2张已有上游预览；原仓库32张与9张预览保留。"

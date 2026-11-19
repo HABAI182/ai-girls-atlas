@@ -1,6 +1,6 @@
 # 数据入口
 
-保留2026-10起的资料采集快照；目录维护于2026-11-16，具体来源日期保留在各条记录。`characters`的单位混合产品、模型家族、工具和平台，用`entity_kind`明确区分。`status=wanted`没有已确认形象；`visual_lead`或`external_work_lead`只有作品线索；`profile_and_references`有文字档案和外链；`local_assets`有本地图片。
+保留2026-10起的资料采集快照；目录维护于2026-11-19，具体来源日期保留在各条记录。`characters`的单位混合产品、模型家族、工具和平台，用`entity_kind`明确区分。`status=wanted`没有已确认形象；`visual_lead`或`external_work_lead`只有作品线索；`profile_and_references`有文字档案和外链；`local_assets`有本地图片。
 
 | 文件 | 用途 |
 | --- | --- |
@@ -61,4 +61,6 @@ Copilot校园项目未区分具体产品，使用独立条目copilot-school。va
 
 `model-branches.json`记录本轮具名模型/子系列/工具分支及观察范围。`personas.json`中`original_status=source_summary`仅保存来源资料摘要，`original=null`且无原创对白；原有`editorial_draft`继续保留三句原创示范。数量分别计入coverage。
 
-`refresh-2026-11-16.json`保存本轮上游提交、19份设定板、6份预览观察摘要、22条图库增量与25条视频ID。仅有身份来源的人设用`evidence_kind=identity_only`标明，不计入已找到作者文字性格的条目。
+`refresh-2026-11-16.json`保存 11 月 16 日更新的上游提交、19份设定板、6份预览观察摘要、22条图库增量与25条视频ID。仅有身份来源的人设用`evidence_kind=identity_only`标明，不计入已找到作者文字性格的条目。
+
+11 月 19 日的固定提交、图库差集及新入库 ID 见 [source-updates.json](source-updates.json) 的 refresh_history。[更新说明](../docs/14-update-2026-11-19.md)

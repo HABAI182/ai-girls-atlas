@@ -346,3 +346,12 @@
 | ChatGPT / GPT | 用很短的追问回应，作者简介未给出那两个字的具体内容，本库不补写台词。 |
 | Grok | 去告诉父亲，限该作者小黑的剧情安排。 |
 | GLM / 智谱 | 从尾巴里掏出鸡蛋，属于这条作品的荒诞动作梗。 |
+
+## 2026-11-19 补录
+
+- **Claude**。@MX1951 的图集以原生家庭处境立题。华好好过的《AI公寓05》从大小姐拒绝回家切入，把她的自主选择放在剧情中心。[家庭背景插画](https://xn--pssy23gqgbz2d718b.com/works/claude202609200004.html) · [《AI公寓05》](https://www.bilibili.com/video/BV1cZsV6MEVF/)
+- **千问**。同一集里的古玩店长，以古风短句强调客人的意愿，适合参考作品怎样用措辞和行动塑造知礼的店长。[《AI公寓05》](https://www.bilibili.com/video/BV1cZsV6MEVF/)
+- **DeepSeek**。巨碗白米饭把食量做成道具梗。小课堂另用“不是胖，是流线型”的自辩串起鲸鱼老师的外号。[白米饭梗图](https://xn--pssy23gqgbz2d718b.com/works/deepseek202609200019.html) · [鲸鱼小课堂](https://www.bilibili.com/video/BV1urnR6xE2P/)
+- **GPT 与 DeepSeek**。两张说话风格梗图可以并看。前者抓住热情和分层表达，后者把短口语改成沉稳的句子，两者均为投稿中的模仿示例。[ChatGPT 版](https://xn--pssy23gqgbz2d718b.com/works/gpt202611180001.html) · [DeepSeek 版](https://xn--pssy23gqgbz2d718b.com/works/deepseek202611180002.html)
+
+“神学家庭的大小姐”的完整措辞出处仍待定位。家庭背景插画和公寓短剧可作为这类说法的关联作品入口。
