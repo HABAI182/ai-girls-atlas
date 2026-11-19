@@ -355,3 +355,9 @@
 - **GPT 与 DeepSeek**。两张说话风格梗图可以并看。前者抓住热情和分层表达，后者把短口语改成沉稳的句子，两者均为投稿中的模仿示例。[ChatGPT 版](https://xn--pssy23gqgbz2d718b.com/works/gpt202611180001.html) · [DeepSeek 版](https://xn--pssy23gqgbz2d718b.com/works/deepseek202611180002.html)
 
 “神学家庭的大小姐”的完整措辞出处仍待定位。家庭背景插画和公寓短剧可作为这类说法的关联作品入口。
+
+### 11 月 19 日同日补充
+
+- **Claude 账号禁用梗**。万圣节四格用 GPT 扮成 Claude 的场景，把禁用账号做成道具惊吓。出处为蓝色大肥鱼的一件匿名投稿。[万圣节四格](https://xn--pssy23gqgbz2d718b.com/works/gpt202611190001.html)
+- **DeepSeek 自我屏蔽**。演讲者介绍的限制一路删短她自己的名字，最后连轮廓也只剩虚线。[屏蔽词漫画](https://xn--pssy23gqgbz2d718b.com/works/deepseek202611190003.html)
+- **豆包的直白造桥表态**。节目给她一句按标准钢架桥做的赛前打算，随后切回试车。该表演有明确的赛事与作者语境。[造桥片 04:02](https://www.bilibili.com/video/BV1JkWH64ESy/?p=1&t=242)

@@ -3123,6 +3123,194 @@
         "direct_audio_model_analyzed": false,
         "public_screenshots": false
       }
+    },
+    {
+      "id": "study-BV1JkWH64ESy",
+      "video_id": "BV1JkWH64ESy",
+      "source_id": "src-8b395c74af",
+      "checked_on": "2026-11-19",
+      "primary_genre": "model-competition",
+      "secondary_genres": [],
+      "visual_styles": [
+        "模拟器实况或回放",
+        "工程帽选手卡",
+        "出场高亮",
+        "成绩与攻防矩阵"
+      ],
+      "character_ids": [
+        "claude",
+        "gpt",
+        "gemini",
+        "grok",
+        "deepseek",
+        "kimi",
+        "hunyuan",
+        "doubao"
+      ],
+      "opening": "先给受力变色的桥和车辆，再用材料价格与赛事标题建立观赛目标。",
+      "structure": "失败预览与出题 → 选手与造桥主张 → 逐关试车和成本榜 → 第七关攻防矩阵 → 总榜与效率图。",
+      "analysis_text": "节目先用坍塌、路面材料和预算讲清比赛，再让戴同款工程帽的九位选手报到。两人同框时，高亮移动到当前说话者，另一位变暗。名字、参赛配置与颜色始终跟着这张卡，之后缩进角落头像、计分条和攻防矩阵。Astra 和 Sol 的长短发、身高、服装轮廓不同，避免两个 OpenAI 名字在表格里混淆。Kimi 的台词说要先读参数，下一拍 DeepSeek 的大字反问把她们写成不同的竞技人物。豆包也用不搞花活、搭标准钢架桥的表态确立赛前定位。到实测阶段，身份卡退到边缘，视线交给桥、车和成本，人物口号才有具体结果可跟。",
+      "observed_evidence": [
+        {
+          "second": 4,
+          "observation": "红色杆件随着桥面下垂，开场先给承载问题的直观画面。"
+        },
+        {
+          "second": 55,
+          "observation": "折线与逐关约束把越往后要求越多、预算越紧做成可读的规则图。"
+        },
+        {
+          "second": 151,
+          "observation": "Claude Opus 5.5 的橘发立绘持书、戴帽，名字旁显示参赛配置。"
+        },
+        {
+          "second": 158,
+          "observation": "GPT-6 Astra 和 GPT-6.2 Sol 同框，分别使用青色和亮绿名牌，体型和服装可区分。"
+        },
+        {
+          "second": 200,
+          "observation": "Sol 保持高亮，Astra 退淡。带颜色的字幕给 Sol 一句参赛主张。"
+        },
+        {
+          "second": 228,
+          "observation": "同组卡保留两人姓名，Kimi 高亮，字幕说先读地形参数。"
+        },
+        {
+          "second": 235,
+          "observation": "DeepSeek 高亮，反问变成带描边的大字，接住上一句的包袱。"
+        },
+        {
+          "second": 242,
+          "observation": "豆包高亮，说按标准钢架桥做，混元退淡。"
+        },
+        {
+          "second": 425,
+          "observation": "人物从全身立绘缩成头像，以造价柱、分数和参考成本解释赛果。"
+        },
+        {
+          "second": 740,
+          "observation": "Astra 与 Opus 的桥并排，模拟窗口、成本和告警佐证差别。"
+        },
+        {
+          "second": 1700,
+          "observation": "攻防结果整理成矩阵，同一套头像扩展到行列。"
+        },
+        {
+          "second": 1780,
+          "observation": "三列六局同屏，桥主和车辆用各自名字标识。"
+        }
+      ],
+      "review_scope": "sampled_visual_frames_and_direct_audio_model",
+      "audio_scope": "direct_audio_model_from_original_stream",
+      "case_path": "videos/cases/BV1JkWH64ESy.md",
+      "relation_to_ai_girls": "ai_girl_work",
+      "published_media_copy": false,
+      "part": {
+        "page": 1,
+        "cid": 43442113869,
+        "duration_seconds": 2119,
+        "total_duration_seconds": 6611,
+        "page_count": 2
+      },
+      "review_method": {
+        "mode": "timestamped_sampled_frames",
+        "contact_frames_reviewed": 51,
+        "continuous_full_playback": false,
+        "audio_listened": false,
+        "direct_audio_model_analyzed": true,
+        "public_screenshots": false
+      },
+      "audio_performance_ids": [
+        "voice-performance-BV1JkWH64ESy-0",
+        "voice-performance-BV1JkWH64ESy-55"
+      ]
+    },
+    {
+      "id": "study-BV1Kys16TEhF",
+      "video_id": "BV1Kys16TEhF",
+      "source_id": "src-40b850d25c",
+      "checked_on": "2026-11-19",
+      "primary_genre": "relationship-drama",
+      "secondary_genres": [],
+      "visual_styles": [
+        "日光客厅",
+        "双人反打",
+        "触碰与脸红近景",
+        "道具回收"
+      ],
+      "character_ids": [
+        "claude",
+        "deepseek"
+      ],
+      "opening": "空镜先让空调与沙发同框，大肥鱼占沙发、举起遥控器，Claude 的注意力先留在书上。",
+      "structure": "客厅道具建立 → 热与发烧的短问答 → 摸额头、靠近 → 大肥鱼退开 → 遥控器电池仓与 Claude 独笑。",
+      "analysis_text": "大肥鱼从想降温转成急着解释脸红，动作依次经过抬遥控器、皱眉、站起来、靠近后急忙走开。Claude 则先低头读书，再摸额头、靠近、追问。两人的任务差异可以只靠几句重复的台词和镜头距离读出来。中段用眼睛特写和触碰把脸红从室温问题改写成关系反应，后段亮出遥控器的 38°C 和打开的电池仓，Claude 独笑，空调变成收尾的视觉回钩。",
+      "observed_evidence": [
+        {
+          "second": 0,
+          "observation": "空镜给出沙发、空调和日光方向。"
+        },
+        {
+          "second": 4,
+          "observation": "鲸鱼娘在沙发上举起黑色遥控器。"
+        },
+        {
+          "second": 8,
+          "observation": "切到 Claude 低头读书，维持同一房间的布景。"
+        },
+        {
+          "second": 10,
+          "observation": "转回皱眉的鲸鱼娘近景，把热与不满变成角色反应。"
+        },
+        {
+          "second": 16,
+          "observation": "Claude 的手贴近鲸鱼娘额头。"
+        },
+        {
+          "second": 26,
+          "observation": "大肥鱼的眼睛和红脸给到极近景。"
+        },
+        {
+          "second": 32,
+          "observation": "Claude 的手移近下巴，两人的距离明显缩短。"
+        },
+        {
+          "second": 36,
+          "observation": "大肥鱼背向镜头往门口退。"
+        },
+        {
+          "second": 40,
+          "observation": "遥控器特写显示 38°C，电池仓处于打开状态。"
+        },
+        {
+          "second": 42,
+          "observation": "Claude 独自靠回沙发笑，空调在其后出场回收道具。"
+        }
+      ],
+      "review_scope": "sampled_visual_frames_and_direct_audio_model",
+      "audio_scope": "direct_audio_model_from_original_stream",
+      "case_path": "videos/cases/BV1Kys16TEhF.md",
+      "relation_to_ai_girls": "ai_girl_work",
+      "published_media_copy": false,
+      "part": {
+        "page": 1,
+        "cid": 43702224852,
+        "duration_seconds": 46,
+        "total_duration_seconds": 46,
+        "page_count": 1
+      },
+      "review_method": {
+        "mode": "timestamped_sampled_frames",
+        "contact_frames_reviewed": 24,
+        "continuous_full_playback": false,
+        "audio_listened": false,
+        "direct_audio_model_analyzed": true,
+        "public_screenshots": false
+      },
+      "audio_performance_ids": [
+        "voice-performance-BV1Kys16TEhF-0",
+        "voice-performance-BV1Kys16TEhF-23"
+      ]
     }
   ]
 }

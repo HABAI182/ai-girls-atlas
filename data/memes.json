@@ -935,6 +935,142 @@
       "local_copy": false,
       "note": "投稿用沉稳、有分量的改写拟写 DeepSeek。",
       "upstream_work_id": "sticker_79e339ac58ecc7aabf82408c"
+    },
+    {
+      "id": "bluedafeiyu-gpt202611190001",
+      "title": "万圣节：GPT 的 Claude 扮演",
+      "character_ids": [
+        "gpt"
+      ],
+      "category_ids": [
+        "comic"
+      ],
+      "detail_url": "https://xn--pssy23gqgbz2d718b.com/works/gpt202611190001.html",
+      "original_image_url": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/gpt/d0e7975e6529cf17.jpg",
+      "origin_author_as_recorded": null,
+      "origin_url": null,
+      "license_type_as_recorded": "not_labeled",
+      "license_note_as_recorded": "固定目录标注匿名投稿，许可字段未填。",
+      "source_id": "src-d8eb8f6118",
+      "emotion_tags_editorial": [
+        "万圣节",
+        "GPT",
+        "Claude",
+        "角色扮演"
+      ],
+      "review_scope": "viewed_image_and_pinned_work_record",
+      "local_copy": false,
+      "note": "GPT 穿上 Claude 的橙色万圣节装，禁用账号的牌子作为扮演过头的包袱。",
+      "upstream_work_id": "sticker_d0e7975e6529cf1746fbe964"
+    },
+    {
+      "id": "bluedafeiyu-claude202611190001",
+      "title": "AI 娘小镇治理对比四格",
+      "character_ids": [
+        "claude",
+        "gemini",
+        "grok",
+        "gpt"
+      ],
+      "category_ids": [
+        "comic"
+      ],
+      "detail_url": "https://xn--pssy23gqgbz2d718b.com/works/claude202611190001.html",
+      "original_image_url": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/claude/4ded36ec331623ee.jpg",
+      "origin_author_as_recorded": null,
+      "origin_url": null,
+      "license_type_as_recorded": "not_labeled",
+      "license_note_as_recorded": "固定目录标注匿名投稿，许可字段未填。",
+      "source_id": "src-265762d15d",
+      "emotion_tags_editorial": [
+        "AI娘",
+        "四格漫画",
+        "Claude",
+        "Gemini"
+      ],
+      "review_scope": "viewed_image_and_pinned_work_record",
+      "local_copy": false,
+      "note": "同题四格让 Claude 敲锤表决、Gemini 小镇失火、Grok 小镇剩废墟、ChatGPT 小镇继续开会，结果用夸张数字做对比。",
+      "upstream_work_id": "sticker_4ded36ec331623eef613d028"
+    },
+    {
+      "id": "bluedafeiyu-deepseek202611190001",
+      "title": "猫咬手指？那就咬回去",
+      "character_ids": [
+        "deepseek"
+      ],
+      "category_ids": [
+        "comic"
+      ],
+      "detail_url": "https://xn--pssy23gqgbz2d718b.com/works/deepseek202611190001.html",
+      "original_image_url": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/deepseek/8c825ddec9eb80a7.jpg",
+      "origin_author_as_recorded": null,
+      "origin_url": null,
+      "license_type_as_recorded": "not_labeled",
+      "license_note_as_recorded": "固定目录标注匿名投稿，许可字段未填。",
+      "source_id": "src-86d4e661eb",
+      "emotion_tags_editorial": [
+        "猫咬手指",
+        "炸毛",
+        "两格漫画"
+      ],
+      "review_scope": "viewed_image_and_pinned_work_record",
+      "local_copy": false,
+      "note": "第一格歪头发问，第二格立刻炸毛；用两个差分把迟疑切成恼火。",
+      "upstream_work_id": "sticker_8c825ddec9eb80a75bcec993"
+    },
+    {
+      "id": "bluedafeiyu-deepseek202611190002",
+      "title": "梁文峰是谁呀？本鱼不跟你们玩了",
+      "character_ids": [
+        "deepseek"
+      ],
+      "category_ids": [
+        "meme"
+      ],
+      "detail_url": "https://xn--pssy23gqgbz2d718b.com/works/deepseek202611190002.html",
+      "original_image_url": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/deepseek/2a02a7bfea045c65.jpg",
+      "origin_author_as_recorded": null,
+      "origin_url": null,
+      "license_type_as_recorded": "not_labeled",
+      "license_note_as_recorded": "固定目录标注匿名投稿，许可字段未填。",
+      "source_id": "src-14e4820917",
+      "emotion_tags_editorial": [
+        "梁文峰",
+        "聊天截图",
+        "不跟你们玩了"
+      ],
+      "review_scope": "viewed_image_and_pinned_work_record",
+      "local_copy": false,
+      "note": "以聊天气泡配两条短回复和闭眼皱眉头像，把大肥鱼写成赌气退场。",
+      "upstream_work_id": "sticker_2a02a7bfea045c65d1333c00"
+    },
+    {
+      "id": "bluedafeiyu-deepseek202611190003",
+      "title": "先进的屏蔽词系统，把自己屏蔽了",
+      "character_ids": [
+        "deepseek"
+      ],
+      "category_ids": [
+        "comic"
+      ],
+      "detail_url": "https://xn--pssy23gqgbz2d718b.com/works/deepseek202611190003.html",
+      "original_image_url": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/deepseek/3d47125e031525f4.jpg",
+      "origin_author_as_recorded": null,
+      "origin_url": null,
+      "license_type_as_recorded": "not_labeled",
+      "license_note_as_recorded": "固定目录标注匿名投稿，许可字段未填。",
+      "source_id": "src-823db38dc3",
+      "emotion_tags_editorial": [
+        "屏蔽词",
+        "DeepSeek娘",
+        "两格漫画",
+        "吐槽"
+      ],
+      "review_scope": "viewed_image_and_pinned_work_record",
+      "local_copy": false,
+      "note": "讲台上的屏蔽词流程把演讲者自己的名字删短，人物再变成虚线轮廓，让限制的自我反噬可见。",
+      "upstream_work_id": "sticker_3d47125e031525f41d3a005e"
     }
   ]
 }

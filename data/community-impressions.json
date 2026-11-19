@@ -1392,6 +1392,70 @@
       ],
       "checked_on": "2026-11-19",
       "claim_type": "author_fiction_not_real_model_response"
+    },
+    {
+      "id": "community-nov19-followup-claude-ban-parody",
+      "character_id": "claude",
+      "label": "GPT 扮 Claude 时举账号禁用牌",
+      "dimension": "匿名同人漫画的账号梗",
+      "summary": "投稿让 GPT 扮演橙发 Claude，并用账号禁用提示把普通万圣节问答演成反应梗。",
+      "support_scope": "一件同人作品",
+      "evidence": [
+        {
+          "source_id": "src-d8eb8f6118",
+          "url": "https://xn--pssy23gqgbz2d718b.com/works/gpt202611190001.html",
+          "platform": "蓝色大肥鱼",
+          "kind": "viewed_gallery_work",
+          "locator": "漫画构图与图中文字",
+          "author": "匿名投稿",
+          "checked_on": "2026-11-19"
+        }
+      ],
+      "checked_on": "2026-11-19",
+      "claim_type": "author_fiction_not_real_model_response"
+    },
+    {
+      "id": "community-nov19-followup-deepseek-filter-self",
+      "character_id": "deepseek",
+      "label": "屏蔽词筛到自己",
+      "dimension": "匿名同人漫画的产品梗",
+      "summary": "流程图逐格删短 DeepSeek 娘的名字，最后连演讲者也变成虚线轮廓。",
+      "support_scope": "一件同人作品",
+      "evidence": [
+        {
+          "source_id": "src-823db38dc3",
+          "url": "https://xn--pssy23gqgbz2d718b.com/works/deepseek202611190003.html",
+          "platform": "蓝色大肥鱼",
+          "kind": "viewed_gallery_work",
+          "locator": "漫画构图与图中文字",
+          "author": "匿名投稿",
+          "checked_on": "2026-11-19"
+        }
+      ],
+      "checked_on": "2026-11-19",
+      "claim_type": "author_fiction_not_real_model_response"
+    },
+    {
+      "id": "community-nov19-followup-doubao-arena-direct",
+      "character_id": "doubao",
+      "label": "先搭标准钢架桥 · 造桥竞技场",
+      "dimension": "单作者解说编排",
+      "summary": "片中用短声明交代在这一关按标准钢架桥做，马上把话接回试车与造价。",
+      "support_scope": "一件同人作品",
+      "evidence": [
+        {
+          "source_id": "src-8b395c74af",
+          "url": "https://www.bilibili.com/video/BV1JkWH64ESy/",
+          "platform": "Bilibili",
+          "kind": "captioned_sampled_frames",
+          "video_id": "BV1JkWH64ESy",
+          "locator": "P1 04:02，豆包高亮和字幕",
+          "author": "喵了个猫了个咪了个猫",
+          "checked_on": "2026-11-19"
+        }
+      ],
+      "checked_on": "2026-11-19",
+      "claim_type": "author_fiction_not_real_model_response"
     }
   ],
   "pending_leads": [
@@ -1429,7 +1493,7 @@
   },
   "coverage": {
     "character_count": 10,
-    "records": 48,
+    "records": 51,
     "pending_leads": 1
   }
 }

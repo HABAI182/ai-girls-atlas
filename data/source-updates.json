@@ -318,6 +318,88 @@
         "audio-BV11eWy6wE5W"
       ],
       "review_scope": "read pinned texts, viewed Muse preview, checked video metadata and creator descriptions"
+    },
+    {
+      "checked_on": "2026-11-19",
+      "baseline_commit": "3f1f537c667f0bd79eb29d9b72ccdd315072abb3",
+      "page_path": "docs/14-update-2026-11-19.md",
+      "sources": [
+        {
+          "repository": "TreapGoGo/deepseek-whale-girl",
+          "baseline_commit": "1a47dcdbe33beb1da1b342024675cd1bc9620ed5",
+          "commit_sha": "1a47dcdbe33beb1da1b342024675cd1bc9620ed5",
+          "changed_since_prior": false
+        },
+        {
+          "repository": "lmy414/ai-chan-sheets",
+          "baseline_commit": "415238bfdafa0fc153c8c0098e8efd4b57b2d5a5",
+          "commit_sha": "415238bfdafa0fc153c8c0098e8efd4b57b2d5a5",
+          "changed_since_prior": false
+        },
+        {
+          "repository": "lmy414/bluedafeiyu",
+          "baseline_commit": "77b8e47545804312877f1f2246c3457e2e64889f",
+          "commit_sha": "31e7c0a2136320280b9b687a775257598db538e8",
+          "changed_since_prior": true
+        },
+        {
+          "repository": "lmy414/ai-girl-stickers",
+          "baseline_commit": "df2baa0bbd4de25672babc2b98ba19445625d12c",
+          "commit_sha": "461d4625cb89265dd8872093297abad89db37b04",
+          "changed_since_prior": true
+        },
+        {
+          "repository": "shuaizenge/ai-girls",
+          "baseline_commit": "dcd69f5f4f2dff1a9c0031e82deb49e0fe949c76",
+          "commit_sha": "dcd69f5f4f2dff1a9c0031e82deb49e0fe949c76",
+          "changed_since_prior": false
+        },
+        {
+          "repository": "SelinLee/ai-moe-atlas",
+          "baseline_commit": "cf2539377dfa2a2b59cc1b2bc3bac0b5b5fe8393",
+          "commit_sha": "cf2539377dfa2a2b59cc1b2bc3bac0b5b5fe8393",
+          "changed_since_prior": false
+        },
+        {
+          "repository": "Tests4gptplay/ai-gijinka-art-world",
+          "baseline_commit": "02d7db1914e5bba04fe4fe2a08e5a5ef5888a54b",
+          "commit_sha": "02d7db1914e5bba04fe4fe2a08e5a5ef5888a54b",
+          "changed_since_prior": false
+        },
+        {
+          "repository": "larcgpt/ai-model-musume",
+          "baseline_commit": "8899faddadb58f639722eb1db2e1e6458893246b",
+          "commit_sha": "8899faddadb58f639722eb1db2e1e6458893246b",
+          "changed_since_prior": false
+        }
+      ],
+      "main_gallery_image_count": 44,
+      "archive_collection": {
+        "source_id": "src-83266dc6fc",
+        "baseline_count": 1913,
+        "current_count": 1919,
+        "new_work_count": 6,
+        "changed_work_count": 0,
+        "removed_work_count": 0,
+        "selected_work_ids": [
+          "sticker_d0e7975e6529cf1746fbe964",
+          "sticker_04fd4d04bc9f75807b129163",
+          "sticker_4ded36ec331623eef613d028",
+          "sticker_8c825ddec9eb80a75bcec993",
+          "sticker_2a02a7bfea045c65d1333c00",
+          "sticker_3d47125e031525f41d3a005e"
+        ]
+      },
+      "new_study_video_ids": [
+        "BV1JkWH64ESy",
+        "BV1Kys16TEhF"
+      ],
+      "new_variant_ids": [
+        "bluedafeiyu-doubao-black-suit",
+        "meow-arena-ep9-astra",
+        "meow-arena-ep9-sol"
+      ],
+      "review_scope": "viewed all six new gallery images and timestamped video samples"
     }
   ],
   "prior_deduplication_note": "本轮新增50张原作/派生图和2张已有上游预览；原仓库32张与9张预览保留。"

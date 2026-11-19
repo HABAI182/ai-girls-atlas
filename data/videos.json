@@ -3538,9 +3538,9 @@
       "duration_seconds": 6611,
       "published_at": "2026-11-08T22:51:45+08:00",
       "category": "规则竞技",
-      "review_scope": "api_metadata_and_creator_description",
+      "review_scope": "sampled_visual_frames_and_direct_audio_model",
       "source_id": "src-8b395c74af",
-      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "relation_to_ai_girls": "ai_girl_work",
       "research_note": "九个 AI 在同一桥梁项目里竞争，角色头像、规则、对局和旁白合成赛事叙事。站点上 Sol 与 Astra 分列。",
       "related_source_ids": [
         "src-dfb96a473e",
@@ -3555,7 +3555,9 @@
         "share": 16950,
         "reply": 17882,
         "danmaku": 8070
-      }
+      },
+      "primary_genre": "model-competition",
+      "classification_basis": "sampled_visual_frames_and_direct_audio_model"
     },
     {
       "id": "BV1BCW66BEM1",
@@ -3620,9 +3622,9 @@
       "duration_seconds": 46,
       "published_at": "2026-11-18T12:51:17+08:00",
       "category": "生活小剧场",
-      "review_scope": "api_metadata_and_creator_description",
+      "review_scope": "sampled_visual_frames_and_direct_audio_model",
       "source_id": "src-40b850d25c",
-      "relation_to_ai_girls": "ai_girl_work_or_lead",
+      "relation_to_ai_girls": "ai_girl_work",
       "research_note": "以空调坏了为生活情境，从标题可确认 Claude 与大肥鱼同场；简介标注 Seedance 制作。",
       "related_source_ids": [],
       "popularity_snapshot": {
@@ -3634,7 +3636,9 @@
         "share": 0,
         "reply": 5,
         "danmaku": 0
-      }
+      },
+      "primary_genre": "relationship-drama",
+      "classification_basis": "sampled_visual_frames_and_direct_audio_model"
     },
     {
       "id": "BV1hk4E66EsZ",

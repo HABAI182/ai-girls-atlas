@@ -3744,6 +3744,62 @@
       "checked_on": "2026-11-19",
       "evidence_level": "bilibili_api_metadata",
       "note": "GLM 小狐娘在简介接续鲸鱼娘的同曲挑战。口头答应看心情的互动方式适合作为账号运营角色的例子。"
+    },
+    {
+      "id": "src-83266dc6fc",
+      "url": "https://github.com/lmy414/bluedafeiyu/blob/31e7c0a2136320280b9b687a775257598db538e8/data/works.json",
+      "title": "蓝色大肥鱼 · 11 月 19 日追加目录",
+      "checked_on": "2026-11-19",
+      "evidence_level": "pinned_repository_index",
+      "note": "与此前固定目录对比，1913→1919，新增 6 个公开作品 ID，已有记录无修改或删除。"
+    },
+    {
+      "id": "src-d8eb8f6118",
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/gpt202611190001.html",
+      "title": "万圣节：GPT 的 Claude 扮演",
+      "checked_on": "2026-11-19",
+      "evidence_level": "web_text",
+      "note": "固定目录作品 ID sticker_d0e7975e6529cf1746fbe964。已查看图像。GPT 穿上 Claude 的橙色万圣节装，禁用账号的牌子作为扮演过头的包袱。"
+    },
+    {
+      "id": "src-cb486653a5",
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/doubao202611190001.html",
+      "title": "豆包娘 黑西装三视图设定页",
+      "checked_on": "2026-11-19",
+      "evidence_level": "web_text",
+      "note": "固定目录作品 ID sticker_04fd4d04bc9f75807b129163。已查看图像。深棕短发、黑西装、紫腰带和不对称裙摆。设定页将三视图、Q 版、三种表情及配件放在同一板。"
+    },
+    {
+      "id": "src-265762d15d",
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/claude202611190001.html",
+      "title": "AI 娘小镇治理对比四格",
+      "checked_on": "2026-11-19",
+      "evidence_level": "web_text",
+      "note": "固定目录作品 ID sticker_4ded36ec331623eef613d028。已查看图像。同题四格让 Claude 敲锤表决、Gemini 小镇失火、Grok 小镇剩废墟、ChatGPT 小镇继续开会，结果用夸张数字做对比。"
+    },
+    {
+      "id": "src-86d4e661eb",
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/deepseek202611190001.html",
+      "title": "猫咬手指？那就咬回去",
+      "checked_on": "2026-11-19",
+      "evidence_level": "web_text",
+      "note": "固定目录作品 ID sticker_8c825ddec9eb80a75bcec993。已查看图像。第一格歪头发问，第二格立刻炸毛；用两个差分把迟疑切成恼火。"
+    },
+    {
+      "id": "src-14e4820917",
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/deepseek202611190002.html",
+      "title": "梁文峰是谁呀？本鱼不跟你们玩了",
+      "checked_on": "2026-11-19",
+      "evidence_level": "web_text",
+      "note": "固定目录作品 ID sticker_2a02a7bfea045c65d1333c00。已查看图像。以聊天气泡配两条短回复和闭眼皱眉头像，把大肥鱼写成赌气退场。"
+    },
+    {
+      "id": "src-823db38dc3",
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/deepseek202611190003.html",
+      "title": "先进的屏蔽词系统，把自己屏蔽了",
+      "checked_on": "2026-11-19",
+      "evidence_level": "web_text",
+      "note": "固定目录作品 ID sticker_3d47125e031525f41d3a005e。已查看图像。讲台上的屏蔽词流程把演讲者自己的名字删短，人物再变成虚线轮廓，让限制的自我反噬可见。"
     }
   ]
 }

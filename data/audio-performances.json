@@ -500,6 +500,90 @@
       "human_listened": false,
       "checked_on": "2026-11-19",
       "confidence_scope": "模型辅助听感。用原片字幕定位说话者，保留声音描述的不确定性。"
+    },
+    {
+      "id": "voice-performance-BV1JkWH64ESy-0",
+      "video_id": "BV1JkWH64ESy",
+      "page": 1,
+      "segment_start": 0,
+      "segment_duration": 24.0,
+      "source_ids": [
+        "src-8b395c74af"
+      ],
+      "category": "解说开场",
+      "register_and_timbre": "清楚、连续的单人旁白",
+      "delivery": "整体语速平稳，画面在这段快速交代桥会垮、车辆要过桥",
+      "mix_model_impression": "旁白靠前，未稳定分离伴随声",
+      "use_reference": "适合先给失败钩子，再交代赛题。",
+      "method": "Qwen2.5-Omni-3B Q4_K_M + Q8 projector, llama.cpp b11780 Vulkan; direct WAV without transcript",
+      "direct_audio_input": true,
+      "human_listened": false,
+      "checked_on": "2026-11-19",
+      "confidence_scope": "原音轨模型辅助听辨，台词定位结合 ASR 与画面。",
+      "sample_sha256": "197e58501fafda32ff9de83269747a83193ff4dbff2603f1969fffb9b79f2933"
+    },
+    {
+      "id": "voice-performance-BV1JkWH64ESy-55",
+      "video_id": "BV1JkWH64ESy",
+      "page": 1,
+      "segment_start": 55,
+      "segment_duration": 22.0,
+      "source_ids": [
+        "src-8b395c74af"
+      ],
+      "category": "赛制解说",
+      "register_and_timbre": "同样以前景旁白为主",
+      "delivery": "句子持续推进规则信息，整体力度变化小",
+      "mix_model_impression": "声音模型未辨出占主导的伴随层",
+      "use_reference": "规则图和单人解说分工明确，参赛立绘稍后再承担角色台词。",
+      "method": "Qwen2.5-Omni-3B Q4_K_M + Q8 projector, llama.cpp b11780 Vulkan; direct WAV without transcript",
+      "direct_audio_input": true,
+      "human_listened": false,
+      "checked_on": "2026-11-19",
+      "confidence_scope": "原音轨模型辅助听辨，台词定位结合 ASR 与画面。",
+      "sample_sha256": "cfdbefa37e59b4d479da230e57617280e82ccfbb05dbf500c5e20f4438ae2569"
+    },
+    {
+      "id": "voice-performance-BV1Kys16TEhF-0",
+      "video_id": "BV1Kys16TEhF",
+      "page": 1,
+      "segment_start": 0,
+      "segment_duration": 23.0,
+      "source_ids": [
+        "src-40b850d25c"
+      ],
+      "category": "日常双人对话",
+      "register_and_timbre": "前景为轻声对白，部分发音带气声",
+      "delivery": "留有轮流回话的空隙，约 00:16 几次短问短答反复回到是否发烧",
+      "mix_model_impression": "有低而持续的环境响动，来源未确认",
+      "use_reference": "大肥鱼急着否认，Claude 用同样短的问法消去迂回，给摸额头的动作留下反应时间。",
+      "method": "Qwen2.5-Omni-3B Q4_K_M + Q8 projector, llama.cpp b11780 Vulkan; direct WAV without transcript",
+      "direct_audio_input": true,
+      "human_listened": false,
+      "checked_on": "2026-11-19",
+      "confidence_scope": "原音轨模型辅助听辨，台词定位结合 ASR 与画面。",
+      "sample_sha256": "47f88a015e8ad2ebea1ba4e21583da24d6d6c43d965a156019f063dfe7d40b2e"
+    },
+    {
+      "id": "voice-performance-BV1Kys16TEhF-23",
+      "video_id": "BV1Kys16TEhF",
+      "page": 1,
+      "segment_start": 23,
+      "segment_duration": 22.0,
+      "source_ids": [
+        "src-40b850d25c"
+      ],
+      "category": "停顿与揭底",
+      "register_and_timbre": "语调转向俏皮，末段有近讲的低声尾句",
+      "delivery": "先保留约 00:24 的犹豫和追问，话说完整后进入道具回收",
+      "mix_model_impression": "模型辨到较轻伴随声，来源未细分",
+      "use_reference": "大肥鱼在对话中把脸红归到距离，Claude 的追问和末尾独笑把同一情境带到调侃。",
+      "method": "Qwen2.5-Omni-3B Q4_K_M + Q8 projector, llama.cpp b11780 Vulkan; direct WAV without transcript",
+      "direct_audio_input": true,
+      "human_listened": false,
+      "checked_on": "2026-11-19",
+      "confidence_scope": "原音轨模型辅助听辨，台词定位结合 ASR 与画面。",
+      "sample_sha256": "c6c82bb8e92e2ce1bd7231444c9a68c69206d185a10c8177e177204285fa48b0"
     }
   ],
   "method_note": "直接输入原声抽段。编者结合字幕与电平观察提炼结果，排除年龄、音色来源和音质猜测。语音识别文字只用于定位，没有作为音频模型输入。"

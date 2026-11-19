@@ -184,7 +184,8 @@
         "src-ecdc271a3a",
         "src-34fbf4b4b4",
         "src-6550941b8e",
-        "src-49f3e817c4"
+        "src-49f3e817c4",
+        "src-8b395c74af"
       ],
       "local_asset_ids": [
         "zipzippipe-pixiv-148186519-p03",
@@ -206,7 +207,9 @@
         "pet-gpt-dragon-girl--tenghuan123",
         "lmy-sheets-02",
         "lmy-sheets-13",
-        "tips-song-astra-chat"
+        "tips-song-astra-chat",
+        "meow-arena-ep9-astra",
+        "meow-arena-ep9-sol"
       ],
       "persona_profile_id": "persona-atlas-gpt",
       "persona_profile_path": "encyclopedia/personas/gpt.md",
@@ -1316,7 +1319,8 @@
         "src-07eaac82a5",
         "src-c2cd08d4d1",
         "src-de4db0cf5c",
-        "src-cba5482f1c"
+        "src-cba5482f1c",
+        "src-cb486653a5"
       ],
       "local_asset_ids": [
         "school-op-doubao"
@@ -1328,7 +1332,8 @@
       ],
       "variant_ids": [
         "doubao-official-current-icon",
-        "school-op-doubao"
+        "school-op-doubao",
+        "bluedafeiyu-doubao-black-suit"
       ],
       "persona_profile_id": "persona-atlas-doubao",
       "persona_profile_path": "encyclopedia/personas/doubao.md",
@@ -1339,7 +1344,10 @@
         "community-doubao-04",
         "community-doubao-05"
       ],
-      "community_impressions_path": "encyclopedia/personas/community-impressions.md#doubao"
+      "community_impressions_path": "encyclopedia/personas/community-impressions.md#doubao",
+      "reference_ids": [
+        "ref-bluedafeiyu-doubao202611190001"
+      ]
     },
     {
       "id": "stepfun",

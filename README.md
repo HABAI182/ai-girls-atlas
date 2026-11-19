@@ -18,7 +18,7 @@
 
 具体模型与工具也有独立档案：[GPT Image / Image 2黑龙娘](characters/image2/README.md) · [Codex龙娘](characters/codex/README.md)。
 
-**[2026-11-19 更新](docs/14-update-2026-11-19.md)**收录 Muse 娘、独立 Astra 设计、17 条图库作品、13 条视频、5 条声音和 7 条社区人设。
+**[2026-11-19 更新](docs/14-update-2026-11-19.md)**收录 Muse 娘、独立 Astra 设计、17 条图库作品、13 条视频、5 条声音和 7 条社区人设。同日补看造桥与《空调坏了》，新增豆包黑西装与 5 件图梗。[同日补录](docs/14-update-2026-11-19.md#followup-2026-11-19)
 
 ## 想找什么
 
@@ -26,16 +26,16 @@
 | --- | --- |
 | 看全部角色、区分作者版本 | [完整角色索引](characters/README.md) · [版本比较](docs/10-variant-guide.md) · [豆包形象纠正](encyclopedia/personas/doubao-correction.md) |
 | 找社区人设、刻板印象与梗 | [有出处的社区印象](encyclopedia/personas/community-impressions.md) · [梗百科](encyclopedia/memes/README.md) |
-| 找视频风格、演出与声音 | [视频品类与案例](videos/README.md) · [11 部作品的人设演出](videos/persona-performance.md) · [角色演出](encyclopedia/performances/README.md) · [音轨分析](encyclopedia/audio-performances.md) |
+| 找视频风格、演出与声音 | [视频品类与案例](videos/README.md) · [13 部作品的人设演出](videos/persona-performance.md) · [角色演出](encyclopedia/performances/README.md) · [音轨分析](encyclopedia/audio-performances.md) |
 | 下载图片、Live2D或三维源文件 | [素材包](encyclopedia/ready-packages.md) · [实际运行结果](encyclopedia/runtime-materials.md) · [逐包许可范围](docs/package-rights-audit.md) |
 | 查来源、继续创作或补资料 | [研究专题导航](docs/README.md) · [创作百科](encyclopedia/README.md) · [原创工作人设与对白](encyclopedia/personas/README.md) · [投稿](CONTRIBUTING.md) |
 
 ## 当前收录
 
 <!-- generated:stats:start -->
-**47 个角色及关联条目 · 85 份本地参考文件 · 134 条视频 · 468 个来源入口 · 14 组下载素材**
+**47 个角色及关联条目 · 85 份本地参考文件 · 134 条视频 · 475 个来源入口 · 14 组下载素材**
 
-社区印象：10 个角色、48 条记录；另有 117 句本库原创对白。数量口径见[收录统计](docs/collection-status.md)。
+社区印象：10 个角色、51 条记录；另有 117 句本库原创对白。数量口径见[收录统计](docs/collection-status.md)。
 <!-- generated:stats:end -->
 
 社区印象、单作者设定和本库原创创作建议分别标注。视频逐条注明完整观看、抽帧、元数据或评论采样范围；已有研究不等于所有视频均已完整观看或试听。

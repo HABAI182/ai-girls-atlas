@@ -2128,6 +2128,66 @@
       "external_url": "https://www.bilibili.com/video/BV1zm4h6RE9M/",
       "checked_on": "2026-11-19",
       "review_scope": "creator_description_only"
+    },
+    {
+      "id": "bluedafeiyu-doubao-black-suit",
+      "character_id": "doubao",
+      "collection": "community-gallery",
+      "title": "豆包娘 黑西装三视图设定页",
+      "creators": "蓝色大肥鱼匿名投稿，来源作者未标注",
+      "observed_traits": [
+        "深棕短发、黑色西装套装和不对称裙摆",
+        "紫色腰饰、渐变耳坠、黑色短靴",
+        "肩上白团吉祥物，另有 Q 版与三种表情"
+      ],
+      "difference_from_other_versions": "图中是西装三视图作者版本，许可与作者身份按此条记录。",
+      "asset_ids": [],
+      "source_ids": [
+        "src-cb486653a5"
+      ],
+      "external_url": "https://xn--pssy23gqgbz2d718b.com/works/doubao202611190001.html",
+      "review_scope": "viewed_image_and_pinned_work_record",
+      "checked_on": "2026-11-19"
+    },
+    {
+      "id": "meow-arena-ep9-astra",
+      "character_id": "gpt",
+      "collection": "meow-arena-ep9",
+      "title": "GPT-6 Astra · 造桥竞技场",
+      "creators": "喵了个猫了个咪了个猫（节目）；人物素材主要参考 ZipZipPipe（简介署名）",
+      "observed_traits": [
+        "浅薄荷绿长卷发、绿白层叠长裙",
+        "黄工程帽、青色模型名牌",
+        "与矮身形的 Sol 同屏"
+      ],
+      "difference_from_other_versions": "节目里先用双人轮流高亮展示同一赛前问答，随后给 Astra 一句自动机关的方案。",
+      "asset_ids": [],
+      "source_ids": [
+        "src-8b395c74af"
+      ],
+      "external_url": "https://www.bilibili.com/video/BV1JkWH64ESy/?p=1&t=158",
+      "review_scope": "sampled_visual_frames_and_creator_description",
+      "checked_on": "2026-11-19"
+    },
+    {
+      "id": "meow-arena-ep9-sol",
+      "character_id": "gpt",
+      "collection": "meow-arena-ep9",
+      "title": "GPT-6.2 Sol · 造桥竞技场",
+      "creators": "喵了个猫了个咪了个猫（节目）；人物素材主要参考 ZipZipPipe（简介署名）",
+      "observed_traits": [
+        "浅色短发、偏小身形、绿白短摆裙",
+        "黄工程帽、亮绿色模型名牌",
+        "搭配绿白鞋袜，与 Astra 的长裙并排可辨"
+      ],
+      "difference_from_other_versions": "节目用妹妹称呼写双人关系，后续用 Sol 的笑脸头像和绿标签连接试车及成本。",
+      "asset_ids": [],
+      "source_ids": [
+        "src-8b395c74af"
+      ],
+      "external_url": "https://www.bilibili.com/video/BV1JkWH64ESy/?p=1&t=158",
+      "review_scope": "sampled_visual_frames_and_creator_description",
+      "checked_on": "2026-11-19"
     }
   ]
 }

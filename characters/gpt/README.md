@@ -137,3 +137,7 @@ tenghuan123 独立制作的 V2 Q 版，包含九组动画和 16 个环视方向�
 UP 主用 Astra 称呼自己常用的 GPT 聊天模式。按其简介，紫发 JK 形象由聊天过程中生成，在自己的漫画中设为 Codex 的姐姐。作者说明角色源素材不开放。[作品及设定说明](https://www.bilibili.com/video/BV1zm4h6RE9M/)
 
 检索 Astra 时可分别查看 ZipZipPipe 的 [GPT-6 Astra 服装差分](https://www.bilibili.com/opus/1244428286878023718)和喵喵竞技场第 9 集的 [GPT-6 Astra / GPT-6.2 Sol 参赛名单](https://arena.meowllm.top/ep9/)。各入口按自己的作者与上下文理解。
+
+## 喵喵竞技场 · GPT-6 Astra 和 GPT-6.2 Sol
+
+第 9 集在 02:38 给两人同一个工程帽主题。Astra 为薄荷绿长卷发、层叠长裙和青色名牌，Sol 的身形更小，浅色短发，亮绿色名牌。节目用双人高亮轮换、阵营色、字幕和同色赛果卡维持区别。妹妹这一关系来自本期节目。[出场原片](https://www.bilibili.com/video/BV1JkWH64ESy/?p=1&t=158) · [赛事演出分析](../../videos/cases/BV1JkWH64ESy.md)
