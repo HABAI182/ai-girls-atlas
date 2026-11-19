@@ -40,3 +40,7 @@ FLUX 3 Image Klein，见 [11 月产品动态](../../docs/15-ai-news-2026-11-19.m
 ## 11 月产品动态续补
 
 Black Forest Labs 欧洲 API 的可用型号见 [产品动态](../../docs/16-news-and-character-search-2026-11-19.md#product-news)。
+
+## 第二次形象追溯
+
+图像搜索和 GitHub 查到 FLUX 画风微调、工作流及生成角色；同名 FLUX 页也有时装、无关作品和摄影。对照件中的动漫形象为画风示范。尚未找到作者明确用人物代表 Black Forest Labs FLUX 模型的稿件。 [AniFX — FLUX 动漫风模型](https://tensor.art/models/881278409458623107)

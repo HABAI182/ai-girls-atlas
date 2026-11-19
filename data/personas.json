@@ -65,6 +65,12 @@
           "kind": "official_capability_context",
           "summary": "R1资料明确讨论推理训练；可为角色的推演工作方式提供功能隐喻。",
           "scope": "特定历史模型的技术资料；不证明现实回复必然直白、吃货、爱抠字眼或擅长安慰。"
+        },
+        {
+          "source_id": "src-7a7009edea",
+          "kind": "official_capability_context",
+          "summary": "DeepSeek 将联网搜索、文件输入、阅读链接等服务集成到现有对话 API，并列出语音合成、识别等接口及开源演示客户端。",
+          "scope": "2026-11-13 · 应用能力开放 API"
         }
       ],
       "visual_observation": {
@@ -233,6 +239,12 @@
           "kind": "official_behavior_research",
           "summary": "官方研究比较模型及语言之间的价值表达差异，使用温暖/严谨、深度/简洁等维度。",
           "scope": "2026-07-13研究；说明家族内也有差异，不能用一个固定温柔标签概括所有版本。"
+        },
+        {
+          "source_id": "src-a989f15820",
+          "kind": "official_capability_context",
+          "summary": "Anthropic 同时发布 Fable 与 Mythos 的 5.2 版本。官方说明两者共享基础模型，但开放范围分别记录，Fable 提供顾问和任务分配等使用方式。",
+          "scope": "2026-11-09 · Fable 发布，Mythos 按资格开放"
         }
       ],
       "visual_observation": {
@@ -312,6 +324,12 @@
           "kind": "official_capability_context",
           "summary": "Google 将 gemini-4-neon 列为 Gemini API 正式可用，覆盖付费层。同日还给文档、音频和视频增加按页、按区间或按内容层取用的能力。",
           "scope": "2026-11-18 · API 正式可用。版本资料可用于角色创作引子。"
+        },
+        {
+          "source_id": "src-b451aff394",
+          "kind": "official_capability_context",
+          "summary": "Google 更新 Gemini 应用的 Tasks，官方说明列出用定时任务安排重复操作，其中有部分可由免费用户使用，部分操作按地区和账号条件开放。",
+          "scope": "2026-11-17 · Gemini 应用功能更新"
         }
       ],
       "visual_observation": {
@@ -1292,7 +1310,14 @@
       "original_status": "editorial_draft",
       "author_persona_status": "not_confirmed",
       "author_basis": [],
-      "product_basis": [],
+      "product_basis": [
+        {
+          "source_id": "src-bd053b1b14",
+          "kind": "official_capability_context",
+          "summary": "Comfy 官方页面列出 GPT Image 2.6 合作节点的文生图、参考图与遮罩编辑。页面仅注明 2026 年 11 月更新，本条日期为核对日。",
+          "scope": "2026-11-19 · 核对官方入口"
+        }
+      ],
       "visual_observation": null,
       "real_model_dialogue_measurement": null,
       "visual_binding": "选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。",
@@ -1425,8 +1450,16 @@
       "setting_id": "atlas-ensemble-v1",
       "page_path": "encyclopedia/personas/suno.md",
       "original_status": "editorial_draft",
-      "author_persona_status": "not_confirmed",
-      "author_basis": [],
+      "author_persona_status": "written_branch_found",
+      "author_basis": [
+        {
+          "author": "虚无渊火nihilus",
+          "source_id": "src-09938762db",
+          "scope": "UP 主在简介写的新分支",
+          "evidence_kind": "author_setting_text",
+          "summary": "作者将她写成开朗奔放的女 DJ。"
+        }
+      ],
       "product_basis": [],
       "visual_observation": null,
       "real_model_dialogue_measurement": null,
@@ -1461,7 +1494,7 @@
           "model_output": false
         }
       ],
-      "evidence_gap": "尚无本轮统一提示、固定版本/模式的真实产品对话采样；原创示范不作为模型评测。"
+      "evidence_gap": "已补单一作者的 DJ 人设。更多独立演出、作者配音和真实产品说话样本待补。"
     },
     {
       "id": "persona-atlas-elevenlabs",
@@ -1941,6 +1974,12 @@
           "kind": "official_capability_context",
           "summary": "快手在三季报里披露可灵参与多家制作团队的专业制作，并在多伦多电影节的 TIFF: The Market 展示实际应用。此处记录制作生态，Kling 4.0 的模型发布已有独立条目。",
           "scope": "2026-11-19 · 快手三季报"
+        },
+        {
+          "source_id": "src-a41a8b12f7",
+          "kind": "official_capability_context",
+          "summary": "官方 18 日介绍图像模型的原生高分辨率输出、文字排版和系列图片生成。它与 10 月收录的 Kling 4.0 视频模型是不同产品记录。",
+          "scope": "2026-11-18 · 官方图像功能说明"
         }
       ],
       "visual_observation": null,
@@ -1999,6 +2038,12 @@
           "kind": "official_capability_context",
           "summary": "Runway 公开 Praxis-1，用视频预训练迁移到机器人动作控制，并给出权重、代码和托管入口。",
           "scope": "2026-11-11 · 权重与代码公开"
+        },
+        {
+          "source_id": "src-ea92875657",
+          "kind": "official_capability_context",
+          "summary": "Runway 研究文章讨论实时视频推理的延迟优化，重点是单请求下的执行效率。按研究材料保存。",
+          "scope": "2026-11-05 · 研究说明"
         }
       ],
       "visual_observation": null,
@@ -2446,6 +2491,13 @@
           "scope": "P1 00:07 具名卡及视频简介",
           "evidence_kind": "identity_only",
           "summary": "原作具名发布 LongCat 拟人卡，对应美团 LongCat 2.0 / 2.5 Preview。"
+        },
+        {
+          "author": "甶丶",
+          "source_id": "src-73aa6b186f",
+          "scope": "2026-10-25 龙猫娘优化贴第 1–5 图",
+          "evidence_kind": "identity_only",
+          "summary": "作者发布奇幻和现代两套立绘、三视图和配件拆解。"
         }
       ],
       "product_basis": [
@@ -2461,10 +2513,10 @@
         "scope": "只看设定板预览"
       },
       "real_model_dialogue_measurement": null,
-      "visual_binding": "甶丶公开视频原作呈现白绿发、黄外套和外卖箱版本。lmy414 的现代外套 B 款按上游补全作品记录；其附件原图与视频卡的对应关系仍待逐图核对。",
+      "visual_binding": "已有甶丶 8 月独立初稿、10 月优化原帖及 11 月盘点。10 月原帖原作者提供奇幻与现代各一张三视图，lmy414 现代外套 B 款补全图按独立改编来源保存。",
       "original": null,
       "original_dialogues": [],
-      "evidence_gap": "已补具名视频原作；设定板附件原图的具体对应、单张原图许可和作者文字性格待补。"
+      "evidence_gap": "已补原作者初稿与优化设定。补全板所使用的具体原始附件、许可和作者性格文字待补。"
     },
     {
       "id": "persona-atlas-muse",
@@ -2520,14 +2572,20 @@
         }
       ],
       "visual_observation": {
-        "source_id": "src-fcebedbdec",
-        "scope": "P1 00:11 样帧"
+        "source_id": "src-940914f1de",
+        "scope": "道具设计与两套服装的作者说明"
       },
       "real_model_dialogue_measurement": null,
-      "visual_binding": "原作 MOSS 卡下方和简介都明确标 MOSS-Image。",
+      "visual_binding": "甶丶专栏明确拟人对象是模思智能的 MOSS，盘点视频进一步标注 MOSS-Image。奇幻型右眼红色来自单片镜，双服装保留 8 字形环。作者提到名字借自电影中的同名机器，这是模型命名的来历。",
       "original": null,
       "original_dialogues": [],
-      "evidence_gap": "待补单张原图来源、素材授权和可引用的作者文字人设。"
+      "evidence_gap": "文字性格、原创配音与后续独立二创视频待补。",
+      "design_basis": {
+        "author": "甶丶",
+        "source_id": "src-940914f1de",
+        "scope": "道具设计与两套服装的作者说明",
+        "summary": "作者给出雅各布杖的用途、修补痕迹、单片镜以及跨服装重复的 8 字标识。可用于复画，该篇没有给出明确性格。"
+      }
     },
     {
       "id": "persona-atlas-diandian",
@@ -2536,7 +2594,7 @@
       "setting_id": "source-fuh-diandian",
       "page_path": "encyclopedia/personas/diandian.md",
       "original_status": "source_summary",
-      "author_persona_status": "not_confirmed",
+      "author_persona_status": "written_branch_found",
       "author_basis": [
         {
           "author": "甶丶",
@@ -2544,6 +2602,13 @@
           "scope": "原片字卡与简介",
           "evidence_kind": "identity_only",
           "summary": "原作将这张 DIANDIAN 卡对应“小红书点点”，并在简介标出 dots-3-note-preview。"
+        },
+        {
+          "author": "甶丶",
+          "source_id": "src-b468ea738c",
+          "scope": "第 5 图「巡迹与记录设定」",
+          "evidence_kind": "author_setting_text",
+          "summary": "狼族巡迹者，亲切与狡黠并存，乐意带路；用声、气味和痕迹找线索，分开整理观察与推测。"
         }
       ],
       "product_basis": [
@@ -2555,14 +2620,14 @@
         }
       ],
       "visual_observation": {
-        "source_id": "src-fcebedbdec",
-        "scope": "P1 00:14 样帧"
+        "source_id": "src-b468ea738c",
+        "scope": "第 5 图「巡迹与记录设定」"
       },
       "real_model_dialogue_measurement": null,
-      "visual_binding": "原作将这张 DIANDIAN 卡对应“小红书点点”，并在简介标出 dots-3-note-preview。",
+      "visual_binding": "原作者设定图称 Dots-note 娘，盘点简介明确是小红书点点。图中露出的是真狼耳，红兜帽的凸起给耳朵留空间。",
       "original": null,
       "original_dialogues": [],
-      "evidence_gap": "待补单张原图来源、素材授权和可引用的作者文字人设。"
+      "evidence_gap": "已获作者性格和行动方式，真实产品对话与可确认的后续独立二创视频待补。"
     },
     {
       "id": "persona-atlas-ant-ling",
@@ -2571,7 +2636,7 @@
       "setting_id": "source-fuh-ant-ling",
       "page_path": "encyclopedia/personas/ant-ling.md",
       "original_status": "source_summary",
-      "author_persona_status": "not_confirmed",
+      "author_persona_status": "written_branch_found",
       "author_basis": [
         {
           "author": "甶丶",
@@ -2579,6 +2644,13 @@
           "scope": "原片字卡与简介",
           "evidence_kind": "identity_only",
           "summary": "作者在原作简称“支付宝百灵”，官方名称为“蚂蚁百灵”。画面对应 Ling 3.1 Flash 1019。3.2 版本资料见新闻。"
+        },
+        {
+          "author": "甶丶",
+          "source_id": "src-95c1b387f1",
+          "scope": "第 4、5 图的影子互动和拟态投影说明",
+          "evidence_kind": "author_setting_text",
+          "summary": "本体温和守礼，影子更坦率。两者共享意识；影子可独立动作、保持脚边相连。不同服装对应另一状态。"
         }
       ],
       "product_basis": [
@@ -2596,14 +2668,14 @@
         }
       ],
       "visual_observation": {
-        "source_id": "src-fcebedbdec",
-        "scope": "P1 00:19 样帧"
+        "source_id": "src-95c1b387f1",
+        "scope": "第 4、5 图的影子互动和拟态投影说明"
       },
       "real_model_dialogue_measurement": null,
-      "visual_binding": "作者在原作简称“支付宝百灵”，官方名称为“蚂蚁百灵”。画面对应 Ling 3.1 Flash 1019。3.2 版本资料见新闻。",
+      "visual_binding": "甶丶的正侧背设计明确标 Ant Ling / Ling-3.1-Flash。视频里的黑影在设定图中有独立动作，属于同一个角色。",
       "original": null,
       "original_dialogues": [],
-      "evidence_gap": "待补单张原图来源、素材授权和可引用的作者文字人设。"
+      "evidence_gap": "已有作者的性格与影子互动，具体对白及后续独立二创视频待补。"
     },
     {
       "id": "persona-atlas-unisound-u2",
@@ -2637,14 +2709,61 @@
         }
       ],
       "visual_observation": {
-        "source_id": "src-fcebedbdec",
-        "scope": "P1 00:23 样帧"
+        "source_id": "src-c94f68cdcc",
+        "scope": "原动态中的形态与制作说明"
       },
       "real_model_dialogue_measurement": null,
-      "visual_binding": "作者把 UNISOUND 卡对应云知声 U2 Flash / U2 Med。官网可独立核对 U2 Flash 名称。",
+      "visual_binding": "原动态明确是云知声 U2-Flash。视频简介把 U2 Flash / U2 Med 都放在 U2 栏，独立造型按原动态的 U2-Flash 署名。",
       "original": null,
       "original_dialogues": [],
-      "evidence_gap": "待补单张原图来源、素材授权和可引用的作者文字人设。"
+      "evidence_gap": "具体性格、对话、声音和后续独立二创视频待补。",
+      "design_basis": {
+        "author": "甶丶",
+        "source_id": "src-c94f68cdcc",
+        "scope": "原动态中的形态与制作说明",
+        "summary": "同一角色有奇幻、科技各三种比例和一套常服。参考乐器和标志都随原帖发布，正文未设性格或对白。"
+      }
+    },
+    {
+      "id": "persona-atlas-comfyui",
+      "character_id": "comfyui",
+      "name": "ComfyUI 娘",
+      "setting_id": "source-zipzippipe-comfyui",
+      "page_path": "encyclopedia/personas/comfyui.md",
+      "original_status": "source_summary",
+      "author_persona_status": "not_confirmed",
+      "author_basis": [
+        {
+          "author": "ZipZipPipe（上游源文件署名）",
+          "source_id": "src-020a8425ee",
+          "scope": "p4 角色身份",
+          "evidence_kind": "identity_only",
+          "summary": "Model Muses 图源文件标了 ComfyUI 头盔与袖标，逐图来源指向 ZipZipPipe 的 Pixiv 合集第 5 张（p4）。"
+        }
+      ],
+      "product_basis": [
+        {
+          "source_id": "src-b7e051fa79",
+          "kind": "official_capability_context",
+          "scope": "工具说明",
+          "summary": "ComfyUI 提供节点图来组织生成流程。"
+        },
+        {
+          "source_id": "src-bd053b1b14",
+          "kind": "official_capability_context",
+          "summary": "Comfy 官方页面列出 GPT Image 2.6 合作节点的文生图、参考图与遮罩编辑。页面仅注明 2026 年 11 月更新，本条日期为核对日。",
+          "scope": "2026-11-19 · 核对官方入口"
+        }
+      ],
+      "visual_observation": {
+        "source_id": "src-3f3c7519d5",
+        "scope": "已看固定提交的公开全身图"
+      },
+      "real_model_dialogue_measurement": null,
+      "visual_binding": "Model Muses 图源文件标了 ComfyUI 头盔与袖标，逐图来源指向 ZipZipPipe 的 Pixiv 合集第 5 张（p4）。",
+      "original": null,
+      "original_dialogues": [],
+      "evidence_gap": "已见署名造型，Pixiv 原帖跨站复核及单独文字性格待补。"
     }
   ],
   "community_video_observations": [

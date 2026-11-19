@@ -1654,6 +1654,50 @@
         }
       ],
       "checked_on": "2026-11-19"
+    },
+    {
+      "id": "community-suno-dj-air",
+      "character_id": "suno",
+      "label": "开朗奔放的女 DJ",
+      "dimension": "单作者作品印象",
+      "summary": "UP 主在简介直接设定女 DJ，表情图用代写歌和争强的玩笑展示这个版本。",
+      "support_scope": "单一原作品",
+      "claim_type": "author_fiction_not_real_model_response",
+      "evidence": [
+        {
+          "source_id": "src-09938762db",
+          "url": "https://www.bilibili.com/video/BV11GsK6REts/",
+          "platform": "Bilibili",
+          "video_id": "BV11GsK6REts",
+          "kind": "visual_frames_and_creator_description",
+          "locator": "P1 00:14",
+          "author": "虚无渊火nihilus",
+          "checked_on": "2026-11-19"
+        }
+      ],
+      "checked_on": "2026-11-19"
+    },
+    {
+      "id": "community-wenxin-book-wheelchair",
+      "character_id": "wenxin",
+      "label": "热爱文字艺术的文心娘",
+      "dimension": "单作者作品印象",
+      "summary": "这一作者的口播用奖杯、研究用书和轮椅叙述此前经历与当下性格。",
+      "support_scope": "单一原作品",
+      "claim_type": "author_fiction_not_real_model_response",
+      "evidence": [
+        {
+          "source_id": "src-3168ee9dc7",
+          "url": "https://www.bilibili.com/video/BV1TyWr6oELu/",
+          "platform": "Bilibili",
+          "video_id": "BV1TyWr6oELu",
+          "kind": "visual_frames_and_creator_description",
+          "locator": "P1 00:49",
+          "author": "一只摸鱼的可莉",
+          "checked_on": "2026-11-19"
+        }
+      ],
+      "checked_on": "2026-11-19"
     }
   ],
   "pending_leads": [
@@ -1690,8 +1734,8 @@
     ]
   },
   "coverage": {
-    "character_count": 12,
-    "records": 60,
+    "character_count": 14,
+    "records": 62,
     "pending_leads": 1
   }
 }

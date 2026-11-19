@@ -38,3 +38,7 @@
 - [元宝AI娘化3.0:短发、长发、御姐，谁让你心动了？](https://www.bilibili.com/video/BV13dYC68E9W/) · 帆船很忙
 
 返回[角色总览](../../README.md) · [版本比较](../../docs/10-variant-guide.md) · [补缺记录](../../encyclopedia/collection-gaps.md)。
+
+## 11 月作品追更
+
+[元宝原创 OC：海边绿发回眸](../../docs/17-original-design-sheets-and-news-2026-11-19.md#work-bv1nzsj6aeel) · [元宝立绘：绿裙与悬浮屏](../../docs/17-original-design-sheets-and-news-2026-11-19.md#work-bv1dxwy6iegt)

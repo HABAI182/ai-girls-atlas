@@ -24,6 +24,7 @@
       "bilibili_search_scope": "returned_candidates",
       "latest_check": {
         "checked_on": "2026-11-19",
+        "baseline_commit": "b4f31df",
         "queries": [
           "可灵娘",
           "可灵拟人",
@@ -35,14 +36,38 @@
           "Bilibili",
           "Pixiv",
           "GitHub",
-          "公开网页与官方入口"
+          "跨语种网页与图片搜索"
         ],
         "outcome": "unconfirmed",
-        "reviewed_result": "官方动画页的女孩和吉祥物属于输入或生成示例，检索到的“可灵动漫”主要指用工具把角色做成动画。",
+        "reviewed_result": "《魔法少女可灵》第一集和第七集都可见角色名对应的奇幻剧情。片中有校服、变身和怪物，多处带豆包 AI 生成标记；作者简介与可见评论未给出她和快手可灵的关联。保留同名线索。",
         "source_ids": [
-          "src-16aca44e04"
+          "src-826963531f",
+          "src-da0c89d254"
         ]
-      }
+      },
+      "prior_checks": [
+        {
+          "checked_on": "2026-11-19",
+          "queries": [
+            "可灵娘",
+            "可灵拟人",
+            "可灵姬",
+            "Kling 娘",
+            "Kling AI mascot"
+          ],
+          "platforms": [
+            "Bilibili",
+            "Pixiv",
+            "GitHub",
+            "公开网页与官方入口"
+          ],
+          "outcome": "unconfirmed",
+          "reviewed_result": "官方动画页的女孩和吉祥物属于输入或生成示例，检索到的“可灵动漫”主要指用工具把角色做成动画。",
+          "source_ids": [
+            "src-16aca44e04"
+          ]
+        }
+      ]
     },
     {
       "id": "runway",
@@ -55,6 +80,7 @@
       "access_note": "B站接口本轮未返回可解析结果；网页检索仍未得到本库可确认方案。",
       "latest_check": {
         "checked_on": "2026-11-19",
+        "baseline_commit": "b4f31df",
         "queries": [
           "Runway娘",
           "Runway 拟人",
@@ -66,15 +92,38 @@
           "Bilibili",
           "Pixiv",
           "GitHub",
-          "公开网页与官方入口"
+          "跨语种网页与图片搜索"
         ],
         "outcome": "unconfirmed",
-        "reviewed_result": "Runway Characters 的官方演示以自定义人物、样貌和声音展示 API。品牌指南和此次收录的机器人项目也未找到判定为 Runway 本身的具名方案。",
+        "reviewed_result": "在 B 站查了 Runway 拟人和娘化词，对照了 Runway 官方 Gen-4 作品展和英文、日文拟人检索。Gen-4 展厅是不同创作者的电影案例，尚未找到具名 Runway 拟人原作。",
         "source_ids": [
-          "src-6375cb803c",
-          "src-689207ad63"
+          "src-39226f7145"
         ]
-      }
+      },
+      "prior_checks": [
+        {
+          "checked_on": "2026-11-19",
+          "queries": [
+            "Runway娘",
+            "Runway 拟人",
+            "Runway姬",
+            "Runway gijinka",
+            "RunwayML personification"
+          ],
+          "platforms": [
+            "Bilibili",
+            "Pixiv",
+            "GitHub",
+            "公开网页与官方入口"
+          ],
+          "outcome": "unconfirmed",
+          "reviewed_result": "Runway Characters 的官方演示以自定义人物、样貌和声音展示 API。品牌指南和此次收录的机器人项目也未找到判定为 Runway 本身的具名方案。",
+          "source_ids": [
+            "src-6375cb803c",
+            "src-689207ad63"
+          ]
+        }
+      ]
     },
     {
       "id": "flux",
@@ -87,6 +136,7 @@
       "access_note": "B站接口本轮未返回可解析结果；网页检索仍未得到本库可确认方案。",
       "latest_check": {
         "checked_on": "2026-11-19",
+        "baseline_commit": "b4f31df",
         "queries": [
           "FLUX娘",
           "FLUX 拟人",
@@ -97,15 +147,37 @@
           "Bilibili",
           "Pixiv",
           "GitHub",
-          "公开网页与官方入口"
+          "跨语种网页与图片搜索"
         ],
         "outcome": "unconfirmed",
-        "reviewed_result": "模型列表和社区动画画风微调的题名混有大量 FLUX 生成示例。尚未找到画面、标题或作者简介把已发布角色直接设定为 FLUX 模型。",
+        "reviewed_result": "图像搜索和 GitHub 查到 FLUX 画风微调、工作流及生成角色；同名 FLUX 页也有时装、无关作品和摄影。对照件中的动漫形象为画风示范。尚未找到作者明确用人物代表 Black Forest Labs FLUX 模型的稿件。",
         "source_ids": [
-          "src-a1d42800f0",
-          "src-a8c48e6196"
+          "src-26f4bfb2bd"
         ]
-      }
+      },
+      "prior_checks": [
+        {
+          "checked_on": "2026-11-19",
+          "queries": [
+            "FLUX娘",
+            "FLUX 拟人",
+            "FLUX-chan",
+            "Black Forest Labs gijinka"
+          ],
+          "platforms": [
+            "Bilibili",
+            "Pixiv",
+            "GitHub",
+            "公开网页与官方入口"
+          ],
+          "outcome": "unconfirmed",
+          "reviewed_result": "模型列表和社区动画画风微调的题名混有大量 FLUX 生成示例。尚未找到画面、标题或作者简介把已发布角色直接设定为 FLUX 模型。",
+          "source_ids": [
+            "src-a1d42800f0",
+            "src-a8c48e6196"
+          ]
+        }
+      ]
     },
     {
       "id": "stable-diffusion",

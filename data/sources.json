@@ -4400,6 +4400,294 @@
       "checked_on": "2026-11-19",
       "evidence_level": "community_project",
       "note": "2026-11-19 查找具名拟人作品时用于区分产品示例和角色。"
+    },
+    {
+      "id": "src-940914f1de",
+      "url": "https://www.bilibili.com/opus/1265454286364475399",
+      "title": "MOSS（模思智能）娘化形象发布",
+      "checked_on": "2026-11-19",
+      "evidence_level": "creator_original_art_and_text",
+      "note": "第 1–2 图为奇幻与科技主立绘，第 3–4 图为对应三视图，第 5 图为补充设定，第 6–9 图变换年龄比例，第 10–11 图为 Q 版，第 12–13 图为头像。作者说明片中看似红瞳的细节是右眼单片镜。奇幻版的雅各布杖用于观测星体角度，杆身有可滑横板和旧断口的金属修补。科技版把测量工具换成长风衣搭配的望远镜、可展开成三脚架的登山杖，保留 8 字形环作为共同识别点。正文给出制作过程和道具来历，日常谈吐与性格仍待补。"
+    },
+    {
+      "id": "src-b468ea738c",
+      "url": "https://www.bilibili.com/opus/1262407612636332038",
+      "title": "小红书ai娘化形象",
+      "checked_on": "2026-11-19",
+      "evidence_level": "creator_original_art_and_text",
+      "note": "第 3、4 图分别有奇幻红兜帽和科技红黑夹克的正侧背，第 5 图是「巡迹与记录设定」。她是狼族巡迹者，亲切又有点狡黠，喜欢带路和观察同行者。以声音、气味和痕迹发现线索，把亲眼所见与自己的推测分开记录。奇幻版用提篮、手记和采样袋，科技版改用耳夹、眼镜和红色记录匣。长柄道具是斧具，设定图给出两版结构。第 10–13 图补了 Q 版与头像。"
+    },
+    {
+      "id": "src-95c1b387f1",
+      "url": "https://www.bilibili.com/opus/1258423639675502601",
+      "title": "蚂蚁百灵娘化形象",
+      "checked_on": "2026-11-19",
+      "evidence_level": "creator_original_art_and_text",
+      "note": "第 4 图和第 5 图分别是科技、奇幻三视图。奇幻版是蓝黑白层叠服、触角、头纱、长钥匙；影子能另做动作，仍连在脚边，和本体共享意识。作者图中文字写她本人温和守礼，影子坦率，钥匙能打开影中的门。科技图把影子写成另一机体状态的投影，背架连着两条可收拢的机械臂，手上的蓝色晶片是启动密钥。两种形态的蓝环和影子便于横向识别。"
+    },
+    {
+      "id": "src-c94f68cdcc",
+      "url": "https://www.bilibili.com/opus/1257685897406578689",
+      "title": "Unisound:U2-Flash娘化形",
+      "checked_on": "2026-11-19",
+      "evidence_level": "creator_original_art_and_text",
+      "note": "原动态共 9 张，第 1–6 图为奇幻和科技各三种比例，第 7 图是常服，第 8–9 图是乐器和云知声标志的参考。奇幻版是青绿长发、白色宽袖兜帽和音叉状道具；科技版用透明下肢、发光投影底座和带天线的乐器。常服保留白上衣、深蓝裙和浅青轮廓。作者说明是自己制作的 U2-Flash 拟人，也写明采用生成及降噪辅助。"
+    },
+    {
+      "id": "src-06ed17bbc8",
+      "url": "https://www.bilibili.com/opus/1242253521583079429",
+      "title": "娘化longcat",
+      "checked_on": "2026-11-19",
+      "evidence_level": "creator_original_art_and_text",
+      "note": "2026-08-30 的单张作者初稿，能与 10 月优化稿样式对比。"
+    },
+    {
+      "id": "src-73aa6b186f",
+      "url": "https://www.bilibili.com/opus/1262838853165645826",
+      "title": "Longcat娘形象优化",
+      "checked_on": "2026-11-19",
+      "evidence_level": "creator_original_art_and_text",
+      "note": "2026-10-25 作者优化帖的现代版，与同帖奇幻版和 lmy414 补全板分别归档。"
+    },
+    {
+      "id": "src-134551c8f4",
+      "url": "https://www.bilibili.com/opus/1242051735409655810",
+      "title": "混元娘化",
+      "checked_on": "2026-11-19",
+      "evidence_level": "creator_original_art_and_text",
+      "note": "作者称用 GPT Image 生成再手改。与既有深发中式持算盘造型并行。"
+    },
+    {
+      "id": "src-776cdf14e1",
+      "url": "https://github.com/saya-ch/model-muses/tree/12f2f4468338d5cce365afd54f88b21a6710cdd2",
+      "title": "Model Muses · 固定提交与角色索引",
+      "checked_on": "2026-11-19",
+      "evidence_level": "pinned_project_index",
+      "note": "含 32 个主表对象，本轮定位 ComfyUI 具名图片，并回查逐图出处说明。"
+    },
+    {
+      "id": "src-020a8425ee",
+      "url": "https://github.com/saya-ch/model-muses/blob/12f2f4468338d5cce365afd54f88b21a6710cdd2/docs/%E6%9D%A5%E6%BA%90%E4%B8%8E%E7%89%88%E6%9D%83.md",
+      "title": "Model Muses · 逐图溯源",
+      "checked_on": "2026-11-19",
+      "evidence_level": "pinned_repository_provenance",
+      "note": "ComfyUI 条目注明 ZipZipPipe 的 Pixiv 合集 p4。"
+    },
+    {
+      "id": "src-3f3c7519d5",
+      "url": "https://github.com/saya-ch/model-muses/blob/12f2f4468338d5cce365afd54f88b21a6710cdd2/%E5%8E%9F%E7%94%BB/comfyui-ref.jpg",
+      "title": "ZipZipPipe · ComfyUI 娘外部立绘",
+      "checked_on": "2026-11-19",
+      "evidence_level": "external_art_observed",
+      "note": "已查看公开仓库中的 941×1672 图，帽面和袖标明确写 ComfyUI。"
+    },
+    {
+      "id": "src-7808dc0cbc",
+      "url": "https://www.pixiv.net/artworks/150718881",
+      "title": "ZipZipPipe · 一些更新（据上游溯源，p4）",
+      "checked_on": "2026-11-19",
+      "evidence_level": "original_art_pointer",
+      "note": "Pixiv 原帖为档案上游所引。本轮从固定提交查看画面。"
+    },
+    {
+      "id": "src-b7e051fa79",
+      "url": "https://www.comfy.org/",
+      "title": "ComfyUI 官方入口",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "图像、视频等模型的节点式工作流环境。"
+    },
+    {
+      "id": "src-3bd77004ca",
+      "url": "https://www.bilibili.com/video/BV18bs86wECY/",
+      "title": "GPT/Codex龙娘-7 发型与瞳色",
+      "checked_on": "2026-11-19",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "作者在 v1.6.3 的龙娘配置里展示瞳色与发型，并保留白发、角等基础识别点。可在同一角色上替换视觉部件；仓库的 release 是外部入口，本库只看了视频配置演示。"
+    },
+    {
+      "id": "src-09938762db",
+      "url": "https://www.bilibili.com/video/BV11GsK6REts/",
+      "title": "AI娘系列没有Suno?那我来加上！",
+      "checked_on": "2026-11-19",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "UP 明确将 Suno 写成开朗奔放的女 DJ，主识别点用黑紫头发、粉色挑染和耳机。前半用代写歌、被叫便宜等表情演出，后半有 Midjourney 和 Google Lyria 客串。画面中的模型评价按段子看。"
+    },
+    {
+      "id": "src-6ed7b5b440",
+      "url": "https://www.bilibili.com/video/BV1NZsJ6aEEL/",
+      "title": "腾讯元宝AI拟人化，原创oc角色",
+      "checked_on": "2026-11-19",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "与风飘柔的标题直接写腾讯元宝原创 OC。浅色长裙、绿发和圆形光环持续保留，用逆光、风与逐步靠近的景别演一段回头。与另一位作者的汉服立绘是独立分支。"
+    },
+    {
+      "id": "src-6dc4fc7e4b",
+      "url": "https://www.bilibili.com/video/BV1DxWy6iEgT/",
+      "title": "元宝AI拟人",
+      "checked_on": "2026-11-19",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "投稿用一张竖版立绘放满 12 秒。蓝绿宝石、头顶光环和悬在掌上的界面把“助手”外化成道具。标题只确认角色归元宝，源文件与精确图稿署名待补。"
+    },
+    {
+      "id": "src-32f6b0d3ea",
+      "url": "https://www.bilibili.com/video/BV1kZsm6KETG/",
+      "title": "试着做一些非遗科普！但是大概没那么准确，还是千问娘和文心娘哦！",
+      "checked_on": "2026-11-19",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "同一作者此前有文心小熊与千问的生活蒙太奇，这次把两人放到亮幕前操演皮影。旁白准确性没有由本库复核。人物用拿、指、控制杆与对看完成轮流演示，区别于纯口播。"
+    },
+    {
+      "id": "src-3168ee9dc7",
+      "url": "https://www.bilibili.com/video/BV1TyWr6oELu/",
+      "title": "AI娘人设讨论之文心",
+      "checked_on": "2026-11-19",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "UP 用带轮椅和成摞书的蓝发文心立绘作主轴，画面借奖杯、医疗装置与庭院聚会讲自己的同人解读。按片中的文学比喻收录，已有文心小熊是另一作者视角。"
+    },
+    {
+      "id": "src-5d7431b426",
+      "url": "https://www.bilibili.com/video/BV1S4s86YEAm/",
+      "title": "《我会等》AI翻唱-【Qwen拟人旗袍版】",
+      "checked_on": "2026-11-19",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "作者用黑发和淡银蓝旗袍来呈现千问，交替剪台上的麦克风、追光和台下的应援棒。观众镜头给假想演唱会建立空间，比只放静态头像更清楚地表现她在对谁唱。翻唱身份取自片名。"
+    },
+    {
+      "id": "src-e2597b3345",
+      "url": "https://www.bilibili.com/video/BV1obs46eEGW/",
+      "title": "大肥鱼也是美人鱼，DeepSeek✖Claude《美人鱼》大肥鱼无限片场【AI MV 大赛】",
+      "checked_on": "2026-11-19",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "简介把鲸鱼娘和 Claude 分别写作鲸族平民鲸汐、人族公主橙夏。P1 从海底的单人段落切到海滩双人戏，用蓝橙发色承接既有形象，靠手部动作和特写推进关系。作者称 P2 为完整版全曲，本条分析 P1。"
+    },
+    {
+      "id": "src-9257f22863",
+      "url": "https://www.bilibili.com/video/BV1QNsh6qEFS/",
+      "title": "【龙娘新闻台·11.19】Gemini 4 Neon 推出，Genie 4 开放互动世界",
+      "checked_on": "2026-11-19",
+      "evidence_level": "bilibili_api_metadata",
+      "note": "这条 11 月 19 日投稿把小龙娘主持与真实来源卡交替剪辑。第一条讲 Gemini Neon，第二条讲 Genie 4，第三条讲 Anthropic。前两项产品新闻已入上一批，只把这条作为新节目形式。"
+    },
+    {
+      "id": "src-2ca93270ff",
+      "url": "https://github.com/InhamiRei/Codex-DragonGirl/releases/tag/v1.6.3",
+      "title": "InhamiRei · Codex-DragonGirl v1.6.3",
+      "checked_on": "2026-11-19",
+      "evidence_level": "creator_project_release",
+      "note": "2026-11-19 发布。六种发型、瞳色同步、Windows 与 macOS 文件。"
+    },
+    {
+      "id": "src-826963531f",
+      "url": "https://www.bilibili.com/video/BV16a3x6iExA/",
+      "title": "第一集",
+      "checked_on": "2026-11-19",
+      "evidence_level": "rejected_or_unconfirmed_character_candidate",
+      "note": "《魔法少女可灵》第一集和第七集都可见角色名对应的奇幻剧情。片中有校服、变身和怪物，多处带豆包 AI 生成标记；作者简介与可见评论未给出她和快手可灵的关联。保留同名线索。"
+    },
+    {
+      "id": "src-da0c89d254",
+      "url": "https://www.bilibili.com/video/BV1ALs465EyX/",
+      "title": "第七集",
+      "checked_on": "2026-11-19",
+      "evidence_level": "rejected_or_unconfirmed_character_candidate",
+      "note": "《魔法少女可灵》第一集和第七集都可见角色名对应的奇幻剧情。片中有校服、变身和怪物，多处带豆包 AI 生成标记；作者简介与可见评论未给出她和快手可灵的关联。保留同名线索。"
+    },
+    {
+      "id": "src-39226f7145",
+      "url": "https://runway.com/worlds-of-gen-4",
+      "title": "Gen-4 创作者作品展",
+      "checked_on": "2026-11-19",
+      "evidence_level": "rejected_or_unconfirmed_character_candidate",
+      "note": "在 B 站查了 Runway 拟人和娘化词，对照了 Runway 官方 Gen-4 作品展和英文、日文拟人检索。Gen-4 展厅是不同创作者的电影案例，尚未找到具名 Runway 拟人原作。"
+    },
+    {
+      "id": "src-26f4bfb2bd",
+      "url": "https://tensor.art/models/881278409458623107",
+      "title": "AniFX — FLUX 动漫风模型",
+      "checked_on": "2026-11-19",
+      "evidence_level": "rejected_or_unconfirmed_character_candidate",
+      "note": "图像搜索和 GitHub 查到 FLUX 画风微调、工作流及生成角色；同名 FLUX 页也有时装、无关作品和摄影。对照件中的动漫形象为画风示范。尚未找到作者明确用人物代表 Black Forest Labs FLUX 模型的稿件。"
+    },
+    {
+      "id": "src-a41a8b12f7",
+      "url": "https://kling.ai/blog/kling-image-4-stunningly-realistic-sharp-precise?tab=all",
+      "title": "可灵官方解说",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "官方 18 日介绍图像模型的原生高分辨率输出、文字排版和系列图片生成。它与 10 月收录的 Kling 4.0 视频模型是不同产品记录。"
+    },
+    {
+      "id": "src-fe43e44d0b",
+      "url": "https://kling.ai/release-note/release-notes/Kling_Image_4",
+      "title": "发布说明",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "官方 18 日介绍图像模型的原生高分辨率输出、文字排版和系列图片生成。它与 10 月收录的 Kling 4.0 视频模型是不同产品记录。"
+    },
+    {
+      "id": "src-e308a84a77",
+      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+      "title": "Anthropic 原公告",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "Anthropic 公告称完成首次公开发行定价，并预计股票于美国当地 19 日在纳斯达克开始交易。这里保存公司公告时间与表述。"
+    },
+    {
+      "id": "src-b451aff394",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "title": "Google 功能说明",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "Google 更新 Gemini 应用的 Tasks，官方说明列出用定时任务安排重复操作，其中有部分可由免费用户使用，部分操作按地区和账号条件开放。"
+    },
+    {
+      "id": "src-b41bb07cb2",
+      "url": "https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models/",
+      "title": "GitHub Changelog",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "GitHub 的日志把 Fusion 扩到网页、移动端和 Visual Studio，并说明模型扩展。这一功能属于 GitHub Copilot。"
+    },
+    {
+      "id": "src-7a7009edea",
+      "url": "https://api-docs.deepseek.com/zh-cn/news/news261113/",
+      "title": "DeepSeek 发布公告",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "DeepSeek 将联网搜索、文件输入、阅读链接等服务集成到现有对话 API，并列出语音合成、识别等接口及开源演示客户端。"
+    },
+    {
+      "id": "src-019a92f16b",
+      "url": "https://news.adobe.com/news/2026/11/adobe-firefly-expands",
+      "title": "Adobe 公告",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "Adobe MAX 公告更新 Firefly 的 Creative Agent、Graph 和多媒体编辑流程，创作者可指定合作模型，查看工作流并按需要调整。"
+    },
+    {
+      "id": "src-a989f15820",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "title": "Anthropic 发布页",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "Anthropic 同时发布 Fable 与 Mythos 的 5.2 版本。官方说明两者共享基础模型，但开放范围分别记录，Fable 提供顾问和任务分配等使用方式。"
+    },
+    {
+      "id": "src-ea92875657",
+      "url": "https://runway.com/news/research/real-time-video-at-batch-size-one",
+      "title": "Runway Research",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "Runway 研究文章讨论实时视频推理的延迟优化，重点是单请求下的执行效率。按研究材料保存。"
+    },
+    {
+      "id": "src-bd053b1b14",
+      "url": "https://comfy.org/chatgpt-image-2.6/",
+      "title": "Comfy 官方节点入口",
+      "checked_on": "2026-11-19",
+      "evidence_level": "official_capability_context",
+      "note": "Comfy 官方页面列出 GPT Image 2.6 合作节点的文生图、参考图与遮罩编辑。页面仅注明 2026 年 11 月更新，本条日期为核对日。"
     }
   ]
 }

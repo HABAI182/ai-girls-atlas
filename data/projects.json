@@ -586,6 +586,28 @@
       "review_scope": "pinned_repository_text_only",
       "runtime_tested": false,
       "checked_on": "2026-11-16"
+    },
+    {
+      "id": "project-saya-model-muses",
+      "repository": "saya-ch/model-muses",
+      "url": "https://github.com/saya-ch/model-muses",
+      "homepage": "",
+      "commit_sha": "12f2f4468338d5cce365afd54f88b21a6710cdd2",
+      "kind": "模型与工具逐图档案",
+      "value_for_atlas": "本轮实际查阅其 ComfyUI 立绘、所列作者原帖和版权链。已收角色不整批重复导入。",
+      "rights_note": "外链与逐图来源定位。",
+      "character_ids": [
+        "comfyui"
+      ],
+      "local_asset_ids": [],
+      "source_ids": [
+        "src-776cdf14e1",
+        "src-020a8425ee",
+        "src-3f3c7519d5"
+      ],
+      "review_scope": "pinned_provenance_and_one_artwork",
+      "runtime_tested": false,
+      "checked_on": "2026-11-19"
     }
   ]
 }

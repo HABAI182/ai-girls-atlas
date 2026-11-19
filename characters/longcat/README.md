@@ -19,3 +19,11 @@ LongCat-Video-Avatar 1.6，见 [11 月产品动态](../../docs/15-ai-news-2026-1
 甶丶公开发布的 LongCat 角色卡可在 00:07 查看。卡中是棕短靴和黄色外卖箱，设定板附件的原图关系仍待核。[原作](https://www.bilibili.com/video/BV17Bxt63EMR/?p=1&t=7)
 
 [甶丶的七款国产 AI 拟人设定卡](../../docs/16-news-and-character-search-2026-11-19.md#work-bv17bxt63emr)
+
+## 甶丶 · LongCat 初期造型
+
+2026-08-30 的单张作者初稿，能与 10 月优化稿样式对比。 [娘化longcat](https://www.bilibili.com/opus/1242253521583079429)
+
+## 甶丶 · LongCat 现代外套原作
+
+2026-10-25 作者优化帖的现代版，与同帖奇幻版和 lmy414 补全板分别归档。 [Longcat娘形象优化](https://www.bilibili.com/opus/1262838853165645826)

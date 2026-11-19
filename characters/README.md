@@ -53,7 +53,8 @@
 | [Seedance娘](seedance/README.md) | video-model-family-reference | 档案与外链 | 深色盘发、红色发簪与黑红衣装；坐导演椅并持笔，旁边有大型摄像机；分镜预览、剪辑时间轴、城市片场与小型投影 |
 | [LongCat / 美团龙猫娘](longcat/README.md) | model-family-reference | 作品线索 | 白色长发与绿色挑染、猫耳和长尾；黄色现代外套、白色内搭与黑色长袜；设定板包含美团外卖箱与兔形玩偶 |
 | [Muse 娘 / Meta AI](muse/README.md) | model-family-reference | 作品线索 | 粉白至蓝色渐变卷发、羊驼耳、∞ 发夹与细框圆眼镜；蓝色高领针织上衣、白蓝机能外套、左腿环与蓝白洞洞鞋；配件区可见 Jolly 玩偶和自拍手机 |
-| [MOSS-Image / 模思智能](moss-image/README.md) | image-model-family | 作品线索 | 深蓝长发、红眼、黑色短裙与深色长袜；斜披黑色外层，肩有圆形纹样；长杖上部有多道金属环状结构 |
-| [点点 / 小红书](diandian/README.md) | product | 作品线索 | 黑色短发，红边尖耳状兜帽与红披风；白黑内裙、红黑短靴与毛茸尾巴；红色提篮与长柄铲 |
-| [蚂蚁百灵 / Ant Ling](ant-ling/README.md) | model-family | 作品线索 | 淡蓝紫短发、蓝白黑裙装；双手相扣站立，发间有深色弧形装饰；脚边另绘一片长角兽形影子 |
-| [U2 / 云知声](unisound-u2/README.md) | model-family | 作品线索 | 青绿长发和深蓝兜帽；白色斗篷状宽袖、深蓝内层与青绿镶边；手持音叉状道具，衣摆悬浮 |
+| [MOSS-Image / 模思智能](moss-image/README.md) | image-model-family | 作品线索 | 深蓝长发带少量浅绿挑染；黑色单肩斗篷与百褶裙；右眼红色单片镜，手持带滑动横板的雅各布杖 |
+| [点点 / 小红书](diandian/README.md) | product | 作品线索 | 黑发辫、绿眼与真实狼耳；红兜帽披风和竹编提篮；巡迹手记和红柄斧具 |
+| [蚂蚁百灵 / Ant Ling](ant-ling/README.md) | model-family | 作品线索 | 浅蓝紫短发、两条触角、黑色头纱和层叠裙；蓝宝石长钥匙；能独立动作的脚边影子 |
+| [U2 / 云知声](unisound-u2/README.md) | model-family | 作品线索 | 青绿长发和深蓝兜帽；白蓝宽袖与悬浮下摆；手持音叉状道具 |
+| [ComfyUI 娘](comfyui/README.md) | workflow-tool | 作品线索 | 紫发黄绿挑染、紫色角翼与尾巴；安全帽和工装印 ComfyUI；手里抱黄色线圈，工具挂在腰侧 |

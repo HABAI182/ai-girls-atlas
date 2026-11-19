@@ -1356,6 +1356,340 @@
       ],
       "page_path": "docs/16-news-and-character-search-2026-11-19.md",
       "section_anchor": "work-bv1unwc6ae1p"
+    },
+    {
+      "id": "frame-review-BV18bs86wECY",
+      "video_id": "BV18bs86wECY",
+      "source_id": "src-3bd77004ca",
+      "title": "GPT/Codex龙娘-7 发型与瞳色",
+      "classification": "桌面宠物实录",
+      "review_scope": "P1 画面和字幕样帧、发布说明",
+      "audio_scope": "metadata_only",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 43742989654,
+        "part_duration_seconds": 56
+      },
+      "observed_evidence": [
+        {
+          "second": 10,
+          "observation": "打开独立龙娘配置页，周围按钮围在头部预览旁。"
+        },
+        {
+          "second": 19,
+          "observation": "瞳色切到红色，字幕称吸血鬼龙娘。"
+        },
+        {
+          "second": 29,
+          "observation": "发型按钮展开多个预设。"
+        },
+        {
+          "second": 34,
+          "observation": "切到齐刘海等款式，底部字幕列出选项。"
+        },
+        {
+          "second": 48,
+          "observation": "桌宠回到主界面右下角。"
+        }
+      ],
+      "page_path": "docs/17-original-design-sheets-and-news-2026-11-19.md",
+      "section_anchor": "work-bv18bs86wecy"
+    },
+    {
+      "id": "frame-review-BV11GsK6REts",
+      "video_id": "BV11GsK6REts",
+      "source_id": "src-09938762db",
+      "title": "AI娘系列没有Suno?那我来加上！",
+      "classification": "角色设定与表情包短片",
+      "review_scope": "P1 画面和字幕样帧、发布说明",
+      "audio_scope": "metadata_only",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 43659955339,
+        "part_duration_seconds": 41
+      },
+      "observed_evidence": [
+        {
+          "second": 0,
+          "observation": "戴粉色耳机的深发角色坐在电脑桌前。"
+        },
+        {
+          "second": 14,
+          "observation": "角色伸手朝观众，字幕做成夸张表情包。"
+        },
+        {
+          "second": 22,
+          "observation": "左侧女 DJ 和简介标注的 Midjourney 同框。"
+        },
+        {
+          "second": 33,
+          "observation": "Lyria 压在 Suno 身上，是片尾故意夸张的一格。"
+        }
+      ],
+      "page_path": "docs/17-original-design-sheets-and-news-2026-11-19.md",
+      "section_anchor": "work-bv11gsk6rets"
+    },
+    {
+      "id": "frame-review-BV1NZsJ6aEEL",
+      "video_id": "BV1NZsJ6aEEL",
+      "source_id": "src-6ed7b5b440",
+      "title": "腾讯元宝AI拟人化，原创oc角色",
+      "classification": "角色独立短镜头",
+      "review_scope": "P1 画面和字幕样帧、发布说明",
+      "audio_scope": "metadata_only",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 43623320857,
+        "part_duration_seconds": 9
+      },
+      "observed_evidence": [
+        {
+          "second": 1,
+          "observation": "逆光下的绿长发与长裙占画面中心，海鸟飞过。"
+        },
+        {
+          "second": 3,
+          "observation": "镜头靠近，人物侧身闭眼。"
+        },
+        {
+          "second": 5,
+          "observation": "近景显出绿瞳、发饰、浅色裙上的圆形配件。"
+        },
+        {
+          "second": 6,
+          "observation": "最终望向镜头，背景保持日落海岸。"
+        }
+      ],
+      "page_path": "docs/17-original-design-sheets-and-news-2026-11-19.md",
+      "section_anchor": "work-bv1nzsj6aeel"
+    },
+    {
+      "id": "frame-review-BV1DxWy6iEgT",
+      "video_id": "BV1DxWy6iEgT",
+      "source_id": "src-6dc4fc7e4b",
+      "title": "元宝AI拟人",
+      "classification": "单张立绘展示",
+      "review_scope": "P1 画面和字幕样帧、发布说明",
+      "audio_scope": "metadata_only",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 43515119700,
+        "part_duration_seconds": 12
+      },
+      "observed_evidence": [
+        {
+          "second": 0,
+          "observation": "画面同时出现元宝文字和绿色图标。"
+        },
+        {
+          "second": 3,
+          "observation": "灰白上衣、深绿色纹样长裙保持全身可见。"
+        },
+        {
+          "second": 6,
+          "observation": "掌上的绿色界面与发后光圈同时入画。"
+        }
+      ],
+      "page_path": "docs/17-original-design-sheets-and-news-2026-11-19.md",
+      "section_anchor": "work-bv1dxwy6iegt"
+    },
+    {
+      "id": "frame-review-BV1kZsm6KETG",
+      "video_id": "BV1kZsm6KETG",
+      "source_id": "src-32f6b0d3ea",
+      "title": "试着做一些非遗科普！但是大概没那么准确，还是千问娘和文心娘哦！",
+      "classification": "皮影场景与知识演出",
+      "review_scope": "P1 画面和字幕样帧、发布说明",
+      "audio_scope": "metadata_only",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 43704650774,
+        "part_duration_seconds": 46
+      },
+      "observed_evidence": [
+        {
+          "second": 1,
+          "observation": "蓝发千问在亮幕前指出两个人偶剪影。"
+        },
+        {
+          "second": 11,
+          "observation": "圆耳文心持控制杆，把偶举到幕前。"
+        },
+        {
+          "second": 22,
+          "observation": "两人都入画，皮影留在中间形成共同视线。"
+        },
+        {
+          "second": 32,
+          "observation": "文心低头看手里的杆，扮相上的熊挂件清晰可见。"
+        }
+      ],
+      "page_path": "docs/17-original-design-sheets-and-news-2026-11-19.md",
+      "section_anchor": "work-bv1kzsm6ketg"
+    },
+    {
+      "id": "frame-review-BV1TyWr6oELu",
+      "video_id": "BV1TyWr6oELu",
+      "source_id": "src-3168ee9dc7",
+      "title": "AI娘人设讨论之文心",
+      "classification": "作者口播与同人关系解析",
+      "review_scope": "P1 画面和字幕样帧、发布说明",
+      "audio_scope": "metadata_only",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 43585834855,
+        "part_duration_seconds": 214
+      },
+      "observed_evidence": [
+        {
+          "second": 32,
+          "observation": "蓝发文心坐在配管线与监视器的轮椅上，书本堆在身边。"
+        },
+        {
+          "second": 49,
+          "observation": "同一配色的角色手持奖杯，字幕描述艺术兴趣。"
+        },
+        {
+          "second": 81,
+          "observation": "轮椅保持为画面重心，字幕描述她不宜久离。"
+        },
+        {
+          "second": 114,
+          "observation": "插图换成两位角色坐在温室聊天。"
+        },
+        {
+          "second": 130,
+          "observation": "叠入与橙发 Claude 拥抱的同人画。"
+        },
+        {
+          "second": 146,
+          "observation": "回到立绘，字幕写她平时较少靠近大家。"
+        }
+      ],
+      "page_path": "docs/17-original-design-sheets-and-news-2026-11-19.md",
+      "section_anchor": "work-bv1tywr6oelu"
+    },
+    {
+      "id": "frame-review-BV1S4s86YEAm",
+      "video_id": "BV1S4s86YEAm",
+      "source_id": "src-5d7431b426",
+      "title": "《我会等》AI翻唱-【Qwen拟人旗袍版】",
+      "classification": "真人风翻唱舞台",
+      "review_scope": "P1 画面和字幕样帧、发布说明",
+      "audio_scope": "metadata_only",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 43742529111,
+        "part_duration_seconds": 72
+      },
+      "observed_evidence": [
+        {
+          "second": 0,
+          "observation": "应援棒先于歌手出场。"
+        },
+        {
+          "second": 9,
+          "observation": "淡银蓝旗袍、紫花发饰和手持白麦同框。"
+        },
+        {
+          "second": 17,
+          "observation": "切到台下挥动应援棒的观众。"
+        },
+        {
+          "second": 34,
+          "observation": "回到台上半身，背后是蓝色灯海。"
+        },
+        {
+          "second": 60,
+          "observation": "观众挥灯再出现。"
+        }
+      ],
+      "page_path": "docs/17-original-design-sheets-and-news-2026-11-19.md",
+      "section_anchor": "work-bv1s4s86yeam"
+    },
+    {
+      "id": "frame-review-BV1obs46eEGW",
+      "video_id": "BV1obs46eEGW",
+      "source_id": "src-e2597b3345",
+      "title": "大肥鱼也是美人鱼，DeepSeek✖Claude《美人鱼》大肥鱼无限片场【AI MV 大赛】",
+      "classification": "双人叙事 MV",
+      "review_scope": "P1 画面和字幕样帧、发布说明",
+      "audio_scope": "metadata_only",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 43728047659,
+        "part_duration_seconds": 96
+      },
+      "observed_evidence": [
+        {
+          "second": 8,
+          "observation": "蓝发鲸鱼娘的水下侧脸入画。"
+        },
+        {
+          "second": 17,
+          "observation": "纵深场景里看得到她的鲸尾。"
+        },
+        {
+          "second": 25,
+          "observation": "蓝发和橙发角色并肩在潮线走。"
+        },
+        {
+          "second": 59,
+          "observation": "互相接近时动作收在脸和手的近景。"
+        },
+        {
+          "second": 68,
+          "observation": "从一侧肩后取景，两人抱住。"
+        },
+        {
+          "second": 85,
+          "observation": "切回蓝色水下。"
+        }
+      ],
+      "page_path": "docs/17-original-design-sheets-and-news-2026-11-19.md",
+      "section_anchor": "work-bv1obs46eegw"
+    },
+    {
+      "id": "frame-review-BV1QNsh6qEFS",
+      "video_id": "BV1QNsh6qEFS",
+      "source_id": "src-9257f22863",
+      "title": "【龙娘新闻台·11.19】Gemini 4 Neon 推出，Genie 4 开放互动世界",
+      "classification": "拟人主播与正式来源切屏",
+      "review_scope": "P1 画面和字幕样帧、发布说明",
+      "audio_scope": "metadata_only",
+      "reviewed_part": {
+        "page": 1,
+        "cid": 43742135396,
+        "part_duration_seconds": 98
+      },
+      "observed_evidence": [
+        {
+          "second": 1,
+          "observation": "白龙娘在话筒与花盆前招手。"
+        },
+        {
+          "second": 9,
+          "observation": "切到 Gemini Neon 的来源和栏目卡片。"
+        },
+        {
+          "second": 35,
+          "observation": "回主播桌过渡到下一条。"
+        },
+        {
+          "second": 52,
+          "observation": "画面换为 Project Genie 4 的来源截取。"
+        },
+        {
+          "second": 69,
+          "observation": "主持重新出镜引入 Anthropic。"
+        },
+        {
+          "second": 78,
+          "observation": "显示 Anthropic 公告与节目的短摘要。"
+        }
+      ],
+      "page_path": "docs/17-original-design-sheets-and-news-2026-11-19.md",
+      "section_anchor": "work-bv1qnsh6qefs"
     }
   ]
 }

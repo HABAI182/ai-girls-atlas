@@ -73,3 +73,7 @@
 ERNIE 5.5 Flash Preview，见 [11 月产品动态](../../docs/15-ai-news-2026-11-19.md#product-news)。
 
 社区作品入口。[文心小熊和千问的旧时光](../../docs/15-ai-news-2026-11-19.md#work-bv11rnt66epf)
+
+## 11 月作品追更
+
+[千问和文心用皮影讲非遗](../../docs/17-original-design-sheets-and-news-2026-11-19.md#work-bv1kzsm6ketg) · [文心娘的轮椅、研究书与关系口播](../../docs/17-original-design-sheets-and-news-2026-11-19.md#work-bv1tywr6oelu)

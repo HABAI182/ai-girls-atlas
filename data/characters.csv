@@ -44,9 +44,10 @@ phi,Phi娘,model-family,profile_and_references,larcgpt（ChatGPT辅助生成）,
 nemotron,NVIDIA Nemotron娘,model-family,profile_and_references,larcgpt（ChatGPT辅助生成）,黑发配荧光绿发丝，盘发与长发并存 | 黑绿科技服、长手套与绿色透明外披 | 坐在机柜之间，画面有管线和绿色运算界面,独立的Nemotron具名角色；不把所有带NVIDIA标识的女性都归为同一作者版本。
 mai,MAI / Mai娘,model-family-reference,profile_and_references,larcgpt（ChatGPT辅助生成）,深色长发与蓝色发尾、蓝眼 | 白色长研究外套、黑色高领衣裤、MAI工牌 | 手持透明平板，周围有语音、代码与图像面板,保留作者MAI/Microsoft AI命名；图中出现Copilot Studio，不因此改名为所有Copilot通用形象。
 seedance,Seedance娘,video-model-family-reference,profile_and_references,larcgpt（ChatGPT辅助生成）,深色盘发、红色发簪与黑红衣装 | 坐导演椅并持笔，旁边有大型摄像机 | 分镜预览、剪辑时间轴、城市片场与小型投影,视频模型的具名拟人；与ZipZipPipe的Seed娘、豆包官网头像分别登记。
-longcat,LongCat / 美团龙猫娘,model-family-reference,visual_lead,甶丶（独立视频原作）；lmy414（上游补全设定板）,白色长发与绿色挑染、猫耳和长尾 | 黄色现代外套、白色内搭与黑色长袜 | 设定板包含美团外卖箱与兔形玩偶,甶丶公开视频原作呈现白绿发、黄外套和外卖箱版本。lmy414 的现代外套 B 款按上游补全作品记录；其附件原图与视频卡的对应关系仍待逐图核对。
+longcat,LongCat / 美团龙猫娘,model-family-reference,visual_lead,甶丶（明确原作者）；lmy414（现代外套补全板）,白色长发与绿色挑染、猫耳和长尾 | 黄色现代外套、白色内搭与黑色长袜 | 设定板包含美团外卖箱与兔形玩偶,已有甶丶 8 月独立初稿、10 月优化原帖及 11 月盘点。10 月原帖原作者提供奇幻与现代各一张三视图，lmy414 现代外套 B 款补全图按独立改编来源保存。
 muse,Muse 娘 / Meta AI,model-family-reference,visual_lead,识知不失智（作品页图片署名）；lmy414（设定板补全）,粉白至蓝色渐变卷发、羊驼耳、∞ 发夹与细框圆眼镜 | 蓝色高领针织上衣、白蓝机能外套、左腿环与蓝白洞洞鞋 | 配件区可见 Jolly 玩偶和自拍手机,沿用发布者的 Muse 娘（Meta AI）标注。侧面、背面和新增表情含生成推定；与本库 Llama 的作者版本各自建档。
-moss-image,MOSS-Image / 模思智能,image-model-family,external_work_lead,甶丶（具名投稿）,深蓝长发、红眼、黑色短裙与深色长袜 | 斜披黑色外层，肩有圆形纹样 | 长杖上部有多道金属环状结构,原作 MOSS 卡下方和简介都明确标 MOSS-Image。
-diandian,点点 / 小红书,product,external_work_lead,甶丶（具名投稿）,黑色短发，红边尖耳状兜帽与红披风 | 白黑内裙、红黑短靴与毛茸尾巴 | 红色提篮与长柄铲,原作将这张 DIANDIAN 卡对应“小红书点点”，并在简介标出 dots-3-note-preview。
-ant-ling,蚂蚁百灵 / Ant Ling,model-family,external_work_lead,甶丶（具名投稿）,淡蓝紫短发、蓝白黑裙装 | 双手相扣站立，发间有深色弧形装饰 | 脚边另绘一片长角兽形影子,作者在原作简称“支付宝百灵”，官方名称为“蚂蚁百灵”。画面对应 Ling 3.1 Flash 1019。3.2 版本资料见新闻。
-unisound-u2,U2 / 云知声,model-family,external_work_lead,甶丶（具名投稿）,青绿长发和深蓝兜帽 | 白色斗篷状宽袖、深蓝内层与青绿镶边 | 手持音叉状道具，衣摆悬浮,作者把 UNISOUND 卡对应云知声 U2 Flash / U2 Med。官网可独立核对 U2 Flash 名称。
+moss-image,MOSS-Image / 模思智能,image-model-family,external_work_lead,甶丶（具名投稿）,深蓝长发带少量浅绿挑染 | 黑色单肩斗篷与百褶裙 | 右眼红色单片镜，手持带滑动横板的雅各布杖,甶丶专栏明确拟人对象是模思智能的 MOSS，盘点视频进一步标注 MOSS-Image。奇幻型右眼红色来自单片镜，双服装保留 8 字形环。作者提到名字借自电影中的同名机器，这是模型命名的来历。
+diandian,点点 / 小红书,product,external_work_lead,甶丶（具名投稿）,黑发辫、绿眼与真实狼耳 | 红兜帽披风和竹编提篮 | 巡迹手记和红柄斧具,原作者设定图称 Dots-note 娘，盘点简介明确是小红书点点。图中露出的是真狼耳，红兜帽的凸起给耳朵留空间。
+ant-ling,蚂蚁百灵 / Ant Ling,model-family,external_work_lead,甶丶（具名投稿）,浅蓝紫短发、两条触角、黑色头纱和层叠裙 | 蓝宝石长钥匙 | 能独立动作的脚边影子,甶丶的正侧背设计明确标 Ant Ling / Ling-3.1-Flash。视频里的黑影在设定图中有独立动作，属于同一个角色。
+unisound-u2,U2 / 云知声,model-family,external_work_lead,甶丶（具名投稿）,青绿长发和深蓝兜帽 | 白蓝宽袖与悬浮下摆 | 手持音叉状道具,原动态明确是云知声 U2-Flash。视频简介把 U2 Flash / U2 Med 都放在 U2 栏，独立造型按原动态的 U2-Flash 署名。
+comfyui,ComfyUI 娘,workflow-tool,external_work_lead,ZipZipPipe（逐图来源署名）,紫发黄绿挑染、紫色角翼与尾巴 | 安全帽和工装印 ComfyUI | 手里抱黄色线圈，工具挂在腰侧,Model Muses 图源文件标了 ComfyUI 头盔与袖标，逐图来源指向 ZipZipPipe 的 Pixiv 合集第 5 张（p4）。

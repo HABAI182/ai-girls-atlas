@@ -124,3 +124,7 @@
 ## 11 月二创作品续补
 
 [Claude 的神学家庭梗改编成长叙事](../../docs/16-news-and-character-search-2026-11-19.md#work-bv1i8xw6cey3)
+
+## 11 月作品追更
+
+[鲸鱼娘与 Claude 的《美人鱼》](../../docs/17-original-design-sheets-and-news-2026-11-19.md#work-bv1obs46eegw)

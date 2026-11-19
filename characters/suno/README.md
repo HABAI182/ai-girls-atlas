@@ -31,3 +31,7 @@
 - [ZipZipPipe的动态 - 哔哩哔哩](https://www.bilibili.com/opus/1244061599751208994) · `web_text`
 
 返回[角色总览](../../README.md) · [新增资料评述](../../docs/09-more-sources.md) · [版本比较](../../docs/10-variant-guide.md)。
+
+## 11 月作品追更
+
+[Suno 的女 DJ 同人形象](../../docs/17-original-design-sheets-and-news-2026-11-19.md#work-bv11gsk6rets)

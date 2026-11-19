@@ -75,7 +75,9 @@
         "src-462b39f1ef",
         "src-baf42d9116",
         "src-d63e1ab517",
-        "src-933ea7ed2b"
+        "src-933ea7ed2b",
+        "src-e2597b3345",
+        "src-7a7009edea"
       ],
       "local_asset_ids": [
         "zipzippipe-pixiv-148186519-p00",
@@ -190,7 +192,8 @@
         "src-0fb76b8d23",
         "src-ea74e2fffb",
         "src-7a41c430a3",
-        "src-6c667827ea"
+        "src-6c667827ea",
+        "src-9257f22863"
       ],
       "local_asset_ids": [
         "zipzippipe-pixiv-148186519-p03",
@@ -272,7 +275,10 @@
         "src-d5debdfbdd",
         "src-ecdc271a3a",
         "src-1ce01a3b4a",
-        "src-b4671577e2"
+        "src-b4671577e2",
+        "src-e2597b3345",
+        "src-e308a84a77",
+        "src-a989f15820"
       ],
       "local_asset_ids": [
         "zipzippipe-pixiv-148186519-p02",
@@ -348,7 +354,8 @@
         "src-d5debdfbdd",
         "src-ecdc271a3a",
         "src-d61db244b3",
-        "src-db7fb6fc89"
+        "src-db7fb6fc89",
+        "src-b451aff394"
       ],
       "local_asset_ids": [
         "zipzippipe-pixiv-148186519-p04",
@@ -628,7 +635,9 @@
         "src-756563a414",
         "src-072c694c9b",
         "src-58cb72c7e9",
-        "src-f863ec4274"
+        "src-f863ec4274",
+        "src-32f6b0d3ea",
+        "src-5d7431b426"
       ],
       "local_asset_ids": [
         "zipzippipe-pixiv-148186519-p12",
@@ -645,7 +654,8 @@
       "variant_ids": [
         "school-op-qwen",
         "apprentice-qwen",
-        "lmy-sheets-05"
+        "lmy-sheets-05",
+        "qwen-youth-stage-qipao"
       ],
       "persona_profile_id": "persona-atlas-qwen",
       "persona_profile_path": "encyclopedia/personas/qwen.md",
@@ -945,7 +955,9 @@
         "src-b27b70d31a",
         "src-d79498a68e",
         "src-c12c808dbc",
-        "src-da10a54d7d"
+        "src-da10a54d7d",
+        "src-32f6b0d3ea",
+        "src-3168ee9dc7"
       ],
       "local_asset_ids": [
         "school-op-ernie"
@@ -958,7 +970,8 @@
       "variant_ids": [
         "school-op-wenxin",
         "lmy-sheets-04",
-        "wenxin-bear-qwen-montage"
+        "wenxin-bear-qwen-montage",
+        "wenxin-wheelchair-keli"
       ],
       "persona_profile_id": "persona-atlas-wenxin",
       "persona_profile_path": "encyclopedia/personas/wenxin.md",
@@ -1028,7 +1041,8 @@
         "src-64550de9e4",
         "src-b9006a9bef",
         "src-510ddcd4fd",
-        "src-364859f834"
+        "src-364859f834",
+        "src-134551c8f4"
       ],
       "local_asset_ids": [
         "school-op-hunyuan",
@@ -1041,10 +1055,14 @@
       ],
       "variant_ids": [
         "school-op-hunyuan",
-        "priority-zipzippipe-pixiv-150718881-p03"
+        "priority-zipzippipe-pixiv-150718881-p03",
+        "fuh-hunyuan-august"
       ],
       "persona_profile_id": "persona-atlas-hunyuan",
-      "persona_profile_path": "encyclopedia/personas/hunyuan.md"
+      "persona_profile_path": "encyclopedia/personas/hunyuan.md",
+      "reference_ids": [
+        "ref-fuh-hunyuan-august"
+      ]
     },
     {
       "id": "jev",
@@ -1159,7 +1177,9 @@
       "sources": [
         "src-cae0d1341e",
         "src-f26a41e9e9",
-        "src-5ab74ca1ef"
+        "src-5ab74ca1ef",
+        "src-3bd77004ca",
+        "src-2ca93270ff"
       ],
       "local_asset_ids": [],
       "not_claimed": [
@@ -1197,7 +1217,8 @@
       "sources": [
         "src-f54f4048e7",
         "src-cae0d1341e",
-        "src-5c287e5294"
+        "src-5c287e5294",
+        "src-bd053b1b14"
       ],
       "local_asset_ids": [],
       "not_claimed": [
@@ -1265,7 +1286,8 @@
       "identity_rules": "与NovelAI等同框不等于共享同一设计；未核实其独立提示词和文件许可。",
       "creative_options_original": "创作前先补独立立绘和作者说明；如果自行设计，放入新的作者系列。",
       "sources": [
-        "src-461b32e833"
+        "src-461b32e833",
+        "src-09938762db"
       ],
       "local_asset_ids": [],
       "not_claimed": [
@@ -1293,7 +1315,8 @@
       "identity_rules": "图像角色与歌曲、歌声、生成音乐的许可分别处理；形象链接不能授权音乐。",
       "creative_options_original": "可把乐谱或舞台作为原创提案，但不把提案当作已观察到的角色配件。",
       "sources": [
-        "src-461b32e833"
+        "src-461b32e833",
+        "src-09938762db"
       ],
       "local_asset_ids": [],
       "not_claimed": [
@@ -1301,7 +1324,9 @@
         "当前能力排名",
         "所有版本均开放商用"
       ],
-      "variant_ids": [],
+      "variant_ids": [
+        "nihilus-suno-dj"
+      ],
       "persona_profile_id": "persona-atlas-suno",
       "persona_profile_path": "encyclopedia/personas/suno.md"
     },
@@ -1548,7 +1573,8 @@
         "src-881f6725d7",
         "src-bb6720c286",
         "src-4137c9f94c",
-        "src-c5c24050da"
+        "src-c5c24050da",
+        "src-b41bb07cb2"
       ],
       "local_asset_ids": [],
       "not_claimed": [
@@ -1586,7 +1612,9 @@
       "sources": [
         "src-e8163a5aed",
         "src-e04709ae31",
-        "src-6223692f2e"
+        "src-6223692f2e",
+        "src-6ed7b5b440",
+        "src-6dc4fc7e4b"
       ],
       "local_asset_ids": [],
       "not_claimed": [
@@ -1598,7 +1626,9 @@
       "variant_ids": [
         "yuanbao-fanchuan-short-hoodie",
         "yuanbao-fanchuan-long-formal-v3",
-        "yuanbao-fanchuan-long-sport-v3"
+        "yuanbao-fanchuan-long-sport-v3",
+        "yffr-yuanbao-sunset",
+        "yuanbao-painted-screen"
       ],
       "persona_profile_id": "persona-atlas-yuanbao",
       "persona_profile_path": "encyclopedia/personas/yuanbao.md"
@@ -1694,7 +1724,9 @@
         "src-344baaa86f",
         "src-2a0fefcc8c",
         "src-9e671f0c5b",
-        "src-16aca44e04"
+        "src-16aca44e04",
+        "src-a41a8b12f7",
+        "src-fe43e44d0b"
       ],
       "local_asset_ids": [],
       "not_claimed": [
@@ -1725,7 +1757,8 @@
         "src-408cf18942",
         "src-3c8b900f91",
         "src-6375cb803c",
-        "src-689207ad63"
+        "src-689207ad63",
+        "src-ea92875657"
       ],
       "local_asset_ids": [],
       "not_claimed": [
@@ -2140,7 +2173,7 @@
       "entity_kind": "model-family-reference",
       "status": "visual_lead",
       "design_family": "fuh-attributed-lmy-sheets",
-      "creators": "甶丶（独立视频原作）；lmy414（上游补全设定板）",
+      "creators": "甶丶（明确原作者）；lmy414（现代外套补全板）",
       "aliases": [
         "LongCat娘",
         "美团龙猫",
@@ -2151,7 +2184,7 @@
         "黄色现代外套、白色内搭与黑色长袜",
         "设定板包含美团外卖箱与兔形玩偶"
       ],
-      "identity_rules": "甶丶公开视频原作呈现白绿发、黄外套和外卖箱版本。lmy414 的现代外套 B 款按上游补全作品记录；其附件原图与视频卡的对应关系仍待逐图核对。",
+      "identity_rules": "已有甶丶 8 月独立初稿、10 月优化原帖及 11 月盘点。10 月原帖原作者提供奇幻与现代各一张三视图，lmy414 现代外套 B 款补全图按独立改编来源保存。",
       "creative_options_original": "",
       "sources": [
         "src-d5debdfbdd",
@@ -2159,15 +2192,21 @@
         "src-28de46cfec",
         "src-d0d2dec804",
         "src-a9abc0070a",
-        "src-fcebedbdec"
+        "src-fcebedbdec",
+        "src-06ed17bbc8",
+        "src-73aa6b186f"
       ],
       "local_asset_ids": [],
       "variant_ids": [
         "lmy-sheets-17",
-        "fuh-202611-longcat"
+        "fuh-202611-longcat",
+        "fuh-longcat-first",
+        "fuh-longcat-modern"
       ],
       "reference_ids": [
-        "ref-lmy-sheets-17"
+        "ref-lmy-sheets-17",
+        "ref-fuh-longcat-first",
+        "ref-fuh-longcat-modern"
       ],
       "not_claimed": [
         "官方形象",
@@ -2229,23 +2268,36 @@
         "MOSS-Image 娘"
       ],
       "observed_traits": [
-        "深蓝长发、红眼、黑色短裙与深色长袜",
-        "斜披黑色外层，肩有圆形纹样",
-        "长杖上部有多道金属环状结构"
+        "深蓝长发带少量浅绿挑染",
+        "黑色单肩斗篷与百褶裙",
+        "右眼红色单片镜，手持带滑动横板的雅各布杖"
       ],
-      "identity_rules": "原作 MOSS 卡下方和简介都明确标 MOSS-Image。",
+      "identity_rules": "甶丶专栏明确拟人对象是模思智能的 MOSS，盘点视频进一步标注 MOSS-Image。奇幻型右眼红色来自单片镜，双服装保留 8 字形环。作者提到名字借自电影中的同名机器，这是模型命名的来历。",
       "creative_options_original": "",
       "sources": [
         "src-fcebedbdec",
-        "src-2ed84bb523"
+        "src-2ed84bb523",
+        "src-940914f1de"
       ],
       "local_asset_ids": [],
       "variant_ids": [
-        "fuh-202611-moss-image"
+        "fuh-202611-moss-image",
+        "fuh-moss-technology"
       ],
-      "reference_ids": [],
+      "reference_ids": [
+        "ref-fuh-moss-image-opus-3",
+        "ref-fuh-moss-image-opus-4"
+      ],
       "persona_profile_id": "persona-atlas-moss-image",
-      "persona_profile_path": "encyclopedia/personas/moss-image.md"
+      "persona_profile_path": "encyclopedia/personas/moss-image.md",
+      "original_art_publication": {
+        "post_url": "https://www.bilibili.com/opus/1265454286364475399",
+        "published_on": "2026-11-01",
+        "published_image_count": 13,
+        "image_locator": "第 3、4 图",
+        "source_id": "src-940914f1de",
+        "review_scope": "creator_publication_text_and_numbered_images"
+      }
     },
     {
       "id": "diandian",
@@ -2260,23 +2312,37 @@
         "dots-3-note-preview"
       ],
       "observed_traits": [
-        "黑色短发，红边尖耳状兜帽与红披风",
-        "白黑内裙、红黑短靴与毛茸尾巴",
-        "红色提篮与长柄铲"
+        "黑发辫、绿眼与真实狼耳",
+        "红兜帽披风和竹编提篮",
+        "巡迹手记和红柄斧具"
       ],
-      "identity_rules": "原作将这张 DIANDIAN 卡对应“小红书点点”，并在简介标出 dots-3-note-preview。",
+      "identity_rules": "原作者设定图称 Dots-note 娘，盘点简介明确是小红书点点。图中露出的是真狼耳，红兜帽的凸起给耳朵留空间。",
       "creative_options_original": "",
       "sources": [
         "src-fcebedbdec",
-        "src-572db8f72f"
+        "src-572db8f72f",
+        "src-b468ea738c"
       ],
       "local_asset_ids": [],
       "variant_ids": [
-        "fuh-202611-diandian"
+        "fuh-202611-diandian",
+        "fuh-dots-technology"
       ],
-      "reference_ids": [],
+      "reference_ids": [
+        "ref-fuh-diandian-opus-3",
+        "ref-fuh-diandian-opus-4",
+        "ref-fuh-diandian-opus-5"
+      ],
       "persona_profile_id": "persona-atlas-diandian",
-      "persona_profile_path": "encyclopedia/personas/diandian.md"
+      "persona_profile_path": "encyclopedia/personas/diandian.md",
+      "original_art_publication": {
+        "post_url": "https://www.bilibili.com/opus/1262407612636332038",
+        "published_on": "2026-10-23",
+        "published_image_count": 13,
+        "image_locator": "第 3、5 图",
+        "source_id": "src-b468ea738c",
+        "review_scope": "creator_publication_text_and_numbered_images"
+      }
     },
     {
       "id": "ant-ling",
@@ -2291,24 +2357,37 @@
         "Ling"
       ],
       "observed_traits": [
-        "淡蓝紫短发、蓝白黑裙装",
-        "双手相扣站立，发间有深色弧形装饰",
-        "脚边另绘一片长角兽形影子"
+        "浅蓝紫短发、两条触角、黑色头纱和层叠裙",
+        "蓝宝石长钥匙",
+        "能独立动作的脚边影子"
       ],
-      "identity_rules": "作者在原作简称“支付宝百灵”，官方名称为“蚂蚁百灵”。画面对应 Ling 3.1 Flash 1019。3.2 版本资料见新闻。",
+      "identity_rules": "甶丶的正侧背设计明确标 Ant Ling / Ling-3.1-Flash。视频里的黑影在设定图中有独立动作，属于同一个角色。",
       "creative_options_original": "",
       "sources": [
         "src-fcebedbdec",
         "src-56574ae098",
-        "src-21ef27b7b4"
+        "src-21ef27b7b4",
+        "src-95c1b387f1"
       ],
       "local_asset_ids": [],
       "variant_ids": [
-        "fuh-202611-ant-ling"
+        "fuh-202611-ant-ling",
+        "fuh-ling-technology"
       ],
-      "reference_ids": [],
+      "reference_ids": [
+        "ref-fuh-ant-ling-opus-4",
+        "ref-fuh-ant-ling-opus-5"
+      ],
       "persona_profile_id": "persona-atlas-ant-ling",
-      "persona_profile_path": "encyclopedia/personas/ant-ling.md"
+      "persona_profile_path": "encyclopedia/personas/ant-ling.md",
+      "original_art_publication": {
+        "post_url": "https://www.bilibili.com/opus/1258423639675502601",
+        "published_on": "2026-10-13",
+        "published_image_count": 9,
+        "image_locator": "第 5、4 图",
+        "source_id": "src-95c1b387f1",
+        "review_scope": "creator_publication_text_and_numbered_images"
+      }
     },
     {
       "id": "unisound-u2",
@@ -2324,23 +2403,74 @@
       ],
       "observed_traits": [
         "青绿长发和深蓝兜帽",
-        "白色斗篷状宽袖、深蓝内层与青绿镶边",
-        "手持音叉状道具，衣摆悬浮"
+        "白蓝宽袖与悬浮下摆",
+        "手持音叉状道具"
       ],
-      "identity_rules": "作者把 UNISOUND 卡对应云知声 U2 Flash / U2 Med。官网可独立核对 U2 Flash 名称。",
+      "identity_rules": "原动态明确是云知声 U2-Flash。视频简介把 U2 Flash / U2 Med 都放在 U2 栏，独立造型按原动态的 U2-Flash 署名。",
       "creative_options_original": "",
       "sources": [
         "src-fcebedbdec",
         "src-f95644989a",
-        "src-eb3f0a8286"
+        "src-eb3f0a8286",
+        "src-c94f68cdcc"
       ],
       "local_asset_ids": [],
       "variant_ids": [
-        "fuh-202611-unisound-u2"
+        "fuh-202611-unisound-u2",
+        "fuh-u2-hologram",
+        "fuh-u2-casual"
       ],
-      "reference_ids": [],
+      "reference_ids": [
+        "ref-fuh-unisound-u2-opus-1",
+        "ref-fuh-unisound-u2-opus-2",
+        "ref-fuh-unisound-u2-opus-7"
+      ],
       "persona_profile_id": "persona-atlas-unisound-u2",
-      "persona_profile_path": "encyclopedia/personas/unisound-u2.md"
+      "persona_profile_path": "encyclopedia/personas/unisound-u2.md",
+      "original_art_publication": {
+        "post_url": "https://www.bilibili.com/opus/1257685897406578689",
+        "published_on": "2026-10-11",
+        "published_image_count": 9,
+        "image_locator": "第 1、2 图",
+        "source_id": "src-c94f68cdcc",
+        "review_scope": "creator_publication_text_and_numbered_images"
+      }
+    },
+    {
+      "id": "comfyui",
+      "name": "ComfyUI 娘",
+      "entity_kind": "workflow-tool",
+      "status": "external_work_lead",
+      "design_family": "zipzippipe",
+      "creators": "ZipZipPipe（逐图来源署名）",
+      "aliases": [
+        "ComfyUI拟人",
+        "ComfyUI工程龙娘"
+      ],
+      "observed_traits": [
+        "紫发黄绿挑染、紫色角翼与尾巴",
+        "安全帽和工装印 ComfyUI",
+        "手里抱黄色线圈，工具挂在腰侧"
+      ],
+      "identity_rules": "Model Muses 图源文件标了 ComfyUI 头盔与袖标，逐图来源指向 ZipZipPipe 的 Pixiv 合集第 5 张（p4）。",
+      "creative_options_original": "",
+      "sources": [
+        "src-3f3c7519d5",
+        "src-7808dc0cbc",
+        "src-020a8425ee",
+        "src-776cdf14e1",
+        "src-b7e051fa79",
+        "src-bd053b1b14"
+      ],
+      "local_asset_ids": [],
+      "variant_ids": [
+        "zipzippipe-comfyui-work-clothes"
+      ],
+      "reference_ids": [
+        "ref-muses-comfyui"
+      ],
+      "persona_profile_id": "persona-atlas-comfyui",
+      "persona_profile_path": "encyclopedia/personas/comfyui.md"
     }
   ]
 }

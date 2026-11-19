@@ -105,3 +105,7 @@ Qwen4-Max，见 [11 月产品动态](../../docs/15-ai-news-2026-11-19.md#product
 ## 11 月二创作品续补
 
 [千问娘的记账与害羞](../../docs/16-news-and-character-search-2026-11-19.md#work-bv14iwu6jefm)
+
+## 11 月作品追更
+
+[千问旗袍版《我会等》](../../docs/17-original-design-sheets-and-news-2026-11-19.md#work-bv1s4s86yeam) · [千问和文心用皮影讲非遗](../../docs/17-original-design-sheets-and-news-2026-11-19.md#work-bv1kzsm6ketg)

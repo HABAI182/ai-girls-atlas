@@ -40,3 +40,7 @@
 ## 11 月产品动态续补
 
 可灵：从生成模型到影视制作流程见 [产品动态](../../docs/16-news-and-character-search-2026-11-19.md#product-news)。
+
+## 第二次形象追溯
+
+《魔法少女可灵》第一集和第七集都可见角色名对应的奇幻剧情。片中有校服、变身和怪物，多处带豆包 AI 生成标记；作者简介与可见评论未给出她和快手可灵的关联。保留同名线索。 [第一集](https://www.bilibili.com/video/BV16a3x6iExA/) · [第七集](https://www.bilibili.com/video/BV1ALs465EyX/)

@@ -40,3 +40,7 @@ Runway Characters 的官方演示以自定义人物、样貌和声音展示 API�
 ## 11 月产品动态续补
 
 Runway Praxis-1见 [产品动态](../../docs/16-news-and-character-search-2026-11-19.md#product-news)。
+
+## 第二次形象追溯
+
+在 B 站查了 Runway 拟人和娘化词，对照了 Runway 官方 Gen-4 作品展和英文、日文拟人检索。Gen-4 展厅是不同创作者的电影案例，尚未找到具名 Runway 拟人原作。 [Gen-4 创作者作品展](https://runway.com/worlds-of-gen-4)

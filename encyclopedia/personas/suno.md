@@ -42,3 +42,7 @@
 选择角色页中的一个作者版本再使用；本库原创口吻不反向归给视觉原作者。
 
 [真实对话样本的当前状态与记录格式](real-dialogue-samples.md)。
+
+## 虚无渊火nihilus 的 DJ 版
+
+作者在视频简介将 Suno 写成开朗奔放的女 DJ。漫画把这种性格用递歌、吐槽和夸张表情演出来。 [原作](https://www.bilibili.com/video/BV11GsK6REts/)

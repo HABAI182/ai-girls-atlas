@@ -549,6 +549,168 @@
       "editorial_atlas_use": "已收录的甶丶版百灵人物卡标的是 3.1，本记录保留 3.2 产品演进的独立时间。",
       "page_path": "docs/16-news-and-character-search-2026-11-19.md",
       "section_anchor": "product-news"
+    },
+    {
+      "id": "kling-image-40",
+      "date": "2026-11-18",
+      "date_kind": "source_event",
+      "status_as_recorded": "官方图像功能说明",
+      "checked_on": "2026-11-19",
+      "title": "Kling Image 4.0",
+      "character_ids": [
+        "kling"
+      ],
+      "source_ids": [
+        "src-a41a8b12f7",
+        "src-fe43e44d0b"
+      ],
+      "summary": "官方 18 日介绍图像模型的原生高分辨率输出、文字排版和系列图片生成。它与 10 月收录的 Kling 4.0 视频模型是不同产品记录。",
+      "editorial_atlas_use": "正侧背和成套场景可用作制作尝试，作者版本及图稿出处仍按作品登记。",
+      "page_path": "docs/17-original-design-sheets-and-news-2026-11-19.md",
+      "section_anchor": "product-news"
+    },
+    {
+      "id": "anthropic-ipo-pricing",
+      "date": "2026-11-18",
+      "date_kind": "source_event",
+      "status_as_recorded": "公司公告定价",
+      "checked_on": "2026-11-19",
+      "title": "Anthropic 公布 IPO 定价",
+      "character_ids": [
+        "claude"
+      ],
+      "source_ids": [
+        "src-e308a84a77"
+      ],
+      "summary": "Anthropic 公告称完成首次公开发行定价，并预计股票于美国当地 19 日在纳斯达克开始交易。这里保存公司公告时间与表述。",
+      "editorial_atlas_use": "用于回看 11 月 19 日龙娘新闻稿里第三条消息的源头。",
+      "page_path": "docs/17-original-design-sheets-and-news-2026-11-19.md",
+      "section_anchor": "product-news"
+    },
+    {
+      "id": "gemini-tasks-nov17",
+      "date": "2026-11-17",
+      "date_kind": "source_event",
+      "status_as_recorded": "Gemini 应用功能更新",
+      "checked_on": "2026-11-19",
+      "title": "Gemini Tasks 功能更新",
+      "character_ids": [
+        "gemini"
+      ],
+      "source_ids": [
+        "src-b451aff394"
+      ],
+      "summary": "Google 更新 Gemini 应用的 Tasks，官方说明列出用定时任务安排重复操作，其中有部分可由免费用户使用，部分操作按地区和账号条件开放。",
+      "editorial_atlas_use": "为写 Gemini 同人时区分一次对话与后台定时任务提供产品语境。",
+      "page_path": "docs/17-original-design-sheets-and-news-2026-11-19.md",
+      "section_anchor": "product-news"
+    },
+    {
+      "id": "github-copilot-fusion-nov17",
+      "date": "2026-11-17",
+      "date_kind": "source_event",
+      "status_as_recorded": "更多端可用",
+      "checked_on": "2026-11-19",
+      "title": "GitHub Copilot Fusion 扩展",
+      "character_ids": [
+        "copilot"
+      ],
+      "source_ids": [
+        "src-b41bb07cb2"
+      ],
+      "summary": "GitHub 的日志把 Fusion 扩到网页、移动端和 Visual Studio，并说明模型扩展。这一功能属于 GitHub Copilot。",
+      "editorial_atlas_use": "给 Copilot 二创做身份溯源时写完整产品名，可与已收录的 Microsoft Copilot 作品各自匹配。",
+      "page_path": "docs/17-original-design-sheets-and-news-2026-11-19.md",
+      "section_anchor": "product-news"
+    },
+    {
+      "id": "deepseek-app-capabilities-api",
+      "date": "2026-11-13",
+      "date_kind": "source_event",
+      "status_as_recorded": "应用能力开放 API",
+      "checked_on": "2026-11-19",
+      "title": "DeepSeek 应用能力 API",
+      "character_ids": [
+        "deepseek"
+      ],
+      "source_ids": [
+        "src-7a7009edea"
+      ],
+      "summary": "DeepSeek 将联网搜索、文件输入、阅读链接等服务集成到现有对话 API，并列出语音合成、识别等接口及开源演示客户端。",
+      "editorial_atlas_use": "可分别给鲸鱼娘二创里的文本、语音和引用归出处。具体音色仍看各作者自己的说明。",
+      "page_path": "docs/17-original-design-sheets-and-news-2026-11-19.md",
+      "section_anchor": "product-news"
+    },
+    {
+      "id": "adobe-firefly-max-nov10",
+      "date": "2026-11-10",
+      "date_kind": "source_event",
+      "status_as_recorded": "Adobe MAX 公布 Firefly 更新",
+      "checked_on": "2026-11-19",
+      "title": "Adobe Firefly Creative Agent 与 Graph",
+      "character_ids": [],
+      "source_ids": [
+        "src-019a92f16b"
+      ],
+      "summary": "Adobe MAX 公告更新 Firefly 的 Creative Agent、Graph 和多媒体编辑流程，创作者可指定合作模型，查看工作流并按需要调整。",
+      "editorial_atlas_use": "适合在角色视频记录中区分素材生成、合成和后期编辑步骤。",
+      "page_path": "docs/17-original-design-sheets-and-news-2026-11-19.md",
+      "section_anchor": "product-news"
+    },
+    {
+      "id": "claude-fable-mythos-52",
+      "date": "2026-11-09",
+      "date_kind": "source_event",
+      "status_as_recorded": "Fable 发布，Mythos 按资格开放",
+      "checked_on": "2026-11-19",
+      "title": "Claude Fable 5.2 与 Mythos 5.2",
+      "character_ids": [
+        "claude"
+      ],
+      "source_ids": [
+        "src-a989f15820"
+      ],
+      "summary": "Anthropic 同时发布 Fable 与 Mythos 的 5.2 版本。官方说明两者共享基础模型，但开放范围分别记录，Fable 提供顾问和任务分配等使用方式。",
+      "editorial_atlas_use": "档案已有 Claude 家族与 Fable 等分支，旧同人的创作时间和明确版本照原片保留。",
+      "page_path": "docs/17-original-design-sheets-and-news-2026-11-19.md",
+      "section_anchor": "product-news"
+    },
+    {
+      "id": "runway-batch-size-one",
+      "date": "2026-11-05",
+      "date_kind": "source_event",
+      "status_as_recorded": "研究说明",
+      "checked_on": "2026-11-19",
+      "title": "Runway Research 实时视频推理",
+      "character_ids": [
+        "runway"
+      ],
+      "source_ids": [
+        "src-ea92875657"
+      ],
+      "summary": "Runway 研究文章讨论实时视频推理的延迟优化，重点是单请求下的执行效率。按研究材料保存。",
+      "editorial_atlas_use": "为解释互动角色为何要关心首帧和响应延迟提供工程出处。",
+      "page_path": "docs/17-original-design-sheets-and-news-2026-11-19.md",
+      "section_anchor": "product-news"
+    },
+    {
+      "id": "comfy-chatgpt-images-26",
+      "date": "2026-11-19",
+      "date_kind": "checked",
+      "status_as_recorded": "核对官方入口",
+      "checked_on": "2026-11-19",
+      "title": "ComfyUI 的 ChatGPT Images 2.6 合作节点",
+      "character_ids": [
+        "comfyui",
+        "image2"
+      ],
+      "source_ids": [
+        "src-bd053b1b14"
+      ],
+      "summary": "Comfy 官方页面列出 GPT Image 2.6 合作节点的文生图、参考图与遮罩编辑。页面仅注明 2026 年 11 月更新，本条日期为核对日。",
+      "editorial_atlas_use": "ComfyUI 是工作流工具，GPT Image 是接入模型，两张角色档案分别挂在自己的来源上。",
+      "page_path": "docs/17-original-design-sheets-and-news-2026-11-19.md",
+      "section_anchor": "product-news"
     }
   ],
   "community_work_ids": [
@@ -569,7 +731,16 @@
     "BV16f4q6rEgV",
     "BV1Lg4J6HE2C",
     "BV17Usz6gEep",
-    "BV1uNWC6AE1p"
+    "BV1uNWC6AE1p",
+    "BV18bs86wECY",
+    "BV11GsK6REts",
+    "BV1NZsJ6aEEL",
+    "BV1DxWy6iEgT",
+    "BV1kZsm6KETG",
+    "BV1TyWr6oELu",
+    "BV1S4s86YEAm",
+    "BV1obs46eEGW",
+    "BV1QNsh6qEFS"
   ],
   "community_works": [
     {
@@ -760,6 +931,99 @@
       "review_scope": "timestamped_sampled_frames_and_creator_metadata",
       "page_path": "docs/16-news-and-character-search-2026-11-19.md",
       "section_anchor": "work-bv1unwc6ae1p"
+    },
+    {
+      "video_id": "BV18bs86wECY",
+      "source_id": "src-3bd77004ca",
+      "character_ids": [
+        "codex"
+      ],
+      "review_scope": "timestamped_sampled_frames_and_creator_metadata",
+      "page_path": "docs/17-original-design-sheets-and-news-2026-11-19.md",
+      "section_anchor": "work-bv18bs86wecy"
+    },
+    {
+      "video_id": "BV11GsK6REts",
+      "source_id": "src-09938762db",
+      "character_ids": [
+        "suno",
+        "midjourney"
+      ],
+      "review_scope": "timestamped_sampled_frames_and_creator_metadata",
+      "page_path": "docs/17-original-design-sheets-and-news-2026-11-19.md",
+      "section_anchor": "work-bv11gsk6rets"
+    },
+    {
+      "video_id": "BV1NZsJ6aEEL",
+      "source_id": "src-6ed7b5b440",
+      "character_ids": [
+        "yuanbao"
+      ],
+      "review_scope": "timestamped_sampled_frames_and_creator_metadata",
+      "page_path": "docs/17-original-design-sheets-and-news-2026-11-19.md",
+      "section_anchor": "work-bv1nzsj6aeel"
+    },
+    {
+      "video_id": "BV1DxWy6iEgT",
+      "source_id": "src-6dc4fc7e4b",
+      "character_ids": [
+        "yuanbao"
+      ],
+      "review_scope": "timestamped_sampled_frames_and_creator_metadata",
+      "page_path": "docs/17-original-design-sheets-and-news-2026-11-19.md",
+      "section_anchor": "work-bv1dxwy6iegt"
+    },
+    {
+      "video_id": "BV1kZsm6KETG",
+      "source_id": "src-32f6b0d3ea",
+      "character_ids": [
+        "qwen",
+        "wenxin"
+      ],
+      "review_scope": "timestamped_sampled_frames_and_creator_metadata",
+      "page_path": "docs/17-original-design-sheets-and-news-2026-11-19.md",
+      "section_anchor": "work-bv1kzsm6ketg"
+    },
+    {
+      "video_id": "BV1TyWr6oELu",
+      "source_id": "src-3168ee9dc7",
+      "character_ids": [
+        "wenxin"
+      ],
+      "review_scope": "timestamped_sampled_frames_and_creator_metadata",
+      "page_path": "docs/17-original-design-sheets-and-news-2026-11-19.md",
+      "section_anchor": "work-bv1tywr6oelu"
+    },
+    {
+      "video_id": "BV1S4s86YEAm",
+      "source_id": "src-5d7431b426",
+      "character_ids": [
+        "qwen"
+      ],
+      "review_scope": "timestamped_sampled_frames_and_creator_metadata",
+      "page_path": "docs/17-original-design-sheets-and-news-2026-11-19.md",
+      "section_anchor": "work-bv1s4s86yeam"
+    },
+    {
+      "video_id": "BV1obs46eEGW",
+      "source_id": "src-e2597b3345",
+      "character_ids": [
+        "deepseek",
+        "claude"
+      ],
+      "review_scope": "timestamped_sampled_frames_and_creator_metadata",
+      "page_path": "docs/17-original-design-sheets-and-news-2026-11-19.md",
+      "section_anchor": "work-bv1obs46eegw"
+    },
+    {
+      "video_id": "BV1QNsh6qEFS",
+      "source_id": "src-9257f22863",
+      "character_ids": [
+        "gpt"
+      ],
+      "review_scope": "timestamped_sampled_frames_and_creator_metadata",
+      "page_path": "docs/17-original-design-sheets-and-news-2026-11-19.md",
+      "section_anchor": "work-bv1qnsh6qefs"
     }
   ]
 }

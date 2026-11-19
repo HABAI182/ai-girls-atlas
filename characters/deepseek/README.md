@@ -218,3 +218,7 @@ An independent qimi variant of the existing DeepSeek whale-girl entry: a super-d
 运营号发布自己的鲸鱼娘连载名 **汐未央**，也在同一帧写出央央和小十九。[命名画面](https://www.bilibili.com/video/BV1uNWC6AE1p/?p=1&t=40)
 
 [DeepSeek 鲸鱼娘有了名字汐未央](../../docs/16-news-and-character-search-2026-11-19.md#work-bv1unwc6ae1p)
+
+## 11 月作品追更
+
+[鲸鱼娘与 Claude 的《美人鱼》](../../docs/17-original-design-sheets-and-news-2026-11-19.md#work-bv1obs46eegw)

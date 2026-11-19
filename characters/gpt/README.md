@@ -149,3 +149,7 @@ GPT-6.2 Astra 与 Sol见 [产品动态](../../docs/16-news-and-character-search-
 ## 11 月二创作品续补
 
 [GPT 小龙娘的一天](../../docs/16-news-and-character-search-2026-11-19.md#work-bv17usz6geep) · [MiMo 兔娘与 GPT 龙娘说相声](../../docs/16-news-and-character-search-2026-11-19.md#work-bv1lg4j6he2c)
+
+## 11 月作品追更
+
+[白龙娘的产品新闻台](../../docs/17-original-design-sheets-and-news-2026-11-19.md#work-bv1qnsh6qefs)

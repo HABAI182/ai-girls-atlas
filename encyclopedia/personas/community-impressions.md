@@ -8,6 +8,8 @@
 
 本轮新增千问记账与害羞、GLM 递水拆台、Grok 的欢迎打扰、Claude 的教堂训诫、MiMo 生态相声，以及鲸鱼娘连载角色名汐未央。 [原作与画面](../../docs/16-news-and-character-search-2026-11-19.md#community-works)
 
+另有 Suno 的女 DJ 版和文心娘的轮椅研究者版本。[作品位置](../../docs/17-original-design-sheets-and-news-2026-11-19.md#community-works)
+
 ## 先看这些区别
 
 | 角色 | 已收集的代表标签 |

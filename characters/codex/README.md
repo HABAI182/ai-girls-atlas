@@ -43,3 +43,7 @@
 - [Codex龙娘·居家版 独立版本记录](https://github.com/legeling/awesome-codex-pet/blob/022aea52f75841d31f57b7596479ebb425480a50/pets/codex-dragon-girl--orient37/submission.json) · `pinned_repository_text`
 
 返回[角色总览](../../README.md) · [新增资料评述](../../docs/09-more-sources.md) · [版本比较](../../docs/10-variant-guide.md)。
+
+## 11 月作品追更
+
+[Codex 龙娘桌宠的发型和瞳色选项](../../docs/17-original-design-sheets-and-news-2026-11-19.md#work-bv18bs86wecy) · [桌宠 v1.6.3 发布页](https://github.com/InhamiRei/Codex-DragonGirl/releases/tag/v1.6.3)
